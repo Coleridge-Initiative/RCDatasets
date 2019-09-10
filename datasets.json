@@ -3,7 +3,7 @@
     "access_requirements": "OnSite",
     "source_url": NaN,
     "data_classification": "Restricted",
-    "data_provider": "Deutsche Bundesbank, Statistics Department (S), Monetary and financial statistics (S 1), External positions of banks (S 12)",
+    "data_provider": "Deutsche Bundesbank",
     "data_steward": "Deutsche Bundesbank",
     "adrf_id": NaN,
     "geographical_coverage": "Worldwide",
@@ -83,7 +83,7 @@
     "access_requirements": "OnSite",
     "source_url": NaN,
     "data_classification": "Restricted",
-    "data_provider": "Deutsche Bundesbank, Statistics Department (S), General Economic Statistics (S3)",
+    "data_provider": "Deutsche Bundesbank",
     "data_steward": "Deutsche Bundesbank",
     "adrf_id": NaN,
     "geographical_coverage": "Germany",
@@ -123,7 +123,7 @@
     "access_requirements": "OnSite",
     "source_url": NaN,
     "data_classification": "Restricted",
-    "data_provider": "Deutsche Bundesbank, Statistics Department (S), Securities and Money Market Statistics Division",
+    "data_provider": "Deutsche Bundesbank",
     "data_steward": "Deutsche Bundesbank",
     "adrf_id": NaN,
     "geographical_coverage": "Reporting Agents: Germany,Safe Custody Accounts: Germany,Safe Custody Accounts of Domestic Reporting Agents\u2019 own Holdings: Worldwide,Securities: Worldwide",
@@ -163,7 +163,7 @@
     "access_requirements": "Delivery",
     "source_url": NaN,
     "data_classification": "Restricted",
-    "data_provider": "Schmidt, Tobias (Deutsche Bundesbank)",
+    "data_provider": "Deutsche Bundesbank",
     "data_steward": "Schmidt, Tobias (Deutsche Bundesbank)",
     "adrf_id": NaN,
     "geographical_coverage": NaN,
@@ -203,7 +203,7 @@
     "access_requirements": "OnSite",
     "source_url": NaN,
     "data_classification": "Restricted",
-    "data_provider": "Deutsche Bundesbank, Statistics Department (S), Securities and Money Market Statistics Division (S 5), Capital Markets Statistics (S 52)",
+    "data_provider": "Deutsche Bundesbank",
     "data_steward": "Deutsche Bundesbank",
     "adrf_id": NaN,
     "geographical_coverage": "Reporting Agents: Germany,Securities: Worldwide",
@@ -243,7 +243,7 @@
     "access_requirements": "OnSite",
     "source_url": NaN,
     "data_classification": "Restricted",
-    "data_provider": "Deutsche Bundesbank, Statistics Department (S), Securites and Money Market Statistics (S 5), Interest Rate and Money Market Statistics (S 51)",
+    "data_provider": "Deutsche Bundesbank",
     "data_steward": "Deutsche Bundesbank",
     "adrf_id": NaN,
     "geographical_coverage": NaN,
@@ -363,7 +363,7 @@
     "access_requirements": "OnSite",
     "source_url": NaN,
     "data_classification": "Restricted",
-    "data_provider": "Deutsche Bundesbank, Statistics Departement (S),Monetary and Financial Statistics (S 1), Monthly balance sheet statistics (S 10)",
+    "data_provider": "Deutsche Bundesbank",
     "data_steward": "Deutsche Bundesbank",
     "adrf_id": NaN,
     "geographical_coverage": "Germany",
@@ -403,7 +403,7 @@
     "access_requirements": "OnSite",
     "source_url": NaN,
     "data_classification": "Restricted",
-    "data_provider": "Deutsche Bundesbank, Statistics Department (S), Monetary and financial statistics (S 1), Cross-sectional tasks and secondary statistics (S 14), Secondary statistics (S 14-3)",
+    "data_provider": "Deutsche Bundesbank",
     "data_steward": "Deutsche Bundesbank",
     "adrf_id": NaN,
     "geographical_coverage": NaN,
@@ -443,7 +443,7 @@
     "access_requirements": "OnSite",
     "source_url": NaN,
     "data_classification": "Restricted",
-    "data_provider": "Deutsche Bundesbank, Statistik (S2, S22, S223)",
+    "data_provider": "Deutsche Bundesbank",
     "data_steward": "Deutsche Bundesbank",
     "adrf_id": NaN,
     "geographical_coverage": "German States,World (Countries)",
@@ -483,7 +483,7 @@
     "access_requirements": "OnSite",
     "source_url": NaN,
     "data_classification": "Restricted",
-    "data_provider": "Deutsche Bundesbank, Statistics Department (S), S21",
+    "data_provider": "Deutsche Bundesbank",
     "data_steward": "Deutsche Bundesbank",
     "adrf_id": NaN,
     "geographical_coverage": "Reporting Agents: Germany,Service Transactions: Worldwide",
@@ -523,7 +523,7 @@
     "access_requirements": "NotAvailable",
     "source_url": NaN,
     "data_classification": "Restricted",
-    "data_provider": "Deutsche Bundesbank, Statistics Department (S), Monetary and Financial Statistics (S 1)",
+    "data_provider": "Deutsche Bundesbank",
     "data_steward": "Deutsche Bundesbank",
     "adrf_id": NaN,
     "geographical_coverage": NaN,
@@ -3161,105 +3161,13 @@
     }
   },
   {
-    "title": "Statewide surveys of single-parent TANF recipients in CO from 2002",
+    "title": "Statewide surveys of single-parent TANF recipients",
     "data_provider": "Health and Human Services",
-    "geography": "CO",
-    "alias": [
-      "Statewide surveys of single-parent TANF recipients in Colorado from 2002"
-    ],
-    "dataset_id": "dataset-a606ea8d378acd95caf5",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-a606ea8d378acd95caf5",
-      "hashed_columns": [
-        "title",
-        "data_provider"
-      ],
-      "date_created": "2019-09-01"
-    }
+    "temporal_coverage_start": "2002",
+    "geographical_coverage": ["CO", "DC", "IL", "MD", "MO", "SC"],
+    "geographical_unit": "state"
   },
-  {
-    "title": "Statewide surveys of single-parent TANF recipients in DC from 2002",
-    "data_provider": "Health and Human Services",
-    "geography": "DC",
-    "alias": [
-      "Statewide surveys of single-parent TANF recipients in Washington D.C. from 2002"
-    ],
-    "dataset_id": "dataset-310c7b592941a7c1b321",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-310c7b592941a7c1b321",
-      "hashed_columns": [
-        "title",
-        "data_provider"
-      ],
-      "date_created": "2019-09-01"
-    }
-  },
-  {
-    "title": "Statewide surveys of single-parent TANF recipients in IL from 2002",
-    "data_provider": "Health and Human Services",
-    "geography": "IL",
-    "alias": [
-      "Statewide surveys of single-parent TANF recipients in Illinois from 2002"
-    ],
-    "dataset_id": "dataset-a3a4aa3b8469c539eacd",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-a3a4aa3b8469c539eacd",
-      "hashed_columns": [
-        "title",
-        "data_provider"
-      ],
-      "date_created": "2019-09-01"
-    }
-  },
-  {
-    "title": "Statewide surveys of single-parent TANF recipients in MD from 2002",
-    "data_provider": "Health and Human Services",
-    "geography": "MD",
-    "alias": [
-      "Statewide surveys of single-parent TANF recipients in Maryland from 2002"
-    ],
-    "dataset_id": "dataset-623d9ff0e91a26f05601",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-623d9ff0e91a26f05601",
-      "hashed_columns": [
-        "title",
-        "data_provider"
-      ],
-      "date_created": "2019-09-01"
-    }
-  },
-  {
-    "title": "Statewide surveys of single-parent TANF recipients in MO from 2002",
-    "data_provider": "Health and Human Services",
-    "geography": "MO",
-    "alias": [
-      "Statewide surveys of single-parent TANF recipients in Montana from 2002"
-    ],
-    "dataset_id": "dataset-43a76857c9ae658d7053",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-43a76857c9ae658d7053",
-      "hashed_columns": [
-        "title",
-        "data_provider"
-      ],
-      "date_created": "2019-09-01"
-    }
-  },
-  {
-    "title": "Statewide surveys of single-parent TANF recipients in SC from 2002",
-    "data_provider": "Health and Human Services",
-    "geography": "SC",
-    "alias": "Statewide surveys of single-parent TANF recipients in South Carolina from 2002",
-    "dataset_id": "dataset-2e73dcf3bb1ea41e0bd4",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-2e73dcf3bb1ea41e0bd4",
-      "hashed_columns": [
-        "title",
-        "data_provider"
-      ],
-      "date_created": "2019-09-01"
-    }
-  },
+  
   {
     "title": "Devolution and Urban Change",
     "data_provider": "MDRC",
