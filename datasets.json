@@ -2655,85 +2655,6 @@
     }
   },
   {
-    "title": "Program model information from NYC",
-    "geography": "NY",
-    "alias": [
-      "Program model information from New York City"
-    ],
-    "dataset_id": "dataset-b0b87685ee1f9f987533",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-b0b87685ee1f9f987533",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-09-01"
-    }
-  },
-  {
-    "title": "Program model information from Philadelphia",
-    "geography": "PA",
-    "dataset_id": "dataset-36a330ced0080d528431",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-36a330ced0080d528431",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-09-01"
-    }
-  },
-  {
-    "title": "Program model information from Hennepin County",
-    "geography": "MN",
-    "alias": [
-      "Program model information from Minneapolis",
-      "Program model information from Twin Cities"
-    ],
-    "dataset_id": "dataset-f79a30291485aa9e6ecb",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-f79a30291485aa9e6ecb",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-09-01"
-    }
-  },
-  {
-    "title": "Program model information from Nebraska",
-    "geography": "NE",
-    "dataset_id": "dataset-6905ebdfa3967f27a2c3",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-6905ebdfa3967f27a2c3",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-09-01"
-    }
-  },
-  {
-    "title": "Program model information from New Jersey",
-    "geography": "NJ",
-    "dataset_id": "dataset-b9f272903cd17a3ea153",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-b9f272903cd17a3ea153",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-09-01"
-    }
-  },
-  {
-    "title": "Program model information from Rhode Island",
-    "geography": "RI",
-    "dataset_id": "dataset-18b40bfb269dfbd09981",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-18b40bfb269dfbd09981",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-09-01"
-    }
-  },
-  {
     "title": "Temporary Assistance for Needy Families",
     "data_provider": "Health and Human Services",
     "geography": "PA",
@@ -2936,8 +2857,8 @@
     }
   },
   {
-    "title": "Exit survey",
-    "geography": "OH",
+    "title": "TANF Exit survey",
+    "data_provider":"Health and Human Services",
     "alias": [
       "Exit survey data"
     ],
@@ -3341,6 +3262,7 @@
   },
   {
     "title": "Devolution and Urban Change",
+    "data_provider": "MDRC",
     "geography": "FL",
     "dataset_id": "dataset-6f80f8ea96fd5734778e",
     "dataset_id_metadata": {
