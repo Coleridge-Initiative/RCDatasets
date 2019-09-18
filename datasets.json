@@ -227,5 +227,237 @@
         "doi": "doi:10.3886/ICPSR36622",
         "date": "2017-10-13",
         "description": "The Johns Hopkins University Prevention Research center - Risks for Transitions, Baltimore city, 2008-2011 study (JHU PRC Risks for Transition in Drug Use among Urban Adults) represents data collected for a 25 years follow-up from the original JHU PRC study."
+    },
+    {
+        "id": "dataset-023",
+        "provider": "U.S. Census Bureau",
+        "title": "Monthly Retail Trade Surveys",
+        "alt_title": [
+            "MARTS",
+            "MRTS",
+            "ARTS"
+        ],
+        "url": "https://www.census.gov/retail/index.html",
+        "description": "The Advance Monthly and Monthly Retail Trade Surveys (MARTS and MRTS), the Annual Retail Trade Survey (ARTS), and the Quarterly E-Commerce Report work together to produce the most comprehensive data available on retail economic activity in the United States."
+    },
+    {
+        "id": "dataset-024",
+        "provider":"Bureau of Labor Statistics",
+        "title": "Consumer Expenditure Surveys",
+        "alt_title": [
+            "CES"
+        ],
+        "url": "https://www.bls.gov/cex/",
+        "description": "The Consumer Expenditure Surveys (CE) program provides data on expenditures, income, and demographic characteristics of consumers in the United States. The CE program provides these data in tables, LABSTAT database, news releases, reports, and public use microdata files."
+    },
+    {
+        "id": "dataset-025",
+        "provider": "U.S. Department of Agriculture",
+        "title": "FoodAPS National Household Food Acquisition and Purchase Survey",
+        "alt_title": [
+            "FoodAPS"
+            ,"Food Acquisition and Purchase Survey"
+            ,"National Household Food Acquisition and Purchase Survey"
+        ],
+        "url": "https://www.ers.usda.gov/data-products/foodaps-national-household-food-acquisition-and-purchase-survey/",
+        "description": "USDA's National Household Food Acquisition and Purchase Survey (FoodAPS) is the first nationally representative survey of American households to collect unique and comprehensive data about household food purchases and acquisitions."
+    },
+    {
+        "id": "dataset-026",
+        "provider": "U.S. Department of Agriculture",
+        "title": "Supplemental Nutrition Assistance Program",
+        "alt_title": [
+            "SNAP"
+        ],
+        "url": "https://data.nal.usda.gov/dataset/supplemental-nutrition-assistance-program-snap-data-system",
+        "description": "The Supplemental Nutrition Assistance Program (SNAP) Data System provides time-series data on State and county-level estimates of SNAP participation and benefit levels, combined with area estimates of total population and the number of persons in poverty."
+    },
+    {
+        "id": "dataset-027",
+        "provider": "U.S. Census Bureau",
+        "title": "Survey of Income and Program Participation",
+        "alt_title": [
+            "SIPP"
+        ],
+        "url": "https://www.census.gov/sipp/",
+        "description": "SIPP is the premier source of information for income and program participation. SIPP collects data and measures change for many topics including: economic well-being, family dynamics, education, assets, health insurance, childcare, and food security."
+    },
+    {
+        "id": "dataset-028",
+        "provider": "U.S. Department of Agriculture",
+        "title": "Nielsen TDLinx",
+        "alt_title": [
+            "TDLinx"
+        ],
+        "url": "https://data.nal.usda.gov/dataset/nielsen-tdlinx",
+        "description": "This database contains information on individual store characteristics for supermarkets, supercenters, superettes, convenience stores and grocery kiosks."
+    },
+    {
+        "id": "dataset-029",
+        "provider": "U.S. Department of Agriculture",
+        "title": "NPD ReCount",
+        "alt_title": [
+            "ReCount"
+        ],
+        "description": "This database contains information on individual store characteristics for supermarkets, supercenters, superettes, convenience stores and grocery kiosks."
+    },   
+    {
+        "id": "dataset-030",
+        "provider": "U.S. Department of Agriculture",
+        "title": "National Establishment Time Series",
+        "alt_title": [
+            "NETS"
+        ],
+        "description": "The National Establishment Time Series (NETS) is a private sector source of U.S. business microdata."
+    },
+    {
+        "id": "dataset-031",
+        "provider": "U.S. Department of Agriculture",
+        "title": "Nielsen Homescan",
+        "url": "https://catalog.data.gov/dataset/nielsen-homescan",
+        "description": "Contains information on household based purchases for about 400,000 UPC’s and non-UPC coded random weight items, including prices, quantities, purchase date, product attributes, store name, store format, and zip code."
+    },
+    {
+        "id": "dataset-032",
+        "provider": "U.S. Department of Agriculture",
+        "title": "Food and Nutrition Service Program Data",
+        "alt_title": [
+            "Food and Nutrition Service Data",
+            "FNS"
+        ],
+        "url": "https://www.fns.usda.gov/pd/overview",
+        "description": "The Program Data site provides selected statistical information on activity in all major Food and Nutrition Service Programs (FNS). These include the Supplemental Nutrition Assistance Program (SNAP); the Special Supplemental Nutrition Program for Women, Infants and Children (WIC); child nutrition programs (National School Lunch, School Breakfast, Child and Adult Care, Summer Food Service and Special Milk); and food distribution programs (Schools, Emergency Food Assistance, Indian Reservations, Commodity Supplemental, Nutrition for the Elderly, and Charitable Institutions)."
+    },
+    {
+        "id": "dataset-033",
+        "provider": "U.S. Department of Agriculture",
+        "title": "Current Population Survey Food Security Supplement",
+        "alt_title": [
+           "CPS-FSS",
+           "CPS",
+           "FSS"
+        ],
+        "url": "https://www.ers.usda.gov/data-products/food-security-in-the-united-states/documentation.aspx#cps",
+        "description": "The Current Population Survey Food Security Supplement (CPS-FSS) is the source of national and State-level statistics on food insecurity used in USDA's annual reports on household food security."
+    },
+    {
+        "id": "dataset-034",
+        "provider": "U.S. Department of Agriculture",
+        "title": "Cost Estimates of Foodborne Illnesses",
+        "alt_title": [
+           "Cost Est. Foodborne Illnesses"
+        ],
+        "url": "https://www.ers.usda.gov/data-products/cost-estimates-of-foodborne-illnesses",
+        "description": "The Cost Estimates of Foodborne Illnesses data product provides detailed data about the costs of major foodborne illnesses in the United States, updating and extending previous ERS research."
+    },
+    {
+        "id": "dataset-035",
+        "provider": "U.S. Department of Agriculture",
+        "title": "Food Access Research Atlas",
+        "alt_title": [
+           "FARA"
+        ],
+        "url": "https://www.ers.usda.gov/data-products/food-access-research-atlas",
+        "description": "The FARA presents a spatial overview of food access indicators for low-income and other census tracts using different measures of supermarket accessibility; Provides food access data for populations within census tracts; and Offers census-tract-level data on food access that can be downloaded for community planning or research purposes."
+    },
+    {
+        "id": "dataset-036",
+        "provider": "U.S. Department of Agriculture",
+        "title": "Food Availability Data System - Loss-adjusted food availability",
+        "alt_title": [
+           "Food Availability (Per Capita) Data System",
+           "Loss-adjusted food availability",
+           "FADS-LAFA",
+           "FADS"
+        ],
+        "url": "https://www.ers.usda.gov/data-products/food-availability-per-capita-data-system",
+        "description": "The ERS Food Availability (Per Capita) Data System (FADS) includes three distinct but related data series on food and nutrient availability for consumption: food availability data, loss-adjusted food availability data, and nutrient availability data."
+    },    
+    {
+        "id": "dataset-037",
+        "provider": "U.S. Department of Agriculture",
+        "title": "Food Intakes Converted to Retail Commodities Databases",
+        "alt_title": [
+           "FICRCD"
+        ],
+        "url": "https://data.nal.usda.gov/dataset/food-intakes-converted-retail-commodities-databases-ficrcd",
+        "description": "Food Intakes Converted to Retail Commodities Databases (FICRCD) provide data for foods consumed in the United States national dietary intake surveys at the retail commodity level."
+    },
+    {
+        "id": "dataset-038",
+        "provider": "U.S. Department of Agriculture",
+        "title": "Continuing Surveys of Food Intakes by Individuals",
+        "alt_title": [
+           "CSFII"
+        ],
+        "url": "https://www.ars.usda.gov/northeast-area/beltsville-md-bhnrc/beltsville-human-nutrition-research-center/food-surveys-research-group/docs/past-surveys/",
+        "description": "The CSFII is a nationwide survey conducted by USDA’s Agricultural Research Service that provides the food intakes of 20,607 individuals of all ages on two nonconsecutive days. Data collection in 1994 to 1996 included individuals of all ages. The supplemental survey conducted in 1998 included children from birth to 9 years of age."
+    },
+
+    {
+        "id": "dataset-039",
+        "provider": "U.S. Food and Drug Administration",
+        "title": "Operational and Administrative System for Import Support",
+        "alt_title": [
+           "OASIS",
+           "Import Refusal Report"
+
+        ],
+        "url": "https://www.accessdata.fda.gov/scripts/ora/pcb/index.cfm?action=tutorial.les2_oasis#oasis",
+        "description": "The Operational and Administrative System for Import Support, known as OASIS, is an automated FDA system for processing and making admissibility determinations for shipments of foreign-origin FDA-regulated products seeking to enter domestic commerce."
+    },
+    {
+        "id": "dataset-040",
+        "provider": "U.S. Department of Agriculture",
+        "title": "Agricultural Marketing Service Program Data",
+        "alt_title": [
+            "AMS"
+        ],
+        "url": "https://www.ams.usda.gov/resources-terms/datasets"
+    }, 
+    {
+        "id": "dataset-041",
+        "provider": "U.S. Department of Agriculture",
+        "title": "Food Safety and Inpection Service Program Data",
+        "alt_title": [
+            "FSIS"
+        ],
+        "url": "https://www.fsis.usda.gov/wps/portal/fsis/home"
+    },
+    {
+        "id": "dataset-042",
+        "provider": "U.S. Department of Agriculture",
+        "title": "School Food Authority Characteristics Study",
+        "alt_title": [
+            "SFACS"
+        ],
+        "url": "https://www.fsis.usda.gov/wps/portal/fsis/home",
+        "description": "Data were obtained from the School Food Authority Characteristics Study (SFACS), a nationally representative survey of public SFAs that was stratified to allow estimates by region and urbanicity. The survey was administered by USDA’s Food and Nutrition Service."
+    },
+    {
+        "id": "dataset-043",
+        "provider": "U.S. Department of Agriculture",
+        "title": "School Nutrition Dietary Assessment Study",
+        "alt_title": [
+            "SNDA",
+            "SNDA-I",
+            "SNDA-II",
+            "SNDA-III",
+            "SNDA-IV"
+        ],
+        "url": "https://www.fns.usda.gov/school-nutrition-dietary-assessment-study-iii",
+        "description": "Data were obtained from the School Food Authority Characteristics Study (SFACS), a nationally representative survey of public SFAs that was stratified to allow estimates by region and urbanicity. The survey was administered by USDA’s Food and Nutrition Service."
+    },
+    {
+        "id": "dataset-044",
+        "provider": "U.S. Department of Agriculture",
+        "title": "Quarterly Food-at-Home Price Database",
+        "alt_title": [
+            "QFAHPD",
+            "Qtrly FAFH"
+        ],
+        "url": "https://www.ers.usda.gov/data-products/quarterly-food-at-home-price-database",
+        "description": "The Quarterly Food-at-Home Price Database (QFAHPD) provides food price data to support research on the economic determinants of food consumption, diet quality, and health outcomes."
     }
 ]
+    
