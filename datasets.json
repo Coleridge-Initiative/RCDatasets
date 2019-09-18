@@ -330,7 +330,7 @@
     },
     {
         "id": "dataset-033",
-        "provider": "U.S. Department of Agriculture",
+        "provider": "U.S. Census Bureau",
         "title": "Current Population Survey Food Security Supplement",
         "alt_title": [
            "CPS-FSS",
@@ -400,7 +400,8 @@
         "title": "Operational and Administrative System for Import Support",
         "alt_title": [
            "OASIS",
-           "Import Refusal Report"
+           "Import Refusal Report",
+           "FDA data"
 
         ],
         "url": "https://www.accessdata.fda.gov/scripts/ora/pcb/index.cfm?action=tutorial.les2_oasis#oasis",
@@ -458,6 +459,38 @@
         ],
         "url": "https://www.ers.usda.gov/data-products/quarterly-food-at-home-price-database",
         "description": "The Quarterly Food-at-Home Price Database (QFAHPD) provides food price data to support research on the economic determinants of food consumption, diet quality, and health outcomes."
+    },
+    {
+        "id": "dataset-045",
+        "provider": "U.S. Food and Drug Administration",
+        "title": "Enforcement Reports",
+        "alt_title": [
+            "FDA Recall Enterprise System"
+        ],
+        "url": "https://open.fda.gov/apis/food/enforcement/"
+    },
+    {
+        "id": "dataset-046",
+        "provider":"U.S. Census Bureau",
+        "title": "American Community Survey",
+        "alt_title": [
+            "ACS"
+        ],
+        "url": "https://www.census.gov/programs-surveys/acs",
+        "description": "The American Community Survey (ACS) helps local officials, community leaders, and businesses understand the changes taking place in their communities."
+    },
+    {
+        "id": "dataset-047",
+        "provider": "U.S. Census Bureau",
+        "title": "Current Population Survey Annual Social and Economic Supplement",
+        "alt_title": [
+           "CPS-ASEC",
+           "CPS",
+           "ASEC"
+        ],
+        "url": "https://www.ers.usda.gov/data-products/food-security-in-the-united-states/documentation.aspx#cps",
+        "description": "The Current Population Survey Food Security Supplement (CPS-FSS) is the source of national and State-level statistics on food insecurity used in USDA's annual reports on household food security."
     }
+    
 ]
     
