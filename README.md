@@ -36,9 +36,11 @@ required fields:
 For the names, use what the data provider shows on their web page and
 try to be as consise as possible.
 
+When adding records:
 
-When adding records, make sure not to introduce multiple names for the
-same publisher.
+  - add to the bottom of the file
+  - increment the `id` number manually
+  - make sure not to introduce multiple names for the same publisher
 
 Other fields that may be included:
 
@@ -48,4 +50,3 @@ Other fields that may be included:
   * `alt_ids` -- other unique identifiers (alternative DOIs, etc.)
   * `description` -- a brief (tweet sized) text description of the dataset
   * `date` -- date of publication, which may help resolve conflicting identifiers
-
