@@ -40,7 +40,7 @@ When adding records:
 
   - add to the bottom of the file
   - increment the `id` number manually
-  - make sure not to introduce multiple names for the same publisher
+  - make sure not to introduce multiple names for the same provider
 
 Other fields that may be included:
 
