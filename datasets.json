@@ -529,6 +529,29 @@
            "NHIS"
         ],
         "url": "https://www.cdc.gov/nchs/nhis/about_nhis.htm",
+        "description": "The Family Food Security (FFS) section, sponsored by the United States Department of Agriculture (USDA), consists of 10 questions addressing adult 30-day food security. The purpose of the questions is to examine the relationship between health and food insecurity."
+    },
+    {
+        "id": "dataset-051",
+        "provider": "U.S. Department of Agriculture",
+        "title": "Eating and Health Module",
+        "alt_title": [
+           "EHM",
+           "Eating & Health Module",
+           "Eating and Health Module to the American Time Use Survey",
+           
+        ],
+        "url": "https://www.ers.usda.gov/data-products/eating-and-health-module-atus/",
+        "description": "USDA’s Economic Research Service, along with its funding and technical assistance cosponsors—the Food and Nutrition Service (FNS) and the National Cancer Institute (NCI)—worked with the Bureau of Labor Statistics (BLS) and the Census Bureau to collect data for the 2014-16 Eating & Health Module (EH Module), a supplement to the American Time Use Survey (ATUS)."
+    },
+    {
+        "id": "dataset-052",
+        "provider": "Bureau of Labor Statistics",
+        "title": "American Time Use Survey",
+        "alt_title": [
+           "ATUS"
+        ],
+        "url": "https://www.bls.gov/tus/",
         "description": " The Family Food Security (FFS) section, sponsored by the United States Department of Agriculture (USDA), consists of 10 questions addressing adult 30-day food security. The purpose of the questions is to examine the relationship between health and food insecurity."
     }
     
