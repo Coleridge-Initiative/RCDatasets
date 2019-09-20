@@ -3,12 +3,19 @@
         "id": "dataset-001",
         "provider": "IRI",
         "title": "IRI Infoscan",
+        "alt_title": [
+            "retail scanner data"
+        ],
         "url": "https://www.iriworldwide.com/en-US/Solutions/Retail"
     },
     {
         "id": "dataset-002",
         "provider": "IRI",
         "title": "IRI Consumer Network",
+        "alt_title": [
+            "Consumer Network",
+            "household scanner data"
+        ],
         "url": "https://www.iriworldwide.com/en-US/Solutions/Media/Media-Solutions/Consumer"
     },
     {
@@ -490,7 +497,39 @@
         ],
         "url": "https://www.ers.usda.gov/data-products/food-security-in-the-united-states/documentation.aspx#cps",
         "description": "The Current Population Survey Food Security Supplement (CPS-FSS) is the source of national and State-level statistics on food insecurity used in USDA's annual reports on household food security."
+    },
+    {
+        "id": "dataset-048",
+        "provider": "U.S. Department of Agriculture",
+        "title": "Food Security Questionnaire",
+        "alt_title": [
+           "NHANES-FSQ",
+           "FSQ",
+           "CPS-FSQ"
+        ],
+        "url": "https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/FSQ_H.htm",
+        "description": "The Current Population Survey Food Security Supplement (CPS-FSS) is the source of national and State-level statistics on food insecurity used in USDA's annual reports on household food security."
+    },
+    {
+        "id": "dataset-049",
+        "provider": "U.S. Department of Agriculture",
+        "title": "Food Security Survey Module",
+        "alt_title": [
+           "FSSM"
+        ],
+        "url": "https://www.ers.usda.gov/media/8279/ad2012.pdf",
+        "description": "https://www.ers.usda.gov/topics/food-nutrition-assistance/food-security-in-the-us/survey-tools.aspx#household."
+    },
+    {
+        "id": "dataset-050",
+        "provider":"Centers for Disease Control and Prevention",
+        "title": "National Health Interview Survey Family Food Security Supplement",
+        "alt_title": [
+           "NHIS-FFS",
+           "NHIS"
+        ],
+        "url": "https://www.cdc.gov/nchs/nhis/about_nhis.htm",
+        "description": " The Family Food Security (FFS) section, sponsored by the United States Department of Agriculture (USDA), consists of 10 questions addressing adult 30-day food security. The purpose of the questions is to examine the relationship between health and food insecurity."
     }
     
 ]
-    
