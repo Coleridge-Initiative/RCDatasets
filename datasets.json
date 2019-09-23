@@ -459,10 +459,13 @@
     {
         "id": "dataset-044",
         "provider": "U.S. Department of Agriculture",
-        "title": "Quarterly Food-at-Home Price Database",
+        "title": "Quarterly Food at Home Prices",
         "alt_title": [
             "QFAHPD",
-            "Qtrly FAFH"
+            "QFAFHP",
+            "FAH",
+            "Quarterly Food at Home Prices Database",
+            "Quarterly Food-at-Home Price Database"
         ],
         "url": "https://www.ers.usda.gov/data-products/quarterly-food-at-home-price-database",
         "description": "The Quarterly Food-at-Home Price Database (QFAHPD) provides food price data to support research on the economic determinants of food consumption, diet quality, and health outcomes."
@@ -552,7 +555,93 @@
            "ATUS"
         ],
         "url": "https://www.bls.gov/tus/",
-        "description": " The Family Food Security (FFS) section, sponsored by the United States Department of Agriculture (USDA), consists of 10 questions addressing adult 30-day food security. The purpose of the questions is to examine the relationship between health and food insecurity."
+        "description": "The Family Food Security (FFS) section, sponsored by the United States Department of Agriculture (USDA), consists of 10 questions addressing adult 30-day food security. The purpose of the questions is to examine the relationship between health and food insecurity."
+    },
+    {
+        "id": "dataset-053",
+        "provider": "U.S. Department of Agriculture",
+        "title": "Food Composition Databases",
+        "alt_title": [
+            "USDA National Nutrient Database",
+            "USDA Branded Food Products Database"
+        ],
+        "url": "https://ndb.nal.usda.gov/ndb/",
+        "description": "All of these datasets—including the Food and Nutrient Database for Dietary Studies (FNDDS), SR Legacy, and the USDA Branded Food Products Database—have been transitioned to FoodData Central which also includes expanded nutrient content information never before available as well as links to diverse data sources that offer related agricultural, food, health, dietary supplement, and other information."
+    },
+    {
+        "id": "dataset-054",
+        "provider": "U.S. Department of Agriculture",
+        "title": "Food Expenditure Series",
+        "url": "https://www.ers.usda.gov/data-products/food-expenditure-series/",
+        "description": "The ERS Food Expenditure Series is a comprehensive data set that measures the U.S. food system, quantifying the value of food acquired in the United States by type of product, outlet, and purchaser."
+    },
+    {
+        "id": "dataset-055",
+        "provider": "U.S. Department of Agriculture",
+        "title": "Quarterly Food-Away-From-Home Prices",
+        "alt_title": [
+            "FAFH",
+            "Qtrly FAFH",
+            "QFAFHP",
+            "FAFH",
+            "Quarterly Food Away From Home Prices Database",
+            "Quarterly Food Away From Home Database"
+        ],
+        "url": "https://www.ers.usda.gov/data-products/quarterly-food-away-from-home-prices/",
+        "description": "The Quarterly Food-Away-From-Home Prices (QFAFHP) data set provides quarterly prices (not including taxes) for food away from home (FAFH) and alcohol, both at home and away from home."
+    },
+    {
+        "id": "dataset-056",
+        "provider": "U.S. Department of Agriculture",
+        "title": "The Special Nutrition Program Operations Study",
+        "alt_title": [
+            "SNOPS",
+            "SNOPS-I"
+        ],
+        "url": "https://www.fns.usda.gov/special-nutrition-program-operations-study-school-year-2013-14",
+        "description": "The Special Nutrition Program Operations Study is a multiyear study designed to provide the Food and Nutrition Service with a snapshot of current State and School Food Authority policies and practices of the school meal programs, including information on school meal standards, competitive foods standards, professional standards, school lunch pricing and accounting, and Smarter Lunchrooms activities."
+    },
+    {
+        "id": "dataset-057",
+        "provider": "U.S. Department of Agriculture",
+        "title": "The Healthy Eating Index",
+        "alt_title": [
+            "HEI"
+        ],
+        "url": "https://www.fns.usda.gov/resource/healthy-eating-index-hei",
+        "description": "The Healthy Eating Index (HEI) is a measure of diet quality used to assess how well a set of foods aligns with key recommendations of the Dietary Guidelines for Americans."
     }
-    
+    ,
+    {
+        "id": "dataset-058",
+        "provider": "Bureau of Labor Statistics",
+        "title": "Consumer Price Index",
+        "alt_title": [
+            "HEI"
+        ],
+        "url": "https://www.bls.gov/cpi/",
+        "description": "The Consumer Price Index (CPI) is a measure of the average change over time in the prices paid by urban consumers for a market basket of consumer goods and services."
+    },
+    {
+        "id": "dataset-059",
+        "provider": "U.S. Department of Agriculture",
+        "title": "Food Environment Data System",
+        "alt_title": [
+            "FEDS"
+        ],
+        "url": "https://faculty.cnr.ncsu.edu/yuanyao/wp-content/uploads/sites/14/2018/09/An-Overview-of-FEDS-The-Food-Environment-Data-System.pdf"
+    },
+    {
+        "id": "dataset-060",
+        "provider": "U.S. Department of Agriculture",
+        "title": "Store Tracking and Redemption System",
+        "alt_title": [
+            "STARS"
+        ],
+        "url": "https://www.usda.gov/sites/default/files/documents/fns-store-tracking-redemption-system-stars-pia.pdf"
+    }
 ]
+
+
+
+
