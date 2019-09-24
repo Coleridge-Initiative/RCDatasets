@@ -341,6 +341,7 @@
         "title": "Current Population Survey Food Security Supplement",
         "alt_title": [
            "CPS-FSS",
+           "CPS",
            "FSS"
         ],
         "url": "https://www.ers.usda.gov/data-products/food-security-in-the-united-states/documentation.aspx#cps",
@@ -458,10 +459,13 @@
     {
         "id": "dataset-044",
         "provider": "U.S. Department of Agriculture",
-        "title": "Quarterly Food-at-Home Price Database",
+        "title": "Quarterly Food at Home Prices",
         "alt_title": [
             "QFAHPD",
-            "Qtrly FAFH"
+            "QFAFHP",
+            "FAH",
+            "Quarterly Food at Home Prices Database",
+            "Quarterly Food-at-Home Price Database"
         ],
         "url": "https://www.ers.usda.gov/data-products/quarterly-food-at-home-price-database",
         "description": "The Quarterly Food-at-Home Price Database (QFAHPD) provides food price data to support research on the economic determinants of food consumption, diet quality, and health outcomes."
@@ -528,419 +532,523 @@
            "NHIS"
         ],
         "url": "https://www.cdc.gov/nchs/nhis/about_nhis.htm",
-        "description": " The Family Food Security (FFS) section, sponsored by the United States Department of Agriculture (USDA), consists of 10 questions addressing adult 30-day food security. The purpose of the questions is to examine the relationship between health and food insecurity."
+        "description": "The Family Food Security (FFS) section, sponsored by the United States Department of Agriculture (USDA), consists of 10 questions addressing adult 30-day food security. The purpose of the questions is to examine the relationship between health and food insecurity."
     },
     {
-        "id": "dataset-061",
-        "provider":"Intitute for Research on Poverty at the University of Wisconsin–Madison",
-        "title": "Multi-Sample Person File",
+        "id": "dataset-051",
+        "provider": "U.S. Department of Agriculture",
+        "title": "Eating and Health Module",
         "alt_title": [
-           "MSPF",
-           "Wisconsin Multi-Sample Person File"
+           "EHM",
+           "Eating & Health Module",
+           "Eating and Health Module to the American Time Use Survey"
         ],
-        "url": "https://www.irp.wisc.edu/wp/wp-content/uploads/2018/09/TechnicalReport_MSPFlessons2014_2.pdf",
-        "description": "The MSPF was created by drawing on information extracts from the full universe of clients or participants in the State of Wisconsin’s electronically available administrative data on public assistance, child support, child welfare, unemployment benefits, and incarceration, and merging them to create a single file of unique individuals."
+        "url": "https://www.ers.usda.gov/data-products/eating-and-health-module-atus/",
+        "description": "USDA’s Economic Research Service, along with its funding and technical assistance cosponsors—the Food and Nutrition Service (FNS) and the National Cancer Institute (NCI)—worked with the Bureau of Labor Statistics (BLS) and the Census Bureau to collect data for the 2014-16 Eating & Health Module (EH Module), a supplement to the American Time Use Survey (ATUS)."
     },
     {
-        "id": "dataset-062",
-        "provider": "U.S. Census Bureau",
-        "title": "Current Population Survey",
-        "alt_title": [
-           "CPS"
-        ],
-        "url": "https://www.census.gov/programs-surveys/cps/data-detail.html",
-        "description": "The Current Population Survey (CPS), sponsored jointly by the U.S. Census Bureau and the U.S. Bureau of Labor Statistics (BLS), is the primary source of labor force statistics for the population of the United States."
-    },
-    {
-        "id": "dataset-063",
-        "provider": "State of Wisconsin Department of Workforce Development",
-        "title": "Wisconsin Unemployment Insurance",
-        "alt_title": [
-           "UI",
-           "Wisconsin UI",
-           "Wisconsin Unemployment Insurance"
-        ],
-        "url": "https://dwd.wisconsin.gov/uistats/",
-        "description": "The UI Data Summary is produced quarterly from state-reported data contained in the Unemployment Insurance Data Base (UIDB) as well as UI-related data from outside sources (e.g., Bureau of Labor Statistics data on employment and unemployment and U.S. Department of Treasury data on state UI trust fund activities)."
-    },
-    {
-        "id": "dataset-064",
-        "provider": "Social Security Administration",
-        "title": "Supplemental Security Income",
-        "alt_title": [
-           "Supplemental Security Income program",
-           "SSI",
-        ],
-        "url": "https://www.ssa.gov/policy/docs/data/ssi-2010/SSI-2010-User-Manual.pdf",
-        "description": "The Supplemental Security Income (SSI) program is a nationwide federal assistance program administered by the Social Security Administration (SSA) that guarantees a minimum level of income for needy aged, blind, or disabled individuals."
-    },
-    {
-        "id": "dataset-065",
-        "provider": "Wisconsin Department of Children and Families",
-        "title": "Wisconsin Temporary Assistance to Needy Families",
-        "alt_title": [
-           "TANF",
-           "Wisconsin TANF",
-           "Temporary Assistance to Needy Families",
-           "Aid to Dependent Families with Children",
-           "Wisconsin Aid to Dependent Families with Children",
-           "Wisconsin AFDC",
-           "AFDC"
-        ],
-        "url": "https://dcf.wisconsin.gov/w2/researchers/annual-reports",
-        "description": "Wisconsin provides several types of Temporary Assistance for Needy Families (TANF) programs, including the Wisconsin Works (W-2) program, in addition to programs which are partially or wholly funded through State funds."
-    },
-    {
-        "id": "dataset-066",
-        "provider": "Wisconsin Department of Corrections",
-        "title": "Wisconsin Department of Corrections",
-        "alt_title": [
-           "DOC",
-           "Wisconsin DOC",
-           "Department of Corrections"
-        ],
-        "url": "https://doc.wi.gov/Pages/DataResearch/DataAndReports.aspx",
-        "description": "The dataset includes adult prison statistics, community supervision statistics, data on youthful offenders, staff assault and injury reports, and recidivism and reincarceration rates."
-    },
-    {
-        "id": "dataset-067",
-        "provider": "Wisconsin Department of Public Instruction",
-        "title": "Department of Public Instruction",
-        "alt_title": [
-           "DPI",
-           "Wisconsin Department of Public Instruction",
-           "Department of Corrections"
-        ],
-        "url": "https://dpi.wi.gov/families-students/data",
-        "description": "The Wisconsin Department of Public Instruction, headquartered in Madison, is the state education and public library management agency in the state of Wisconsin."
-    },
-    {
-        "id": "dataset-068",
-        "provider": "National Student Clearinghouse Research Center",
-        "title": "College Enrollment",
-        "url": "https://nscresearchcenter.org/workingwithourdata/",
-        "description": "Thousands of high schools currently use StudentTracker® reports from the Research Center to measure how many of their graduates go on to college, where they attend, and how many persist to graduation. The reports were designed to help schools to measure their success in preparing students for college, and to evaluate the effectiveness of college access programs and curricula."
-    },
-    {
-        "id": "dataset-069",
-        "provider": "Minnesota Population Center",
-        "title": "Integrated Public Use Microdata Series",
-        "alt_title": [
-          "IPUMS"
-        ],
-        "url": "https://usa.ipums.org/usa/",
-        "description": "IPUMS USA collects, preserves and harmonizes U.S. census microdata and provides easy access to this data with enhanced documentation. Data includes decennial censuses from 1790 to 2010 and American Community Surveys (ACS) from 2000 to the present."
-    },
-    {
-        "id": "dataset-070",
-        "provider": "Social Security Administration",
-        "title": "Old-Age, Survivors, and Disability Insurance",
-        "alt_title": [
-          "OASDI"
-        ],
-        "url": "https://www.ssa.gov/policy/docs/quickfacts/prog_highlights/RatesLimits2019.html",
-        "description": "Yearly data for Social Security beneficiary population - people receiving Old-Age, Survivors, and Disability Insurance (OASDI) benefits by state."
-    },
-    {
-        "id": "dataset-071",
-        "provider": "Department of Health and Human Services",
-        "title": "Temporary Assistance for Needy Families",
-        "alt_title": [
-          "TANF"
-        ],
-        "url": "https://www.acf.hhs.gov/ofa/programs/tanf/data-reports",
-        "description": "TANF administrative records from the Department of Health and Human Services (HHS), which collects them from various state agencies. States have the option to submit either sample or universe data to HHS, and 30 states submitted universe data."
-    },
-    {
-        "id": "dataset-072",
-        "provider": "Department of Housing and Urban Development",
-        "title": "Public and Indian Housing Information Center",
-        "alt_title": [
-          "Public and Indian Housing",
-          "PIC"
-        ],
-        "url": "https://www.hud.gov/program_offices/public_indian_housing",
-        "description": "The role of the Office of Public and Indian Housing is to ensure safe, decent, and affordable housing; create opportunities for residents' self-sufficiency and economic independence; and assure fiscal integrity by all program participants."
-    },
-    {
-        "id": "dataset-073",
-        "provider": "Department of Housing and Urban Development",
-        "title": "Tenant Rental Assistance Certification System",
-        "alt_title": [
-          "TRACS"
-        ],
-        "url": "https://www.hud.gov/program_offices/housing/mfh/trx/trxsum",
-        "description": "TRACS is a HUD computer system developed to help improve financial controls over assisted housing programs by automating manual procedures and incorporating automated controls."
-    },
-    {
-        "id": "dataset-074",
-        "provider": "Internal Revenue Service",
-        "title": "IRS 1040 Forms",
-        "alt_title": [
-          "Census Bureau extracts of IRS 1040 Forms",
-          "Internal Revenue Service 1040 Forms",
-          "Census Bureau extracts of Internal Revenue Service 1040 Forms"
-        ],
-        "url": "https://www.irs.gov/privacy-disclosure/information-returns-processing",
-        "description": "Form 1040 is used by U.S. taxpayers to file an annual income tax return."
-    },
-    {
-        "id": "dataset-075",
+        "id": "dataset-052",
         "provider": "Bureau of Labor Statistics",
-        "title": "State of Michigan Unemployment Insurance",
+        "title": "American Time Use Survey",
         "alt_title": [
-           "UI",
-           "Michigan UI",
-           "Michigan Unemployment Insurance"
+           "ATUS"
         ],
-        "url": "https://www.bls.gov/eag/eag.mi.htm",
-        "description": "UI-related data from the Bureau of Labor Statistics data on employment and unemployment."
+        "url": "https://www.bls.gov/tus/",
+        "description": "The Family Food Security (FFS) section, sponsored by the United States Department of Agriculture (USDA), consists of 10 questions addressing adult 30-day food security. The purpose of the questions is to examine the relationship between health and food insecurity."
     },
     {
-        "id": "dataset-076",
-        "provider": "Michigan Works!",
-        "title": "Detroit Work First",
+        "id": "dataset-053",
+        "provider": "U.S. Department of Agriculture",
+        "title": "Food Composition Databases",
         "alt_title": [
-           "Detroit Works!",
-           "Michigan Work First"
+            "USDA National Nutrient Database",
+            "USDA Branded Food Products Database"
         ],
-        "url": "https://detroitatwork.com/",
-        "description": "The Michigan Works! Association is a non-profit membership organization that supports the state's talent development system: Michigan Works!. "
+        "url": "https://ndb.nal.usda.gov/ndb/",
+        "description": "All of these datasets—including the Food and Nutrient Database for Dietary Studies (FNDDS), SR Legacy, and the USDA Branded Food Products Database—have been transitioned to FoodData Central which also includes expanded nutrient content information never before available as well as links to diverse data sources that offer related agricultural, food, health, dietary supplement, and other information."
     },
     {
-        "id": "dataset-077",
-        "provider": "Washington State Department of Social and Health Services",
-        "title": "Washington Temporary Assistance to Needy Families",
-        "alt_title": [
-           "TANF",
-           "Washington TANF",
-           "Temporary Assistance to Needy Families",
-           "Aid to Dependent Families with Children",
-           "Washington Aid to Dependent Families with Children",
-           "Washington AFDC",
-           "AFDC"
-        ],
-        "url": "https://www.dshs.wa.gov/",
-        "description": "Temporary Assistance for Needy Families (TANF) provides temporary cash for families in need."
+        "id": "dataset-054",
+        "provider": "U.S. Department of Agriculture",
+        "title": "Food Expenditure Series",
+        "url": "https://www.ers.usda.gov/data-products/food-expenditure-series/",
+        "description": "The ERS Food Expenditure Series is a comprehensive data set that measures the U.S. food system, quantifying the value of food acquired in the United States by type of product, outlet, and purchaser."
     },
     {
-        "id": "dataset-078",
-        "provider": "Washington State Department of Social and Health Services",
-        "title": "Washington Child support",
+        "id": "dataset-055",
+        "provider": "U.S. Department of Agriculture",
+        "title": "Quarterly Food-Away-From-Home Prices",
         "alt_title": [
-           "Child support"
+            "Qtrly FAFH",
+            "QFAFHP",
+            "FAFH",
+            "Quarterly Food Away From Home Prices Database",
+            "Quarterly Food Away From Home Database"
         ],
-        "url": "https://www.dshs.wa.gov/esa/division-child-support",
-        "description": "Improve lives by delivering excellent child support services."
+        "url": "https://www.ers.usda.gov/data-products/quarterly-food-away-from-home-prices/",
+        "description": "The Quarterly Food-Away-From-Home Prices (QFAFHP) data set provides quarterly prices (not including taxes) for food away from home (FAFH) and alcohol, both at home and away from home."
     },
     {
-        "id": "dataset-079",
-        "provider": "New York State Office of Temporary and Disability Statistics",
-        "title": "Temporary & Disability Assistance Statistics",
+        "id": "dataset-056",
+        "provider": "U.S. Department of Agriculture",
+        "title": "The Special Nutrition Program Operations Study",
         "alt_title": [
-           "Social Statistics"
+            "SNOPS",
+            "SNOPS-I"
         ],
-        "url": "https://otda.ny.gov/resources/caseload/",
-        "description": "The records are monthly payments from SNAP (food stamps), TANF and General Assistance."
+        "url": "https://www.fns.usda.gov/special-nutrition-program-operations-study-school-year-2013-14",
+        "description": "The Special Nutrition Program Operations Study is a multiyear study designed to provide the Food and Nutrition Service with a snapshot of current State and School Food Authority policies and practices of the school meal programs, including information on school meal standards, competitive foods standards, professional standards, school lunch pricing and accounting, and Smarter Lunchrooms activities."
     },
     {
-        "id": "dataset-080",
-        "provider": "United States Census Bureau",
-        "title": "Person Identification Validation System",
+        "id": "dataset-057",
+        "provider": "U.S. Department of Agriculture",
+        "title": "The Healthy Eating Index",
         "alt_title": [
-           "PVS"
+            "HEI"
         ],
-        "url": "https://www.census.gov/about/adrm/linkage/projects/pvs.html",
-        "description": "The Census Bureau’s Person Identification Validation System (PVS) assigns unique person identifiers to federal, commercial, census, and survey data to facilitate linkages across and within files."
+        "url": "https://www.fns.usda.gov/resource/healthy-eating-index-hei",
+        "description": "The Healthy Eating Index (HEI) is a measure of diet quality used to assess how well a set of foods aligns with key recommendations of the Dietary Guidelines for Americans."
+    }
+    ,
+    {
+        "id": "dataset-058",
+        "provider": "Bureau of Labor Statistics",
+        "title": "Consumer Price Index",
+        "alt_title": [
+            "HEI"
+        ],
+        "url": "https://www.bls.gov/cpi/",
+        "description": "The Consumer Price Index (CPI) is a measure of the average change over time in the prices paid by urban consumers for a market basket of consumer goods and services."
     },
     {
-        "id": "dataset-081",
-        "provider": "Institute for Research on Poverty",
-        "title": "Wisconsin Child Support Demonstration Evaluation",
+        "id": "dataset-059",
+        "provider": "U.S. Department of Agriculture",
+        "title": "Food Environment Data System",
         "alt_title": [
-           "CSDE",
-           "Wisconsin CSDE",
-           "Child Support Demonstration Evaluation"
+            "FEDS"
         ],
-        "url": "https://www.researchgate.net/publication/255666384_THE_CHILD_SUPPORT_DEMONSTRATION_EVALUATION_RESEARCH_SUMMARY",
-        "description": "The CSDE conducted by the Institute for Researach on Poverty, included several primary components: a statewide random assignment experimental evaluation; quantitative nonexperimental evaluations using Wisconsin and national data on child support policies; analyses of policy implementation and monitoring; and qualitative explorations of family dynamics and responses to the new state policies."
+        "url": "https://faculty.cnr.ncsu.edu/yuanyao/wp-content/uploads/sites/14/2018/09/An-Overview-of-FEDS-The-Food-Environment-Data-System.pdf"
     },
     {
-        "id": "dataset-082",
-        "provider": "Department of Health and Human Services",
-        "title": "Welfare Rules Database",
+        "id": "dataset-060",
+        "provider": "U.S. Department of Agriculture",
+        "title": "Store Tracking and Redemption System",
         "alt_title": [
-           "WRD"
+            "STARS"
         ],
-        "url": "https://wrd.urban.org/wrd/databook.cfm",
-        "description": "The Welfare Rules Database provides a comprehensive, sophisticated resource for anyone researching cash assistance programs in the U.S."
+        "url": "https://www.usda.gov/sites/default/files/documents/fns-store-tracking-redemption-system-stars-pia.pdf"
     },
     {
-        "id": "dataset-083",
-        "provider": "MDRC",
-        "title": "Youth Villages Transitional Living Program",
-        "alt_title": [
-           "Youth Villages Transitional Living Evaluation"
-        ],
-        "url": "https://www.mdrc.org/project/youth-villages-transitional-living-program-evaluation#design-site-data-sources",
-        "description": "The Youth Villages Transitional Living evaluation is using a rigorous random assignment design to measure what difference the program makes. Youth 18 years and older who spent one year in the Tennessee foster care system after age 14, or one day after age 17, and agree to participate in the study are assigned, at random, to a group that has access to Youth Villages Transitional Living services or to a group that has access to whatever transitional services are availabl in the community."
+   "id": "dataset-061",
+   "provider":"Intitute for Research on Poverty at the University of Wisconsin–Madison",
+   "title": "Multi-Sample Person File",
+   "alt_title": [
+      "MSPF",
+      "Wisconsin Multi-Sample Person File"
+   ],
+   "url": "https://www.irp.wisc.edu/wp/wp-content/uploads/2018/09/TechnicalReport_MSPFlessons2014_2.pdf",
+   "description": "The MSPF was created by drawing on information extracts from the full universe of clients or participants in the State of Wisconsin’s electronically available administrative data on public assistance, child support, child welfare, unemployment benefits, and incarceration, and merging them to create a single file of unique individuals."
     },
     {
-        "id": "dataset-084",
-        "provider": "Florida Department of Children and Families",
-        "title": "Florida Temporary Assistance to Needy Families",
-        "alt_title": [
-           "TANF",
-           "Florida TANF",
-           "Temporary Assistance to Needy Families",
-           "Aid to Dependent Families with Children",
-           "Florida Aid to Dependent Families with Children",
-           "Florida AFDC",
-           "AFDC"
-        ],
-        "url": "https://www.benefits.gov/benefit/1657",
-        "description": "Temporary Assistance for Needy Families (TANF) provides temporary cash for families in need."
+       "id": "dataset-062",
+       "provider": "U.S. Census Bureau",
+       "title": "Current Population Survey",
+       "alt_title": [
+          "CPS"
+       ],
+       "url": "https://www.census.gov/programs-surveys/cps/data-detail.html",
+       "description": "The Current Population Survey (CPS), sponsored jointly by the U.S. Census Bureau and the U.S. Bureau of Labor Statistics (BLS), is the primary source of labor force statistics for the population of the United States."
     },
     {
-        "id": "dataset-085",
-        "provider": "Georgia Department of Human Services",
-        "title": "Georgia Temporary Assistance to Needy Families",
-        "alt_title": [
-           "TANF",
-           "Georgia TANF",
-           "Temporary Assistance to Needy Families",
-           "Aid to Dependent Families with Children",
-           "Georgia Aid to Dependent Families with Children",
-           "Georgia AFDC",
-           "AFDC"
-        ],
-        "url": "https://dfcs.georgia.gov/tanf-eligibility-requirements",
-        "description": "Temporary Assistance for Needy Families (TANF) provides temporary cash for families in need."
-    },
-    {
-        "id": "dataset-086",
-        "provider": "Michigan Department of Health and Human Services",
-        "title": "Michigan Temporary Assistance to Needy Families",
-        "alt_title": [
-           "TANF",
-           "Michigan TANF",
-           "Temporary Assistance to Needy Families",
-           "Aid to Dependent Families with Children",
-           "Michigan Aid to Dependent Families with Children",
-           "Michigan AFDC",
-           "AFDC"
-        ],
-        "url": "https://www.michigan.gov/documents/mdhhs/TANF_State_Plan_2017_538823_7.pdf",
-        "description": "Temporary Assistance for Needy Families (TANF) provides temporary cash for families in need."
-    },
-    {
-        "id": "dataset-087",
-        "provider": "Ohio Department of Job and Family Services",
-        "title": "Ohio Temporary Assistance to Needy Families",
-        "alt_title": [
-           "TANF",
-           "Ohio TANF",
-           "Temporary Assistance to Needy Families",
-           "Aid to Dependent Families with Children",
-           "Ohio Aid to Dependent Families with Children",
-           "Ohio AFDC",
-           "AFDC"
-        ],
-        "url": "http://jfs.ohio.gov/owf/plan_new.stm",
-        "description": "Temporary Assistance for Needy Families (TANF) provides temporary cash for families in need."
-    },
-    {
-        "id": "dataset-088",
-        "provider": "Ohio Department of Job and Family Services",
-        "title": "State of Ohio Unemployment Insurance",
-        "alt_title": [
+       "id": "dataset-063",
+       "provider": "State of Wisconsin Department of Workforce Development",
+       "title": "Wisconsin Unemployment Insurance",
+       "alt_title": [
           "UI",
-          "Ohio UI",
-          "Ohio Unemployment Insurance"
-        ],
-        "url": "http://ohiolmi.com/data.htm",
-        "description": "UI-related data from the Bureau of Labor Statistics data on employment and unemployment."
+          "Wisconsin UI",
+          "Wisconsin Unemployment Insurance"
+       ],
+       "url": "https://dwd.wisconsin.gov/uistats/",
+       "description": "The UI Data Summary is produced quarterly from state-reported data contained in the Unemployment Insurance Data Base (UIDB) as well as UI-related data from outside sources (e.g., Bureau of Labor Statistics data on employment and unemployment and U.S. Department of Treasury data on state UI trust fund activities)."
     },
     {
-        "id": "dataset-089",
-        "provider": "Florida Department of Economic Opportunity",
-        "title": "State of Florida Unemployment Insurance",
-        "alt_title": [
+       "id": "dataset-064",
+       "provider": "Social Security Administration",
+       "title": "Supplemental Security Income",
+       "alt_title": [
+          "Supplemental Security Income program",
+          "SSI",
+       ],
+       "url": "https://www.ssa.gov/policy/docs/data/ssi-2010/SSI-2010-User-Manual.pdf",
+       "description": "The Supplemental Security Income (SSI) program is a nationwide federal assistance program administered by the Social Security Administration (SSA) that guarantees a minimum level of income for needy aged, blind, or disabled individuals."
+    },
+    {
+       "id": "dataset-065",
+       "provider": "Wisconsin Department of Children and Families",
+       "title": "Wisconsin Temporary Assistance to Needy Families",
+       "alt_title": [
+          "TANF",
+          "Wisconsin TANF",
+          "Temporary Assistance to Needy Families",
+          "Aid to Dependent Families with Children",
+          "Wisconsin Aid to Dependent Families with Children",
+          "Wisconsin AFDC",
+          "AFDC"
+       ],
+       "url": "https://dcf.wisconsin.gov/w2/researchers/annual-reports",
+       "description": "Wisconsin provides several types of Temporary Assistance for Needy Families (TANF) programs, including the Wisconsin Works (W-2) program, in addition to programs which are partially or wholly funded through State funds."
+    },
+    {
+       "id": "dataset-066",
+       "provider": "Wisconsin Department of Corrections",
+       "title": "Wisconsin Department of Corrections",
+       "alt_title": [
+          "DOC",
+          "Wisconsin DOC",
+          "Department of Corrections"
+       ],
+       "url": "https://doc.wi.gov/Pages/DataResearch/DataAndReports.aspx",
+       "description": "The dataset includes adult prison statistics, community supervision statistics, data on youthful offenders, staff assault and injury reports, and recidivism and reincarceration rates."
+    },
+    {
+       "id": "dataset-067",
+       "provider": "Wisconsin Department of Public Instruction",
+       "title": "Department of Public Instruction",
+       "alt_title": [
+          "DPI",
+          "Wisconsin Department of Public Instruction",
+          "Department of Corrections"
+       ],
+       "url": "https://dpi.wi.gov/families-students/data",
+       "description": "The Wisconsin Department of Public Instruction, headquartered in Madison, is the state education and public library management agency in the state of Wisconsin."
+    },
+    {
+       "id": "dataset-068",
+       "provider": "National Student Clearinghouse Research Center",
+       "title": "College Enrollment",
+       "url": "https://nscresearchcenter.org/workingwithourdata/",
+       "description": "Thousands of high schools currently use StudentTracker® reports from the Research Center to measure how many of their graduates go on to college, where they attend, and how many persist to graduation. The reports were designed to help schools to measure their success in preparing students for college, and to evaluate the effectiveness of college access programs and curricula."
+    },
+    {
+       "id": "dataset-069",
+       "provider": "Minnesota Population Center",
+       "title": "Integrated Public Use Microdata Series",
+       "alt_title": [
+         "IPUMS"
+       ],
+       "url": "https://usa.ipums.org/usa/",
+       "description": "IPUMS USA collects, preserves and harmonizes U.S. census microdata and provides easy access to this data with enhanced documentation. Data includes decennial censuses from 1790 to 2010 and American Community Surveys (ACS) from 2000 to the present."
+    },
+    {
+       "id": "dataset-070",
+       "provider": "Social Security Administration",
+       "title": "Old-Age, Survivors, and Disability Insurance",
+       "alt_title": [
+         "OASDI"
+       ],
+       "url": "https://www.ssa.gov/policy/docs/quickfacts/prog_highlights/RatesLimits2019.html",
+       "description": "Yearly data for Social Security beneficiary population - people receiving Old-Age, Survivors, and Disability Insurance (OASDI) benefits by state."
+    },
+    {
+       "id": "dataset-071",
+       "provider": "Department of Health and Human Services",
+       "title": "Temporary Assistance for Needy Families",
+       "alt_title": [
+         "TANF"
+       ],
+       "url": "https://www.acf.hhs.gov/ofa/programs/tanf/data-reports",
+       "description": "TANF administrative records from the Department of Health and Human Services (HHS), which collects them from various state agencies. States have the option to submit either sample or universe data to HHS, and 30 states submitted universe data."
+    },
+    {
+       "id": "dataset-072",
+       "provider": "Department of Housing and Urban Development",
+       "title": "Public and Indian Housing Information Center",
+       "alt_title": [
+         "Public and Indian Housing",
+         "PIC"
+       ],
+       "url": "https://www.hud.gov/program_offices/public_indian_housing",
+       "description": "The role of the Office of Public and Indian Housing is to ensure safe, decent, and affordable housing; create opportunities for residents' self-sufficiency and economic independence; and assure fiscal integrity by all program participants."
+    },
+    {
+       "id": "dataset-073",
+       "provider": "Department of Housing and Urban Development",
+       "title": "Tenant Rental Assistance Certification System",
+       "alt_title": [
+         "TRACS"
+       ],
+       "url": "https://www.hud.gov/program_offices/housing/mfh/trx/trxsum",
+       "description": "TRACS is a HUD computer system developed to help improve financial controls over assisted housing programs by automating manual procedures and incorporating automated controls."
+    },
+    {
+       "id": "dataset-074",
+       "provider": "Internal Revenue Service",
+       "title": "IRS 1040 Forms",
+       "alt_title": [
+         "Census Bureau extracts of IRS 1040 Forms",
+         "Internal Revenue Service 1040 Forms",
+         "Census Bureau extracts of Internal Revenue Service 1040 Forms"
+       ],
+       "url": "https://www.irs.gov/privacy-disclosure/information-returns-processing",
+       "description": "Form 1040 is used by U.S. taxpayers to file an annual income tax return."
+    },
+    {
+       "id": "dataset-075",
+       "provider": "Bureau of Labor Statistics",
+       "title": "State of Michigan Unemployment Insurance",
+       "alt_title": [
           "UI",
-          "Florida UI",
-          "Florida Unemployment Insurance"
-        ],
-        "url": "http://www.floridajobs.org/workforce-statistics/workforce-statistics-data-releases/monthly-data-releases",
-        "description": "UI-related data from the Bureau of Labor Statistics data on employment and unemployment."
+          "Michigan UI",
+          "Michigan Unemployment Insurance"
+       ],
+       "url": "https://www.bls.gov/eag/eag.mi.htm",
+       "description": "UI-related data from the Bureau of Labor Statistics data on employment and unemployment."
     },
     {
-        "id": "dataset-090",
-        "provider": "Georgia Department of Labor",
-        "title": "State of Georgia Unemployment Insurance",
-        "alt_title": [
-          "UI",
-          "Georgia UI",
-          "Georgia Unemployment Insurance"
-        ],
-        "url": "https://dol.georgia.gov/documents/unemployment-rate-statewide-seasonally-adjusted",
-        "description": "UI-related data from the Bureau of Labor Statistics data on employment and unemployment."
+       "id": "dataset-076",
+       "provider": "Michigan Works!",
+       "title": "Detroit Work First",
+       "alt_title": [
+          "Detroit Works!",
+          "Michigan Work First"
+       ],
+       "url": "https://detroitatwork.com/",
+       "description": "The Michigan Works! Association is a non-profit membership organization that supports the state's talent development system: Michigan Works!. "
     },
     {
-        "id": "dataset-091",
-        "provider": "Georgia Department of Labor",
-        "title": "Integrated Client Database",
-        "alt_title": [
-          "ICDB",
-          "DSHS' Integrated Client Database",
-          "DSHS' ICDB",
-          "Washington State DSHS Integrated Client Database",
-          "Washington State ICDB",
-          "Washington DSHS Integrated Client Database",
-          "Washington ICDB",
-          "Washington DSHS ICDB"
-        ],
-        "url": "https://www.dshs.wa.gov/ffa/rda/research-reports/dshs-integrated-client-database",
-        "description": "DSHS’ INTEGRATED CLIENT DATABASE (ICDB) is a longitudinal client database containing over a decade of detailed service risks, history, costs, and outcomes."
+       "id": "dataset-077",
+       "provider": "Washington State Department of Social and Health Services",
+       "title": "Washington Temporary Assistance to Needy Families",
+       "alt_title": [
+          "TANF",
+          "Washington TANF",
+          "Temporary Assistance to Needy Families",
+          "Aid to Dependent Families with Children",
+          "Washington Aid to Dependent Families with Children",
+          "Washington AFDC",
+          "AFDC"
+       ],
+       "url": "https://www.dshs.wa.gov/",
+       "description": "Temporary Assistance for Needy Families (TANF) provides temporary cash for families in need."
     },
     {
-        "id": "dataset-092",
-        "provider": "Social Security Administration",
-        "title": "Social Security Disability Insurance Program",
-        "alt_title": [
-           "Social Security Disability Insurance",
-           "SSDI",
-        ],
-        "url": "https://www.ssa.gov/policy/docs/statcomps/di_asr/index.html",
-        "description": "Since 1956, the Social Security program has provided cash benefits to people with disabilities. This annual report provides program and demographic information about the people who receive those benefits."
+       "id": "dataset-078",
+       "provider": "Washington State Department of Social and Health Services",
+       "title": "Washington Child support",
+       "alt_title": [
+          "Child support"
+       ],
+       "url": "https://www.dshs.wa.gov/esa/division-child-support",
+       "description": "Improve lives by delivering excellent child support services."
     },
     {
-        "id": "dataset-093",
-        "provider": "Oregon Department of Human Services",
-        "title": "Oregon Temporary Assistance to Needy Families",
-        "alt_title": [
-           "TANF",
-           "Oregon TANF",
-           "Temporary Assistance to Needy Families",
-           "Aid to Dependent Families with Children",
-           "Oregon Aid to Dependent Families with Children",
-           "Oregon AFDC",
-           "AFDC"
-        ],
-        "url": "https://www.oregon.gov/DHS/ASSISTANCE/Branch%20District%20Data/TANF%20Flash%20figures%20August%202019.pdf",
-        "description": "Temporary Assistance for Needy Families (TANF) provides temporary cash for families in need."
+       "id": "dataset-079",
+       "provider": "New York State Office of Temporary and Disability Statistics",
+       "title": "Temporary & Disability Assistance Statistics",
+       "alt_title": [
+          "Social Statistics"
+       ],
+       "url": "https://otda.ny.gov/resources/caseload/",
+       "description": "The records are monthly payments from SNAP (food stamps), TANF and General Assistance."
     },
     {
-        "id": "dataset-094",
-        "provider": "Oregon Department of Human Services",
-        "title": "State of Oregon Supplemental Nutrition Assistance Program",
-        "alt_title": [
-            "SNAP",
-            "Oregon SNAP",
-            "Oregon Supplemental Nutrition Assistance Program",
-            "Supplemental Nutrition Assistance Program",
-            "State of Oregon SNAP"
-        ],
-        "url": "https://www.oregon.gov/DHS/ASSISTANCE/Branch%20District%20Data/SNAP%20Flash%20Figures%20for%20February%202019.pdf",
-        "description": "SNAP offers food benefits to eligible, low-income individuals and families."
+       "id": "dataset-080",
+       "provider": "United States Census Bureau",
+       "title": "Person Identification Validation System",
+       "alt_title": [
+          "PVS"
+       ],
+       "url": "https://www.census.gov/about/adrm/linkage/projects/pvs.html",
+       "description": "The Census Bureau’s Person Identification Validation System (PVS) assigns unique person identifiers to federal, commercial, census, and survey data to facilitate linkages across and within files."
     },
+    {
+       "id": "dataset-081",
+       "provider": "Institute for Research on Poverty",
+       "title": "Wisconsin Child Support Demonstration Evaluation",
+       "alt_title": [
+          "CSDE",
+          "Wisconsin CSDE",
+          "Child Support Demonstration Evaluation"
+       ],
+       "url": "https://www.researchgate.net/publication/255666384_THE_CHILD_SUPPORT_DEMONSTRATION_EVALUATION_RESEARCH_SUMMARY",
+       "description": "The CSDE conducted by the Institute for Researach on Poverty, included several primary components: a statewide random assignment experimental evaluation; quantitative nonexperimental evaluations using Wisconsin and national data on child support policies; analyses of policy implementation and monitoring; and qualitative explorations of family dynamics and responses to the new state policies."
+    },
+    {
+       "id": "dataset-082",
+       "provider": "Department of Health and Human Services",
+       "title": "Welfare Rules Database",
+       "alt_title": [
+          "WRD"
+       ],
+       "url": "https://wrd.urban.org/wrd/databook.cfm",
+       "description": "The Welfare Rules Database provides a comprehensive, sophisticated resource for anyone researching cash assistance programs in the U.S."
+    },
+    {
+       "id": "dataset-083",
+       "provider": "MDRC",
+       "title": "Youth Villages Transitional Living Program",
+       "alt_title": [
+          "Youth Villages Transitional Living Evaluation"
+       ],
+       "url": "https://www.mdrc.org/project/youth-villages-transitional-living-program-evaluation#design-site-data-sources",
+       "description": "The Youth Villages Transitional Living evaluation is using a rigorous random assignment design to measure what difference the program makes. Youth 18 years and older who spent one year in the Tennessee foster care system after age 14, or one day after age 17, and agree to participate in the study are assigned, at random, to a group that has access to Youth Villages Transitional Living services or to a group that has access to whatever transitional services are availabl in the community."
+    },
+    {
+       "id": "dataset-084",
+       "provider": "Florida Department of Children and Families",
+       "title": "Florida Temporary Assistance to Needy Families",
+       "alt_title": [
+          "TANF",
+          "Florida TANF",
+          "Temporary Assistance to Needy Families",
+          "Aid to Dependent Families with Children",
+          "Florida Aid to Dependent Families with Children",
+          "Florida AFDC",
+          "AFDC"
+       ],
+       "url": "https://www.benefits.gov/benefit/1657",
+       "description": "Temporary Assistance for Needy Families (TANF) provides temporary cash for families in need."
+    },
+    {
+       "id": "dataset-085",
+       "provider": "Georgia Department of Human Services",
+       "title": "Georgia Temporary Assistance to Needy Families",
+       "alt_title": [
+          "TANF",
+          "Georgia TANF",
+          "Temporary Assistance to Needy Families",
+          "Aid to Dependent Families with Children",
+          "Georgia Aid to Dependent Families with Children",
+          "Georgia AFDC",
+          "AFDC"
+       ],
+       "url": "https://dfcs.georgia.gov/tanf-eligibility-requirements",
+       "description": "Temporary Assistance for Needy Families (TANF) provides temporary cash for families in need."
+    },
+    {
+       "id": "dataset-086",
+       "provider": "Michigan Department of Health and Human Services",
+       "title": "Michigan Temporary Assistance to Needy Families",
+       "alt_title": [
+          "TANF",
+          "Michigan TANF",
+          "Temporary Assistance to Needy Families",
+          "Aid to Dependent Families with Children",
+          "Michigan Aid to Dependent Families with Children",
+          "Michigan AFDC",
+          "AFDC"
+       ],
+       "url": "https://www.michigan.gov/documents/mdhhs/TANF_State_Plan_2017_538823_7.pdf",
+       "description": "Temporary Assistance for Needy Families (TANF) provides temporary cash for families in need."
+    },
+    {
+       "id": "dataset-087",
+       "provider": "Ohio Department of Job and Family Services",
+       "title": "Ohio Temporary Assistance to Needy Families",
+       "alt_title": [
+          "TANF",
+          "Ohio TANF",
+          "Temporary Assistance to Needy Families",
+          "Aid to Dependent Families with Children",
+          "Ohio Aid to Dependent Families with Children",
+          "Ohio AFDC",
+          "AFDC"
+       ],
+       "url": "http://jfs.ohio.gov/owf/plan_new.stm",
+       "description": "Temporary Assistance for Needy Families (TANF) provides temporary cash for families in need."
+    },
+    {
+       "id": "dataset-088",
+       "provider": "Ohio Department of Job and Family Services",
+       "title": "State of Ohio Unemployment Insurance",
+       "alt_title": [
+         "UI",
+         "Ohio UI",
+         "Ohio Unemployment Insurance"
+       ],
+       "url": "http://ohiolmi.com/data.htm",
+       "description": "UI-related data from the Bureau of Labor Statistics data on employment and unemployment."
+    },
+    {
+       "id": "dataset-089",
+       "provider": "Florida Department of Economic Opportunity",
+       "title": "State of Florida Unemployment Insurance",
+       "alt_title": [
+         "UI",
+         "Florida UI",
+         "Florida Unemployment Insurance"
+       ],
+       "url": "http://www.floridajobs.org/workforce-statistics/workforce-statistics-data-releases/monthly-data-releases",
+       "description": "UI-related data from the Bureau of Labor Statistics data on employment and unemployment."
+    },
+    {
+       "id": "dataset-090",
+       "provider": "Georgia Department of Labor",
+       "title": "State of Georgia Unemployment Insurance",
+       "alt_title": [
+         "UI",
+         "Georgia UI",
+         "Georgia Unemployment Insurance"
+       ],
+       "url": "https://dol.georgia.gov/documents/unemployment-rate-statewide-seasonally-adjusted",
+       "description": "UI-related data from the Bureau of Labor Statistics data on employment and unemployment."
+    },
+    {
+       "id": "dataset-091",
+       "provider": "Georgia Department of Labor",
+       "title": "Integrated Client Database",
+       "alt_title": [
+         "ICDB",
+         "DSHS' Integrated Client Database",
+         "DSHS' ICDB",
+         "Washington State DSHS Integrated Client Database",
+         "Washington State ICDB",
+         "Washington DSHS Integrated Client Database",
+         "Washington ICDB",
+         "Washington DSHS ICDB"
+       ],
+       "url": "https://www.dshs.wa.gov/ffa/rda/research-reports/dshs-integrated-client-database",
+       "description": "DSHS’ INTEGRATED CLIENT DATABASE (ICDB) is a longitudinal client database containing over a decade of detailed service risks, history, costs, and outcomes."
+    },
+    {
+       "id": "dataset-092",
+       "provider": "Social Security Administration",
+       "title": "Social Security Disability Insurance Program",
+       "alt_title": [
+          "Social Security Disability Insurance",
+          "SSDI",
+       ],
+       "url": "https://www.ssa.gov/policy/docs/statcomps/di_asr/index.html",
+       "description": "Since 1956, the Social Security program has provided cash benefits to people with disabilities. This annual report provides program and demographic information about the people who receive those benefits."
+    },
+    {
+       "id": "dataset-093",
+       "provider": "Oregon Department of Human Services",
+       "title": "Oregon Temporary Assistance to Needy Families",
+       "alt_title": [
+          "TANF",
+          "Oregon TANF",
+          "Temporary Assistance to Needy Families",
+          "Aid to Dependent Families with Children",
+          "Oregon Aid to Dependent Families with Children",
+          "Oregon AFDC",
+          "AFDC"
+       ],
+       "url": "https://www.oregon.gov/DHS/ASSISTANCE/Branch%20District%20Data/TANF%20Flash%20figures%20August%202019.pdf",
+       "description": "Temporary Assistance for Needy Families (TANF) provides temporary cash for families in need."
+    },
+    {
+       "id": "dataset-094",
+       "provider": "Oregon Department of Human Services",
+       "title": "State of Oregon Supplemental Nutrition Assistance Program",
+       "alt_title": [
+           "SNAP",
+           "Oregon SNAP",
+           "Oregon Supplemental Nutrition Assistance Program",
+           "Supplemental Nutrition Assistance Program",
+           "State of Oregon SNAP"
+       ],
+       "url": "https://www.oregon.gov/DHS/ASSISTANCE/Branch%20District%20Data/SNAP%20Flash%20Figures%20for%20February%202019.pdf",
+       "description": "SNAP offers food benefits to eligible, low-income individuals and families."
+    }
 ]
