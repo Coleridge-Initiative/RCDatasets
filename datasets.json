@@ -1213,5 +1213,75 @@
         "doi": "10.3886/ICPSR21600",
         "date": "2018-08-06",
         "description": "The National Longitudinal Study of Adolescent to Adult Health (Add Health), 1994-2008 [Public Use] is a longitudinal study of a nationally representative sample of U.S. adolescents in grades 7 through 12 during the 1994-1995 school year."
+    },
+    {
+       "id": "dataset-107",
+       "provider": "Minnesota Department of Health",
+       "title": "Minnesota Temporary Assistance to Needy Families",
+       "alt_title": [
+          "TANF",
+          "Minnesota TANF",
+          "Temporary Assistance to Needy Families",
+          "Aid to Dependent Families with Children",
+          "Minnesota Aid to Dependent Families with Children",
+          "Minnesota AFDC",
+          "AFDC"
+       ],
+       "url": "https://www.health.state.mn.us/communities/fhv/tanfgrantguide.html",
+       "description": "Temporary Assistance for Needy Families (TANF) provides temporary cash for families in need."
+    },
+    {
+       "id": "dataset-108",
+       "provider": "Nebraska Department of Health and Human Services",
+       "title": "Nebraska Temporary Assistance to Needy Families",
+       "alt_title": [
+          "TANF",
+          "Nebraska TANF",
+          "Temporary Assistance to Needy Families",
+          "Aid to Dependent Families with Children",
+          "Nebraska Aid to Dependent Families with Children",
+          "Nebraska AFDC",
+          "AFDC"
+       ],
+       "url": "http://dhhs.ne.gov/Pages/TANF.aspx",
+       "description": "Temporary Assistance for Needy Families (TANF) provides temporary cash for families in need."
+    },
+    {
+       "id": "dataset-109",
+       "provider": "State of New Jersey Department of Human Services",
+       "title": "New Jersey Temporary Assistance to Needy Families",
+       "alt_title": [
+          "TANF",
+          "New Jersey  TANF",
+          "N.J. TANF",
+          "Temporary Assistance to Needy Families",
+          "Aid to Dependent Families with Children",
+          "New Jersey Aid to Dependent Families with Children",
+          "N.J. Aid to Dependent Families with Children",
+          "New Jersey AFDC",
+          "N.J. AFDC",
+          "AFDC"
+       ],
+       "url": "https://www.state.nj.us/humanservices/dfd/programs/workfirstnj/",
+       "description": "Temporary Assistance for Needy Families (TANF) provides temporary cash for families in need."
+    },
+    {
+       "id": "dataset-110",
+       "provider": "State of Rhode Island Department of Human Services",
+       "title": "Rhode Island Temporary Assistance to Needy Families",
+       "alt_title": [
+          "TANF",
+          "Rhode Island  TANF",
+          "R.I. TANF",
+          "Temporary Assistance to Needy Families",
+          "Aid to Dependent Families with Children",
+          "Rhode Island Aid to Dependent Families with Children",
+          "R.I. Aid to Dependent Families with Children",
+          "Rhode Island AFDC",
+          "R.I. AFDC",
+          "AFDC"
+       ],
+       "url": "http://www.dhs.ri.gov/Programs/RIWorksProgramInformation.php",
+       "description": "Temporary Assistance for Needy Families (TANF) provides temporary cash for families in need."
     }
 ]
