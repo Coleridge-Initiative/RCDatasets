@@ -754,9 +754,7 @@
        "provider": "Department of Health and Human Services",
        "title": "Temporary Assistance for Needy Families",
        "alt_title": [
-         "TANF",
-         "AFDC",
-         "Aid to Dependent Families with Children"
+         "TANF"
        ],
        "url": "https://www.acf.hhs.gov/ofa/programs/tanf/data-reports",
        "description": "TANF administrative records from the Department of Health and Human Services (HHS), which collects them from various state agencies. States have the option to submit either sample or universe data to HHS, and 30 states submitted universe data."
