@@ -1050,9 +1050,56 @@
        ],
        "url": "https://www.oregon.gov/DHS/ASSISTANCE/Branch%20District%20Data/SNAP%20Flash%20Figures%20for%20February%202019.pdf",
        "description": "SNAP offers food benefits to eligible, low-income individuals and families."
+    },
+    { 
+        "id": "dataset-095",
+        "provider": "Florida Department of Corrections",
+        "title": "Florida Department of Corrections Administrative Data",
+        "alt_title": [
+            "FLDOC"
+        ],
+        "url": "http://www.dc.state.fl.us/pub/index.html"
+     
+    }, 
+    { 
+        "id": "dataset-096",
+        "provider": "U.S. Bureau of Justice",
+        "title": "U.S. Bureau of Justice Statistics",
+        "url": "https://www.bjs.gov/",
+        "desc": "Statistics about - Crime and victims, Drugs and crime, Criminal offenders, The justice system in the United States, Law enforcement, Prosecution, Courts and..."
+    },
+    { 
+        "id": "dataset-097",
+        "provider": "State of California Employment Development Department",
+        "title": "California Unemployment Insurance",
+        "alt_title": [
+            "UI",
+            "California UI",
+            "California Unemployment Insurance"
+        ],
+        "url": "https://www.edd.ca.gov/unemployment/",
+        "desc": "The Unemployment Insurance (UI) program pays benefits to workers who have lost their job and meet the program's eligibility requirements."
+    },
+    { 
+        "id": "dataset-098",
+        "provider": "National Criminal Justice Reference Service",
+        "title": "Transitional Aid Research Project Experimental Data",
+        "alt_title": [
+            "TARP"
+        ],
+        "url": "",
+        "desc": "The TARP experiment is based on the idea that released prisoners are returned to civilian life without resources to facilitate their adjustment."   
+    },
+    { 
+        "id": "dataset-099",
+        "provider": "Texas Workforce Commission",
+        "title": "Texas Unemployment Insurance",
+        "alt_title": [
+            "UI",
+            "Texas UI",
+            "Texas Unemployment Insurance"
+        ],
+        "url": "https://twc.texas.gov/jobseekers/unemployment-benefits",
+        "desc": "Unemployment insurance benefits is an employer-paid program that provides temporary financial assistance to workers who are unemployed through no fault of their own and meet Texas' eligibility requirements." 
     }
 ]
-
-
-
-
