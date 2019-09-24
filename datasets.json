@@ -1059,14 +1059,13 @@
             "FLDOC"
         ],
         "url": "http://www.dc.state.fl.us/pub/index.html"
-     
     }, 
     { 
         "id": "dataset-096",
         "provider": "U.S. Bureau of Justice",
         "title": "U.S. Bureau of Justice Statistics",
         "url": "https://www.bjs.gov/",
-        "desc": "Statistics about - Crime and victims, Drugs and crime, Criminal offenders, The justice system in the United States, Law enforcement, Prosecution, Courts and..."
+        "description": "Statistics about - Crime and victims, Drugs and crime, Criminal offenders, The justice system in the United States, Law enforcement, Prosecution, Courts and..."
     },
     { 
         "id": "dataset-097",
@@ -1078,7 +1077,7 @@
             "California Unemployment Insurance"
         ],
         "url": "https://www.edd.ca.gov/unemployment/",
-        "desc": "The Unemployment Insurance (UI) program pays benefits to workers who have lost their job and meet the program's eligibility requirements."
+        "description": "The Unemployment Insurance (UI) program pays benefits to workers who have lost their job and meet the program's eligibility requirements."
     },
     { 
         "id": "dataset-098",
@@ -1088,7 +1087,7 @@
             "TARP"
         ],
         "url": "",
-        "desc": "The TARP experiment is based on the idea that released prisoners are returned to civilian life without resources to facilitate their adjustment."   
+        "description": "The TARP experiment is based on the idea that released prisoners are returned to civilian life without resources to facilitate their adjustment."   
     },
     { 
         "id": "dataset-099",
@@ -1100,6 +1099,81 @@
             "Texas Unemployment Insurance"
         ],
         "url": "https://twc.texas.gov/jobseekers/unemployment-benefits",
-        "desc": "Unemployment insurance benefits is an employer-paid program that provides temporary financial assistance to workers who are unemployed through no fault of their own and meet Texas' eligibility requirements." 
-    }
+        "description": "Unemployment insurance benefits is an employer-paid program that provides temporary financial assistance to workers who are unemployed through no fault of their own and meet Texas' eligibility requirements." 
+    },
+    {
+   "id": "dataset-100",
+   "provider": "Department of Health and Human Services",
+   "title": "Maintenance of Effort",
+   "alt_title": [
+      "MOE"
+   ],
+   "url": "https://www.acf.hhs.gov/ofa/resource/tanf-and-moe-spending-and-transfers-by-activity-fy-2018-contains-national-state-pie-charts",
+   "description": "Maintenance of effort (MOE) is a fiscal calculation for two consecutive years to demonstrate that school district expenditures from State and local funds meet or exceed the required amount necessary for Title I funding."
+},
+{
+   "id": "dataset-101",
+   "provider": "Wisconsin Department of Children and Families",
+   "title": "Wisconsin Works (W-2)",
+   "alt_title": [
+      "W-2",
+      "Wisconsin W-2"
+   ],
+   "url": "https://dcf.wisconsin.gov/w2/parents/w2",
+   "description": "W-2 is a program that provides employment preparation services, case management and cash assistance to eligible families."
+},
+{
+   "id": "dataset-102",
+   "provider": "District of Columbia Department of Human Services",
+   "title": "District of Columbia Temporary Assistance to Needy Families",
+   "alt_title": [
+      "TANF",
+      "District of Columbia TANF",
+      "D.C. TANF",
+      "Temporary Assistance to Needy Families",
+      "Aid to Dependent Families with Children",
+      "District of Columbia Aid to Dependent Families with Children",
+      "D.C. Aid to Dependent Families with Children",
+      "District of Columbia AFDC",
+      "D.C. AFDC",
+      "AFDC"
+   ],
+   "url": "https://dhs.dc.gov/service/whats-new-tanf",
+   "description": "Temporary Assistance for Needy Families (TANF) provides temporary cash for families in need."
+},
+{
+   "id": "dataset-103",
+   "provider": "Pennsylvania Department of Human Services",
+   "title": "Pennsylvania Temporary Assistance to Needy Families",
+   "alt_title": [
+      "TANF",
+      "Pennsylvania TANF",
+      "Temporary Assistance to Needy Families",
+      "Aid to Dependent Families with Children",
+      "Pennsylvania Aid to Dependent Families with Children",
+      "Pennsylvania AFDC",
+      "AFDC"
+   ],
+   "url": "http://www.dhs.pa.gov/citizens/cashassistance/tanfandmovingtoindependence/index.htm",
+   "description": "Temporary Assistance for Needy Families (TANF) provides temporary cash for families in need."
+},
+{
+   "id": "dataset-104",
+   "provider": "New York State Office of Temporary and Disability Assistance",
+   "title": "New York Temporary Assistance to Needy Families",
+   "alt_title": [
+      "TANF",
+      "New York TANF",
+      "N.Y. TANF",
+      "Temporary Assistance to Needy Families",
+      "Aid to Dependent Families with Children",
+      "New York Aid to Dependent Families with Children",
+      "N.Y. Aid to Dependent Families with Children",
+      "New York AFDC",
+      "N.Y. AFDC",
+      "AFDC"
+   ],
+   "url": "https://otda.ny.gov/policy/tanf/",
+   "description": "Temporary Assistance for Needy Families (TANF) provides temporary cash for families in need."
+}
 ]
