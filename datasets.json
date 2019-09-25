@@ -1343,8 +1343,8 @@
     ],
     "url": "https://www.dhs.wisconsin.gov/systems/cares-workweb.htm",
     "description": "Contains information on Wisconsin's TANF program and other means-tested programs."
-  },
-  {
+    },
+    {
     "id": "dataset-121",
     "provider": "Florida Department of Law Enforcement",
     "title": "Florida Department of Law Enforcement Data",
