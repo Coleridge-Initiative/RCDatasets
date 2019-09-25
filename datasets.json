@@ -1547,5 +1547,106 @@
       ],
       "url": "http://www.oit.state.co.us/cbms",
       "description": "The statewide database system through which all food, cash and medical assistance applications and eligibility determinations are processed."
-      }
-      ]
+      },
+      {
+      "id": "dataset-141",
+      "provider": "U.S. Census Bureau",
+      "title": "1990 Census of Population General Population Characteristics Massachusetts",
+      "url": "https://www2.census.gov/library/publications/decennial/1990/cp-1/cp-1-23.pdf"
+      },
+      {
+      "id": "dataset-142",
+      "provider": "Centers for Disease Control and Prevention",
+      "title": "National Health Interview Survey",
+      "alt_title":[
+            "NHIS"
+      ],
+      "url": "https://www.cdc.gov/nchs/nhis/data-questionnaires-documentation.htm",
+      "description": "The National Health Interview Survey (NHIS) has monitored the health of the nation since 1957. NHIS data on a broad range of health topics are collected through personal household interviews."
+      },
+      {
+      "id": "dataset-143",
+      "provider": "U.S. Bureau of Labor Statistics",
+      "title": " National Longitudinal Survey of Youth Children’s Supplement",
+      "alt_title":[
+        "NLSY-CS"
+      ],
+      "url": "https://www.nlsinfo.org/content/cohorts"
+      },
+      {
+      "id": "dataset-144",
+      "provider": "Centers for Disease Control and Prevention",
+      "title": "National Health Interview Survey Child Supplement",
+      "alt_title":[
+        "NHIS-CS"
+      ],
+      "url": "http://action.cahmi.org/learn/NHIS-Child",
+      "description": "The Sample Adult and the Sample Child Cores obtain additional information on health status, health care services, and behavior for a randomly selected adult or child, ages 0 to 17 years old, from each family."
+      },
+      {
+      "id": "dataset-145",
+      "provider": "Multnomah Department of Community Justice",
+      "title": "Multnomah Community Supervision Data",
+      "url": "https://multco.us/dcj",
+      "description": "The Department of Community Justice (DCJ) provides supervision and treatment to youth, adults, families, and communities to address the underlying issues that drive crime. Our efforts are guided by evidence-based strategies to maximize our resources and results."
+      },
+      {
+    "id": "dataset-146",
+    "provider": "Colorado Department of Labor and Employment",
+    "title": "Colorado Unemployment Insurance",
+    "alt_title": [
+        "UI",
+        "Colorado UI",
+        "Colorado Unemployment Insurance"
+    ],
+    "url": "https://data.colorado.gov/Labor-Employment/Unemployment-Estimates-in-Colorado/4e3w-qire",
+    "description": "The UI Data Summary is produced quarterly from state-reported data contained in the Unemployment Insurance Data Base (UIDB) as well as UI-related data from outside sources (e.g., Bureau of Labor Statistics data on employment and unemployment and U.S. Department of Treasury data on state UI trust fund activities)."
+    },
+    {
+    "id": "dataset-147",
+    "provider": "The Program on Poverty and Social Welfare Policy at the University of Michigan",
+    "title": "Women's Employment Study",
+    "alt_title": [
+        "WES"
+    ],
+    "url": "http://fordschool.umich.edu/research/poverty/wes/sd_coll.php",
+    "description": "The Women's Employment Study, or "WES" combines the insights of poverty researchers, epidemiologists, and social workers by analyzing the ways in which a broad range of labor market, mental health, physical health, and family problems affect a welfare recipient's ability to obtain and retain employment over time."
+    },
+    {
+    "id": "dataset-148",
+    "provider": "Texas Health and Human Services Commission",
+    "title": "Texas Temporary Assistance to Needy Families",
+    "alt_title": [
+        "TANF",
+        "Texas TANF",
+        "Temporary Assistance to Needy Families",
+        "Aid to Dependent Families with Children",
+        "Texas Aid to Dependent Families with Children",
+        "Texas AFDC",
+        "AFDC"
+    ],
+    "url": "https://yourtexasbenefits.hhsc.texas.gov/programs/tanf/",
+    "description": "Temporary Assistance for Needy Families (TANF) provides temporary cash for families in need."
+    },
+    {
+    "id": "dataset-149",
+    "provider": "Wisconsin Department of Children and Families",
+    "title": "Wisconsin KIDS",
+    "alt_title": [
+        "KIDS",
+        "Wisconsin child support"
+    ],
+    "url": "https://dcf.wisconsin.gov/cs/home",
+    "description": "Measures child support received."
+    },
+    {
+    "id": "dataset-150",
+    "provider": "Commonwealth of Kentucky Cabinet for Health and Family Services",
+    "title": "Kentucky Automated Management and Eligibility System",
+    "alt_title": [
+        "KAMES"
+    ],
+    "description": "The Kentucky Automated Management and Eligibility System (KAMES) file contains demographic and case file information on all Kentucky welfare clients."
+    }
+
+]
