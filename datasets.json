@@ -901,7 +901,9 @@
             "Aid to Dependent Families with Children",
             "Florida Aid to Dependent Families with Children",
             "Florida AFDC",
-            "AFDC"
+            "AFDC",
+            "Florida Family Transition Program",
+            "FTP"
         ],
         "url": "https://www.benefits.gov/benefit/1657",
         "description": "Temporary Assistance for Needy Families (TANF) provides temporary cash for families in need."
