@@ -20,6 +20,14 @@ Consequently, each update must be handled through a
 [pull request](https://help.github.com/en/articles/about-pull-requests) 
 and audited in a code review.
 
+  1. work in a separate branch and update from master
+  1. look for other PRs (work in progress) and note the IDs used
+  1. request a range of up to 5 IDs on the `rich_context` channel on Slack
+  1. make edits in your branch
+  1. confirm through unit tests: `python test.py`
+
+At that point, create a PR and have someone else on the team review it.
+
 Also, don't commit code here except for consistency checks used on the
 dataset list itself.
 
