@@ -1381,5 +1381,59 @@
     "title": "Massachusetts Department of Transitional Assistance monthly welfare receipt",
     "url": "https://www.mass.gov/department-of-transitional-assistance-data-and-research",
     "description": "The Department of Transitional Assistance (DTA) assists and empowers low-income individuals and families to meet their basic needs, improve their quality of life, and achieve long term economic self-sufficiency."
+    },
+    {
+    "id": "dataset-126",
+    "provider": "Maryland Department of Health and Mental Hygiene",
+    "title": "Client Automated Resources and Eligibility System",
+    "alt_title": [
+        "CARES",
+        "Maryland CARES"
+    ],
+    "url": "https://mmcp.health.maryland.gov/docs/eligibilitysystemjcrfinal12-09.pdf",
+    "description": "A mainframe application that maintains individual and case-level information, determines technical and financial eligibility for public assistance programs calculates and initiates benefits issuance, produces necessary management reports, and interfaces with the Department of Health and Mental Hygiene's (DHMH) Medicaid Management Information System (MMIS II)."
+    },
+    {
+    "id": "dataset-127",
+    "provider": "Maryland Department of Health and Mental Hygiene",
+    "title": "Child Support Enforcement System",
+    "alt_title": [
+        "CSES",
+        "Maryland CSES"
+    ],
+    "url": "https://dhr.maryland.gov/documents/Request%20for%20Proposal/OS-CSC-15-001-S/CSC%20RFP%20-%20Amendment%201.doc",
+    "description": "The Child Support Enforcement System (CSES) component of the DHRIS maintains a database consisting of information pertaining to child support cases registered in the state of Maryland. CSES also provides functionality for registering child support cases (Intake), locating parties to child support cases (Locate), and establishment of paternity and child support (Establishment), enforcement of child support and medical support court orders (Enforcement), and collecting and disbursing payments (Financial)."
+    },
+    {
+    "id": "dataset-128",
+    "provider": "Minnesota Department of Human Services",
+    "title": "Minnesota Family Investment Program",
+    "alt_title": [
+        "MFIP",
+        "Family Investment Program"
+    ],
+    "url": "https://mn.gov/dhs/people-we-serve/children-and-families/economic-assistance/income/programs-and-services/mfip.jsp",
+    "description": "The Minnesota Family Investment Program (MFIP) helps families with children meet their basic needs, while helping parents move to financial stability through work. Parents are expected to work, and are supported in working with both cash and food assistance."
+    },
+    {
+    "id": "dataset-129",
+    "provider": "Minnesota Department of Education",
+    "title": "Minnesota Statewide Longitudinal Education Data System",
+    "alt_title": [
+        "SLEDS"
+    ],
+    "url": "http://w20.education.state.mn.us/MDEAnalytics/Sleds.jsp",
+    "description": "The Statewide Longitudinal Education Data System (SLEDS) Secure Reports site contains student level de-identified data from K-12 and postsecondary education. Data are linked at the individual student level from K-12 to postsecondary but no identifying information is included. SLEDS was developed to match student data from pre-kindergarten through completion of postsecondary education and into the workforce."
+    },
+    {
+    "id": "dataset-130",
+    "provider": "Louisiana Department of Children & Family Services",
+    "title": "Strategies to Empower People Program data",
+    "alt_title": [
+        "STEP",
+        "Louisiana STEP"
+    ],
+    "url": "http://www.dss.louisiana.gov/index.cfm?md=pagebuilder&tmp=home&nid=318&pid=527#undefined",
+    "description": "The goal of the Strategies to Empower People (STEP) Program is to provide opportunities for work-eligible families of FITAP to receive job training, employment and supportive services to enable them to become self-sufficient."
     }
 ]
