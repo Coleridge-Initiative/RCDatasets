@@ -949,7 +949,9 @@
             "Aid to Dependent Families with Children",
             "Ohio Aid to Dependent Families with Children",
             "Ohio AFDC",
-            "AFDC"
+            "AFDC",
+            "Monthly income maintenance files",
+            "IMFs"
         ],
         "url": "http://jfs.ohio.gov/owf/plan_new.stm",
         "description": "Temporary Assistance for Needy Families (TANF) provides temporary cash for families in need."
