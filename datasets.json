@@ -949,7 +949,9 @@
             "Aid to Dependent Families with Children",
             "Ohio Aid to Dependent Families with Children",
             "Ohio AFDC",
-            "AFDC"
+            "AFDC",
+            "Monthly income maintenance files",
+            "IMFs"
         ],
         "url": "http://jfs.ohio.gov/owf/plan_new.stm",
         "description": "Temporary Assistance for Needy Families (TANF) provides temporary cash for families in need."
@@ -1388,8 +1390,13 @@
     "title": "Client Automated Resources and Eligibility System",
     "alt_title": [
         "CARES",
-        "Maryland CARES"
-    ],
+        "Maryland CARES",
+        "Automated Information Management System/Automated Master File",
+        "Automated Information Management System",
+        "Automated Master File",
+        "AIMS",
+        "AMF"
+          ],
     "url": "https://mmcp.health.maryland.gov/docs/eligibilitysystemjcrfinal12-09.pdf",
     "description": "A mainframe application that maintains individual and case-level information, determines technical and financial eligibility for public assistance programs calculates and initiates benefits issuance, produces necessary management reports, and interfaces with the Department of Health and Mental Hygiene's (DHMH) Medicaid Management Information System (MMIS II)."
     },
