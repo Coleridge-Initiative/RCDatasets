@@ -1547,5 +1547,52 @@
       ],
       "url": "http://www.oit.state.co.us/cbms",
       "description": "The statewide database system through which all food, cash and medical assistance applications and eligibility determinations are processed."
+      },
+      {
+      "id": "dataset-141",
+      "provider": "U.S. Census Bureau",
+      "title": "1990 Census of Population General Population Characteristics Massachusetts",
+      "url": "https://www2.census.gov/library/publications/decennial/1990/cp-1/cp-1-23.pdf"
+      },
+      {
+      "id": "dataset-142",
+      "provider": "Centers for Disease Control and Prevention",
+      "title": "National Health Interview Survey",
+      "alt_title":[
+            "NHIS"
+      ],
+      "url": "https://www.cdc.gov/nchs/nhis/data-questionnaires-documentation.htm",
+      "description": "The National Health Interview Survey (NHIS) has monitored the health of the nation since 1957. NHIS data on a broad range of health topics are collected through personal household interviews."
+      },
+      {
+      "id": "dataset-143",
+      "provider": "U.S. Bureau of Labor Statistics",
+      "title": " National Longitudinal Survey of Youth Children’s Supplement",
+      "alt_title":[
+        "NLSY-CS"
+      ],
+      "url": "https://www.nlsinfo.org/content/cohorts"
+      },
+      {
+      "id": "dataset-144",
+      "provider": "Centers for Disease Control and Prevention",
+      "title": "National Health Interview Survey Child Supplement",
+      "alt_title":[
+        "NHIS-CS"
+      ],
+      "url": "http://action.cahmi.org/learn/NHIS-Child",
+      "description": "The Sample Adult and the Sample Child Cores obtain additional information on health status, health care services, and behavior for a randomly selected adult or child, ages 0 to 17 years old, from each family."
+      },
+      {
+      "id": "dataset-145",
+      "provider": "Multnomah Department of Community Justice",
+      "title": "Multnomah Community Supervision Data",
+      "url": "https://multco.us/dcj",
+      "description": "The Department of Community Justice (DCJ) provides supervision and treatment to youth, adults, families, and communities to address the underlying issues that drive crime. Our efforts are guided by evidence-based strategies to maximize our resources and results."
+      }
+
+]
+
       }
       ]
+
