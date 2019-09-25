@@ -1283,5 +1283,65 @@
        ],
        "url": "http://www.dhs.ri.gov/Programs/RIWorksProgramInformation.php",
        "description": "Temporary Assistance for Needy Families (TANF) provides temporary cash for families in need."
-    }
+    },
+    {
+    "id": "dataset-116",
+    "provider": "Mississippi Department of Employment Services",
+    "title": "Mississippi Unemployment Insurance",
+    "alt_title": [
+        "UI",
+        "Mississippi UI",
+        "Mississippi Unemployment Insurance"
+    ],
+    "url": "https://mdes.ms.gov/information-center/labor-market-information/",
+    "description": "The UI Data Summary is produced quarterly from state-reported data contained in the Unemployment Insurance Data Base (UIDB) as well as UI-related data from outside sources (e.g., Bureau of Labor Statistics data on employment and unemployment and U.S. Department of Treasury data on state UI trust fund activities)."
+    },
+    {
+    "id": "dataset-117",
+    "provider": "Mississippi Department of Employment Services",
+    "title": "Mississippi Workforce Information Database",
+    "alt_title": [
+        "Workforce Information Database",
+        "Mississippi WIA",
+        "WIA",
+        "Mississippi Workforce Investment Act"
+        "Workforce Investment Act"
+    ],
+    "url": "https://mdes.ms.gov/information-center/labor-market-information/workforce-information-database/",
+    "description": "The Mississippi Labor Market Information searchable database allows professionals to search for labor market data by statewide, county or other geographic areas."
+    },
+    {
+    "id": "dataset-118",
+    "provider": "United States Census Bureau",
+    "title": "United States 2000 Census",
+    "alt_title": [
+        "U.S. 2000 Census",
+        "2000 Census"
+    ],
+    "url": "https://www.census.gov/census2000/states/us.html",
+    "description": "Determined the resident population of the United States."
+    },
+    {
+    "id": "dataset-119",
+    "provider": "Mississippi Department of Employment Services",
+    "title": "Mississippi Unemployment Rates By County",
+    "alt_title": [
+        "Unemployment Rates By County",
+        "Mississippi Unemployment"
+    ],
+    "url": "https://mdes.ms.gov/media/8651/uratesmap.pdf",
+    "description": "Monthly county-level unemployment rates."
+    },
+    {
+    "id": "dataset-120",
+    "provider": "Wisconsin Department of Health Services",
+    "title": "Wisconsin Client Assistance for Re-employment and Economic Support",
+    "alt_title": [
+        "Client Assistance for Re-employment and Economic Support",
+        "Wisconsin CARES",
+        "CARES"
+    ],
+    "url": "https://www.dhs.wisconsin.gov/systems/cares-workweb.htm",
+    "description": "Contains information on Wisconsin's TANF program and other means-tested programs."
+  }
 ]
