@@ -1442,5 +1442,61 @@
     ],
     "url": "http://www.dss.louisiana.gov/index.cfm?md=pagebuilder&tmp=home&nid=318&pid=527#undefined",
     "description": "The goal of the Strategies to Empower People (STEP) Program is to provide opportunities for work-eligible families of FITAP to receive job training, employment and supportive services to enable them to become self-sufficient."
+    },
+    {
+    "id": "dataset-131",
+    "provider": "Maryland Department of Human Resources",
+    "title": "WORKS",
+    "alt_title": [
+        "Maryland WORKS",
+        "Maryland's Human Services Agency Work Programs"
+    ],
+    "url": "https://www.marylandworks.org/",
+    "description": "The WORKS system was developed by DHR to document information related to the participation of Temporary Cash Assistance (TCA) and other DHR customers in work and work-related activities. Specifically, since December 2006, the WORKS system has been used to collect and report data related to federal work participation reporting requirements, provide DHR with information that can be used to monitor the results of local work programs, and provide LDSS staff with information that can be used to manage and improve program operations."
+    },
+    {
+    "id": "dataset-132",
+    "provider": "Maryland Department of Information Technology",
+    "title": "Maryland Automated Benefits System",
+    "alt_title": [
+        "MABS"
+    ],
+    "url": "https://doit.maryland.gov/contracts/Documents/cats_torfp_status/mdautobenefitssys.pdf",
+    "description": "MABS includes data from all employers covered by the state’s Unemployment Insurance (UI) law and the unemployment compensation for federal employees (UCFE) program."
+    },
+    {
+    "id": "dataset-133",
+    "provider": "Florida Department of Children and Families",
+    "title": "State of Florida Supplemental Nutrition Assistance Program",
+    "alt_title": [
+        "SNAP",
+        "Florida SNAP",
+        "Florida Supplemental Nutrition Assistance Program",
+        "Supplemental Nutrition Assistance Program",
+        "State of Florida SNAP"
+    ],
+    "url": "https://www.myflorida.com/accessflorida/",
+    "description": "SNAP offers food benefits to eligible, low-income individuals and families."
+    },
+    {
+    "id": "dataset-134",
+    "provider": "Florida Department of Children and Families",
+    "title": "Family Transition Program",
+    "alt_title": [
+        "SNAP",
+        "FTP",
+        "FTP's computerized tracking system",
+        "CMS",
+        "FTP CMS",
+        "Family Transition Program CMS",
+        "Family Transition Program computerized tracking system"
+    ],
+    "description": "Data on FTP group members’ case histories and participation in employment-related activities."
+    },
+    {
+    "id": "dataset-135",
+    "provider": "State of Florida",
+    "title": "FLORIDA system",
+    "description": "Statewide database containing FTP group members' case histories and participation in employment-related activities."
     }
 ]
