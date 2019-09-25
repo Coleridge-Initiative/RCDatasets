@@ -949,7 +949,9 @@
             "Aid to Dependent Families with Children",
             "Ohio Aid to Dependent Families with Children",
             "Ohio AFDC",
-            "AFDC"
+            "AFDC",
+            "Monthly income maintenance files",
+            "IMFs"
         ],
         "url": "http://jfs.ohio.gov/owf/plan_new.stm",
         "description": "Temporary Assistance for Needy Families (TANF) provides temporary cash for families in need."
@@ -1285,16 +1287,15 @@
        "description": "Temporary Assistance for Needy Families (TANF) provides temporary cash for families in need."
     },
     {
-    "id": "dataset-116",
-    "provider": "Mississippi Department of Employment Services",
-    "title": "Mississippi Unemployment Insurance",
-    "alt_title": [
-        "UI",
-        "Mississippi UI",
-        "Mississippi Unemployment Insurance"
-    ],
-    "url": "https://mdes.ms.gov/information-center/labor-market-information/",
-    "description": "The UI Data Summary is produced quarterly from state-reported data contained in the Unemployment Insurance Data Base (UIDB) as well as UI-related data from outside sources (e.g., Bureau of Labor Statistics data on employment and unemployment and U.S. Department of Treasury data on state UI trust fund activities)."
+        "id": "dataset-116",
+        "provider": "Mississippi Department of Employment Services",
+        "title": "Mississippi Unemployment Insurance",
+        "alt_title": [
+            "UI",
+            "Mississippi UI"
+        ],
+        "url": "https://mdes.ms.gov/information-center/labor-market-information/",
+        "description": "The UI Data Summary is produced quarterly from state-reported data contained in the Unemployment Insurance Data Base (UIDB) as well as UI-related data from outside sources (e.g., Bureau of Labor Statistics data on employment and unemployment and U.S. Department of Treasury data on state UI trust fund activities)."
     },
     {
     "id": "dataset-117",
@@ -1373,14 +1374,221 @@
     "provider": "Massachusetts Department of Revenue",
     "title": "Massachusetts Department of Revenue Longitudinal Database",
     "url": "https://www.mass.gov/orgs/massachusetts-department-of-revenue",
-    "description": "The Massachusetts Department of Revenue manages state taxes and child support. We also help cities and towns manage their finances."  
+    "description": "The Massachusetts Department of Revenue manages state taxes and child support. We also help cities and towns manage their finances."
     },
     {
     "id": "dataset-125",
     "provider": "Massachusetts Department of Transitional Assistance",
     "title": "Massachusetts Department of Transitional Assistance monthly welfare receipt",
     "url": "https://www.mass.gov/department-of-transitional-assistance-data-and-research",
-    "description": "The Department of Transitional Assistance (DTA) assists and empowers low-income individuals and families to meet their basic needs, improve their quality of life, and achieve long term economic self-sufficiency."  
-    }
-  }
+    "description": "The Department of Transitional Assistance (DTA) assists and empowers low-income individuals and families to meet their basic needs, improve their quality of life, and achieve long term economic self-sufficiency."
+    },
+    {
+    "id": "dataset-126",
+    "provider": "Maryland Department of Health and Mental Hygiene",
+    "title": "Client Automated Resources and Eligibility System",
+    "alt_title": [
+        "CARES",
+        "Maryland CARES",
+        "Automated Information Management System/Automated Master File",
+        "Automated Information Management System",
+        "Automated Master File",
+        "AIMS",
+        "AMF"
+          ],
+    "url": "https://mmcp.health.maryland.gov/docs/eligibilitysystemjcrfinal12-09.pdf",
+    "description": "A mainframe application that maintains individual and case-level information, determines technical and financial eligibility for public assistance programs calculates and initiates benefits issuance, produces necessary management reports, and interfaces with the Department of Health and Mental Hygiene's (DHMH) Medicaid Management Information System (MMIS II)."
+    },
+    {
+    "id": "dataset-127",
+    "provider": "Maryland Department of Health and Mental Hygiene",
+    "title": "Child Support Enforcement System",
+    "alt_title": [
+        "CSES",
+        "Maryland CSES"
+    ],
+    "url": "https://dhr.maryland.gov/documents/Request%20for%20Proposal/OS-CSC-15-001-S/CSC%20RFP%20-%20Amendment%201.doc",
+    "description": "The Child Support Enforcement System (CSES) component of the DHRIS maintains a database consisting of information pertaining to child support cases registered in the state of Maryland. CSES also provides functionality for registering child support cases (Intake), locating parties to child support cases (Locate), and establishment of paternity and child support (Establishment), enforcement of child support and medical support court orders (Enforcement), and collecting and disbursing payments (Financial)."
+    },
+    {
+    "id": "dataset-128",
+    "provider": "Minnesota Department of Human Services",
+    "title": "Minnesota Family Investment Program",
+    "alt_title": [
+        "MFIP",
+        "Family Investment Program"
+    ],
+    "url": "https://mn.gov/dhs/people-we-serve/children-and-families/economic-assistance/income/programs-and-services/mfip.jsp",
+    "description": "The Minnesota Family Investment Program (MFIP) helps families with children meet their basic needs, while helping parents move to financial stability through work. Parents are expected to work, and are supported in working with both cash and food assistance."
+    },
+    {
+    "id": "dataset-129",
+    "provider": "Minnesota Department of Education",
+    "title": "Minnesota Statewide Longitudinal Education Data System",
+    "alt_title": [
+        "SLEDS"
+    ],
+    "url": "http://w20.education.state.mn.us/MDEAnalytics/Sleds.jsp",
+    "description": "The Statewide Longitudinal Education Data System (SLEDS) Secure Reports site contains student level de-identified data from K-12 and postsecondary education. Data are linked at the individual student level from K-12 to postsecondary but no identifying information is included. SLEDS was developed to match student data from pre-kindergarten through completion of postsecondary education and into the workforce."
+    },
+    {
+    "id": "dataset-130",
+    "provider": "Louisiana Department of Children & Family Services",
+    "title": "Strategies to Empower People Program data",
+    "alt_title": [
+        "STEP",
+        "Louisiana STEP"
+      ],
+    "url": "http://www.dss.louisiana.gov/index.cfm?md=pagebuilder&tmp=home&nid=318&pid=527#undefined",
+    "description": "The goal of the Strategies to Empower People (STEP) Program is to provide opportunities for work-eligible families of FITAP to receive job training, employment and supportive services to enable them to become self-sufficient."
+      },
+      {
+    "id": "dataset-131",
+    "provider": "Maryland Department of Human Resources",
+    "title": "WORKS",
+    "alt_title": [
+        "Maryland WORKS",
+        "Maryland's Human Services Agency Work Programs"
+      ],
+    "url": "https://www.marylandworks.org/",
+    "description": "The WORKS system was developed by DHR to document information related to the participation of Temporary Cash Assistance (TCA) and other DHR customers in work and work-related activities. Specifically, since December 2006, the WORKS system has been used to collect and report data related to federal work participation reporting requirements, provide DHR with information that can be used to monitor the results of local work programs, and provide LDSS staff with information that can be used to manage and improve program operations."
+      },
+      {
+    "id": "dataset-132",
+    "provider": "Maryland Department of Information Technology",
+    "title": "Maryland Automated Benefits System",
+    "alt_title": [
+        "MABS"
+      ],
+    "url": "https://doit.maryland.gov/contracts/Documents/cats_torfp_status/mdautobenefitssys.pdf",
+    "description": "MABS includes data from all employers covered by the state’s Unemployment Insurance (UI) law and the unemployment compensation for federal employees (UCFE) program."
+      },
+      {
+    "id": "dataset-133",
+    "provider": "Florida Department of Children and Families",
+    "title": "State of Florida Supplemental Nutrition Assistance Program",
+    "alt_title": [
+        "SNAP",
+        "Florida SNAP",
+        "Florida Supplemental Nutrition Assistance Program",
+        "Supplemental Nutrition Assistance Program",
+        "State of Florida SNAP"
+      ],
+    "url": "https://www.myflorida.com/accessflorida/",
+    "description": "SNAP offers food benefits to eligible, low-income individuals and families."
+      },
+      {
+    "id": "dataset-134",
+    "provider": "Florida Department of Children and Families",
+    "title": "Family Transition Program",
+    "alt_title": [
+        "SNAP",
+        "FTP",
+        "FTP's computerized tracking system",
+        "CMS",
+        "FTP CMS",
+        "Family Transition Program CMS",
+        "Family Transition Program computerized tracking system"
+      ],
+      "description": "Data on FTP group members’ case histories and participation in employment-related activities."
+      },
+      {
+      "id": "dataset-135",
+      "provider": "State of Florida",
+      "title": "FLORIDA system",
+      "description": "Statewide database containing FTP group members' case histories and participation in employment-related activities."
+      },
+      {
+      "id": "dataset-136",
+      "provider": "State of Florida",
+      "title": "Florida WAGES",
+      "alt_title": [
+          "WAGES"
+      ],
+      "description": "Statewide database containing FTP group members' case histories and participation in employment-related activities."
+      },
+      {
+      "id": "dataset-137",
+      "provider": "IIC Data Center at the Mandel School of Applied Social Sciences at Case Western Reserve University",
+      "title": "Cuyahoga County's Invest in Children program data",
+      "alt_title": [
+          "IIC",
+          "Invest in Children program",
+          "Invest in Children"
+      ],
+      "url": "http://investinchildren.cuyahogacounty.us/en-US/evaluation.aspx",
+      "description": "The mission of Invest in Children is to mobilize resources and energy to ensure the well-being of all young children in Cuyahoga County, provide supportive services to parents and caregivers, and build awareness, momentum, and advocacy in the community around children and family issues."
+      },
+      {
+      "id": "dataset-138",
+      "provider": "A large, unionized firm in the transportation industry with numerous domestic and international locations",
+      "title": "Human resource records",
+      "alt_title": [
+          "HR records"
+      ],
+      "description": "Contains administrative data from this firm, including employment and earnings data."
+      },
+      {
+      "id": "dataset-139",
+      "provider": "Georgia Department of Labor",
+      "title": "Georgia QCEW",
+      "alt_title": [
+          "Georgia Quarterly Census of Employment and Wages"
+      ],
+      "url": "https://www.bls.gov/cew/",
+      "description": "The Quarterly Census of Employment and Wages (QCEW) program publishes a quarterly count of employment and wages reported by employers covering more than 95 percent of U.S. jobs, available at the county, MSA, state and national levels by industry."
+      },
+      {
+      "id": "dataset-140",
+      "provider": "Colorado Governor's Office of Information Technology",
+      "title": "Colorado Benefits Management System",
+      "alt_title": [
+          "CBMS"
+      ],
+      "url": "http://www.oit.state.co.us/cbms",
+      "description": "The statewide database system through which all food, cash and medical assistance applications and eligibility determinations are processed."
+      },
+      {
+      "id": "dataset-141",
+      "provider": "U.S. Census Bureau",
+      "title": "1990 Census of Population General Population Characteristics Massachusetts",
+      "url": "https://www2.census.gov/library/publications/decennial/1990/cp-1/cp-1-23.pdf"
+      },
+      {
+      "id": "dataset-142",
+      "provider": "Centers for Disease Control and Prevention",
+      "title": "National Health Interview Survey",
+      "alt_title":[
+            "NHIS"
+      ],
+      "url": "https://www.cdc.gov/nchs/nhis/data-questionnaires-documentation.htm",
+      "description": "The National Health Interview Survey (NHIS) has monitored the health of the nation since 1957. NHIS data on a broad range of health topics are collected through personal household interviews."
+      },
+      {
+      "id": "dataset-143",
+      "provider": "U.S. Bureau of Labor Statistics",
+      "title": " National Longitudinal Survey of Youth Children’s Supplement",
+      "alt_title":[
+        "NLSY-CS"
+      ],
+      "url": "https://www.nlsinfo.org/content/cohorts"
+      },
+      {
+      "id": "dataset-144",
+      "provider": "Centers for Disease Control and Prevention",
+      "title": "National Health Interview Survey Child Supplement",
+      "alt_title":[
+        "NHIS-CS"
+      ],
+      "url": "http://action.cahmi.org/learn/NHIS-Child",
+      "description": "The Sample Adult and the Sample Child Cores obtain additional information on health status, health care services, and behavior for a randomly selected adult or child, ages 0 to 17 years old, from each family."
+      },
+      {
+      "id": "dataset-145",
+      "provider": "Multnomah Department of Community Justice",
+      "title": "Multnomah Community Supervision Data",
+      "url": "https://multco.us/dcj",
+      "description": "The Department of Community Justice (DCJ) provides supervision and treatment to youth, adults, families, and communities to address the underlying issues that drive crime. Our efforts are guided by evidence-based strategies to maximize our resources and results."
+      }
+
 ]
