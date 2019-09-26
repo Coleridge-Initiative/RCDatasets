@@ -1884,9 +1884,68 @@
         "provider": "U.S. Census Bureau",
         "title": "Quarterly Workforce Indicators",
         "alt_title": [
-            "QWI"
+            "QWI",
+            "LEHD",
+            "Longitudinal Employer-Household Dynamics"
     ],
         "url": "https://lehd.ces.census.gov/data/qwi/",
         "description": "The Quarterly Workforce Indicators (QWI) are a set of economic indicators including employment, job creation, earnings, and other measures of employment flows."
+    },
+    {
+        "id": "dataset-171",
+        "provider": "Commonwealth of Pennsylvania Department of Labor & Industry",
+        "title": "Pennsylvania Unemployment Insurance",
+        "alt_title": [
+            "UI",
+            "Pennsylvania UI"
+        ],
+        "url": "https://www.uc.pa.gov/unemployment-benefits/Pages/default.aspx",
+        "description": "The UI Data Summary is produced quarterly from state-reported data contained in the Unemployment Insurance Data Base (UIDB) as well as UI-related data from outside sources (e.g., Bureau of Labor Statistics data on employment and unemployment and U.S. Department of Treasury data on state UI trust fund activities)."
+    },
+    {
+        "id": "dataset-172",
+        "provider": "Federal Financial Institutions Examination Council",
+        "title": "Home Mortgage Disclosure Act data",
+        "alt_title": [
+            "HMDA"
+        ],
+        "url": "https://www.ffiec.gov/hmda/hmdaproducts.htm",
+        "description": "The Home Mortgage Disclosure Act is a United States federal law that requires certain financial institutions to provide mortgage data to the public."
+    },
+    {
+        "id": "dataset-173",
+        "title": "Urban Change Neighborhood Indicators Database",
+        "description": "Contains Urban Change survey of welfare recipients."
+    },
+    {
+        "id": "dataset-174",
+        "provider": "South Carolina Department of Social Services",
+        "title": "South Carolina Temporary Assistance for Needy Families",
+        "alt_title": [
+            "Family Independence data"
+            "FI",
+            "Family Independence",
+            "TANF",
+            "South Carolina TANF",
+            "Temporary Assistance for Needy Families",
+            "Aid to Dependent Families with Children",
+            "South Carolina Aid to Dependent Families with Children",
+            "South Carolina AFDC",
+            "AFDC"
+        ],
+        "url": "https://dss.sc.gov/about/data-and-resources/family-assistance-data/family-independence/",
+        "description": "TThe South Carolina Family Independence (FI) program is designed to help needy families achieve self-sufficiency."
+    },
+    {
+        "id": "dataset-175",
+        "provider": "South Carolina Department of Social Services",
+        "title": "South Carolina Unemployment Insurance",
+        "alt_title": [
+            "UI",
+            "South Carolina UI",
+            "South Carolina Unemployment Insurance"
+        ],
+        "url": "https://dew.sc.gov/tools-resources/data-statistics",
+        "description": "The UI Data Summary is produced quarterly from state-reported data contained in the Unemployment Insurance Data Base (UIDB) as well as UI-related data from outside sources (e.g., Bureau of Labor Statistics data on employment and unemployment and U.S. Department of Treasury data on state UI trust fund activities)."
     }
   ]
