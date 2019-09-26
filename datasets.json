@@ -1820,5 +1820,79 @@
         "url": "https://www2.illinois.gov/idoc/reportsandstatistics/Pages/default.aspx",
         "description": "The information made available on this database is provided for the general public to facilitate research and general inquiries related to the offender population."
 
+    },
+    {
+        "id": "dataset-166",
+        "provider": "Maryland Department of Human Services",
+        "title": "Maryland Temporary Assistance for Needy Families",
+        "alt_title": [
+            "TANF",
+            "Maryland TANF",
+            "Temporary Assistance to Needy Families",
+            "Aid to Dependent Families with Children",
+            "Maryland Aid to Dependent Families with Children",
+            "Maryland AFDC",
+            "AFDC",
+            "TCA",
+            "Maryland TCA",
+            "Temporary Cash Assistance",
+            "Maryland Temporary Cash Assistance"
+        ],
+        "url": "http://dhs.maryland.gov/weathering-tough-times/temporary-cash-assistance/",
+        "description": "Temporary Cash Assistance (TCA), Maryland’s Temporary Assistance to Needy Families (TANF) program, provides cash assistance to families with dependent children when available resources do not fully address the family’s needs and while preparing program participants for independence through work."
+    },
+    {
+        "id": "dataset-167",
+        "provider": "Missouri Department of Social Services",
+        "title": "Missouri Temporary Assistance for Needy Families",
+        "alt_title": [
+            "TANF",
+            "Missouri TANF",
+            "Temporary Assistance to Needy Families",
+            "Aid to Dependent Families with Children",
+            "Missouri Aid to Dependent Families with Children",
+            "Missouri AFDC",
+            "AFDC",
+            "Temporary Assistance",
+            "Missouri Temporary Assistance",
+            "Missouri TA",
+            "TA"
+        ],
+        "url": "https://mydss.mo.gov/temporary-assistance",
+        "description": "The Temporary Assistance for Needy Families program, also known as Temporary Assistance (TA), is a program designed to provide cash benefits to low-income families for the household’s children such as clothing, utilities and other services."
+    },
+    {
+        "id": "dataset-168",
+        "provider": "Maryland Department of Labor",
+        "title": "Maryland Unemployment Insurance",
+        "alt_title": [
+            "UI",
+            "Maryland UI",
+            "Maryland Unemployment Insurance"
+    ],
+        "url": "https://www.dllr.state.md.us/employment/unemployment.shtml",
+        "description": "UI-related data on employment and unemployment."
+    },
+    {
+        "id": "dataset-169",
+        "provider": "Missouri Department of Labor and Industrial Relations",
+        "title": "Missouri Unemployment Insurance",
+        "alt_title": [
+            "UI",
+            "Missouri UI",
+            "Missouri Unemployment Insurance"
+    ],
+        "url": "https://labor.mo.gov/data",
+        "description": "UI-related data on employment and unemployment."
+    },
+    {
+        "id": "dataset-170",
+        "provider": "U.S. Census Bureau",
+        "title": "Quarterly Workforce Indicators",
+        "alt_title": [
+            "QWI"
+    ],
+        "url": "https://lehd.ces.census.gov/data/qwi/",
+        "description": "The Quarterly Workforce Indicators (QWI) are a set of economic indicators including employment, job creation, earnings, and other measures of employment flows."
     }
     ]
