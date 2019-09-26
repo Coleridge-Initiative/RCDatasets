@@ -1344,7 +1344,9 @@
         "alt_title": [
             "Client Assistance for Re-employment and Economic Support",
             "Wisconsin CARES",
-            "CARES"
+            "CARES",
+            "Computer Reporting Network",
+            "CRN"
         ],
         "url": "https://www.dhs.wisconsin.gov/systems/cares-workweb.htm",
         "description": "Contains information on Wisconsin's TANF program and other means-tested programs."
@@ -1914,6 +1916,7 @@
     },
     {
         "id": "dataset-173",
+        "provider":"MDRC",
         "title": "Urban Change Neighborhood Indicators Database",
         "description": "Contains Urban Change survey of welfare recipients."
     },
@@ -1947,5 +1950,38 @@
         ],
         "url": "https://dew.sc.gov/tools-resources/data-statistics",
         "description": "The UI Data Summary is produced quarterly from state-reported data contained in the Unemployment Insurance Data Base (UIDB) as well as UI-related data from outside sources (e.g., Bureau of Labor Statistics data on employment and unemployment and U.S. Department of Treasury data on state UI trust fund activities)."
+    },
+    {
+        "id": "dataset-176",
+        "provider": "Minnesota Department of Employment and Economic Development",
+        "title": "Minnesota Unemployment Insurance",
+        "alt_title": [
+            "UI",
+            "Minnesota UI",
+            "Minnesota Unemployment Insurance"
+        ],
+        "url": "https://mn.gov/deed/data/current-econ-highlights/ui-statistics.jsp",
+        "description": "The UI Data Summary is produced quarterly from state-reported data contained in the Unemployment Insurance Data Base (UIDB) as well as UI-related data from outside sources (e.g., Bureau of Labor Statistics data on employment and unemployment and U.S. Department of Treasury data on state UI trust fund activities)."
+    },
+    {
+        "id": "dataset-177",
+        "provider": "Wisconsin Department of Children and Families",
+        "title": "Wisconsin’s Statewide Automated Child Welfare Information System",
+        "alt_title": [
+            "WiSACWIS",
+            "eWiSACWIS"
+        ],
+        "url": "https://dcf.wisconsin.gov/cwportal/is",
+        "description": "Tracks child welfare services involvement including child maltreatment investigations and out-of home care placements."
+    },
+    {
+        "id": "dataset-178",
+        "provider": "U.S. Department of Labor",
+        "title": "Unemployment Insurance wage data",
+        "alt_title": [
+            "UI wage data"
+        ],
+        "url": "https://www.dol.gov/general/topic/unemployment-insurance",
+        "description": "The U.S. Department of Labor's Unemployment Insurance (UI) programs provide unemployment benefits to eligible workers who become unemployed through no fault of their own, and meet certain other eligibility requirements."
     }
   ]
