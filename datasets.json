@@ -823,7 +823,9 @@
             "Aid to Dependent Families with Children",
             "Washington Aid to Dependent Families with Children",
             "Washington AFDC",
-            "AFDC"
+            "AFDC",
+            "Work First",
+            "Washington Work First"
         ],
         "url": "https://www.dshs.wa.gov/",
         "description": "Temporary Assistance for Needy Families (TANF) provides temporary cash for families in need."
@@ -1317,11 +1319,7 @@
         "title": "U.S Census",
         "alt_title": [
             "census",
-            "decennial census"
-        ],
-        "url": "https://www.census.gov/history/www/programs/demographic/decennial_census.html",
-        "title": "United States 2000 Census",
-        "alt_title": [
+            "decennial census",
             "U.S. 2000 Census",
             "2000 Census"
         ],
@@ -1573,8 +1571,9 @@
     {
         "id": "dataset-143",
         "provider": "U.S. Bureau of Labor Statistics",
-        "title": " National Longitudinal Survey of Youth Children\u2019s Supplement",
+        "title": " National Longitudinal Survey of Youth",
         "alt_title": [
+            "NLSY",
             "NLSY-CS"
         ],
         "url": "https://www.nlsinfo.org/content/cohorts"
@@ -1693,5 +1692,127 @@
         ],
         "url": "https://www.oregon.gov/doc/research-and-requests/Pages/research-and-statistics.aspx",
         "description": "Decision Support System – Justice, which contains integrated, individual-level data from law enforcement agencies (Portland Police Departments and the Multnomah County Sheriff), the District Attorney, and the Courts. "
+    },
+    {
+        "id": "dataset-155",
+        "provider": "Commonwealth of Kentucky Department of Employment Services",
+        "title": "Kentucky Unemployment Insurance",
+        "alt_title": [
+            "UI",
+            "Kentucky UI",
+            "Kentucky Unemployment Insurance"
+        ],
+        "url": "http://www.kewes.ky.gov/",
+        "description": "The UI Data Summary is produced quarterly from state-reported data contained in the Unemployment Insurance Data Base (UIDB) as well as UI-related data from outside sources (e.g., Bureau of Labor Statistics data on employment and unemployment and U.S. Department of Treasury data on state UI trust fund activities)."
+    },
+    {
+        "id": "dataset-156",
+        "provider": "Kentucky Cabinet for Health and Family Services",
+        "title": "Transitional Assistance Program data",
+        "alt_title": [
+            "RAP",
+            "Kentucky RAP",
+            "Kentucky Relocation Assistance Program",
+            "Relocation Assistance Program",
+            "K-TAP",
+            "Kentucky Transitional Assistance Program"
+        ],
+        "url": "https://chfs.ky.gov/agencies/dcbs/dfs/fssb/Pages/ktap.aspx",
+        "description": "Kentucky Transitional Assistance Program (K-TAP) is the monetary assistance program established by Kentucky using Federal funds from the TANF (Temporary Assistance for Needy Families) block grant."
+    },
+    {
+        "id": "dataset-157",
+        "provider": "Washington State Department of Social and Health Services",
+        "title": "Automated Client Eligibility System data",
+        "alt_title": [
+            "ACES"
+        ],
+        "url": "https://www.dshs.wa.gov/esa/eligibility-z-manual-ea-z/automated-client-eligibility-system-aces",
+        "description": "The ACES system is a tool for determining eligibility, issuing benefits, management support, and sharing of data between agencies."
+    },
+    {
+        "id": "dataset-158",
+        "provider": "Washington State Employment Security Department",
+        "title": "Washington Unemployment Insurance",
+        "alt_title": [
+            "UI",
+            "Washington UI",
+            "Washington Unemployment Insurance",
+            "Washington state wage records"
+        ],
+        "url": "https://esd.wa.gov/labormarketinfo/unemployment-insurance-data",
+        "description": "The UI Data Summary is produced quarterly from state-reported data contained in the Unemployment Insurance Data Base (UIDB) as well as UI-related data from outside sources (e.g., Bureau of Labor Statistics data on employment and unemployment and U.S. Department of Treasury data on state UI trust fund activities)."
+    },
+    {
+        "id": "dataset-159",
+        "provider": "Washington State Employment Security Department",
+        "title": "JOBS Automated System records",
+        "alt_title": [
+            "JAS records"
+        ],
+        "description": "Job record data."
+    },
+    {
+        "id": "dataset-160",
+        "provider": "Washington State Employment Security Department",
+        "title": "ES-202 Files",
+        "alt_title": [
+            "Employment and Wages"
+        ],
+        "url": "http://lmi2.detma.org/lmi/lmi_es_a.asp",
+        "description": "Employment and Wage (ES-202) data are derived from reports filed by all employers subject to unemployment compensation laws, both state and federal. Industry employment and payroll information is produced both quarterly and annually for the state, labor market areas, workforce development areas, cities and towns, and counties."
+    },
+    {
+        "id": "dataset-161",
+        "provider": "Federal Bureau of Investigation",
+        "title": "Uniform Crime Report",
+        "alt_title":[
+            "UCR",
+            "FBI Uniform Crime Report"
+        ],
+        "url": "https://www.fbi.gov/services/cjis/ucr",
+        "description": "Decision Support System – Justice, which contains integrated, individual-level data from law enforcement agencies (Portland Police Departments and the Multnomah County Sheriff), the District Attorney, and the Courts. "
+    },
+    {
+        "id": "dataset-162",
+        "provider": "Maryland Department of Juvenile Services",
+        "title": "Maryland Department of Juvenile Services Data",
+        "alt_title":[
+            "DJJ data",
+            "Maryland DJJ Data"
+        ],
+        "url": "https://djs.maryland.gov/pages/default.aspx"
+    },
+    {
+        "id": "dataset-163",
+        "provider": "Massachusetts Department of Criminal Justice Information Services",
+        "title": "Massachusetts Criminal Offender Record Information",
+        "alt_title":[
+            "CORI",
+            "CORI Data"
+        ],
+        "url": "https://www.mass.gov/criminal-record-check-services",
+        "description": "Massachusetts has 2 types of criminal records. Name-based court arraignment records, also known as CORI, are created and maintained by the Massachusetts courts."
+    },
+    {
+        "id": "dataset-164",
+        "provider": "Boston Police Department",
+        "title": "Boston Police Department Data",
+        "alt_title":[
+            "BPD Data"
+        ],
+        "url": "https://data.boston.gov/dataset",
+        "description": "Both the raw data and the interactive map are updated daily with the latest ... Crime incident reports are provided by Boston Police Department (BPD)."
+    },
+    {
+        "id": "dataset-165",
+        "provider": "Illinois Department of Corrections",
+        "title": "Illinois Division of Research and Planning Data",
+        "alt_title":[
+            "IDOC",
+            "IDOC Data"
+        ],
+        "url": "https://www2.illinois.gov/idoc/reportsandstatistics/Pages/default.aspx",
+        "description": "The information made available on this database is provided for the general public to facilitate research and general inquiries related to the offender population."
     }
-]
+    ]
