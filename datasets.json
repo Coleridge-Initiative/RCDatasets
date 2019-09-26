@@ -1313,7 +1313,13 @@
     },
     {
         "id": "dataset-118",
-        "provider": "United States Census Bureau",
+        "provider": "U.S. Census Bureau",
+        "title": "U.S Census",
+        "alt_title": [
+            "census",
+            "decennial census"
+        ],
+        "url": "https://www.census.gov/history/www/programs/demographic/decennial_census.html",
         "title": "United States 2000 Census",
         "alt_title": [
             "U.S. 2000 Census",
@@ -1647,5 +1653,45 @@
             "KAMES"
         ],
         "description": "The Kentucky Automated Management and Eligibility System (KAMES) file contains demographic and case file information on all Kentucky welfare clients."
+    },
+    {
+        "id": "dataset-151",
+        "provider": "Oregon Department of Corrections",
+        "title": "Community Supervision Data",
+        "alt_title":[
+            "parole data",
+            "post prison supervision data",
+            "post-prison supervision data"
+        ],
+        "url": "https://www.oregon.gov/doc/research-and-requests/pages/research-and-statistics.aspx",
+        "description": "The Oregon Department of Corrections’ (DOC) Research and Evaluation division provides mission-critical information on offender populations, program performance, and policy impact."
+    },
+    {
+        "id": "dataset-152",
+        "provider": "Oregon Department of Corrections",
+        "title": "Sanction Tracking Database",
+        "url": "https://www.oregon.gov/doc/research-and-requests/pages/research-and-statistics.aspx"
+    },
+    {
+        "id": "dataset-153",
+        "provider": "U.S. Department of Housing and Urban Development",
+        "title": "moving to opportunity program data",
+        "alt_title":[
+            "MTO Data"
+        ],
+        "url": "https://www.hud.gov/programdescription/mto",
+        "description": "Moving to Opportunity for Fair Housing (MTO) is a 10-year research demonstration that combines tenant-based rental assistance with housing counseling to help very low-income families move from poverty-stricken urban areas to low-poverty neighborhoods."
+    },
+    {
+        "id": "dataset-154",
+        "provider": "Oregon Department of Corrections",
+        "title": "decision support system",
+        "alt_title":[
+            "DDS",
+            "DDS-Justice",
+            "decision support system - justice"
+        ],
+        "url": "https://www.oregon.gov/doc/research-and-requests/Pages/research-and-statistics.aspx",
+        "description": "Decision Support System – Justice, which contains integrated, individual-level data from law enforcement agencies (Portland Police Departments and the Multnomah County Sheriff), the District Attorney, and the Courts. "
     }
 ]
