@@ -1744,6 +1744,7 @@
     },
     {
         "id": "dataset-159",
+        "provider": "Washington State Employment Security Department"
         "title": "JOBS Automated System records",
         "alt_title": [
             "JAS records"
