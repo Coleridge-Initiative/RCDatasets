@@ -1571,8 +1571,9 @@
     {
         "id": "dataset-143",
         "provider": "U.S. Bureau of Labor Statistics",
-        "title": " National Longitudinal Survey of Youth Children\u2019s Supplement",
+        "title": " National Longitudinal Survey of Youth",
         "alt_title": [
+            "NLSY",
             "NLSY-CS"
         ],
         "url": "https://www.nlsinfo.org/content/cohorts"
@@ -1744,7 +1745,11 @@
     },
     {
         "id": "dataset-159",
+
+        "provider": "Washington State Employment Security Department",
+=======
         "provider": "Washington State Employment Security Department"
+
         "title": "JOBS Automated System records",
         "alt_title": [
             "JAS records"
@@ -1760,5 +1765,60 @@
         ],
         "url": "http://lmi2.detma.org/lmi/lmi_es_a.asp",
         "description": "Employment and Wage (ES-202) data are derived from reports filed by all employers subject to unemployment compensation laws, both state and federal. Industry employment and payroll information is produced both quarterly and annually for the state, labor market areas, workforce development areas, cities and towns, and counties."
+
+    },
+    {
+        "id": "dataset-161",
+        "provider": "Federal Bureau of Investigation",
+        "title": "Uniform Crime Report",
+        "alt_title":[
+            "UCR",
+            "FBI Uniform Crime Report"
+        ],
+        "url": "https://www.fbi.gov/services/cjis/ucr",
+        "description": "Decision Support System – Justice, which contains integrated, individual-level data from law enforcement agencies (Portland Police Departments and the Multnomah County Sheriff), the District Attorney, and the Courts. "
+    },
+    {
+        "id": "dataset-162",
+        "provider": "Maryland Department of Juvenile Services",
+        "title": "Maryland Department of Juvenile Services Data",
+        "alt_title":[
+            "DJJ data",
+            "Maryland DJJ Data"
+        ],
+        "url": "https://djs.maryland.gov/pages/default.aspx"
+    },
+    {
+        "id": "dataset-163",
+        "provider": "Massachusetts Department of Criminal Justice Information Services",
+        "title": "Massachusetts Criminal Offender Record Information",
+        "alt_title":[
+            "CORI",
+            "CORI Data"
+        ],
+        "url": "https://www.mass.gov/criminal-record-check-services",
+        "description": "Massachusetts has 2 types of criminal records. Name-based court arraignment records, also known as CORI, are created and maintained by the Massachusetts courts."
+    },
+    {
+        "id": "dataset-164",
+        "provider": "Boston Police Department",
+        "title": "Boston Police Department Data",
+        "alt_title":[
+            "BPD Data"
+        ],
+        "url": "https://data.boston.gov/dataset",
+        "description": "Both the raw data and the interactive map are updated daily with the latest ... Crime incident reports are provided by Boston Police Department (BPD)."
+    },
+    {
+        "id": "dataset-165",
+        "provider": "Illinois Department of Corrections",
+        "title": "Illinois Division of Research and Planning Data",
+        "alt_title":[
+            "IDOC",
+            "IDOC Data"
+        ],
+        "url": "https://www2.illinois.gov/idoc/reportsandstatistics/Pages/default.aspx",
+        "description": "The information made available on this database is provided for the general public to facilitate research and general inquiries related to the offender population."
+
     }
     ]
