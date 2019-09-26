@@ -1564,10 +1564,10 @@
         "title": "National Health Interview Survey",
         "alt_title": [
             "NHIS"
-      ],
-      "url": "https://www.cdc.gov/nchs/nhis/data-questionnaires-documentation.htm",
-      "description": "The National Health Interview Survey (NHIS) has monitored the health of the nation since 1957. NHIS data on a broad range of health topics are collected through personal household interviews."
-      },
+        ],
+        "url": "https://www.cdc.gov/nchs/nhis/data-questionnaires-documentation.htm",
+        "description": "The National Health Interview Survey (NHIS) has monitored the health of the nation since 1957. NHIS data on a broad range of health topics are collected through personal household interviews."
+    },
     {
         "id": "dataset-143",
         "provider": "U.S. Bureau of Labor Statistics",
@@ -1761,7 +1761,6 @@
         ],
         "url": "http://lmi2.detma.org/lmi/lmi_es_a.asp",
         "description": "Employment and Wage (ES-202) data are derived from reports filed by all employers subject to unemployment compensation laws, both state and federal. Industry employment and payroll information is produced both quarterly and annually for the state, labor market areas, workforce development areas, cities and towns, and counties."
-
     },
     {
         "id": "dataset-161",
@@ -1815,7 +1814,6 @@
         ],
         "url": "https://www2.illinois.gov/idoc/reportsandstatistics/Pages/default.aspx",
         "description": "The information made available on this database is provided for the general public to facilitate research and general inquiries related to the offender population."
-
     },
     {
         "id": "dataset-166",
