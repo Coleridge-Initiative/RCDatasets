@@ -1745,7 +1745,11 @@
     },
     {
         "id": "dataset-159",
+
         "provider": "Washington State Employment Security Department",
+=======
+        "provider": "Washington State Employment Security Department"
+
         "title": "JOBS Automated System records",
         "alt_title": [
             "JAS records"
@@ -1761,6 +1765,7 @@
         ],
         "url": "http://lmi2.detma.org/lmi/lmi_es_a.asp",
         "description": "Employment and Wage (ES-202) data are derived from reports filed by all employers subject to unemployment compensation laws, both state and federal. Industry employment and payroll information is produced both quarterly and annually for the state, labor market areas, workforce development areas, cities and towns, and counties."
+
     },
     {
         "id": "dataset-161",
@@ -1814,5 +1819,6 @@
         ],
         "url": "https://www2.illinois.gov/idoc/reportsandstatistics/Pages/default.aspx",
         "description": "The information made available on this database is provided for the general public to facilitate research and general inquiries related to the offender population."
+
     }
     ]
