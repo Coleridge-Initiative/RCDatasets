@@ -1313,13 +1313,19 @@
     },
     {
         "id": "dataset-118",
-        "provider": "United States Census Bureau",
+        "provider": "U.S. Census Bureau",
         "title": "U.S Census",
         "alt_title": [
             "census",
             "decennial census"
         ],
         "url": "https://www.census.gov/history/www/programs/demographic/decennial_census.html",
+        "title": "United States 2000 Census",
+        "alt_title": [
+            "U.S. 2000 Census",
+            "2000 Census"
+        ],
+        "url": "https://www.census.gov/census2000/states/us.html",
         "description": "Determined the resident population of the United States."
     },
     {
@@ -1547,6 +1553,12 @@
         ],
         "url": "http://www.oit.state.co.us/cbms",
         "description": "The statewide database system through which all food, cash and medical assistance applications and eligibility determinations are processed."
+    },
+    {
+        "id": "dataset-141",
+        "provider": "U.S. Census Bureau",
+        "title": "1990 Census of Population General Population Characteristics Massachusetts",
+        "url": "https://www2.census.gov/library/publications/decennial/1990/cp-1/cp-1-23.pdf"
     },
     {
         "id": "dataset-142",
