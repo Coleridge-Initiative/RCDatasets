@@ -1916,10 +1916,7 @@
     },
     {
         "id": "dataset-173",
-<<<<<<< HEAD
-=======
         "provider":"MDRC",
->>>>>>> d91fe059e6b4959e9d55eb26f71d90b8db635325
         "title": "Urban Change Neighborhood Indicators Database",
         "description": "Contains Urban Change survey of welfare recipients."
     },
@@ -1928,11 +1925,7 @@
         "provider": "South Carolina Department of Social Services",
         "title": "South Carolina Temporary Assistance for Needy Families",
         "alt_title": [
-<<<<<<< HEAD
-            "Family Independence data"
-=======
             "Family Independence data",
->>>>>>> d91fe059e6b4959e9d55eb26f71d90b8db635325
             "FI",
             "Family Independence",
             "TANF",
@@ -1957,8 +1950,6 @@
         ],
         "url": "https://dew.sc.gov/tools-resources/data-statistics",
         "description": "The UI Data Summary is produced quarterly from state-reported data contained in the Unemployment Insurance Data Base (UIDB) as well as UI-related data from outside sources (e.g., Bureau of Labor Statistics data on employment and unemployment and U.S. Department of Treasury data on state UI trust fund activities)."
-<<<<<<< HEAD
-=======
     },
     {
         "id": "dataset-176",
@@ -1992,6 +1983,5 @@
         ],
         "url": "https://www.dol.gov/general/topic/unemployment-insurance",
         "description": "The U.S. Department of Labor's Unemployment Insurance (UI) programs provide unemployment benefits to eligible workers who become unemployed through no fault of their own, and meet certain other eligibility requirements."
->>>>>>> d91fe059e6b4959e9d55eb26f71d90b8db635325
     }
   ]
