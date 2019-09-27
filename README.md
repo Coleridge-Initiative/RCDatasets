@@ -55,7 +55,7 @@ Other fields that may be included:
   * `alt_title` -- list of alternative titles or abbreviations, aka "mentions"
   * `url` -- URL for the main page describing the dataset
   * `doi` -- a unique persistent identifier assigned by the data provider
-  * `alt_ids` -- stored as a list, other unique identifiers (alternative DOIs, etc). `alt_ids` should be written as a `URN` e.g, if you have a new DOI the entry would be  `alt_ids`:[`doi:<doi>`]
+  * `alt_ids` -- stored as a list, other unique identifiers (alternative DOIs, etc). `alt_ids` should be written as a `URN` e.g, if you have a new DOI the entry would be  `alt_ids[doi:<doi>]`
   * `description` -- a brief (tweet sized) text description of the dataset
   * `date` -- date of publication, which may help resolve conflicting identifiers
 
