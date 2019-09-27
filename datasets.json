@@ -1983,5 +1983,59 @@
         ],
         "url": "https://www.dol.gov/general/topic/unemployment-insurance",
         "description": "The U.S. Department of Labor's Unemployment Insurance (UI) programs provide unemployment benefits to eligible workers who become unemployed through no fault of their own, and meet certain other eligibility requirements."
-    }
+    },
+    {
+    "id": "dataset-179",
+    "provider": "Johns Hopkins University",
+    "title": "Three-City Study",
+    "alt_title": [
+        "Three City Study"
+    ],
+    "url": "http://web.jhu.edu/threecitystudy/images/CharacteristicsReport.pdf",
+    "description": "For each round of data collection, we provide basic information on the demographic, health, welfare, and other social program status, and on the education, labor force, and income characteristics of the families."
+    },
+    {
+    "id": "dataset-180",
+    "provider": "Texas Health and Human Services Commission",
+    "title": "State of Texas Supplemental Nutrition Assistance Program",
+    "alt_title": [
+        "SNAP",
+        "Texas SNAP",
+        "Texas Supplemental Nutrition Assistance Program",
+        "Supplemental Nutrition Assistance Program",
+        "State of Texas SNAP"
+    ],
+    "url": "https://yourtexasbenefits.hhsc.texas.gov/programs/snap",
+    "description": "SNAP offers food benefits to eligible, low-income individuals and families."
+    },
+    {
+    "id": "dataset-181",
+    "provider": "Illinois Department of Human Services",
+    "title": "State of Illinois Supplemental Nutrition Assistance Program",
+    "alt_title": [
+        "SNAP",
+        "Illinois SNAP",
+        "Illinois Supplemental Nutrition Assistance Program",
+        "Supplemental Nutrition Assistance Program",
+        "State of Illinois SNAP"
+    ],
+    "url": "https://www.dhs.state.il.us/page.aspx?item=30357",
+    "description": "SNAP offers food benefits to eligible, low-income individuals and families."
+    },
+    {
+    "id": "dataset-182",
+    "provider": "Illinois Department of Human Services",
+    "title": "Illinois Temporary Assitance for Needy Families",
+    "alt_title": [
+        "TANF",
+        "Illinois TANF",
+        "Temporary Assitance for Needy Families",
+        "Aid to Dependent Families with Children",
+        "Illinois Aid to Dependent Families with Children",
+        "Illinois AFDC",
+        "AFDC"
+    ],
+    "url": "https://www.dhs.state.il.us/page.aspx?item=30358",
+    "description": "Temporary Assistance for Needy Families (TANF) provides temporary cash for families in need."
+  }
   ]
