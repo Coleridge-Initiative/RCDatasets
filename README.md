@@ -55,6 +55,21 @@ Other fields that may be included:
   * `alt_title` -- list of alternative titles or abbreviations, aka "mentions"
   * `url` -- URL for the main page describing the dataset
   * `doi` -- a unique persistent identifier assigned by the data provider
-  * `alt_ids` -- other unique identifiers (alternative DOIs, etc.)
+  * `alt_ids` -- stored as a list, other unique identifiers (alternative DOIs, ids from publishers, etc.). alt_ids should be written as a `URN` e.g, if you have a pmid 28818487 from Pubmed, the entry would be  `alt_ids`:[`pubmed:28818487`]
   * `description` -- a brief (tweet sized) text description of the dataset
   * `date` -- date of publication, which may help resolve conflicting identifiers
+
+
+## To Do - enrich `datasets.json` with additional metadata. 
+
+The datasets enumerated in `datasets.json` may have additional metadata, which would be given to us by the data provider or client using the dataset.
+
+These fields might include (but not limited to):
+* `keywords` and `categories` - list of terms associated with the dataset
+* `geographical coverage` - geography that the dataset covers, e.g New York State, Germany
+* `temporal coverage`  - time period of the dataset. If the dataset is regularly released, e.g. the U.S. Census, the value could be 'decennial'
+* `data steward` - person responsible for protecting and sharing the dataset - id should come from `data_stewards.json`  (not yet in existence)
+* `customer` - client or partner who requested that the dataset be entered into our knowledge graph - id should come from `customers.json` (not yet in existence)
+* `long_description` - longer form description of dataset
+* `in_adrf` - boolean value indicating whether or not the dataset is in the ADRF
+* `funder` - organization (could be the agency) that funded creation or dissemination of the dataset
