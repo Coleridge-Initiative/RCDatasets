@@ -852,7 +852,7 @@
     },
     {
         "id": "dataset-080",
-        "provider": "United States Census Bureau",
+        "provider": "U.S. Census Bureau",
         "title": "Person Identification Validation System",
         "alt_title": [
             "PVS"
@@ -1573,7 +1573,7 @@
     {
         "id": "dataset-143",
         "provider": "U.S. Bureau of Labor Statistics",
-        "title": " National Longitudinal Survey of Youth",
+        "title": "National Longitudinal Survey of Youth",
         "alt_title": [
             "NLSY",
             "NLSY-CS"
@@ -2070,8 +2070,8 @@
 },
 {
     "id": "dataset-186",
-    "provider": " Texas Department of Criminal Justice",
-    "title": " Texas Department of Criminal Justice Incarceration Data",
+    "provider": "Texas Department of Criminal Justice",
+    "title": "Texas Department of Criminal Justice Incarceration Data",
     "alt_title":[
         "TDCJ",
         "TDCJ Data"
@@ -2080,8 +2080,8 @@
 },
 {
     "id": "dataset-187",
-    "provider": " Texas Department of Public State",
-    "title": " Texas Department of Public State Computerized Criminal History Database",
+    "provider": "Texas Department of Public State",
+    "title": "Texas Department of Public State Computerized Criminal History Database",
     "alt_title":[
         "CCH",
         "CCH Data"
