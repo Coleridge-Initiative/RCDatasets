@@ -682,11 +682,11 @@
     {
         "id": "dataset-065",
         "provider": "Wisconsin Department of Children and Families",
-        "title": "Wisconsin Temporary Assistance to Needy Families",
+        "title": "Wisconsin Temporary Assistance for Needy Families",
         "alt_title": [
             "TANF",
             "Wisconsin TANF",
-            "Temporary Assistance to Needy Families",
+            "Temporary Assistance for Needy Families",
             "Aid to Dependent Families with Children",
             "Wisconsin Aid to Dependent Families with Children",
             "Wisconsin AFDC",
@@ -815,11 +815,11 @@
     {
         "id": "dataset-077",
         "provider": "Washington State Department of Social and Health Services",
-        "title": "Washington Temporary Assistance to Needy Families",
+        "title": "Washington Temporary Assistance for Needy Families",
         "alt_title": [
             "TANF",
             "Washington TANF",
-            "Temporary Assistance to Needy Families",
+            "Temporary Assistance for Needy Families",
             "Aid to Dependent Families with Children",
             "Washington Aid to Dependent Families with Children",
             "Washington AFDC",
@@ -895,11 +895,11 @@
     {
         "id": "dataset-084",
         "provider": "Florida Department of Children and Families",
-        "title": "Florida Temporary Assistance to Needy Families",
+        "title": "Florida Temporary Assistance for Needy Families",
         "alt_title": [
             "TANF",
             "Florida TANF",
-            "Temporary Assistance to Needy Families",
+            "Temporary Assistance for Needy Families",
             "Aid to Dependent Families with Children",
             "Florida Aid to Dependent Families with Children",
             "Florida AFDC",
@@ -911,11 +911,11 @@
     {
         "id": "dataset-085",
         "provider": "Georgia Department of Human Services",
-        "title": "Georgia Temporary Assistance to Needy Families",
+        "title": "Georgia Temporary Assistance for Needy Families",
         "alt_title": [
             "TANF",
             "Georgia TANF",
-            "Temporary Assistance to Needy Families",
+            "Temporary Assistance for Needy Families",
             "Aid to Dependent Families with Children",
             "Georgia Aid to Dependent Families with Children",
             "Georgia AFDC",
@@ -927,11 +927,11 @@
     {
         "id": "dataset-086",
         "provider": "Michigan Department of Health and Human Services",
-        "title": "Michigan Temporary Assistance to Needy Families",
+        "title": "Michigan Temporary Assistance for Needy Families",
         "alt_title": [
             "TANF",
             "Michigan TANF",
-            "Temporary Assistance to Needy Families",
+            "Temporary Assistance for Needy Families",
             "Aid to Dependent Families with Children",
             "Michigan Aid to Dependent Families with Children",
             "Michigan AFDC",
@@ -943,11 +943,11 @@
     {
         "id": "dataset-087",
         "provider": "Ohio Department of Job and Family Services",
-        "title": "Ohio Temporary Assistance to Needy Families",
+        "title": "Ohio Temporary Assistance for Needy Families",
         "alt_title": [
             "TANF",
             "Ohio TANF",
-            "Temporary Assistance to Needy Families",
+            "Temporary Assistance for Needy Families",
             "Aid to Dependent Families with Children",
             "Ohio Aid to Dependent Families with Children",
             "Ohio AFDC",
@@ -1025,11 +1025,11 @@
     {
         "id": "dataset-093",
         "provider": "Oregon Department of Human Services",
-        "title": "Oregon Temporary Assistance to Needy Families",
+        "title": "Oregon Temporary Assitance for Needy Families",
         "alt_title": [
             "TANF",
             "Oregon TANF",
-            "Temporary Assistance to Needy Families",
+            "Temporary Assitance for Needy Families",
             "Aid to Dependent Families with Children",
             "Oregon Aid to Dependent Families with Children",
             "Oregon AFDC",
@@ -1126,12 +1126,12 @@
     {
         "id": "dataset-102",
         "provider": "District of Columbia Department of Human Services",
-        "title": "District of Columbia Temporary Assistance to Needy Families",
+        "title": "District of Columbia Temporary Assitance for Needy Families",
         "alt_title": [
             "TANF",
             "District of Columbia TANF",
             "D.C. TANF",
-            "Temporary Assistance to Needy Families",
+            "Temporary Assitance for Needy Families",
             "Aid to Dependent Families with Children",
             "District of Columbia Aid to Dependent Families with Children",
             "D.C. Aid to Dependent Families with Children",
@@ -1145,11 +1145,11 @@
     {
         "id": "dataset-103",
         "provider": "Pennsylvania Department of Human Services",
-        "title": "Pennsylvania Temporary Assistance to Needy Families",
+        "title": "Pennsylvania Temporary Assitance for Needy Families",
         "alt_title": [
             "TANF",
             "Pennsylvania TANF",
-            "Temporary Assistance to Needy Families",
+            "Temporary Assitance for Needy Families",
             "Aid to Dependent Families with Children",
             "Pennsylvania Aid to Dependent Families with Children",
             "Pennsylvania AFDC",
@@ -1161,12 +1161,12 @@
     {
         "id": "dataset-104",
         "provider": "New York State Office of Temporary and Disability Assistance",
-        "title": "New York Temporary Assistance to Needy Families",
+        "title": "New York Temporary Assitance for Needy Families",
         "alt_title": [
             "TANF",
             "New York TANF",
             "N.Y. TANF",
-            "Temporary Assistance to Needy Families",
+            "Temporary Assitance for Needy Families",
             "Aid to Dependent Families with Children",
             "New York Aid to Dependent Families with Children",
             "N.Y. Aid to Dependent Families with Children",
@@ -1221,11 +1221,11 @@
     {
         "id": "dataset-107",
         "provider": "Minnesota Department of Health",
-        "title": "Minnesota Temporary Assistance to Needy Families",
+        "title": "Minnesota Temporary Assitance for Needy Families",
         "alt_title": [
             "TANF",
             "Minnesota TANF",
-            "Temporary Assistance to Needy Families",
+            "Temporary Assitance for Needy Families",
             "Aid to Dependent Families with Children",
             "Minnesota Aid to Dependent Families with Children",
             "Minnesota AFDC",
@@ -1237,11 +1237,11 @@
     {
         "id": "dataset-108",
         "provider": "Nebraska Department of Health and Human Services",
-        "title": "Nebraska Temporary Assistance to Needy Families",
+        "title": "Nebraska Temporary Assitance for Needy Families",
         "alt_title": [
             "TANF",
             "Nebraska TANF",
-            "Temporary Assistance to Needy Families",
+            "Temporary Assitance for Needy Families",
             "Aid to Dependent Families with Children",
             "Nebraska Aid to Dependent Families with Children",
             "Nebraska AFDC",
@@ -1253,12 +1253,12 @@
     {
         "id": "dataset-109",
         "provider": "State of New Jersey Department of Human Services",
-        "title": "New Jersey Temporary Assistance to Needy Families",
+        "title": "New Jersey Temporary Assitance for Needy Families",
         "alt_title": [
             "TANF",
             "New Jersey  TANF",
             "N.J. TANF",
-            "Temporary Assistance to Needy Families",
+            "Temporary Assitance for Needy Families",
             "Aid to Dependent Families with Children",
             "New Jersey Aid to Dependent Families with Children",
             "N.J. Aid to Dependent Families with Children",
@@ -1272,12 +1272,12 @@
     {
         "id": "dataset-110",
         "provider": "State of Rhode Island Department of Human Services",
-        "title": "Rhode Island Temporary Assistance to Needy Families",
+        "title": "Rhode Island Temporary Assitance for Needy Families",
         "alt_title": [
             "TANF",
             "Rhode Island  TANF",
             "R.I. TANF",
-            "Temporary Assistance to Needy Families",
+            "Temporary Assitance for Needy Families",
             "Aid to Dependent Families with Children",
             "Rhode Island Aid to Dependent Families with Children",
             "R.I. Aid to Dependent Families with Children",
@@ -1344,7 +1344,9 @@
         "alt_title": [
             "Client Assistance for Re-employment and Economic Support",
             "Wisconsin CARES",
-            "CARES"
+            "CARES",
+            "Computer Reporting Network",
+            "CRN"
         ],
         "url": "https://www.dhs.wisconsin.gov/systems/cares-workweb.htm",
         "description": "Contains information on Wisconsin's TANF program and other means-tested programs."
@@ -1620,11 +1622,11 @@
     {
         "id": "dataset-148",
         "provider": "Texas Health and Human Services Commission",
-        "title": "Texas Temporary Assistance to Needy Families",
+        "title": "Texas Temporary Assitance for Needy Families",
         "alt_title": [
             "TANF",
             "Texas TANF",
-            "Temporary Assistance to Needy Families",
+            "Temporary Assitance for Needy Families",
             "Aid to Dependent Families with Children",
             "Texas Aid to Dependent Families with Children",
             "Texas AFDC",
@@ -1745,11 +1747,7 @@
     },
     {
         "id": "dataset-159",
-
         "provider": "Washington State Employment Security Department",
-=======
-        "provider": "Washington State Employment Security Department"
-
         "title": "JOBS Automated System records",
         "alt_title": [
             "JAS records"
@@ -1765,7 +1763,6 @@
         ],
         "url": "http://lmi2.detma.org/lmi/lmi_es_a.asp",
         "description": "Employment and Wage (ES-202) data are derived from reports filed by all employers subject to unemployment compensation laws, both state and federal. Industry employment and payroll information is produced both quarterly and annually for the state, labor market areas, workforce development areas, cities and towns, and counties."
-
     },
     {
         "id": "dataset-161",
@@ -1819,6 +1816,276 @@
         ],
         "url": "https://www2.illinois.gov/idoc/reportsandstatistics/Pages/default.aspx",
         "description": "The information made available on this database is provided for the general public to facilitate research and general inquiries related to the offender population."
-
-    }
-    ]
+    },
+    {
+        "id": "dataset-166",
+        "provider": "Maryland Department of Human Services",
+        "title": "Maryland Temporary Assistance for Needy Families",
+        "alt_title": [
+            "TANF",
+            "Maryland TANF",
+            "Temporary Assistance to Needy Families",
+            "Aid to Dependent Families with Children",
+            "Maryland Aid to Dependent Families with Children",
+            "Maryland AFDC",
+            "AFDC",
+            "TCA",
+            "Maryland TCA",
+            "Temporary Cash Assistance",
+            "Maryland Temporary Cash Assistance"
+        ],
+        "url": "http://dhs.maryland.gov/weathering-tough-times/temporary-cash-assistance/",
+        "description": "Temporary Cash Assistance (TCA), Maryland’s Temporary Assistance to Needy Families (TANF) program, provides cash assistance to families with dependent children when available resources do not fully address the family’s needs and while preparing program participants for independence through work."
+    },
+    {
+        "id": "dataset-167",
+        "provider": "Missouri Department of Social Services",
+        "title": "Missouri Temporary Assistance for Needy Families",
+        "alt_title": [
+            "TANF",
+            "Missouri TANF",
+            "Temporary Assistance to Needy Families",
+            "Aid to Dependent Families with Children",
+            "Missouri Aid to Dependent Families with Children",
+            "Missouri AFDC",
+            "AFDC",
+            "Temporary Assistance",
+            "Missouri Temporary Assistance",
+            "Missouri TA",
+            "TA"
+        ],
+        "url": "https://mydss.mo.gov/temporary-assistance",
+        "description": "The Temporary Assistance for Needy Families program, also known as Temporary Assistance (TA), is a program designed to provide cash benefits to low-income families for the household’s children such as clothing, utilities and other services."
+    },
+    {
+        "id": "dataset-168",
+        "provider": "Maryland Department of Labor",
+        "title": "Maryland Unemployment Insurance",
+        "alt_title": [
+            "UI",
+            "Maryland UI",
+            "Maryland Unemployment Insurance"
+    ],
+        "url": "https://www.dllr.state.md.us/employment/unemployment.shtml",
+        "description": "UI-related data on employment and unemployment."
+    },
+    {
+        "id": "dataset-169",
+        "provider": "Missouri Department of Labor and Industrial Relations",
+        "title": "Missouri Unemployment Insurance",
+        "alt_title": [
+            "UI",
+            "Missouri UI",
+            "Missouri Unemployment Insurance"
+    ],
+        "url": "https://labor.mo.gov/data",
+        "description": "UI-related data on employment and unemployment."
+    },
+    {
+        "id": "dataset-170",
+        "provider": "U.S. Census Bureau",
+        "title": "Quarterly Workforce Indicators",
+        "alt_title": [
+            "QWI",
+            "LEHD",
+            "Longitudinal Employer-Household Dynamics"
+    ],
+        "url": "https://lehd.ces.census.gov/data/qwi/",
+        "description": "The Quarterly Workforce Indicators (QWI) are a set of economic indicators including employment, job creation, earnings, and other measures of employment flows."
+    },
+    {
+        "id": "dataset-171",
+        "provider": "Commonwealth of Pennsylvania Department of Labor & Industry",
+        "title": "Pennsylvania Unemployment Insurance",
+        "alt_title": [
+            "UI",
+            "Pennsylvania UI"
+        ],
+        "url": "https://www.uc.pa.gov/unemployment-benefits/Pages/default.aspx",
+        "description": "The UI Data Summary is produced quarterly from state-reported data contained in the Unemployment Insurance Data Base (UIDB) as well as UI-related data from outside sources (e.g., Bureau of Labor Statistics data on employment and unemployment and U.S. Department of Treasury data on state UI trust fund activities)."
+    },
+    {
+        "id": "dataset-172",
+        "provider": "Federal Financial Institutions Examination Council",
+        "title": "Home Mortgage Disclosure Act data",
+        "alt_title": [
+            "HMDA"
+        ],
+        "url": "https://www.ffiec.gov/hmda/hmdaproducts.htm",
+        "description": "The Home Mortgage Disclosure Act is a United States federal law that requires certain financial institutions to provide mortgage data to the public."
+    },
+    {
+        "id": "dataset-173",
+        "provider":"MDRC",
+        "title": "Urban Change Neighborhood Indicators Database",
+        "description": "Contains Urban Change survey of welfare recipients."
+    },
+    {
+        "id": "dataset-174",
+        "provider": "South Carolina Department of Social Services",
+        "title": "South Carolina Temporary Assistance for Needy Families",
+        "alt_title": [
+            "Family Independence data",
+            "FI",
+            "Family Independence",
+            "TANF",
+            "South Carolina TANF",
+            "Temporary Assistance for Needy Families",
+            "Aid to Dependent Families with Children",
+            "South Carolina Aid to Dependent Families with Children",
+            "South Carolina AFDC",
+            "AFDC"
+        ],
+        "url": "https://dss.sc.gov/about/data-and-resources/family-assistance-data/family-independence/",
+        "description": "TThe South Carolina Family Independence (FI) program is designed to help needy families achieve self-sufficiency."
+    },
+    {
+        "id": "dataset-175",
+        "provider": "South Carolina Department of Social Services",
+        "title": "South Carolina Unemployment Insurance",
+        "alt_title": [
+            "UI",
+            "South Carolina UI",
+            "South Carolina Unemployment Insurance"
+        ],
+        "url": "https://dew.sc.gov/tools-resources/data-statistics",
+        "description": "The UI Data Summary is produced quarterly from state-reported data contained in the Unemployment Insurance Data Base (UIDB) as well as UI-related data from outside sources (e.g., Bureau of Labor Statistics data on employment and unemployment and U.S. Department of Treasury data on state UI trust fund activities)."
+    },
+    {
+        "id": "dataset-176",
+        "provider": "Minnesota Department of Employment and Economic Development",
+        "title": "Minnesota Unemployment Insurance",
+        "alt_title": [
+            "UI",
+            "Minnesota UI",
+            "Minnesota Unemployment Insurance"
+        ],
+        "url": "https://mn.gov/deed/data/current-econ-highlights/ui-statistics.jsp",
+        "description": "The UI Data Summary is produced quarterly from state-reported data contained in the Unemployment Insurance Data Base (UIDB) as well as UI-related data from outside sources (e.g., Bureau of Labor Statistics data on employment and unemployment and U.S. Department of Treasury data on state UI trust fund activities)."
+    },
+    {
+        "id": "dataset-177",
+        "provider": "Wisconsin Department of Children and Families",
+        "title": "Wisconsin’s Statewide Automated Child Welfare Information System",
+        "alt_title": [
+            "WiSACWIS",
+            "eWiSACWIS"
+        ],
+        "url": "https://dcf.wisconsin.gov/cwportal/is",
+        "description": "Tracks child welfare services involvement including child maltreatment investigations and out-of home care placements."
+    },
+    {
+        "id": "dataset-178",
+        "provider": "U.S. Department of Labor",
+        "title": "Unemployment Insurance wage data",
+        "alt_title": [
+            "UI wage data"
+        ],
+        "url": "https://www.dol.gov/general/topic/unemployment-insurance",
+        "description": "The U.S. Department of Labor's Unemployment Insurance (UI) programs provide unemployment benefits to eligible workers who become unemployed through no fault of their own, and meet certain other eligibility requirements."
+    },
+    {
+    "id": "dataset-179",
+    "provider": "Johns Hopkins University",
+    "title": "Three-City Study",
+    "alt_title": [
+        "Three City Study"
+    ],
+    "url": "http://web.jhu.edu/threecitystudy/images/CharacteristicsReport.pdf",
+    "description": "For each round of data collection, we provide basic information on the demographic, health, welfare, and other social program status, and on the education, labor force, and income characteristics of the families."
+    },
+    {
+    "id": "dataset-180",
+    "provider": "Texas Health and Human Services Commission",
+    "title": "State of Texas Supplemental Nutrition Assistance Program",
+    "alt_title": [
+        "SNAP",
+        "Texas SNAP",
+        "Texas Supplemental Nutrition Assistance Program",
+        "Supplemental Nutrition Assistance Program",
+        "State of Texas SNAP"
+    ],
+    "url": "https://yourtexasbenefits.hhsc.texas.gov/programs/snap",
+    "description": "SNAP offers food benefits to eligible, low-income individuals and families."
+    },
+    {
+    "id": "dataset-181",
+    "provider": "Illinois Department of Human Services",
+    "title": "State of Illinois Supplemental Nutrition Assistance Program",
+    "alt_title": [
+        "SNAP",
+        "Illinois SNAP",
+        "Illinois Supplemental Nutrition Assistance Program",
+        "Supplemental Nutrition Assistance Program",
+        "State of Illinois SNAP"
+    ],
+    "url": "https://www.dhs.state.il.us/page.aspx?item=30357",
+    "description": "SNAP offers food benefits to eligible, low-income individuals and families."
+    },
+    {
+    "id": "dataset-182",
+    "provider": "Illinois Department of Human Services",
+    "title": "Illinois Temporary Assitance for Needy Families",
+    "alt_title": [
+        "TANF",
+        "Illinois TANF",
+        "Temporary Assitance for Needy Families",
+        "Aid to Dependent Families with Children",
+        "Illinois Aid to Dependent Families with Children",
+        "Illinois AFDC",
+        "AFDC"
+    ],
+    "url": "https://www.dhs.state.il.us/page.aspx?item=30358",
+    "description": "Temporary Assistance for Needy Families (TANF) provides temporary cash for families in need."
+  },
+  {
+    "id": "dataset-183",
+    "provider": "Illinois Department of Workforce Development",
+    "title": "Illinois Department of Workforce Development Data",
+    "alt_title":[
+        "IDWD",
+        "IDWD Data"
+    ],
+    "url": "https://www.in.gov/dwd/2329.htm"
+},
+{
+    "id": "dataset-184",
+    "provider": "Ohio Department of Rehabilitation and Correction",
+    "title": "Ohio Department of Rehabilitation and Correction Parolee Data",
+    "alt_title":[
+        "ODRC",
+        "ODRC Data",
+        "ODRC Parolee Data"
+    ],
+    "url": "https://drc.ohio.gov/reports"
+},
+{
+    "id": "dataset-185",
+    "provider": "Harris County District Clerk",
+    "title": "Harris Country District Clerk Data",
+    "alt_title":[
+        "Harris County Data"
+    ],
+    "url": "https://www.hcdistrictclerk.com/Common/Default.aspx"
+},
+{
+    "id": "dataset-186",
+    "provider": " Texas Department of Criminal Justice",
+    "title": " Texas Department of Criminal Justice Incarceration Data",
+    "alt_title":[
+        "TDCJ",
+        "TDCJ Data"
+    ],
+    "url": "https://www.tdcj.texas.gov/statistics/index.html"
+},
+{
+    "id": "dataset-187",
+    "provider": " Texas Department of Public State",
+    "title": " Texas Department of Public State Computerized Criminal History Database",
+    "alt_title":[
+        "CCH",
+        "CCH Data"
+    ],
+    "url": "https://records.txdps.state.tx.us/DpsWebsite/CriminalHistory/"
+}
+]
