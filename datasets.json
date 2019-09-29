@@ -852,7 +852,7 @@
     },
     {
         "id": "dataset-080",
-        "provider": "United States Census Bureau",
+        "provider": "U.S. Census Bureau",
         "title": "Person Identification Validation System",
         "alt_title": [
             "PVS"
@@ -1573,7 +1573,7 @@
     {
         "id": "dataset-143",
         "provider": "U.S. Bureau of Labor Statistics",
-        "title": " National Longitudinal Survey of Youth",
+        "title": "National Longitudinal Survey of Youth",
         "alt_title": [
             "NLSY",
             "NLSY-CS"
@@ -2037,5 +2037,55 @@
     ],
     "url": "https://www.dhs.state.il.us/page.aspx?item=30358",
     "description": "Temporary Assistance for Needy Families (TANF) provides temporary cash for families in need."
-  }
-  ]
+  },
+  {
+    "id": "dataset-183",
+    "provider": "Illinois Department of Workforce Development",
+    "title": "Illinois Department of Workforce Development Data",
+    "alt_title":[
+        "IDWD",
+        "IDWD Data"
+    ],
+    "url": "https://www.in.gov/dwd/2329.htm"
+},
+{
+    "id": "dataset-184",
+    "provider": "Ohio Department of Rehabilitation and Correction",
+    "title": "Ohio Department of Rehabilitation and Correction Parolee Data",
+    "alt_title":[
+        "ODRC",
+        "ODRC Data",
+        "ODRC Parolee Data"
+    ],
+    "url": "https://drc.ohio.gov/reports"
+},
+{
+    "id": "dataset-185",
+    "provider": "Harris County District Clerk",
+    "title": "Harris Country District Clerk Data",
+    "alt_title":[
+        "Harris County Data"
+    ],
+    "url": "https://www.hcdistrictclerk.com/Common/Default.aspx"
+},
+{
+    "id": "dataset-186",
+    "provider": "Texas Department of Criminal Justice",
+    "title": "Texas Department of Criminal Justice Incarceration Data",
+    "alt_title":[
+        "TDCJ",
+        "TDCJ Data"
+    ],
+    "url": "https://www.tdcj.texas.gov/statistics/index.html"
+},
+{
+    "id": "dataset-187",
+    "provider": "Texas Department of Public State",
+    "title": "Texas Department of Public State Computerized Criminal History Database",
+    "alt_title":[
+        "CCH",
+        "CCH Data"
+    ],
+    "url": "https://records.txdps.state.tx.us/DpsWebsite/CriminalHistory/"
+}
+]
