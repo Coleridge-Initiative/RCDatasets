@@ -284,7 +284,8 @@
         "provider": "U.S. Census Bureau",
         "title": "Survey of Income and Program Participation",
         "alt_title": [
-            "SIPP"
+            "SIPP",
+            "SIPP Data"
         ],
         "url": "https://www.census.gov/sipp/",
         "description": "SIPP is the premier source of information for income and program participation. SIPP collects data and measures change for many topics including: economic well-being, family dynamics, education, assets, health insurance, childcare, and food security."
@@ -2213,14 +2214,9 @@
 },
 {
     "id": "dataset-199",
-    "provider": "U.S Census Bureau",
-    "title": "Survey of Income and Program Participation",
-    "alt_title": [
-        "SIPP",
-        "SIPP Data"
-    ],
-    "url": "https://www.census.gov/sipp/",
-    "description":"SIPP collects data and measures change for many topics including: economic well-being, family dynamics, education, assets, health insurance, childcare, and food security."
+    "provider": "Auglaize County Sherrif's Office",
+    "title": "Auglaize County Sherrif's Office Inmate Data",
+    "url": "https://www2.auglaizecounty.org/sheriff"
 },
 {
     "id": "dataset-200",
