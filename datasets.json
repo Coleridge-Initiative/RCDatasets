@@ -284,8 +284,7 @@
         "provider": "U.S. Census Bureau",
         "title": "Survey of Income and Program Participation",
         "alt_title": [
-            "SIPP",
-            "SIPP Data"
+            "SIPP"
         ],
         "url": "https://www.census.gov/sipp/",
         "description": "SIPP is the premier source of information for income and program participation. SIPP collects data and measures change for many topics including: economic well-being, family dynamics, education, assets, health insurance, childcare, and food security."
