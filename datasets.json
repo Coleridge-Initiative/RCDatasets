@@ -852,7 +852,7 @@
     },
     {
         "id": "dataset-080",
-        "provider": "United States Census Bureau",
+        "provider": "U.S. Census Bureau",
         "title": "Person Identification Validation System",
         "alt_title": [
             "PVS"
@@ -1057,7 +1057,9 @@
         "provider": "Florida Department of Corrections",
         "title": "Florida Department of Corrections Administrative Data",
         "alt_title": [
-            "FLDOC"
+            "FLDOC",
+            "FDOC",
+            "FDOC Data"
         ],
         "url": "http://www.dc.state.fl.us/pub/index.html"
     },
@@ -2038,4 +2040,245 @@
         "url": "https://www.dhs.state.il.us/page.aspx?item=30358",
         "description": "Temporary Assistance for Needy Families (TANF) provides temporary cash for families in need."
     }
+    "id": "dataset-179",
+    "provider": "Johns Hopkins University",
+    "title": "Three-City Study",
+    "alt_title": [
+        "Three City Study"
+    ],
+    "url": "http://web.jhu.edu/threecitystudy/images/CharacteristicsReport.pdf",
+    "description": "For each round of data collection, we provide basic information on the demographic, health, welfare, and other social program status, and on the education, labor force, and income characteristics of the families."
+    },
+    {
+    "id": "dataset-180",
+    "provider": "Texas Health and Human Services Commission",
+    "title": "State of Texas Supplemental Nutrition Assistance Program",
+    "alt_title": [
+        "SNAP",
+        "Texas SNAP",
+        "Texas Supplemental Nutrition Assistance Program",
+        "Supplemental Nutrition Assistance Program",
+        "State of Texas SNAP"
+    ],
+    "url": "https://yourtexasbenefits.hhsc.texas.gov/programs/snap",
+    "description": "SNAP offers food benefits to eligible, low-income individuals and families."
+    },
+    {
+    "id": "dataset-181",
+    "provider": "Illinois Department of Human Services",
+    "title": "State of Illinois Supplemental Nutrition Assistance Program",
+    "alt_title": [
+        "SNAP",
+        "Illinois SNAP",
+        "Illinois Supplemental Nutrition Assistance Program",
+        "Supplemental Nutrition Assistance Program",
+        "State of Illinois SNAP"
+    ],
+    "url": "https://www.dhs.state.il.us/page.aspx?item=30357",
+    "description": "SNAP offers food benefits to eligible, low-income individuals and families."
+    },
+    {
+    "id": "dataset-182",
+    "provider": "Illinois Department of Human Services",
+    "title": "Illinois Temporary Assitance for Needy Families",
+    "alt_title": [
+        "TANF",
+        "Illinois TANF",
+        "Temporary Assitance for Needy Families",
+        "Aid to Dependent Families with Children",
+        "Illinois Aid to Dependent Families with Children",
+        "Illinois AFDC",
+        "AFDC"
+    ],
+    "url": "https://www.dhs.state.il.us/page.aspx?item=30358",
+    "description": "Temporary Assistance for Needy Families (TANF) provides temporary cash for families in need."
+  },
+  {
+    "id": "dataset-183",
+    "provider": "Illinois Department of Workforce Development",
+    "title": "Illinois Department of Workforce Development Data",
+    "alt_title":[
+        "IDWD",
+        "IDWD Data"
+    ],
+    "url": "https://www.in.gov/dwd/2329.htm"
+},
+{
+    "id": "dataset-184",
+    "provider": "Ohio Department of Rehabilitation and Correction",
+    "title": "Ohio Department of Rehabilitation and Correction Parolee Data",
+    "alt_title":[
+        "ODRC",
+        "ODRC Data",
+        "ODRC Parolee Data"
+    ],
+    "url": "https://drc.ohio.gov/reports"
+},
+{
+    "id": "dataset-185",
+    "provider": "Harris County District Clerk",
+    "title": "Harris Country District Clerk Data",
+    "alt_title":[
+        "Harris County Data"
+    ],
+    "url": "https://www.hcdistrictclerk.com/Common/Default.aspx"
+},
+{
+    "id": "dataset-186",
+    "provider": "Texas Department of Criminal Justice",
+    "title": "Texas Department of Criminal Justice Incarceration Data",
+    "alt_title":[
+        "TDCJ",
+        "TDCJ Data"
+    ],
+    "url": "https://www.tdcj.texas.gov/statistics/index.html"
+},
+{
+    "id": "dataset-187",
+    "provider": "Texas Department of Public State",
+    "title": "Texas Department of Public State Computerized Criminal History Database",
+    "alt_title":[
+        "CCH",
+        "CCH Data"
+    ],
+    "url": "https://records.txdps.state.tx.us/DpsWebsite/CriminalHistory/"
+},
+{
+    "id": "dataset-188",
+    "provider": "Pennsylvania Department of Corrections",
+    "title": "Pennsylvania Department of Corrections Prisoner Data",
+    "url": "https://www.cor.pa.gov/About%20Us/Statistics/Pages/default.aspx",
+    "description":"The Bureau of Planning, Research & Statistics (PRS) is responsible for planning, research, and statistical analysis activities within the Department to assist in short-term and long-term decision-making."
+},
+{
+    "id": "dataset-189",
+    "provider": "Philadelphia Department of Planning",
+    "title": "Philadelphia Department of Planning Geographic Information Systems",
+    "alt_title": [
+        "GIS",
+        "GIS Data",
+        "Philadelphia GIS"
+    ],
+    "url": "https://www.phila.gov/it/aboutus/units/Pages/GISServicesGroup.aspx",
+    "description":"Develop and deliver state-of-the-art GIS and geospatial technology and services to the enterprise (citywide)."
+},
+{
+    "id": "dataset-190",
+    "provider": "Bureau of Justice Statistics",
+    "title": "National Corrections Reporting Program",
+    "alt_title": [
+        "NCRP",
+        "NCRP Data",
+        "BJS NCRP"
+    ],
+    "url": "https://www.bjs.gov/index.cfm?ty=dcdetail&iid=268",
+    "description":"The National Corrections Reporting Program (NCRP) collects offender-level administrative data annually on prison admissions and releases, and yearend custody populations, and on parole entries and discharges in participating jurisdictions."
+},
+{
+    "id": "dataset-191",
+    "provider": "New York State Division of Criminal Justice Services",
+    "title": "New York State Division of Criminal Justice Services Data",
+    "alt_title": [
+        "NYS DJCS Data",
+        "NYS DJCS"
+    ],
+    "url": "https://www.criminaljustice.ny.gov/crimnet/ojsa/stats.htm",
+    "description":"Statutorily required annual reports and other reports are available on the Publications page.   If you are interested in information about the State prison and community supervision populations, research reports are available here  http://www.doccs.ny.gov/Research/Research.html."
+},
+{
+    "id": "dataset-192",
+    "provider": "New York State Department of Labor",
+    "title": "New York State Department of Labor Unemployment Insurance",
+    "alt_title": [
+        "NYS UI",
+        "UI"
+    ],
+    "url": "https://labor.ny.gov/data-sharing/",
+    "description":"The ability to share information to qualified entities has been enhanced as a result of the UI Data Sharing Bill (S5773A), which amended NYS Labor Law Labor Law §537 to allow expanded access to Unemployment Insurance (UI) program data."
+},
+{
+    "id": "dataset-193",
+    "provider": "Center for Employment Opportunities",
+    "title": "Center for Employment Opportunities Management Information System",
+    "alt_title": [
+        "MIS",
+        "CEO MIS"
+    ],
+    "url": "https://ceoworks.org/"
+},
+{
+    "id": "dataset-194",
+    "provider": "Bureau of Justice Statistics",
+    "title": "Survey of Inmates in Local Jails",
+    "alt_title": [
+        "SILJ",
+        "BJS SILJ",
+        "SILJ Data"
+    ],
+    "url": "https://www.bjs.gov/index.cfm?ty=dcdetail&iid=274",
+    "description":"Conducted periodically, the survey provides information on individual characteristics of jail inmates, current offenses and detention status, characteristics of victims, criminal histories, family background, gun possession and use, prior drug and alcohol use and treatment, medical and mental health history and treatment, vocational programs and other services provided while in jails, as well as other personal characteristics."
+},
+{
+    "id": "dataset-195",
+    "provider": "Bureau of Justice Statistics",
+    "title": "Survey of Inmates in State Correctional Facilities",
+    "alt_title": [
+        "SISCF",
+        "BJS SISCF",
+        "SISCF Data"
+    ],
+    "url": "https://www.bjs.gov/index.cfm?ty=dcdetail&iid=275",
+    "description":"Conducted periodically, the survey provides information on individual characteristics of prison inmates, current offenses and sentences, characteristics of victims, criminal histories, family background, gun possession and use, prior drug and alcohol use and treatment, medical and mental health history and treatment, educational programs and other services provided while in prison, as well as other personal characteristics."
+},
+{
+    "id": "dataset-196",
+    "provider": "Bureau of Justice Statistics",
+    "title": "Census Of State And Federal Adult Correctional Facilities",
+    "alt_title": [
+        "CSFACF",
+        "BJS CSFACF",
+        "CSFACF Data"
+    ],
+    "url": "https://www.bjs.gov/index.cfm?ty=dcdetail&iid=255",
+    "description":"Conducted approximately every five to seven years, the Census of State and Federal Adult Correctional Facilities provides detailed information on the types of inmates housed, facility age and type, building plans, security level, court orders, programs, facility operations and security conditions, confinement space, and staff characteristics."
+},
+{
+    "id": "dataset-197",
+    "provider": "Michigan Department of Corrections",
+    "title": "Michigan Department of Corrections Data",
+    "alt_title": [
+        "MDOC",
+        "MDOC Data"
+    ],
+    "url": "https://www.michigan.gov/corrections/0,4551,7-119-1409---,00.html",
+    "description":"The Offender Tracking Information System (OTIS) contains information about prisoners, parolees and probationers who are currently under supervision, or who have discharged but are still within three years of their supervision discharge date."
+},
+{
+    "id": "dataset-198",
+    "provider": "Urban Institute",
+    "title": "Neighborhood Change Database",
+    "alt_title": [
+        "NCBD",
+        "NCBD Data"
+    ],
+    "url": "https://www.urban.org/data-viz",
+    "description":"Neighborhood Change Database. Neighborhood boundaries can change from one census year to the next, making it hard for researchers to compare the same area over time. The Neighborhood Change Database (NCDB) reconciles those changing boundaries in census data from 1970 to 2010."
+},
+{
+    "id": "dataset-199",
+    "provider": "Auglaize County Sherrif's Office",
+    "title": "Auglaize County Sherrif's Office Inmate Data",
+    "url": "https://www2.auglaizecounty.org/sheriff"
+},
+{
+    "id": "dataset-200",
+    "provider": "U.S Department of Housing and Urban Development",
+    "title": "U.S Department of Housing and Urban Development Administrative Data",
+    "alt_title": [
+        "HUD",
+        "HUD Data"
+    ],
+    "url": "https://www.huduser.gov/portal/pdrdatas_landing.html",
+    "description":"HUD provides interested researchers with access to the original data sets generated by PD&R-sponsored data collection efforts, including the American Housing Survey, median family incomes and income limits, as well as microdata from research initiatives on topics such as housing discrimination, the HUD-insured multifamily housing stock, and the public housing population."
+}
 ]
