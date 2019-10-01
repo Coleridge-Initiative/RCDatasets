@@ -1266,7 +1266,9 @@
             "N.J. Aid to Dependent Families with Children",
             "New Jersey AFDC",
             "N.J. AFDC",
-            "AFDC"
+            "AFDC",
+            "WorkFirst NJ",
+            "WFNJ"
         ],
         "url": "https://www.state.nj.us/humanservices/dfd/programs/workfirstnj/",
         "description": "Temporary Assistance for Needy Families (TANF) provides temporary cash for families in need."
@@ -1383,7 +1385,7 @@
         "title": "Massachusetts Department of Revenue Longitudinal Database",
         "alt_title": [
           "Massachusetts Child Care Subsidy data"
-        ]
+        ],
         "url": "https://www.mass.gov/orgs/massachusetts-department-of-revenue",
         "description": "The Massachusetts Department of Revenue manages state taxes and child support. We also help cities and towns manage their finances."
     },
@@ -2387,24 +2389,13 @@
     },
     {
     "id": "dataset-214",
-    "provider": "New Jersey Department of Human Services",
-    "title": "New Jersey Temporary Assistance for Needy Families",
+    "provider": "LexisNexis",
+    "title": "LexisNexis Public Records",
     "alt_title": [
-        "TANF",
-        "New Jersey TANF",
-        "N.J. TANF",
-        "Temporary Assistance for Needy Families",
-        "Aid to Dependent Families with Children",
-        "New Jersey Aid to Dependent Families with Children",
-        "New Jersey AFDC",
-        "N.J. Aid to Dependent Families with Children",
-        "N.J. AFDC",
-        "AFDC",
-        "WorkFirst NJ",
-        "WFNJ"
+      "Lexis-Nexis"
     ],
-    "url": "https://www.state.nj.us/humanservices/dfd/programs/workfirstnj/",
-    "description": "Temporary Assistance for Needy Families (TANF) provides temporary cash for families in need."
+    "url": "https://www.lexisnexis.com/en-us/products/public-records.page",
+    "description": "Public records data."
     },
     {
     "id": "dataset-215",
@@ -2483,5 +2474,76 @@
     ],
     "url": "https://www2.illinois.gov/ides/Pages/default.aspx",
     "description": "UI-related data on employment and unemployment."
+    },
+    {
+    "id": "dataset-221",
+    "provider": "Massachusetts Department of Transitional Assistance",
+    "title": "Massachusetts Temporary Assistance for Needy Families",
+    "alt_title": [
+        "TANF",
+        "Massachusetts TANF",
+        "Temporary Assistance for Needy Families",
+        "Aid to Dependent Families with Children",
+        "Massachusetts Aid to Dependent Families with Children",
+        "Massachusetts AFDC",
+        "AFDC",
+        "Transitional Aid to Families with Dependent Children",
+        "Massachusetts Transitional Aid to Families with Dependent Children",
+        "TAFDC",
+        "Massachusetts TAFDC"
+    ],
+    "url": "https://www.mass.gov/economic-assistance-cash-benefits",
+    "description": "TAFDC is for families with children under 18, including teen parents. If you’re pregnant, you can apply for TAFDC for yourself if your child is due in less than 4 months. To get TAFDC a family must meet basic requirements."
+    },
+    {
+    "id": "dataset-222",
+    "provider": "Massachusetts Executive Office of Labor and Workforce Development",
+    "title": "Massachusetts Unemployment Insurance",
+    "alt_title": [
+        "UI",
+        "Massachusetts UI",
+        "Massachusetts Unemployment Insurance"
+    ],
+    "url": "https://www.mass.gov/find-unemployment-rates",
+    "description": "UI-related data on employment and unemployment."
+    },
+    {
+    "id": "dataset-223",
+    "provider": "Illinois Department of Human Services",
+    "title": "Child Care Resource Service data",
+    "alt_title": [
+        "Illinois Child Care Resource Service",
+        "CCRS",
+        "Illinois CCRS",
+        "Illinois Child Care Subsidy data"
+    ],
+    "url": "https://www.mass.gov/find-unemployment-rates",
+    "description": "Assists low-income parents with child care payments in the six counties of Champaign, Douglas, Macon, Piatt, Iroquois and Vermilion."
+    },
+    {
+    "id": "dataset-224",
+    "provider": "Kansas Department of Labor",
+    "title": "Kansas Unemployment Insurance",
+    "alt_title": [
+        "UI",
+        "Kansas UI",
+        "Kansas Unemployment Insurance"
+    ],
+    "url": "https://www.dol.ks.gov/docs/default-source/home-page-news/2019/labor-report-august-2019.pdf",
+    "description": "UI-related data on employment and unemployment."
+    },
+    {
+    "id": "dataset-225",
+    "provider": "New Jersey Department of Human Services",
+    "title": "Family Assistance Management Information Systems",
+    "alt_title": [
+        "FAMIS",
+        "New Jersey Family Assistance Management Information Systems",
+        "New Jersey FAMIS",
+        "N.J. Family Assistance Management Information Systems",
+        "N.J. FAMIS"
+    ],
+    "url": "https://secure.ssa.gov/apps10/poms.nsf/lnx/0500830403NY",
+    "description": "FAMIS will be used to verify the receipt of TANF monies, receipt of food stamps, the members on the TANF grant, the monthly grant amount, and the date a member was added or removed from the TANF grant."
     }
 ]
