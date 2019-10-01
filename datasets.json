@@ -2415,5 +2415,69 @@
     ],
     "url": "https://ncaddnj.nationbuilder.com/",
     "description": "The SAI is a statewide Work First New Jersey welfare-to-work program funded by the New Jersey Department of Human Services."
+    },
+    {
+    "id": "dataset-216",
+    "provider": "New Jersey Department of Human Services",
+    "title": "Substance Abuse Research Demonstration Project",
+    "alt_title": [
+        "SARD",
+        "New Jersey Substance Abuse Research Demonstration Project",
+        "N.J. Substance Abuse Research Demonstration Project",
+        "New Jersey SARD",
+        "N.J. SARD"
+    ],
+    "url": "https://ncaddnj.nationbuilder.com/",
+    "description": "SARD was a demonstration project that was designed to measure the effects of enhancing substance abuse services available to welfare recipients in two counties."
+    },
+    {
+    "id": "dataset-217",
+    "provider": "New Jersey Department of Labor and Workforce Development",
+    "title": "Vocational Rehabilitation Initiative",
+    "alt_title": [
+        "VHI",
+        "New Jersey Vocational Rehabilitation Initiative",
+        "N.J. Vocational Rehabilitation Initiative",
+        "New Jersey VHI",
+        "N.J. VHI"
+    ],
+    "url": "https://careerconnections.nj.gov/careerconnections/plan/foryou/disable/vocational_rehabilitation_services.shtml",
+    "description": "Welfare caseworkers can refer TANF clients to the New Jersey Department of Labor and Workforce Development, Division of Vocational Rehabilitation Services (DVRS) using a screening guide to identify clients with possible disabilities. Referred clients receive the DVRS’s comprehensive assessment, and they may be placed in DVRS services—including treatment, assistive technology, job placement, and job coaching."
+    },
+    {
+    "id": "dataset-218",
+    "provider": "New Jersey Department of Human Services",
+    "title": "Mental Health Initiative",
+    "alt_title": [
+        "MHI",
+        "New Jersey Mental Health Initiative",
+        "N.J. Mental Health Initiative",
+        "New Jersey MHI",
+        "N.J. MHI"
+    ],
+    "url": "https://www.nj.gov/humanservices/clients/mental/",
+    "description": "Welfare caseworkers can refer clients with possible mental health issues to an intensive case management services (ICMS) provider for assessment. If appropriate, ICMS case managers refer clients to mental health providers for treatment, and to a supported employment agency for job placement and post-employment follow-up services."
+    },
+    {
+    "id": "dataset-219",
+    "provider": "Illinois Department of Human Services",
+    "title": "Illinois Family Study",
+    "alt_title": [
+        "IFS"
+    ],
+    "url": "https://www.dhs.state.il.us/page.aspx?item=30358",
+    "description": "A longitudinal study designed to assess work, TANF, and well-being outcomes of families affected by welfare reform."
+    },
+    {
+    "id": "dataset-220",
+    "provider": "Commonwealth of Kentucky Department of Employment Security",
+    "title": "Illinois Unemployment Insurance",
+    "alt_title": [
+        "UI",
+        "Illinois UI",
+        "Illinois Unemployment Insurance"
+    ],
+    "url": "https://www2.illinois.gov/ides/Pages/default.aspx",
+    "description": "UI-related data on employment and unemployment."
     }
 ]
