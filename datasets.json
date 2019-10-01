@@ -1025,11 +1025,11 @@
     {
         "id": "dataset-093",
         "provider": "Oregon Department of Human Services",
-        "title": "Oregon Temporary Assitance for Needy Families",
+        "title": "Oregon Temporary Assistance for Needy Families",
         "alt_title": [
             "TANF",
             "Oregon TANF",
-            "Temporary Assitance for Needy Families",
+            "Temporary Assistance for Needy Families",
             "Aid to Dependent Families with Children",
             "Oregon Aid to Dependent Families with Children",
             "Oregon AFDC",
@@ -1128,12 +1128,12 @@
     {
         "id": "dataset-102",
         "provider": "District of Columbia Department of Human Services",
-        "title": "District of Columbia Temporary Assitance for Needy Families",
+        "title": "District of Columbia Temporary Assistance for Needy Families",
         "alt_title": [
             "TANF",
             "District of Columbia TANF",
             "D.C. TANF",
-            "Temporary Assitance for Needy Families",
+            "Temporary Assistance for Needy Families",
             "Aid to Dependent Families with Children",
             "District of Columbia Aid to Dependent Families with Children",
             "D.C. Aid to Dependent Families with Children",
@@ -1147,11 +1147,11 @@
     {
         "id": "dataset-103",
         "provider": "Pennsylvania Department of Human Services",
-        "title": "Pennsylvania Temporary Assitance for Needy Families",
+        "title": "Pennsylvania Temporary Assistance for Needy Families",
         "alt_title": [
             "TANF",
             "Pennsylvania TANF",
-            "Temporary Assitance for Needy Families",
+            "Temporary Assistance for Needy Families",
             "Aid to Dependent Families with Children",
             "Pennsylvania Aid to Dependent Families with Children",
             "Pennsylvania AFDC",
@@ -1163,12 +1163,12 @@
     {
         "id": "dataset-104",
         "provider": "New York State Office of Temporary and Disability Assistance",
-        "title": "New York Temporary Assitance for Needy Families",
+        "title": "New York Temporary Assistance for Needy Families",
         "alt_title": [
             "TANF",
             "New York TANF",
             "N.Y. TANF",
-            "Temporary Assitance for Needy Families",
+            "Temporary Assistance for Needy Families",
             "Aid to Dependent Families with Children",
             "New York Aid to Dependent Families with Children",
             "N.Y. Aid to Dependent Families with Children",
@@ -1223,11 +1223,11 @@
     {
         "id": "dataset-107",
         "provider": "Minnesota Department of Health",
-        "title": "Minnesota Temporary Assitance for Needy Families",
+        "title": "Minnesota Temporary Assistance for Needy Families",
         "alt_title": [
             "TANF",
             "Minnesota TANF",
-            "Temporary Assitance for Needy Families",
+            "Temporary Assistance for Needy Families",
             "Aid to Dependent Families with Children",
             "Minnesota Aid to Dependent Families with Children",
             "Minnesota AFDC",
@@ -1239,11 +1239,11 @@
     {
         "id": "dataset-108",
         "provider": "Nebraska Department of Health and Human Services",
-        "title": "Nebraska Temporary Assitance for Needy Families",
+        "title": "Nebraska Temporary Assistance for Needy Families",
         "alt_title": [
             "TANF",
             "Nebraska TANF",
-            "Temporary Assitance for Needy Families",
+            "Temporary Assistance for Needy Families",
             "Aid to Dependent Families with Children",
             "Nebraska Aid to Dependent Families with Children",
             "Nebraska AFDC",
@@ -1255,12 +1255,12 @@
     {
         "id": "dataset-109",
         "provider": "State of New Jersey Department of Human Services",
-        "title": "New Jersey Temporary Assitance for Needy Families",
+        "title": "New Jersey Temporary Assistance for Needy Families",
         "alt_title": [
             "TANF",
             "New Jersey  TANF",
             "N.J. TANF",
-            "Temporary Assitance for Needy Families",
+            "Temporary Assistance for Needy Families",
             "Aid to Dependent Families with Children",
             "New Jersey Aid to Dependent Families with Children",
             "N.J. Aid to Dependent Families with Children",
@@ -1274,12 +1274,12 @@
     {
         "id": "dataset-110",
         "provider": "State of Rhode Island Department of Human Services",
-        "title": "Rhode Island Temporary Assitance for Needy Families",
+        "title": "Rhode Island Temporary Assistance for Needy Families",
         "alt_title": [
             "TANF",
             "Rhode Island  TANF",
             "R.I. TANF",
-            "Temporary Assitance for Needy Families",
+            "Temporary Assistance for Needy Families",
             "Aid to Dependent Families with Children",
             "Rhode Island Aid to Dependent Families with Children",
             "R.I. Aid to Dependent Families with Children",
@@ -1381,6 +1381,9 @@
         "id": "dataset-124",
         "provider": "Massachusetts Department of Revenue",
         "title": "Massachusetts Department of Revenue Longitudinal Database",
+        "alt_title": [
+          "Massachusetts Child Care Subsidy data"
+        ]
         "url": "https://www.mass.gov/orgs/massachusetts-department-of-revenue",
         "description": "The Massachusetts Department of Revenue manages state taxes and child support. We also help cities and towns manage their finances."
     },
@@ -1413,7 +1416,8 @@
         "title": "Child Support Enforcement System",
         "alt_title": [
             "CSES",
-            "Maryland CSES"
+            "Maryland CSES",
+            "Maryland Child Care Subsidy data"
         ],
         "url": "https://dhr.maryland.gov/documents/Request%20for%20Proposal/OS-CSC-15-001-S/CSC%20RFP%20-%20Amendment%201.doc",
         "description": "The Child Support Enforcement System (CSES) component of the DHRIS maintains a database consisting of information pertaining to child support cases registered in the state of Maryland. CSES also provides functionality for registering child support cases (Intake), locating parties to child support cases (Locate), and establishment of paternity and child support (Establishment), enforcement of child support and medical support court orders (Enforcement), and collecting and disbursing payments (Financial)."
@@ -2027,11 +2031,11 @@
     {
         "id": "dataset-182",
         "provider": "Illinois Department of Human Services",
-        "title": "Illinois Temporary Assitance for Needy Families",
+        "title": "Illinois Temporary Assistance for Needy Families",
         "alt_title": [
             "TANF",
             "Illinois TANF",
-            "Temporary Assitance for Needy Families",
+            "Temporary Assistance for Needy Families",
             "Aid to Dependent Families with Children",
             "Illinois Aid to Dependent Families with Children",
             "Illinois AFDC",
@@ -2415,5 +2419,69 @@
     ],
     "url": "https://ncaddnj.nationbuilder.com/",
     "description": "The SAI is a statewide Work First New Jersey welfare-to-work program funded by the New Jersey Department of Human Services."
+    },
+    {
+    "id": "dataset-216",
+    "provider": "New Jersey Department of Human Services",
+    "title": "Substance Abuse Research Demonstration Project",
+    "alt_title": [
+        "SARD",
+        "New Jersey Substance Abuse Research Demonstration Project",
+        "N.J. Substance Abuse Research Demonstration Project",
+        "New Jersey SARD",
+        "N.J. SARD"
+    ],
+    "url": "https://ncaddnj.nationbuilder.com/",
+    "description": "SARD was a demonstration project that was designed to measure the effects of enhancing substance abuse services available to welfare recipients in two counties."
+    },
+    {
+    "id": "dataset-217",
+    "provider": "New Jersey Department of Labor and Workforce Development",
+    "title": "Vocational Rehabilitation Initiative",
+    "alt_title": [
+        "VHI",
+        "New Jersey Vocational Rehabilitation Initiative",
+        "N.J. Vocational Rehabilitation Initiative",
+        "New Jersey VHI",
+        "N.J. VHI"
+    ],
+    "url": "https://careerconnections.nj.gov/careerconnections/plan/foryou/disable/vocational_rehabilitation_services.shtml",
+    "description": "Welfare caseworkers can refer TANF clients to the New Jersey Department of Labor and Workforce Development, Division of Vocational Rehabilitation Services (DVRS) using a screening guide to identify clients with possible disabilities. Referred clients receive the DVRS’s comprehensive assessment, and they may be placed in DVRS services—including treatment, assistive technology, job placement, and job coaching."
+    },
+    {
+    "id": "dataset-218",
+    "provider": "New Jersey Department of Human Services",
+    "title": "Mental Health Initiative",
+    "alt_title": [
+        "MHI",
+        "New Jersey Mental Health Initiative",
+        "N.J. Mental Health Initiative",
+        "New Jersey MHI",
+        "N.J. MHI"
+    ],
+    "url": "https://www.nj.gov/humanservices/clients/mental/",
+    "description": "Welfare caseworkers can refer clients with possible mental health issues to an intensive case management services (ICMS) provider for assessment. If appropriate, ICMS case managers refer clients to mental health providers for treatment, and to a supported employment agency for job placement and post-employment follow-up services."
+    },
+    {
+    "id": "dataset-219",
+    "provider": "Illinois Department of Human Services",
+    "title": "Illinois Family Study",
+    "alt_title": [
+        "IFS"
+    ],
+    "url": "https://www.dhs.state.il.us/page.aspx?item=30358",
+    "description": "A longitudinal study designed to assess work, TANF, and well-being outcomes of families affected by welfare reform."
+    },
+    {
+    "id": "dataset-220",
+    "provider": "Commonwealth of Kentucky Department of Employment Security",
+    "title": "Illinois Unemployment Insurance",
+    "alt_title": [
+        "UI",
+        "Illinois UI",
+        "Illinois Unemployment Insurance"
+    ],
+    "url": "https://www2.illinois.gov/ides/Pages/default.aspx",
+    "description": "UI-related data on employment and unemployment."
     }
 ]
