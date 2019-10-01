@@ -1418,8 +1418,7 @@
         "title": "Child Support Enforcement System",
         "alt_title": [
             "CSES",
-            "Maryland CSES",
-            "Maryland Child Care Subsidy data"
+            "Maryland CSES"
         ],
         "url": "https://dhr.maryland.gov/documents/Request%20for%20Proposal/OS-CSC-15-001-S/CSC%20RFP%20-%20Amendment%201.doc",
         "description": "The Child Support Enforcement System (CSES) component of the DHRIS maintains a database consisting of information pertaining to child support cases registered in the state of Maryland. CSES also provides functionality for registering child support cases (Intake), locating parties to child support cases (Locate), and establishment of paternity and child support (Establishment), enforcement of child support and medical support court orders (Enforcement), and collecting and disbursing payments (Financial)."
