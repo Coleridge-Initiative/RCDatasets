@@ -1624,11 +1624,11 @@
     {
         "id": "dataset-148",
         "provider": "Texas Health and Human Services Commission",
-        "title": "Texas Temporary Assitance for Needy Families",
+        "title": "Texas Temporary Assistance for Needy Families",
         "alt_title": [
             "TANF",
             "Texas TANF",
-            "Temporary Assitance for Needy Families",
+            "Temporary Assistance for Needy Families",
             "Aid to Dependent Families with Children",
             "Texas Aid to Dependent Families with Children",
             "Texas AFDC",
@@ -2248,58 +2248,101 @@
             "CDCR Data"
         ],
         "url": "https://www.cdcr.ca.gov/reports/",
-        "description": "The Office of Research is responsible for producing a variety of reports, including projections of the adult, parole, and juvenile populations; statistical summaries of CDCR\u2019s populations and recidivism reporting."
+        "description":"The Office of Research is responsible for producing a variety of reports, including projections of the adult, parole, and juvenile populations; statistical summaries of CDCR’s populations and recidivism reporting."
     },
     {
-        "id": "dataset-203",
-        "provider": "Urban Institute",
-        "title": "National Center for Charitable Statistics",
-        "alt_title": [
-            "NCCS",
-            "NCCS Data"
-        ],
-        "url": "https://nccs.urban.org/data"
+    "id": "dataset-203",
+    "provider": "Urban Institute",
+    "title": "National Center for Charitable Statistics",
+    "alt_title": [
+        "NCCS",
+        "NCCS Data"
+    ],
+    "url": "https://nccs.urban.org/data"
     },
     {
-        "id": "dataset-204",
-        "provider": "Office of Juvenile Justice and Delinquency Prevention",
-        "title": "Census of Juveniles in Residential Placement",
-        "alt_title": [
-            "CJRP",
-            "CJRP Data"
-        ],
-        "url": "https://www.ojjdp.gov/research/CJRP.html",
-        "description": "CJRP asks all juvenile residential facilities in the United States to describe each person younger than 21 assigned a bed in the facility on the census date as a result of a status or delinquency offense."
+    "id": "dataset-204",
+    "provider": "Office of Juvenile Justice and Delinquency Prevention",
+    "title": "Census of Juveniles in Residential Placement",
+    "alt_title": [
+        "CJRP",
+        "CJRP Data"
+    ],
+    "url": "https://www.ojjdp.gov/research/CJRP.html",
+    "description":"CJRP asks all juvenile residential facilities in the United States to describe each person younger than 21 assigned a bed in the facility on the census date as a result of a status or delinquency offense."
     },
     {
-        "id": "dataset-205",
-        "provider": "Office of Juvenile Justice and Delinquency Prevention",
-        "title": "Easy Access to Juvenile Populations",
-        "alt_title": [
-            "EZAPOP",
-            "EZAPOP Data"
-        ],
-        "url": "https://www.ojjdp.gov/ojstatbb/ezapop/",
-        "description": "provides access to National, State, and County level population data detailed by age, sex, race, and ethnicity. Users can create detailed population profiles for a single jurisdiction or create State Comparison or County Comparison tables."
+    "id": "dataset-205",
+    "provider": "Office of Juvenile Justice and Delinquency Prevention",
+    "title": "Easy Access to Juvenile Populations",
+    "alt_title": [
+        "EZAPOP",
+        "EZAPOP Data"
+    ],
+    "url": "https://www.ojjdp.gov/ojstatbb/ezapop/",
+    "description":"provides access to National, State, and County level population data detailed by age, sex, race, and ethnicity. Users can create detailed population profiles for a single jurisdiction or create State Comparison or County Comparison tables."
     },
     {
-        "id": "dataset-206",
-        "provider": "National Center for Children in Poverty",
-        "title": "National Center for Children in Poverty Data",
-        "alt_title": [
-            "NCCP",
-            "NCCP Data"
-        ],
-        "url": "http://www.nccp.org/tools/"
+    "id": "dataset-206",
+    "provider": "National Center for Children in Poverty",
+    "title": "National Center for Children in Poverty Data",
+    "alt_title": [
+        "NCCP",
+        "NCCP Data"
+    ],
+    "url": "http://www.nccp.org/tools/"
     },
     {
-        "id": "dataset-207",
-        "provider": "National Center for Education Statistics",
-        "title": "National Center for Education Statistics Data",
-        "alt_title": [
-            "NCES",
-            "NCES Data"
-        ],
-        "url": "https://nces.ed.gov/datatools/"
+    "id": "dataset-207",
+    "provider": "National Center for Education Statistics",
+    "title": "National Center for Education Statistics Data",
+    "alt_title": [
+        "NCES",
+        "NCES Data"
+    ],
+    "url": "https://nces.ed.gov/datatools/"
+    },
+    {
+    "id": "dataset-208",
+    "provider": "Maryland Department of Human Services",
+    "title": "Client Information System",
+    "alt_title": [
+        "CIS",
+        "Maryland CIS",
+        "Maryland Client Information System"
+    ],
+    "url": "http://dhs.maryland.gov/documents/Request%20for%20Proposal/OS-CSC-15-001-S/CSC%20RFP%20-%20Amendment%201.doc",
+    "description": "Client Information System (CIS) is a system shared jointly by CARES, CSES, Services, MD CHESSIE and Child Care Automated Tracking System (CCATS).  CIS produces the Individual Registration Number (IRN) for each unique DHR customer.  CIS is the repository for public assistance participation."
+    },
+    {
+    "id": "dataset-209",
+    "provider": "Colorado Department of Human Services",
+    "title": "Colorado Temporary Assistance for Needy Families",
+    "alt_title": [
+        "TANF",
+        "Colorado TANF",
+        "Temporary Assistance for Needy Families",
+        "Aid to Dependent Families with Children",
+        "Colorado Aid to Dependent Families with Children",
+        "Colorado AFDC",
+        "AFDC",
+        "Colorado Works"
+    ],
+    "url": "https://www.colorado.gov/pacific/cdhs/colorado-works-tanf",
+    "description": "Colorado Works is Colorado's Temporary Assistance for Needy Families (TANF) program. Through the program, participants receive help becoming self-sufficient by strengthening their family's economic and social stability."
+    },
+    {
+    "id": "dataset-210",
+    "provider": "District of Columbia Department of Employment Services",
+    "title": "District of Columbia Unemployment Insurance",
+    "alt_title": [
+        "UI",
+        "District of Columbia UI",
+        "District of Columbia Unemployment Insurance",
+        "D.C. UI",
+        "D.C. Unemployment Insurance"
+    ],
+    "url": "https://does.dc.gov/service/employer-tax-information-unemployment-insurance",
+    "description": "UI-related data on employment and unemployment."
     }
 ]
