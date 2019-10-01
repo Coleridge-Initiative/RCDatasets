@@ -3,6 +3,7 @@
 
 from urllib.parse import urlparse
 import json
+import re
 import sys
 import unittest
 
@@ -29,12 +30,17 @@ class TestVerifyDatasets (unittest.TestCase):
             "url"
             ])
 
+    PAT_ID_FORMAT = re.compile(r"^dataset\-(\d+)$")
+
+    PAT_LEADING_SPACE = re.compile(r"^\s.*")
+    PAT_TRAILING_SPACE = re.compile(r".*\s$")
+
 
     def setUp (self):
         """load the dataset list"""
         self.datasets = []
         filename = "datasets.json"
-        #filename = "foo.json"
+        #filename = "test.json"
 
         with open(filename, "r") as f:
             self.datasets = json.load(f)
@@ -85,15 +91,17 @@ class TestVerifyDatasets (unittest.TestCase):
         id_list = []
 
         for dataset in self.datasets:
-            try:
-                id = int(dataset["id"].split("-")[1])
-            except:
-                raise Exception("{}: badly formed ID".format(dataset["id"]))
+            m = self.PAT_ID_FORMAT.match(dataset["id"])
 
-            if id in id_list:
-                raise Exception("{}: duplicate ID".format(dataset["id"]))
+            if not m:
+                raise Exception("badly formed ID |{}|".format(dataset["id"]))
             else:
-                id_list.append(id)
+                id = int(m.group(1))
+
+                if id in id_list:
+                    raise Exception("duplicate ID |{}|".format(dataset["id"]))
+                else:
+                    id_list.append(id)
 
 
     def test_enum_providers (self):
@@ -107,6 +115,21 @@ class TestVerifyDatasets (unittest.TestCase):
 
         for provider in sorted(list(provider_set)):
             print(provider)
+
+
+    def has_clean_name (self, dataset, field):
+        val = dataset[field]
+
+        if self.PAT_LEADING_SPACE.match(val):
+            raise Exception("{}: leading space in {} |{}|".format(dataset["id"], field, val))
+        elif self.PAT_TRAILING_SPACE.match(val):
+            raise Exception("{}: trailing space in {} |{}|".format(dataset["id"], field, val))
+
+
+    def test_clean_names (self):
+        for dataset in self.datasets:
+            self.has_clean_name(dataset, "title")
+            self.has_clean_name(dataset, "provider")
 
 
 if __name__ == "__main__":
