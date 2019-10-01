@@ -2344,5 +2344,76 @@
     ],
     "url": "https://does.dc.gov/service/employer-tax-information-unemployment-insurance",
     "description": "UI-related data on employment and unemployment."
+    },
+    {
+    "id": "dataset-211",
+    "provider": "Delaware Department of Labor",
+    "title": "Delaware Unemployment Insurance",
+    "alt_title": [
+        "UI",
+        "Delaware UI",
+        "Delaware Unemployment Insurance"
+    ],
+    "url": "https://ui.delawareworks.com/",
+    "description": "UI-related data on employment and unemployment."
+    },
+    {
+    "id": "dataset-212",
+    "provider": "Virginia Employment Commission",
+    "title": "Virginia Unemployment Insurance",
+    "alt_title": [
+        "UI",
+        "Virginia UI",
+        "Virginia Unemployment Insurance"
+    ],
+    "url": "http://www.vec.virginia.gov/",
+    "description": "UI-related data on employment and unemployment."
+    },
+    {
+    "id": "dataset-213",
+    "provider": "WorkForce West Virginia",
+    "title": "West Virginia Unemployment Insurance",
+    "alt_title": [
+        "UI",
+        "West Virginia UI",
+        "West Virginia Unemployment Insurance"
+    ],
+    "url": "https://workforcewv.org/",
+    "description": "UI-related data on employment and unemployment."
+    },
+    {
+    "id": "dataset-214",
+    "provider": "New Jersey Department of Human Services",
+    "title": "New Jersey Temporary Assistance for Needy Families",
+    "alt_title": [
+        "TANF",
+        "New Jersey TANF",
+        "N.J. TANF",
+        "Temporary Assistance for Needy Families",
+        "Aid to Dependent Families with Children",
+        "New Jersey Aid to Dependent Families with Children",
+        "New Jersey AFDC",
+        "N.J. Aid to Dependent Families with Children",
+        "N.J. AFDC",
+        "AFDC",
+        "WorkFirst NJ",
+        "WFNJ"
+    ],
+    "url": "https://www.state.nj.us/humanservices/dfd/programs/workfirstnj/",
+    "description": "Temporary Assistance for Needy Families (TANF) provides temporary cash for families in need."
+    },
+    {
+    "id": "dataset-215",
+    "provider": "New Jersey Department of Human Services",
+    "title": "Substance Abuse Initiative data",
+    "alt_title": [
+        "SAI",
+        "N.J. SAI",
+        "N.J. Substance Abuse Initiative",
+        "New Jersey SAI",
+        "New Jersey Substance Abuse Initiative"
+    ],
+    "url": "https://ncaddnj.nationbuilder.com/",
+    "description": "The SAI is a statewide Work First New Jersey welfare-to-work program funded by the New Jersey Department of Human Services."
     }
 ]
