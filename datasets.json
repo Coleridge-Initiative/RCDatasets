@@ -2546,7 +2546,18 @@
     "description": "FAMIS will be used to verify the receipt of TANF monies, receipt of food stamps, the members on the TANF grant, the monthly grant amount, and the date a member was added or removed from the TANF grant."
     },
     {
-    "id": "dataset-226",
+           "id": "dataset-226 ",
+           "provider": "Indiana Department of Corrections",
+           "title": "Indiana Education Division Data",
+           "alt_title":[
+               "IDOC",
+               "IDOC Data",
+               "IDOC Education Data"
+           ],
+           "url": "https://www.in.gov/idoc/2376.htm"
+    },
+    {
+    "id": "dataset-227",
     "provider": "Maryland Department of Human Resources",
     "title": "Maryland State Directory of New Hire",
     "alt_title": [
@@ -2556,7 +2567,7 @@
     "description": "Federal and State law requires employers to report newly hired and re-hired employees in Maryland to the Maryland State Directory of New Hire."
     },
     {
-    "id": "dataset-227",
+    "id": "dataset-228",
     "provider": "Maryland Department of Human Resources",
     "title": "Child Care Automated Management Information System",
     "alt_title": [
@@ -2567,7 +2578,7 @@
     "description": "Data on childcare subsidies for the state of Maryland."
     },
     {
-    "id": "dataset-228",
+    "id": "dataset-229",
     "provider": "Arizona Department of Economic Security",
     "title": "Arizona Temporary Assistance for Needy Families",
     "alt_title": [
@@ -2587,7 +2598,7 @@
     "description": "Cash Assistance helps families meet their basic needs for well-being and safety and serves as their path to self-sufficiency.  The Cash Assistance program provides temporary cash benefits and supportive services to the neediest of Arizona's children and their families."
     },
     {
-    "id": "dataset-229",
+    "id": "dataset-230",
     "provider": "Arizona Department of Economic Security",
     "title": "Arizona Unemployment Insurance",
     "alt_title": [
