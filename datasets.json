@@ -2658,14 +2658,12 @@
     },
     {
     "id": "dataset-235",
-    "provider": "Job Service North Dakota",
-    "title": "North Dakota Unemployment Insurance",
+    "provider": "California Department of Social Services",
+    "title": "Medi-Cal Eligibility Data System",
     "alt_title": [
-        "UI",
-        "North Dakota UI",
-        "North Dakota Unemployment Insurance"
+        "MEDS"
     ],
-    "url": "http://www.jobsnd.com/unemployment-business/resources",
-    "description": "Job Service North Dakota [JSND] publishes this handbook to help employers comply with the North Dakota Unemployment Compensation Law and to promote understanding of both the UI Tax and UI Benefits programs."
+    "url": "https://www.dhcs.ca.gov/provgovpart/Pages/DHCS-IT-Systems-and-Projects.aspx",
+    "description": "MEDS is a statewide data hub serving a variety of eligibility, enrollment and reporting functions for Medi-Cal and other state and federal benefits. MEDS maintains eligibility history for Medi-Cal and other health and human services programs."
     }
 ]
