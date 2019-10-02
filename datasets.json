@@ -2768,5 +2768,68 @@
     ],
     "url": "https://www.nj.gov/labor/lpa/employ/uirate/lfest_index.html",
     "description": "UI-related data on employment and unemployment."
-  }
+    },
+    {
+    "id": "dataset-246",
+    "provider": "State of Vermont Department of Labor",
+    "title": "Vermont Unemployment Insurance",
+    "alt_title": [
+        "UI",
+        "Vermont UI"
+    ],
+    "url": "https://labor.vermont.gov/unemployment-insurance/unemployment-information-employers/employer-online-services/register-ui",
+    "description": "UI-related data on employment and unemployment."
+    },
+    {
+    "id": "dataset-247",
+    "provider": "New Hampshire Department of Employment Security",
+    "title": "New Hampshire Unemployment Insurance",
+    "alt_title": [
+        "UI",
+        "New Hampshire UI",
+        "N.H. UI",
+        "N.H. Unemployment Insurance"
+    ],
+    "url": "https://www.nhes.nh.gov/elmi/statistics/claims-data.htm",
+    "description": "UI-related data on employment and unemployment."
+    },
+    {
+    "id": "dataset-248",
+    "provider": "Vermont Department for Children and Families",
+    "title": "Vermont Temporary Assistance for Needy Families",
+    "alt_title": [
+        "TANF",
+        "Vermont TANF",
+        "Temporary Assistance for Needy Families",
+        "Aid to Dependent Families with Children",
+        "Vermont Aid to Dependent Families with Children",
+        "Vermont AFDC",
+        "Vermont Aid to Needy Families with Children",
+        "ANFC"
+    ],
+    "url": "https://dcf.vermont.gov/esd/reports",
+    "description": "Temporary Assistance for Needy Families (TANF) provides temporary cash for families in need."
+    },
+    {
+    "id": "dataset-249",
+    "provider": "Vermont Department for Children and Families",
+    "title": "Vermont Supplemental Nutrition Assistance Program",
+    "alt_title": [
+        "SNAP",
+        "Vermont SNAP",
+        "Vermont Supplemental Nutrition Assistance Program",
+        "Supplemental Nutrition Assistance Program",
+        "State of Vermont SNAP",
+        "3SquaresVT"
+    ],
+    "url": "https://dcf.vermont.gov/esd/reports",
+    "description": "SNAP offers food benefits to eligible, low-income individuals and families."
+    },
+    {
+    "id": "dataset-250",
+    "provider": "Vermont Department for Children and Families",
+    "title": "Vermont Reach Up",
+    "url": "https://dcf.vermont.gov/esd/reports",
+    "description": "Reach Up joins families on their journey to overcome obstacles, explore opportunities, improve their finances and reach their goals."
+    }
 ]
