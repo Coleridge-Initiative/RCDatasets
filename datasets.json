@@ -1258,7 +1258,7 @@
         "title": "New Jersey Temporary Assistance for Needy Families",
         "alt_title": [
             "TANF",
-            "New Jersey  TANF",
+            "New Jersey TANF",
             "N.J. TANF",
             "Temporary Assistance for Needy Families",
             "Aid to Dependent Families with Children",
@@ -2607,5 +2607,63 @@
     ],
     "url": "https://des.az.gov/services/employment/unemployment-employer/data-disclosure-information-and-fee-schedule-unemployment",
     "description": "UI-related data on employment and unemployment."
+    },
+    {
+    "id": "dataset-231",
+    "provider": "North Dakota State Department of Human Services",
+    "title": "North Dakota Temporary Assistance for Needy Families",
+    "alt_title": [
+        "TANF",
+        "North Dakota TANF",
+        "Temporary Assistance for Needy Families",
+        "Aid to Dependent Families with Children",
+        "North Dakota Aid to Dependent Families with Children",
+        "North Dakota AFDC",
+        "AFDC"
+    ],
+    "url": "https://www.nd.gov/dhs/services/financialhelp/tanfjobs.html",
+    "description": "The Temporary Assistance for Needy Families (TANF) program is intended to move low-income families from public assistance to self-sufficiency by providing cash assistance along with work readiness, training and job placement services."
+    },
+    {
+    "id": "dataset-232",
+    "provider": "U.S. Department of Homeland Security",
+    "title": "Treasury Enforcement Communications System",
+    "alt_title": [
+        "TECS"
+    ],
+    "url": "https://www.dhs.gov/xlibrary/assets/privacy/privacy-pia-cbp-tecs-sar-update.pdf",
+    "description": "TECS, formerly known as the Treasury Enforcement Communications System, is used by the U.S. Department of Homeland Security to manage the flow of people through border ports of entry and for immigration enforcement case management."
+    },
+    {
+    "id": "dataset-233",
+    "provider": "North Dakota State Department of Human Services",
+    "title": "North Dakota Child Care Assistance Program data",
+    "alt_title": [
+        "Child Care Assistance Program"
+    ],
+    "url": "https://www.nd.gov/dhs/services/financialhelp/childcare.html",
+    "description": "The Child Care Assistance Program helps income-eligible families pay for child care while they work or attend school or training."
+    },
+    {
+    "id": "dataset-234",
+    "provider": "Job Service North Dakota",
+    "title": "North Dakota Unemployment Insurance",
+    "alt_title": [
+        "UI",
+        "North Dakota UI",
+        "North Dakota Unemployment Insurance"
+    ],
+    "url": "http://www.jobsnd.com/unemployment-business/resources",
+    "description": "Job Service North Dakota [JSND] publishes this handbook to help employers comply with the North Dakota Unemployment Compensation Law and to promote understanding of both the UI Tax and UI Benefits programs."
+    },
+    {
+    "id": "dataset-235",
+    "provider": "California Department of Social Services",
+    "title": "Medi-Cal Eligibility Data System",
+    "alt_title": [
+        "MEDS"
+    ],
+    "url": "https://www.dhcs.ca.gov/provgovpart/Pages/DHCS-IT-Systems-and-Projects.aspx",
+    "description": "MEDS is a statewide data hub serving a variety of eligibility, enrollment and reporting functions for Medi-Cal and other state and federal benefits. MEDS maintains eligibility history for Medi-Cal and other health and human services programs."
     }
 ]
