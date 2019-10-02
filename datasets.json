@@ -2546,7 +2546,7 @@
     "description": "FAMIS will be used to verify the receipt of TANF monies, receipt of food stamps, the members on the TANF grant, the monthly grant amount, and the date a member was added or removed from the TANF grant."
     },
     {
-           "id": "dataset-226 ",
+           "id": "dataset-226",
            "provider": "Indiana Department of Corrections",
            "title": "Indiana Education Division Data",
            "alt_title":[
