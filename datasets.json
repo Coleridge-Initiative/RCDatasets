@@ -2665,5 +2665,52 @@
     ],
     "url": "https://www.dhcs.ca.gov/provgovpart/Pages/DHCS-IT-Systems-and-Projects.aspx",
     "description": "MEDS is a statewide data hub serving a variety of eligibility, enrollment and reporting functions for Medi-Cal and other state and federal benefits. MEDS maintains eligibility history for Medi-Cal and other health and human services programs."
+    },
+    {
+    "id": "dataset-236",
+    "provider": "Colorado Department of Human Services",
+    "title": "Colorado Automated Client Tracking Information System",
+    "alt_title": [
+        "CACTIS"
+    ],
+    "url": "https://dl.acm.org/citation.cfm?id=318836",
+    "description": "Cactis is an object-oriented database management system being developed at the University of Colorado. The data model underlying Cactis is based on a principle we call active semantics, and is designed to support complex functionally-defined data. In an active semantics database, each entity is assigned a behavioral specification which allows it to respond to changes elsewhere in the database."
+    },
+    {
+    "id": "dataset-237",
+    "provider": "Colorado Department of Human Services",
+    "title": "Colorado Automated Child Support Enforcement System",
+    "alt_title": [
+        "ACSES"
+    ],
+    "url": "https://childsupport.state.co.us/",
+    "description": "The new computerized network used in most jurisdictions to collect child support."
+    },
+    {
+    "id": "dataset-238",
+    "provider": "Colorado Department of Human Services",
+    "title": "Colorado Trails",
+    "alt_title": [
+        "Trails"
+    ],
+    "url": "https://www.colorado.gov/pacific/cdhs/child-welfare-policies-data-accountability",
+    "description": " Trails integrates, with limitations, 11 data systems owned by other child and family serving state agencies. State and county users depend heavily on the approximately 1,000 structured and ad-hoc reports, which were developed from Trails to satisfy federal reporting requirements and to assess the performance and effectiveness of Colorado’s child welfare services."
+    },
+    {
+    "id": "dataset-239",
+    "provider": "Illinois Criminal Justice Information Authority",
+    "title": "Illinois Criminal History Records",
+    "url": "http://www.icjia.state.il.us/research/overview#tab_research-data",
+    "description": "Criminal history data by individual."
+    },
+    {
+    "id": "dataset-240",
+    "provider": "Florida Department of Children and Families",
+    "title": "Florida Medicaid data",
+    "alt_title": [
+        "Medicaid"
+    ],
+    "url": "https://ahca.myflorida.com/Medicaid/Finance/data_analytics/index.shtml",
+    "description": "Medicaid is the medical assistance program that provides access to health care for low-income families and individuals.  Medicaid also assists the elderly and people with disabilities with the costs of nursing facility care and other medical and long-term care expenses."
     }
 ]
