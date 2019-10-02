@@ -1805,10 +1805,20 @@
         "description": "Massachusetts has 2 types of criminal records. Name-based court arraignment records, also known as CORI, are created and maintained by the Massachusetts courts."
     },
     {
+        "id": "dataset-164",
+        "provider": "Boston Police Department",
+        "title": "Boston Police Department Data",
+        "alt_title": [
+            "BPD Data"
+        ],
+        "url": "https://data.boston.gov/dataset",
+        "description": "Both the raw data and the interactive map are updated daily with the latest ... Crime incident reports are provided by Boston Police Department (BPD)."
+    },
+    {
         "id": "dataset-165",
         "provider": "Indiana Department of Corrections",
         "title": "Indiana Division of Research and Planning Data",
-        "alt_title":[
+        "alt_title": [
             "IDOC",
             "IDOC Data"
         ],
