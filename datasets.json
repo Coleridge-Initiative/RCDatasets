@@ -1800,7 +1800,7 @@
             "CORI",
             "CORI Data"
         ],
-        "url": "https://www.mass.gov/criminal-record-check-services",
+        "url": "https://icori.chs.state.ma.us/icori/ext/global/landing.action?page=1&bod=1569949521652&m=presentLanding",
         "description": "Massachusetts has 2 types of criminal records. Name-based court arraignment records, also known as CORI, are created and maintained by the Massachusetts courts."
     },
     {
@@ -1815,14 +1815,13 @@
     },
     {
         "id": "dataset-165",
-        "provider": "Illinois Department of Corrections",
-        "title": "Illinois Division of Research and Planning Data",
+        "provider": "Indiana Department of Corrections",
+        "title": "Indiana Division of Research and Planning Data",
         "alt_title": [
             "IDOC",
             "IDOC Data"
         ],
-        "url": "https://www2.illinois.gov/idoc/reportsandstatistics/Pages/default.aspx",
-        "description": "The information made available on this database is provided for the general public to facilitate research and general inquiries related to the offender population."
+        "url": "https://www.in.gov/idoc/2376.htm"
     },
     {
         "id": "dataset-166",
@@ -2047,13 +2046,13 @@
     },
     {
         "id": "dataset-183",
-        "provider": "Illinois Department of Workforce Development",
-        "title": "Illinois Department of Workforce Development Data",
+        "provider": "Indiana Department of Workforce Development",
+        "title": "Indiana Department of Workforce Development Data",
         "alt_title": [
             "IDWD",
             "IDWD Data"
         ],
-        "url": "https://www.in.gov/dwd/2329.htm"
+        "url": "http://www.hoosierdata.in.gov/data-request.asp"
     },
     {
         "id": "dataset-184",
@@ -2546,7 +2545,7 @@
     "description": "FAMIS will be used to verify the receipt of TANF monies, receipt of food stamps, the members on the TANF grant, the monthly grant amount, and the date a member was added or removed from the TANF grant."
     },
     {
-           "id": "dataset-226 ",
+           "id": "dataset-226",
            "provider": "Indiana Department of Corrections",
            "title": "Indiana Education Division Data",
            "alt_title":[
@@ -2608,5 +2607,65 @@
     ],
     "url": "https://des.az.gov/services/employment/unemployment-employer/data-disclosure-information-and-fee-schedule-unemployment",
     "description": "UI-related data on employment and unemployment."
+    },
+    {
+    "id": "dataset-231",
+    "provider": "North Dakota State Department of Human Services",
+    "title": "North Dakota Temporary Assistance for Needy Families",
+    "alt_title": [
+        "TANF",
+        "North Dakota TANF",
+        "Temporary Assistance for Needy Families",
+        "Aid to Dependent Families with Children",
+        "North Dakota Aid to Dependent Families with Children",
+        "North Dakota AFDC",
+        "AFDC"
+    ],
+    "url": "https://www.nd.gov/dhs/services/financialhelp/tanfjobs.html",
+    "description": "The Temporary Assistance for Needy Families (TANF) program is intended to move low-income families from public assistance to self-sufficiency by providing cash assistance along with work readiness, training and job placement services."
+    },
+    {
+    "id": "dataset-232",
+    "provider": "U.S. Department of Homeland Security",
+    "title": "Treasury Enforcement Communications System",
+    "alt_title": [
+        "TECS"
+    ],
+    "url": "https://www.dhs.gov/xlibrary/assets/privacy/privacy-pia-cbp-tecs-sar-update.pdf",
+    "description": "TECS, formerly known as the Treasury Enforcement Communications System, is used by the U.S. Department of Homeland Security to manage the flow of people through border ports of entry and for immigration enforcement case management."
+    },
+    {
+    "id": "dataset-233",
+    "provider": "North Dakota State Department of Human Services",
+    "title": "North Dakota Child Care Assistance Program data",
+    "alt_title": [
+        "Child Care Assistance Program"
+    ],
+    "url": "https://www.nd.gov/dhs/services/financialhelp/childcare.html",
+    "description": "The Child Care Assistance Program helps income-eligible families pay for child care while they work or attend school or training."
+    },
+    {
+    "id": "dataset-234",
+    "provider": "Job Service North Dakota",
+    "title": "North Dakota Unemployment Insurance",
+    "alt_title": [
+        "UI",
+        "North Dakota UI",
+        "North Dakota Unemployment Insurance"
+    ],
+    "url": "http://www.jobsnd.com/unemployment-business/resources",
+    "description": "Job Service North Dakota [JSND] publishes this handbook to help employers comply with the North Dakota Unemployment Compensation Law and to promote understanding of both the UI Tax and UI Benefits programs."
+    },
+    {
+    "id": "dataset-235",
+    "provider": "Job Service North Dakota",
+    "title": "North Dakota Unemployment Insurance",
+    "alt_title": [
+        "UI",
+        "North Dakota UI",
+        "North Dakota Unemployment Insurance"
+    ],
+    "url": "http://www.jobsnd.com/unemployment-business/resources",
+    "description": "Job Service North Dakota [JSND] publishes this handbook to help employers comply with the North Dakota Unemployment Compensation Law and to promote understanding of both the UI Tax and UI Benefits programs."
     }
 ]
