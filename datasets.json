@@ -1801,7 +1801,7 @@
             "CORI",
             "CORI Data"
         ],
-        "url": "https://www.mass.gov/criminal-record-check-services",
+        "url": "https://icori.chs.state.ma.us/icori/ext/global/landing.action?page=1&bod=1569949521652&m=presentLanding",
         "description": "Massachusetts has 2 types of criminal records. Name-based court arraignment records, also known as CORI, are created and maintained by the Massachusetts courts."
     },
     {
@@ -1816,14 +1816,13 @@
     },
     {
         "id": "dataset-165",
-        "provider": "Illinois Department of Corrections",
-        "title": "Illinois Division of Research and Planning Data",
+        "provider": "Indiana Department of Corrections",
+        "title": "Indiana Division of Research and Planning Data",
         "alt_title": [
             "IDOC",
             "IDOC Data"
         ],
-        "url": "https://www2.illinois.gov/idoc/reportsandstatistics/Pages/default.aspx",
-        "description": "The information made available on this database is provided for the general public to facilitate research and general inquiries related to the offender population."
+        "url": "https://www.in.gov/idoc/2376.htm"
     },
     {
         "id": "dataset-166",
@@ -2048,13 +2047,13 @@
     },
     {
         "id": "dataset-183",
-        "provider": "Illinois Department of Workforce Development",
-        "title": "Illinois Department of Workforce Development Data",
+        "provider": "Indiana Department of Workforce Development",
+        "title": "Indiana Department of Workforce Development Data",
         "alt_title": [
             "IDWD",
             "IDWD Data"
         ],
-        "url": "https://www.in.gov/dwd/2329.htm"
+        "url": "http://www.hoosierdata.in.gov/data-request.asp"
     },
     {
         "id": "dataset-184",
@@ -2545,5 +2544,16 @@
     ],
     "url": "https://secure.ssa.gov/apps10/poms.nsf/lnx/0500830403NY",
     "description": "FAMIS will be used to verify the receipt of TANF monies, receipt of food stamps, the members on the TANF grant, the monthly grant amount, and the date a member was added or removed from the TANF grant."
+    },
+    {
+            "id": "dataset-226 ",
+            "provider": "Indiana Department of Corrections",
+            "title": "Indiana Education Division Data",
+            "alt_title":[
+                "IDOC",
+                "IDOC Data",
+                "IDOC Education Data"
+            ],
+            "url": "https://www.in.gov/idoc/2376.htm"
     }
 ]
