@@ -2712,5 +2712,61 @@
     ],
     "url": "https://ahca.myflorida.com/Medicaid/Finance/data_analytics/index.shtml",
     "description": "Medicaid is the medical assistance program that provides access to health care for low-income families and individuals.  Medicaid also assists the elderly and people with disabilities with the costs of nursing facility care and other medical and long-term care expenses."
-    }
+    },
+    {
+    "id": "dataset-241",
+    "provider": "Oregon Department of Human Services",
+    "title": "Oregon Unemployment Insurance",
+    "alt_title": [
+        "UI",
+        "Oregon UI",
+        "Oregon Unemployment Insurance"
+    ],
+    "url": "https://www.oregon.gov/EMPLOY/Agency/Pages/UI-Reports.aspx",
+    "description": "UI-related data on employment and unemployment."
+    },
+    {
+    "id": "dataset-242",
+    "provider": "California Department of Social Services",
+    "title": "California Work Pays Demonstration Project data",
+    "alt_title": [
+        "WPDP",
+        "CWPDP"
+    ],
+    "url": "https://www.cdss.ca.gov/lettersnotices/entres/getinfo/acl98/98-01.pdf",
+    "description": "The California Work Pays Demonstration Project (CWPDP) was intended to assess the effects of recent changes in Aid to Families With Dependent Children (AFDC) provisions."
+    },
+    {
+    "id": "dataset-243",
+    "provider": "California Department of Social Services",
+    "title": "California Child Welfare administrative records",
+    "url": "http://cssr.berkeley.edu/ucb_childwelfare/",
+    "description": "The California Child Welfare Indicators Project (CCWIP) is a collaborative venture between the University of California at Berkeley (UCB) and the California Department of Social Services (CDSS). The project is housed in the School of Social Welfare, and provides policymakers, child welfare workers, researchers, and the public with direct access to customizable information on California’s entire child welfare system."
+    },
+    {
+    "id": "dataset-244",
+    "provider": "New York State Department of Labor",
+    "title": "New York Unemployment Insurance",
+    "alt_title": [
+        "UI",
+        "New York UI",
+        "N.Y. UI",
+        "N.Y. Unemployment Insurance"
+    ],
+    "url": "https://labor.ny.gov/data-sharing/",
+    "description": "UI-related data on employment and unemployment."
+    },
+    {
+    "id": "dataset-245",
+    "provider": "State of New Jersey Department of Labor and Workforce Development",
+    "title": "New Jersey Unemployment Insurance",
+    "alt_title": [
+        "UI",
+        "New Jersey UI",
+        "N.J. UI",
+        "N.J. Unemployment Insurance"
+    ],
+    "url": "https://www.nj.gov/labor/lpa/employ/uirate/lfest_index.html",
+    "description": "UI-related data on employment and unemployment."
+  }
 ]
