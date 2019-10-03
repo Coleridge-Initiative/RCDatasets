@@ -2,7 +2,7 @@
     {
         "id": "dataset-001",
         "provider": "IRI",
-        "title": "IRI Ifoscan",
+        "title": "IRI Infoscan",
         "alt_title": [
             "retail scanner data"
         ],
@@ -3133,5 +3133,59 @@
         ],
         "url": "http://www.dhs.state.il.us/page.aspx?item=58589",
         "description": "The Client Database contains both case-level variables (those with one value being used to represent each case) and individual-level variables that relate to characteristics of the individuals who are on the cases."
-    }
+    },
+    {
+        "id": "dataset-300",
+        "provider": "Nielsen",
+        "title": "Nielsen’s Retail Measurement Services",
+        "alt_title": [
+            "RMS"
+        ],
+        "url": "https://www.nielsen.com/us/en/client-learning/retail-measurement-services/",
+        "description": "RMS is a national panel of UPC-level sales data from 35,000 stores covering about 40% of all U.S. grocery purchases."
+        },
+        {
+        "id": "dataset-301",
+        "provider":"U.S. Department of Agriculture",
+        "title": "Flexible Consumer Behavior Survey",
+        "alt_title": [
+            "FCBS"
+        ],
+        "url": "https://www.ers.usda.gov/topics/food-choices-health/food-consumption-demand/flexible-consumer-behavior-survey/",
+        "description": "Since 2007, ERS has fielded the Flexible Consumer Behavior Survey (FCBS), a module in NCHS's National Health and Nutrition Examination Survey (NHANES), designed to collect information on U.S. consumers' knowledge, attitudes, and beliefs regarding nutrition and food choices."
+        },
+        {
+        "id": "dataset-302",
+        "provider":"National Center for Education Statistics",
+        "title": "Early Childhood Longitudinal Program",
+        "alt_title": [
+            "ECLS",
+            "Early Childhood Longitudinal Program - Birth Cohort",
+            "ECLS-B"
+        ],
+        "url": "https://nces.ed.gov/ecls/birth.asp",
+        "description": "The Early Childhood Longitudinal Study, Birth Cohort (ECLS-B) was designed to provide policy makers, researchers, child care providers, teachers, and parents with detailed information about children's early life experiences."
+        },
+        {
+        "id": "dataset-303",
+        "provider":"University of Michigan",
+        "title": "Panel Study of Income Dynamics",
+        "alt_title": [
+            "PSID",
+            "Panel Study of Income Dynamics—Child Development Supplement",
+            "PSID-CDS"
+        ],
+        "url": "https://psidonline.isr.umich.edu/",
+        "description": "The study began in 1968 with a nationally representative sample of over 18,000 individuals living in 5,000 families in the United States. Information on these individuals and their descendants has been collected continuously, including data covering employment, income, wealth, expenditures, health, marriage, childbearing, child development, philanthropy, education, and numerous other topics."
+        },
+        {
+        "id": "dataset-304",
+        "provider":"Princeton University",
+        "title": "Fragile Families and Child Wellbeing Study",
+        "alt_title": [
+            "FFCWS"
+        ],
+        "url": "https://fragilefamilies.princeton.edu/",
+        "description": "The Fragile Families & Child Wellbeing Study is following a cohort of nearly 5,000 children born in large U.S. cities between 1998 and 2000 (roughly three-quarters of whom were born to unmarried parents). We refer to unmarried parents and their children as “fragile families” to underscore that they are families and that they are at greater risk of breaking up and living in poverty than more traditional families."
+        }
 ]
