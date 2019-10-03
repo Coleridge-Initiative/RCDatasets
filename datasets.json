@@ -3008,5 +3008,68 @@
     ],
     "url": "https://data.edd.ca.gov/",
     "description": "Data from state to track employment and earnings."
+    },
+    {
+        "id": "dataset-266",
+        "provider": "California Department of Social Services",
+        "title": "California County Case Data System",
+        "alt_title": [
+            "California CDS",
+            "CDS",
+            "California Statewide Automated Welfare System",
+            "California SAWS",
+            "SAWS"
+        ],
+        "url": "https://www.cdss.ca.gov/inforesources/SAWS",
+        "description": "Data from California welfare case data system to identify populations, demographics, and identify reasons for welfare assistance."
+    },
+    {
+        "id": "dataset-267",
+        "provider": "Maryland Department of Human Services",
+        "title": "Maryland Work Opportunities Management Information System",
+        "alt_title": [
+            "Maryland WO MIS",
+            "WO MIS"
+        ],
+        "description": "Data from Maryland state database recording work and training for welfare participants. Includes demographic information."
+    },
+    {
+        "id": "dataset-268",
+        "provider": "North Carolina Division of Social Services",
+        "title": "North Carolina Work First",
+        "alt_title": [
+            "North Carolina TANF",
+            "Temporary Assistance for Needy Families",
+            "Work First",
+            "WF",
+            "North Carolina Aid to Families with Dependent Children",
+            "AFDC"
+        ],
+        "url": "https://www.ncdhhs.gov/divisions/social-services/program-statistics-and-reviews",
+        "description": "Data from North Carolina social services on Work First (TANF) caseload services and welfare program statistics."
+    },
+    {
+        "id": "dataset-269",
+        "provider": "North Carolina Department of Health and Human Services",
+        "title": "North Carolina Food Stamp Information System",
+        "alt_title": [
+            "North Carolina FSIS",
+            "FSIS"
+            "North Carolina SNAP",
+            "SNAP"
+        ],
+        "url": "https://policies.ncdhhs.gov/divisional/social-services/food-stamp-information-system-fsis-users/policy-manuals",
+        "description": "FSIS contains information on household income and expenses and includes earned as well as unearned income."
+    },
+    {
+        "id": "dataset-270",
+        "provider": "North Carolina Department of Health and Human Services",
+        "title": "North Carolina Eligibility Information System",
+        "alt_title": [
+            "North Carolina EIS",
+            "EIS"
+        ],
+        "url": "https://policies.ncdhhs.gov/divisional/health-benefits-nc-medicaid/eligibility-information-system-eis",
+        "description": "Data including  information about benefits provided to Supplemental Security Income (SSI) applicants/recipients, used to determine eligibility."
     }
 ]
