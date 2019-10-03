@@ -3201,6 +3201,56 @@
     "description": "Contains a variable that documented allegations of abuse or neglect of the children in the quarters before and after first exit, aggregated for adult leaver cases that the children are on at first exit; includes sexual abuse, physical abuse, substance abuse, emotional abuse, lack of supervision, environmental neglect, other neglect, and substantial risk of harm."
     },
     {
+    "id": "dataset-281",
+    "provider": "Illinois Department of Children and Family Services",
+    "title": "Illinois Placement Outcomes data",
+    "alt_title": [
+        "IDCFS Placement Outcomes data",
+        "Placement Outcomes data",
+        "Placement Outcomes"
+    ],
+    "url": "https://www2.illinois.gov/dcfs/aboutus/newsandreports/Documents/PlacementCounty.PDF",
+    "description": "Contains data tracking several outcomes recorded for those children placed out of the home before and after exit."
+    },
+    {
+    "id": "dataset-282",
+    "provider": "New York State Department of Social Services",
+    "title": "Welfare Management System Extracts data",
+    "alt_title": [
+        "WMS Extracts data",
+        "WMS data",
+        "WMS",
+        "Wealth Management System"
+    ],
+    "url": "https://www.nysenate.gov/legislation/laws/SOS/21",
+    "description": "The Welfare Management System is the primary system for maintaining information on public assistance eligibility in New York State."
+    },
+    {
+    "id": "dataset-283",
+    "provider": "New York State Department of Social Services",
+    "title": "Welfare Management Systems Quality Control Extract File",
+    "alt_title": [
+        "Welfare Management Systems Quality Control Extract File data",
+        "WMS data",
+        "WMS",
+        "Wealth Management System"
+    ],
+    "url": "https://osc.state.ny.us/audits/allaudits/093003/093003-h/01s35.pdf",
+    "description": "This monthly file, historically used for social services quality control, includes information on current Public Assistance, Food Stamp, and Medicaid status for all individuals statewide."
+    },
+    {
+    "id": "dataset-284",
+    "provider": "Washington Department of Social and Health Services",
+    "title": "Washington Caseload Analysis and Reporting Database",
+    "alt_title": [
+        "Caseload Analysis and Reporting Database",
+        "CARD",
+        "Washington CARD"
+    ],
+    "url": "https://aspe.hhs.gov/tanf-leavers-applicants-and-caseload-studies-data-files-washington-department-social-and-health-services-public-use-data-files-applicants-study",
+    "description": " Caseload Analysis and Reporting Database includes data on cash assistance, food stamps, benefit amounts, and client demographics."
+    },
+    {
         "id": "dataset-300",
         "provider": "Nielsen",
         "title": "Nielsen’s Retail Measurement Services",
