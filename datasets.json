@@ -2831,5 +2831,47 @@
     "title": "Vermont Reach Up",
     "url": "https://dcf.vermont.gov/esd/reports",
     "description": "Reach Up joins families on their journey to overcome obstacles, explore opportunities, improve their finances and reach their goals."
+    },
+    {
+    "id": "dataset-251",
+    "provider": "Vermont Department for Children and Families",
+    "title": "Vermont Child Welfare administrative records",
+    "url": "https://dcf.vermont.gov/protection/services",
+    "alt_title": [
+        "Child welfare data"
+    ],
+    "description": "These data record monthly child care assistance payments issued to all sample members."
+    },
+    {
+    "id": "dataset-252",
+    "provider": "Iowa Department of Human Services",
+    "title": "Iowa Automated Benefit Calculation System Case Master file",
+    "alt_title": [
+        "IABC",
+        "IABC Individual Master File"
+    ],
+    "url": "https://dhs.iowa.gov/sites/default/files/14-B.pdf?100220191840",
+    "description": "Monthly data file that includes current and historical benefit information for each family that has participated in or applied for FIP or Food Stamps within the previous two years."
+    },
+    {
+    "id": "dataset-253",
+    "provider": "Iowa Department of Human Services",
+    "title": "Iowa Automated Benefit Calculation System Individual Master file",
+    "alt_title": [
+        "IABC",
+        "IABC Individual Master File"
+    ],
+    "url": "https://dhs.iowa.gov/sites/default/files/14-B.pdf?100220191840",
+    "description": "The Individual Master file is a monthly data file that includes demographic and other information for each individual in a family included in the Case Master File."
+    },
+    {
+    "id": "dataset-254",
+    "provider": "Iowa Department of Human Services",
+    "title": "Iowa Medicaid Information System",
+    "alt_title": [
+        "Medicaid Information System"
+    ],
+    "url": "https://dhs.iowa.gov/ime/contracts/resource-library/MED-14-004",
+    "description": "Used to issue Medicaid cards to families that qualify for Medicaid benefits. The system is updated on a daily basis and contains 24 months of information on each individual that was enrolled in Medicaid for at least one month during that time period."
     }
 ]
