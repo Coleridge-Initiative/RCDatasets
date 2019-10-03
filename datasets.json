@@ -2,7 +2,7 @@
     {
         "id": "dataset-001",
         "provider": "IRI",
-        "title": "IRI Infoscan",
+        "title": "IRI Ifoscan",
         "alt_title": [
             "retail scanner data"
         ],
@@ -919,7 +919,9 @@
             "Aid to Dependent Families with Children",
             "Georgia Aid to Dependent Families with Children",
             "Georgia AFDC",
-            "AFDC"
+            "AFDC",
+            "SUCCESS",
+            "DHR's SUCCESS system"
         ],
         "url": "https://dfcs.georgia.gov/tanf-eligibility-requirements",
         "description": "Temporary Assistance for Needy Families (TANF) provides temporary cash for families in need."
@@ -1258,7 +1260,7 @@
         "title": "New Jersey Temporary Assistance for Needy Families",
         "alt_title": [
             "TANF",
-            "New Jersey  TANF",
+            "New Jersey TANF",
             "N.J. TANF",
             "Temporary Assistance for Needy Families",
             "Aid to Dependent Families with Children",
@@ -1496,7 +1498,6 @@
         "provider": "Florida Department of Children and Families",
         "title": "Family Transition Program",
         "alt_title": [
-            "SNAP",
             "FTP",
             "FTP's computerized tracking system",
             "CMS",
@@ -1510,6 +1511,10 @@
         "id": "dataset-135",
         "provider": "State of Florida",
         "title": "FLORIDA system",
+        "alt_title": [
+            "FLORIDA information system",
+            "FLORIDA"
+        ],
         "description": "Statewide database containing FTP group members' case histories and participation in employment-related activities."
     },
     {
@@ -1517,7 +1522,8 @@
         "provider": "State of Florida",
         "title": "Florida WAGES",
         "alt_title": [
-            "WAGES"
+            "WAGES",
+            "WAGES information system"
         ],
         "description": "Statewide database containing FTP group members' case histories and participation in employment-related activities."
     },
@@ -2083,7 +2089,7 @@
             "TDCJ",
             "TDCJ Data"
         ],
-        "url": "https://www.tdcj.texas.gov/statistics/index.html"
+        "url": "https://www.tdcj.texas.gov/publications/statistical_reports.html"
     },
     {
         "id": "dataset-187",
@@ -2196,14 +2202,14 @@
     },
     {
         "id": "dataset-197",
-        "provider": "Michigan Department of Corrections",
-        "title": "Michigan Department of Corrections Data",
+        "provider": "Missouri Department of Corrections",
+        "title": "Missouri Department of Corrections Data",
         "alt_title": [
             "MDOC",
             "MDOC Data"
         ],
-        "url": "https://www.michigan.gov/corrections/0,4551,7-119-1409---,00.html",
-        "description": "The Offender Tracking Information System (OTIS) contains information about prisoners, parolees and probationers who are currently under supervision, or who have discharged but are still within three years of their supervision discharge date."
+        "url": "https://web.mo.gov/doc/offSearchWeb/",
+        "description": "Does search on active offenders, including probationers and parolees, not previously excluded as referenced below. Does search on First Name and Last Name including aliases."
     },
     {
         "id": "dataset-198",
@@ -2464,7 +2470,7 @@
     },
     {
     "id": "dataset-220",
-    "provider": "Commonwealth of Kentucky Department of Employment Security",
+    "provider": "Illinois Department of Employment Security",
     "title": "Illinois Unemployment Insurance",
     "alt_title": [
         "UI",
@@ -2546,14 +2552,394 @@
     "description": "FAMIS will be used to verify the receipt of TANF monies, receipt of food stamps, the members on the TANF grant, the monthly grant amount, and the date a member was added or removed from the TANF grant."
     },
     {
-            "id": "dataset-226 ",
-            "provider": "Indiana Department of Corrections",
-            "title": "Indiana Education Division Data",
-            "alt_title":[
-                "IDOC",
-                "IDOC Data",
-                "IDOC Education Data"
-            ],
-            "url": "https://www.in.gov/idoc/2376.htm"
+           "id": "dataset-226",
+           "provider": "Indiana Department of Corrections",
+           "title": "Indiana Education Division Data",
+           "alt_title":[
+               "IDOC",
+               "IDOC Data",
+               "IDOC Education Data"
+           ],
+           "url": "https://www.in.gov/idoc/2376.htm"
+    },
+    {
+    "id": "dataset-227",
+    "provider": "Maryland Department of Human Resources",
+    "title": "Maryland State Directory of New Hire",
+    "alt_title": [
+        "Maryland New Hires Registry"
+    ],
+    "url": "https://newhire-reporting.com/MD-Newhire/default.aspx",
+    "description": "Federal and State law requires employers to report newly hired and re-hired employees in Maryland to the Maryland State Directory of New Hire."
+    },
+    {
+    "id": "dataset-228",
+    "provider": "Maryland Department of Human Resources",
+    "title": "Child Care Automated Management Information System",
+    "alt_title": [
+        "CCAMIS",
+        "Child Care Subsidy data"
+    ],
+    "url": "https://archive.org/details/ERIC_ED381268/page/n1",
+    "description": "Data on childcare subsidies for the state of Maryland."
+    },
+    {
+    "id": "dataset-229",
+    "provider": "Arizona Department of Economic Security",
+    "title": "Arizona Temporary Assistance for Needy Families",
+    "alt_title": [
+        "Cash Assistance",
+        "Arizona Cash Assistance",
+        "Arizona CA",
+        "CA",
+        "TANF",
+        "Arizona TANF",
+        "Temporary Assistance for Needy Families",
+        "Aid to Dependent Families with Children",
+        "Arizona Aid to Dependent Families with Children",
+        "Arizona AFDC",
+        "AFDC"
+    ],
+    "url": "https://des.az.gov/services/child-and-family/cash-assistance",
+    "description": "Cash Assistance helps families meet their basic needs for well-being and safety and serves as their path to self-sufficiency.  The Cash Assistance program provides temporary cash benefits and supportive services to the neediest of Arizona's children and their families."
+    },
+    {
+    "id": "dataset-230",
+    "provider": "Arizona Department of Economic Security",
+    "title": "Arizona Unemployment Insurance",
+    "alt_title": [
+        "UI",
+        "Arizona UI",
+        "Arizona Unemployment Insurance"
+    ],
+    "url": "https://des.az.gov/services/employment/unemployment-employer/data-disclosure-information-and-fee-schedule-unemployment",
+    "description": "UI-related data on employment and unemployment."
+    },
+    {
+    "id": "dataset-231",
+    "provider": "North Dakota State Department of Human Services",
+    "title": "North Dakota Temporary Assistance for Needy Families",
+    "alt_title": [
+        "TANF",
+        "North Dakota TANF",
+        "Temporary Assistance for Needy Families",
+        "Aid to Dependent Families with Children",
+        "North Dakota Aid to Dependent Families with Children",
+        "North Dakota AFDC",
+        "AFDC"
+    ],
+    "url": "https://www.nd.gov/dhs/services/financialhelp/tanfjobs.html",
+    "description": "The Temporary Assistance for Needy Families (TANF) program is intended to move low-income families from public assistance to self-sufficiency by providing cash assistance along with work readiness, training and job placement services."
+    },
+    {
+    "id": "dataset-232",
+    "provider": "U.S. Department of Homeland Security",
+    "title": "Treasury Enforcement Communications System",
+    "alt_title": [
+        "TECS"
+    ],
+    "url": "https://www.dhs.gov/xlibrary/assets/privacy/privacy-pia-cbp-tecs-sar-update.pdf",
+    "description": "TECS, formerly known as the Treasury Enforcement Communications System, is used by the U.S. Department of Homeland Security to manage the flow of people through border ports of entry and for immigration enforcement case management."
+    },
+    {
+    "id": "dataset-233",
+    "provider": "North Dakota State Department of Human Services",
+    "title": "North Dakota Child Care Assistance Program data",
+    "alt_title": [
+        "Child Care Assistance Program"
+    ],
+    "url": "https://www.nd.gov/dhs/services/financialhelp/childcare.html",
+    "description": "The Child Care Assistance Program helps income-eligible families pay for child care while they work or attend school or training."
+    },
+    {
+    "id": "dataset-234",
+    "provider": "Job Service North Dakota",
+    "title": "North Dakota Unemployment Insurance",
+    "alt_title": [
+        "UI",
+        "North Dakota UI",
+        "North Dakota Unemployment Insurance"
+    ],
+    "url": "http://www.jobsnd.com/unemployment-business/resources",
+    "description": "Job Service North Dakota [JSND] publishes this handbook to help employers comply with the North Dakota Unemployment Compensation Law and to promote understanding of both the UI Tax and UI Benefits programs."
+    },
+    {
+    "id": "dataset-235",
+    "provider": "California Department of Social Services",
+    "title": "Medi-Cal Eligibility Data System",
+    "alt_title": [
+        "MEDS"
+    ],
+    "url": "https://www.dhcs.ca.gov/provgovpart/Pages/DHCS-IT-Systems-and-Projects.aspx",
+    "description": "MEDS is a statewide data hub serving a variety of eligibility, enrollment and reporting functions for Medi-Cal and other state and federal benefits. MEDS maintains eligibility history for Medi-Cal and other health and human services programs."
+    },
+    {
+    "id": "dataset-236",
+    "provider": "Colorado Department of Human Services",
+    "title": "Colorado Automated Client Tracking Information System",
+    "alt_title": [
+        "CACTIS"
+    ],
+    "url": "https://dl.acm.org/citation.cfm?id=318836",
+    "description": "Cactis is an object-oriented database management system being developed at the University of Colorado. The data model underlying Cactis is based on a principle we call active semantics, and is designed to support complex functionally-defined data. In an active semantics database, each entity is assigned a behavioral specification which allows it to respond to changes elsewhere in the database."
+    },
+    {
+    "id": "dataset-237",
+    "provider": "Colorado Department of Human Services",
+    "title": "Colorado Automated Child Support Enforcement System",
+    "alt_title": [
+        "ACSES"
+    ],
+    "url": "https://childsupport.state.co.us/",
+    "description": "The new computerized network used in most jurisdictions to collect child support."
+    },
+    {
+    "id": "dataset-238",
+    "provider": "Colorado Department of Human Services",
+    "title": "Colorado Trails",
+    "alt_title": [
+        "Trails"
+    ],
+    "url": "https://www.colorado.gov/pacific/cdhs/child-welfare-policies-data-accountability",
+    "description": " Trails integrates, with limitations, 11 data systems owned by other child and family serving state agencies. State and county users depend heavily on the approximately 1,000 structured and ad-hoc reports, which were developed from Trails to satisfy federal reporting requirements and to assess the performance and effectiveness of Colorado’s child welfare services."
+    },
+    {
+    "id": "dataset-239",
+    "provider": "Illinois Criminal Justice Information Authority",
+    "title": "Illinois Criminal History Records",
+    "url": "http://www.icjia.state.il.us/research/overview#tab_research-data",
+    "description": "Criminal history data by individual."
+    },
+    {
+    "id": "dataset-240",
+    "provider": "Florida Department of Children and Families",
+    "title": "Florida Medicaid data",
+    "alt_title": [
+        "Medicaid"
+    ],
+    "url": "https://ahca.myflorida.com/Medicaid/Finance/data_analytics/index.shtml",
+    "description": "Medicaid is the medical assistance program that provides access to health care for low-income families and individuals.  Medicaid also assists the elderly and people with disabilities with the costs of nursing facility care and other medical and long-term care expenses."
+    },
+    {
+    "id": "dataset-241",
+    "provider": "Oregon Department of Human Services",
+    "title": "Oregon Unemployment Insurance",
+    "alt_title": [
+        "UI",
+        "Oregon UI",
+        "Oregon Unemployment Insurance"
+    ],
+    "url": "https://www.oregon.gov/EMPLOY/Agency/Pages/UI-Reports.aspx",
+    "description": "UI-related data on employment and unemployment."
+    },
+    {
+    "id": "dataset-242",
+    "provider": "California Department of Social Services",
+    "title": "California Work Pays Demonstration Project data",
+    "alt_title": [
+        "WPDP",
+        "CWPDP"
+    ],
+    "url": "https://www.cdss.ca.gov/lettersnotices/entres/getinfo/acl98/98-01.pdf",
+    "description": "The California Work Pays Demonstration Project (CWPDP) was intended to assess the effects of recent changes in Aid to Families With Dependent Children (AFDC) provisions."
+    },
+    {
+    "id": "dataset-243",
+    "provider": "California Department of Social Services",
+    "title": "California Child Welfare administrative records",
+    "url": "http://cssr.berkeley.edu/ucb_childwelfare/",
+    "description": "The California Child Welfare Indicators Project (CCWIP) is a collaborative venture between the University of California at Berkeley (UCB) and the California Department of Social Services (CDSS). The project is housed in the School of Social Welfare, and provides policymakers, child welfare workers, researchers, and the public with direct access to customizable information on California’s entire child welfare system."
+    },
+    {
+    "id": "dataset-244",
+    "provider": "New York State Department of Labor",
+    "title": "New York Unemployment Insurance",
+    "alt_title": [
+        "UI",
+        "New York UI",
+        "N.Y. UI",
+        "N.Y. Unemployment Insurance"
+    ],
+    "url": "https://labor.ny.gov/data-sharing/",
+    "description": "UI-related data on employment and unemployment."
+    },
+    {
+    "id": "dataset-245",
+    "provider": "State of New Jersey Department of Labor and Workforce Development",
+    "title": "New Jersey Unemployment Insurance",
+    "alt_title": [
+        "UI",
+        "New Jersey UI",
+        "N.J. UI",
+        "N.J. Unemployment Insurance"
+    ],
+    "url": "https://www.nj.gov/labor/lpa/employ/uirate/lfest_index.html",
+    "description": "UI-related data on employment and unemployment."
+    },
+    {
+    "id": "dataset-246",
+    "provider": "State of Vermont Department of Labor",
+    "title": "Vermont Unemployment Insurance",
+    "alt_title": [
+        "UI",
+        "Vermont UI"
+    ],
+    "url": "https://labor.vermont.gov/unemployment-insurance/unemployment-information-employers/employer-online-services/register-ui",
+    "description": "UI-related data on employment and unemployment."
+    },
+    {
+    "id": "dataset-247",
+    "provider": "New Hampshire Department of Employment Security",
+    "title": "New Hampshire Unemployment Insurance",
+    "alt_title": [
+        "UI",
+        "New Hampshire UI",
+        "N.H. UI",
+        "N.H. Unemployment Insurance"
+    ],
+    "url": "https://www.nhes.nh.gov/elmi/statistics/claims-data.htm",
+    "description": "UI-related data on employment and unemployment."
+    },
+    {
+    "id": "dataset-248",
+    "provider": "Vermont Department for Children and Families",
+    "title": "Vermont Temporary Assistance for Needy Families",
+    "alt_title": [
+        "TANF",
+        "Vermont TANF",
+        "Temporary Assistance for Needy Families",
+        "Aid to Dependent Families with Children",
+        "Vermont Aid to Dependent Families with Children",
+        "Vermont AFDC",
+        "Vermont Aid to Needy Families with Children",
+        "ANFC"
+    ],
+    "url": "https://dcf.vermont.gov/esd/reports",
+    "description": "Temporary Assistance for Needy Families (TANF) provides temporary cash for families in need."
+    },
+    {
+    "id": "dataset-249",
+    "provider": "Vermont Department for Children and Families",
+    "title": "Vermont Supplemental Nutrition Assistance Program",
+    "alt_title": [
+        "SNAP",
+        "Vermont SNAP",
+        "Vermont Supplemental Nutrition Assistance Program",
+        "Supplemental Nutrition Assistance Program",
+        "State of Vermont SNAP",
+        "3SquaresVT"
+    ],
+    "url": "https://dcf.vermont.gov/esd/reports",
+    "description": "SNAP offers food benefits to eligible, low-income individuals and families."
+    },
+    {
+    "id": "dataset-250",
+    "provider": "Vermont Department for Children and Families",
+    "title": "Vermont Reach Up",
+    "url": "https://dcf.vermont.gov/esd/reports",
+    "description": "Reach Up joins families on their journey to overcome obstacles, explore opportunities, improve their finances and reach their goals."
+    },
+    {
+    "id": "dataset-251",
+    "provider": "Vermont Department for Children and Families",
+    "title": "Vermont Child Welfare administrative records",
+    "url": "https://dcf.vermont.gov/protection/services",
+    "alt_title": [
+        "Child welfare data"
+    ],
+    "description": "These data record monthly child care assistance payments issued to all sample members."
+    },
+    {
+    "id": "dataset-252",
+    "provider": "Iowa Department of Human Services",
+    "title": "Iowa Automated Benefit Calculation System Case Master file",
+    "alt_title": [
+        "IABC",
+        "IABC Individual Master File"
+    ],
+    "url": "https://dhs.iowa.gov/sites/default/files/14-B.pdf?100220191840",
+    "description": "Monthly data file that includes current and historical benefit information for each family that has participated in or applied for FIP or Food Stamps within the previous two years."
+    },
+    {
+    "id": "dataset-253",
+    "provider": "Iowa Department of Human Services",
+    "title": "Iowa Automated Benefit Calculation System Individual Master file",
+    "alt_title": [
+        "IABC",
+        "IABC Individual Master File"
+    ],
+    "url": "https://dhs.iowa.gov/sites/default/files/14-B.pdf?100220191840",
+    "description": "The Individual Master file is a monthly data file that includes demographic and other information for each individual in a family included in the Case Master File."
+    },
+    {
+    "id": "dataset-254",
+    "provider": "Iowa Department of Human Services",
+    "title": "Iowa Medicaid Information System",
+    "alt_title": [
+        "Medicaid Information System"
+    ],
+    "url": "https://dhs.iowa.gov/ime/contracts/resource-library/MED-14-004",
+    "description": "Used to issue Medicaid cards to families that qualify for Medicaid benefits. The system is updated on a daily basis and contains 24 months of information on each individual that was enrolled in Medicaid for at least one month during that time period."
+    },
+    {
+        "id": "dataset-255",
+        "provider": "Virginia Employment Commission",
+        "title": "Virginia Employment Commission Employer Database",
+        "alt_title": [
+            "VEC",
+            "VEC Data",
+            "VEC Employer Data"
+        ],
+        "url": "http://www.vec.virginia.gov/about#vecgd"
+    },
+    {
+        "id": "dataset-256",
+        "provider": "Manpower Demonstration Research Corporation",
+        "title": "National Supported Work Evaluation Study Data",
+        "url": "https://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/7865/summary"
+    },
+    {
+        "id": "dataset-257",
+        "provider": "Minnesota Department of Employee and Economic Development",
+        "title": "Minnesota Department of Employee and Economic Development Data",
+        "alt_title":[
+            "DEED",
+            "DEED Data"
+        ],
+        "url": "https://mn.gov/deed/data/data-tools/",
+        "description": "Dig deep into data on employment, unemployment, wages and occupations, regional and state comparisons and more."
+    },
+    {
+        "id": "dataset-258",
+        "provider": "Minnesota Bureau of Criminal Apprehension",
+        "title": "Minnesota Bureau of Criminal Apprehension Rearrest Data",
+        "alt_title":[
+            "BCA",
+            "BCA Data"
+        ],
+        "url": "https://dps.mn.gov/divisions/bca/Pages/statistics-reports.aspx",
+        "description": "This section of the website is where you'll find links to much of the data produced by the BCA regarding Minnesota's criminal justice activity. Other data can be found throughout this website and at other agencies."
+    },
+    {
+        "id": "dataset-259",
+        "provider": "Minnesota Department of Corrections",
+        "title": "Minnesota Department of Corrections Reincarceration Data",
+        "alt_title":[
+            "MNDOC",
+            "COMS",
+            "MNDOC Data"
+        ],
+        "url": "https://coms.doc.state.mn.us/PublicViewer",
+        "description": "This search can be used to retrieve public information about adult offenders who have been committed to the Commissioner of Corrections, and who are still under jurisdiction of the Department of Corrections (i.e. in prison, or released from prison and still under supervision)."
+    },
+    {
+        "id": "dataset-260",
+        "provider": "Michigan State Police",
+        "title": "Michigan State Police Rearrest and Reconviction Data",
+        "alt_title":[
+            "MSP",
+            "MSP Data"
+        ],
+        "url": "https://www.michigan.gov/msp/0,4643,7-123-1586_3501_4621---,00.html"
     }
 ]
