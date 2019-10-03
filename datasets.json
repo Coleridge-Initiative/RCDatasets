@@ -2760,7 +2760,11 @@
         "UI",
         "New York UI",
         "N.Y. UI",
-        "N.Y. Unemployment Insurance"
+        "N.Y. Unemployment Insurance",
+        "Wage Reporting System data",
+        "WRS data",
+        "N.Y. Wage Reporting System data",
+        "N.Y. WRS data"
     ],
     "url": "https://labor.ny.gov/data-sharing/",
     "description": "UI-related data on employment and unemployment."
