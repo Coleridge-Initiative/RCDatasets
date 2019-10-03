@@ -2954,5 +2954,62 @@
             "MSP Data"
         ],
         "url": "https://www.michigan.gov/msp/0,4643,7-123-1586_3501_4621---,00.html"
+    },
+    {
+    "id": "dataset-261",
+    "provider": "Iowa Department of Human Services",
+    "title": "Iowa Collection and Reporting System",
+    "alt_title": [
+        "ICAR"
+    ],
+    "url": "https://dhs.iowa.gov/sites/default/files/14-D.pdf?100220191849",
+    "description": "Contains monthly data on court-ordered child support obligations, payments made by noncustodial parents toward obligations and arrearages, and amounts of support the state distributes to the custodial parent for each child belonging to a family that has been on FIP."
+    },
+    {
+    "id": "dataset-262",
+    "provider": "Iowa Department of Human Services",
+    "title": "Iowa Unemployment Insurance",
+    "alt_title": [
+        "UI",
+        "Iowa UI",
+        "Iowa Unemployment Insurance"
+    ],
+    "url": "https://www.iowaworkforcedevelopment.gov/my-iowa-unemployment-insurance-employers-and-agents",
+    "description": "UI-related data on employment and unemployment."
+    },
+    {
+    "id": "dataset-263",
+    "provider": "Iowa Department of Human Services",
+    "title": "Iowa Family and Child Services System data",
+    "alt_title": [
+        "FACS",
+        "Child welfare data",
+        "Iowa child welfare administrative records"
+    ],
+    "url": "https://dhs.iowa.gov/child-welfare/services",
+    "description": "Contains monthly data on children who have received foster care, family preservation, and family-centered services from Iowa’s child welfare system from 1996 through the present."
+    },
+    {
+    "id": "dataset-264",
+    "provider": "Department of Health and Human Services",
+    "title": "Child Support Enforcement Data",
+    "alt_title": [
+        "CSE"
+    ],
+    "url": "https://www.acf.hhs.gov/css/data",
+    "description": "Data from state and tribal child support agencies."
+    },
+    {
+    "id": "dataset-265",
+    "provider": "State of California Employment Development Department",
+    "title": "State Unemployment Insurance Base Wage File",
+    "alt_title": [
+        "UIBWF",
+        "California UI",
+        "California Unemployment Insurance",
+        "California Base Wage"
+    ],
+    "url": "https://data.edd.ca.gov/",
+    "description": "Data from state to track employment and earnings."
     }
 ]
