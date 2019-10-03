@@ -2,7 +2,7 @@
     {
         "id": "dataset-001",
         "provider": "IRI",
-        "title": "IRI Infoscan",
+        "title": "IRI Ifoscan",
         "alt_title": [
             "retail scanner data"
         ],
@@ -2093,7 +2093,7 @@
             "TDCJ",
             "TDCJ Data"
         ],
-        "url": "https://www.tdcj.texas.gov/statistics/index.html"
+        "url": "https://www.tdcj.texas.gov/publications/statistical_reports.html"
     },
     {
         "id": "dataset-187",
@@ -2206,14 +2206,14 @@
     },
     {
         "id": "dataset-197",
-        "provider": "Michigan Department of Corrections",
-        "title": "Michigan Department of Corrections Data",
+        "provider": "Missouri Department of Corrections",
+        "title": "Missouri Department of Corrections Data",
         "alt_title": [
             "MDOC",
             "MDOC Data"
         ],
-        "url": "https://www.michigan.gov/corrections/0,4551,7-119-1409---,00.html",
-        "description": "The Offender Tracking Information System (OTIS) contains information about prisoners, parolees and probationers who are currently under supervision, or who have discharged but are still within three years of their supervision discharge date."
+        "url": "https://web.mo.gov/doc/offSearchWeb/",
+        "description": "Does search on active offenders, including probationers and parolees, not previously excluded as referenced below. Does search on First Name and Last Name including aliases."
     },
     {
         "id": "dataset-198",
@@ -2767,6 +2767,7 @@
         "WRS data",
         "N.Y. Wage Reporting System data",
         "N.Y. WRS data"
+
     ],
     "url": "https://labor.ny.gov/data-sharing/",
     "description": "UI-related data on employment and unemployment."
@@ -2888,5 +2889,249 @@
     ],
     "url": "https://dhs.iowa.gov/ime/contracts/resource-library/MED-14-004",
     "description": "Used to issue Medicaid cards to families that qualify for Medicaid benefits. The system is updated on a daily basis and contains 24 months of information on each individual that was enrolled in Medicaid for at least one month during that time period."
+
+    },
+    {
+        "id": "dataset-255",
+        "provider": "Virginia Employment Commission",
+        "title": "Virginia Employment Commission Employer Database",
+        "alt_title": [
+            "VEC",
+            "VEC Data",
+            "VEC Employer Data"
+        ],
+        "url": "http://www.vec.virginia.gov/about#vecgd"
+    },
+    {
+        "id": "dataset-256",
+        "provider": "Manpower Demonstration Research Corporation",
+        "title": "National Supported Work Evaluation Study Data",
+        "url": "https://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/7865/summary"
+    },
+    {
+        "id": "dataset-257",
+        "provider": "Minnesota Department of Employee and Economic Development",
+        "title": "Minnesota Department of Employee and Economic Development Data",
+        "alt_title":[
+            "DEED",
+            "DEED Data"
+        ],
+        "url": "https://mn.gov/deed/data/data-tools/",
+        "description": "Dig deep into data on employment, unemployment, wages and occupations, regional and state comparisons and more."
+    },
+    {
+        "id": "dataset-258",
+        "provider": "Minnesota Bureau of Criminal Apprehension",
+        "title": "Minnesota Bureau of Criminal Apprehension Rearrest Data",
+        "alt_title":[
+            "BCA",
+            "BCA Data"
+        ],
+        "url": "https://dps.mn.gov/divisions/bca/Pages/statistics-reports.aspx",
+        "description": "This section of the website is where you'll find links to much of the data produced by the BCA regarding Minnesota's criminal justice activity. Other data can be found throughout this website and at other agencies."
+    },
+    {
+        "id": "dataset-259",
+        "provider": "Minnesota Department of Corrections",
+        "title": "Minnesota Department of Corrections Reincarceration Data",
+        "alt_title":[
+            "MNDOC",
+            "COMS",
+            "MNDOC Data"
+        ],
+        "url": "https://coms.doc.state.mn.us/PublicViewer",
+        "description": "This search can be used to retrieve public information about adult offenders who have been committed to the Commissioner of Corrections, and who are still under jurisdiction of the Department of Corrections (i.e. in prison, or released from prison and still under supervision)."
+    },
+    {
+        "id": "dataset-260",
+        "provider": "Michigan State Police",
+        "title": "Michigan State Police Rearrest and Reconviction Data",
+        "alt_title":[
+            "MSP",
+            "MSP Data"
+        ],
+        "url": "https://www.michigan.gov/msp/0,4643,7-123-1586_3501_4621---,00.html"
+    },
+    {
+    "id": "dataset-261",
+    "provider": "Iowa Department of Human Services",
+    "title": "Iowa Collection and Reporting System",
+    "alt_title": [
+        "ICAR"
+    ],
+    "url": "https://dhs.iowa.gov/sites/default/files/14-D.pdf?100220191849",
+    "description": "Contains monthly data on court-ordered child support obligations, payments made by noncustodial parents toward obligations and arrearages, and amounts of support the state distributes to the custodial parent for each child belonging to a family that has been on FIP."
+    },
+    {
+    "id": "dataset-262",
+    "provider": "Iowa Department of Human Services",
+    "title": "Iowa Unemployment Insurance",
+    "alt_title": [
+        "UI",
+        "Iowa UI",
+        "Iowa Unemployment Insurance"
+    ],
+    "url": "https://www.iowaworkforcedevelopment.gov/my-iowa-unemployment-insurance-employers-and-agents",
+    "description": "UI-related data on employment and unemployment."
+    },
+    {
+    "id": "dataset-263",
+    "provider": "Iowa Department of Human Services",
+    "title": "Iowa Family and Child Services System data",
+    "alt_title": [
+        "FACS",
+        "Child welfare data",
+        "Iowa child welfare administrative records"
+    ],
+    "url": "https://dhs.iowa.gov/child-welfare/services",
+    "description": "Contains monthly data on children who have received foster care, family preservation, and family-centered services from Iowa’s child welfare system from 1996 through the present."
+    },
+    {
+    "id": "dataset-264",
+    "provider": "Department of Health and Human Services",
+    "title": "Child Support Enforcement Data",
+    "alt_title": [
+        "CSE"
+    ],
+    "url": "https://www.acf.hhs.gov/css/data",
+    "description": "Data from state and tribal child support agencies."
+    },
+    {
+    "id": "dataset-265",
+    "provider": "State of California Employment Development Department",
+    "title": "State Unemployment Insurance Base Wage File",
+    "alt_title": [
+        "UIBWF",
+        "California UI",
+        "California Unemployment Insurance",
+        "California Base Wage"
+    ],
+    "url": "https://data.edd.ca.gov/",
+    "description": "Data from state to track employment and earnings."
+    },
+    {
+        "id": "dataset-266",
+        "provider": "California Department of Social Services",
+        "title": "California County Case Data System",
+        "alt_title": [
+            "California CDS",
+            "CDS",
+            "California Statewide Automated Welfare System",
+            "California SAWS",
+            "SAWS"
+        ],
+        "url": "https://www.cdss.ca.gov/inforesources/SAWS",
+        "description": "Data from California welfare case data system to identify populations, demographics, and identify reasons for welfare assistance."
+    },
+    {
+        "id": "dataset-267",
+        "provider": "Maryland Department of Human Services",
+        "title": "Maryland Work Opportunities Management Information System",
+        "alt_title": [
+            "Maryland WO MIS",
+            "WO MIS"
+        ],
+        "description": "Data from Maryland state database recording work and training for welfare participants. Includes demographic information."
+    },
+    {
+        "id": "dataset-268",
+        "provider": "North Carolina Division of Social Services",
+        "title": "North Carolina Work First",
+        "alt_title": [
+            "North Carolina TANF",
+            "Temporary Assistance for Needy Families",
+            "Work First",
+            "WF",
+            "North Carolina Aid to Families with Dependent Children",
+            "AFDC"
+        ],
+        "url": "https://www.ncdhhs.gov/divisions/social-services/program-statistics-and-reviews",
+        "description": "Data from North Carolina social services on Work First (TANF) caseload services and welfare program statistics."
+    },
+    {
+        "id": "dataset-269",
+        "provider": "North Carolina Department of Health and Human Services",
+        "title": "North Carolina Food Stamp Information System",
+        "alt_title": [
+            "North Carolina FSIS",
+            "FSIS",
+            "North Carolina SNAP",
+            "SNAP"
+        ],
+        "url": "https://policies.ncdhhs.gov/divisional/social-services/food-stamp-information-system-fsis-users/policy-manuals",
+        "description": "FSIS contains information on household income and expenses and includes earned as well as unearned income."
+    },
+    {
+        "id": "dataset-270",
+        "provider": "North Carolina Department of Health and Human Services",
+        "title": "North Carolina Eligibility Information System",
+        "alt_title": [
+            "North Carolina EIS",
+            "EIS"
+        ],
+        "url": "https://policies.ncdhhs.gov/divisional/health-benefits-nc-medicaid/eligibility-information-system-eis",
+        "description": "Data including  information about benefits provided to Supplemental Security Income (SSI) applicants/recipients, used to determine eligibility."
+    },
+    {
+       "id": "dataset-271",
+       "provider": "North Carolina Department of Health and Human Services",
+       "title": "North Carolina Employment Programs Information System",
+       "alt_title": [
+           "North Carolina EPIS",
+           "EPIS",
+           "North Carolina SNAP",
+           "SNAP",
+           "North Carolina Supplemental Nutrition Assistance Program",
+           "Supplemental Nutrition Assistance Program"
+       ],
+       "url": "https://policies.ncdhhs.gov/divisional/health-benefits-nc-medicaid/eligibility-information-system-eis/eis-1105-state-data-exchange-sdx",
+       "description": "Data containing information on family members who have received employment program services."
+    },
+    {
+        "id": "dataset-272",
+        "provider": "Arizona Department of Economic Security",
+        "title": "Arizona Department of Economic Security database",
+        "alt_title": [
+            "ADES administrative database"
+        ],
+        "url": "https://des.az.gov/services",
+        "description": "Contains information from ADES Unemployment Insurance, cash assistance, food stamps, Medicaid, childcare, child support, child protective services and community services automated systems to determine wages, recidivism and use of ADES benefits."
+    },
+    {
+        "id": "dataset-273",
+        "provider": "District of Columbia Department of Human Services",
+        "title": "District of Columbia's Automated Computer Eligibility Determination System",
+        "alt_title": [
+            "D.C.'s ACEDS",
+            "ACEDS",
+            "Automated Computer Eligibility Determination System",
+            "District of Columbia ACEDS"
+        ],
+        "url": "https://dhs.dc.gov/sites/default/files/dc/sites/dhs/release_content/attachments/DCAS.docx",
+        "description": "Integrates eligibility data for most programs run by IMA, most significantly Medicaid, AFDC, and Food Stamps."
+    },
+    {
+        "id": "dataset-274",
+        "provider": "Department of Health and Human Services",
+        "title": "National Directory of New Hires",
+        "alt_title": [
+            "NDNH"
+        ],
+        "url": "https://www.acf.hhs.gov/css/resource/overview-of-national-directory-of-new-hires",
+        "description": "Virtually all employers nationwide, including the federal government, report quarterly earnings information to the NDNH."
+    },
+    {
+        "id": "dataset-275",
+        "provider": "Illinois Department of Human Services",
+        "title": "IDHS Client Database",
+        "alt_title": [
+            "CDB",
+            "IDHS CDB",
+            "Client Database",
+            "Project Chance",
+            "Project Chance Information System"
+        ],
+        "url": "http://www.dhs.state.il.us/page.aspx?item=58589",
+        "description": "The Client Database contains both case-level variables (those with one value being used to represent each case) and individual-level variables that relate to characteristics of the individuals who are on the cases."
     }
 ]
