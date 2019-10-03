@@ -1176,7 +1176,9 @@
             "N.Y. Aid to Dependent Families with Children",
             "New York AFDC",
             "N.Y. AFDC",
-            "AFDC"
+            "AFDC",
+            "Family Assistance",
+            "FA"
         ],
         "url": "https://otda.ny.gov/policy/tanf/",
         "description": "Temporary Assistance for Needy Families (TANF) provides temporary cash for families in need."
