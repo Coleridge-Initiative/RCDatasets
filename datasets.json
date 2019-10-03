@@ -2,7 +2,7 @@
     {
         "id": "dataset-001",
         "provider": "IRI",
-        "title": "IRI Ifoscan",
+        "title": "IRI Infoscan",
         "alt_title": [
             "retail scanner data"
         ],
@@ -3133,6 +3133,72 @@
         ],
         "url": "http://www.dhs.state.il.us/page.aspx?item=58589",
         "description": "The Client Database contains both case-level variables (those with one value being used to represent each case) and individual-level variables that relate to characteristics of the individuals who are on the cases."
+    },
+    {
+    "id": "dataset-276",
+    "provider": "Illinois Department of Human Services",
+    "title": "Illinois Special Supplemental Nutrition Program for Women, Infants, and Children data",
+    "alt_title": [
+        "WIC data",
+        "WIC",
+        "Illinois WIC data",
+        "Special Supplemental Nutrition Program for Women, Infants, and Children data"
+    ],
+    "url": "http://www.dhs.state.il.us/page.aspx?item=31174",
+    "description": "Contains a variable that notes the start and end dates of participation in a program that provides packages of high-nutrition foodstuffs for women before and after birth and for families with children under six years old that have been identified with medical or nutritional risks."
+    },
+    {
+    "id": "dataset-277",
+    "provider": "Illinois Department of Human Services",
+    "title": "Illinois Family Case Management data",
+    "alt_title": [
+        "FCM data",
+        "FCM",
+        "Illinois FCM data",
+        "Family Case Management data"
+    ],
+    "url": "http://www.dhs.state.il.us/page.aspx?item=31174",
+    "description": "Contains a variable that indicates the dates of participation in an individualized program that uses case managers to meet the health needs of those eligible."
+    },
+    {
+    "id": "dataset-278",
+    "provider": "Illinois Department of Human Services",
+    "title": "Illinois Child Care Tracking System data",
+    "alt_title": [
+        "IDHS Child Care Tracking System data",
+        "CCTS data",
+        "CCTS",
+        "Illinois CCTS data",
+        "Child Care Tracking System data"
+    ],
+    "url": "https://www.dhs.state.il.us/page.aspx?item=39834",
+    "description": "Contains a variable that records months of child care subsidy paid by the IDHS to the identified TANF leavers, both before and after exit."
+    },
+    {
+    "id": "dataset-279",
+    "provider": "Illinois Department of Human Services",
+    "title": "Illinois Automated Reporting and Tracking System data",
+    "alt_title": [
+        "IDHS Automated Reporting and Tracking System data",
+        "DARTS data",
+        "DARTS",
+        "Illinois DARTS data",
+        "Automated Reporting and Tracking System data"
+    ],
+    "url": "https://www.dhs.state.il.us/page.aspx?item=32527",
+    "description": "A software program used to report funded and/or Medicaid certified substance use disorder intervention and treatment services as authorized by the Division of Substance Use Prevention and Recovery (SUPR). Information extracted from DARTS is used to authorize grant fixed rate and fee-for-service payments, reconcile advance and reconcile disbursements, and determine compliance with State and Federal reporting requirements. Additionally, data extracted from DARTS is used to determine treatment and intervention service delivery patterns for budgetary purposes, measure outcomes and assist with long term planning."
+    },
+    {
+    "id": "dataset-280",
+    "provider": "Illinois Department of Children and Family Services",
+    "title": "Illinois Abuse/Neglect Children’s Case Allegations data",
+    "alt_title": [
+        "IDCFS Abuse/Neglect Children’s Case Allegations data",
+        "Abuse/Neglect Children’s Case Allegations data",
+        "Abuse/Neglect Children’s Case Allegations"
+    ],
+    "url": "https://www2.illinois.gov/dcfs/aboutus/newsandreports/Documents/CANStat.pdf",
+    "description": "Contains a variable that documented allegations of abuse or neglect of the children in the quarters before and after first exit, aggregated for adult leaver cases that the children are on at first exit; includes sexual abuse, physical abuse, substance abuse, emotional abuse, lack of supervision, environmental neglect, other neglect, and substantial risk of harm."
     },
     {
         "id": "dataset-300",
