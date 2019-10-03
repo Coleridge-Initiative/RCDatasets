@@ -3071,5 +3071,67 @@
         ],
         "url": "https://policies.ncdhhs.gov/divisional/health-benefits-nc-medicaid/eligibility-information-system-eis",
         "description": "Data including  information about benefits provided to Supplemental Security Income (SSI) applicants/recipients, used to determine eligibility."
+    },
+    {
+       "id": "dataset-271",
+       "provider": "North Carolina Department of Health and Human Services",
+       "title": "North Carolina Employment Programs Information System",
+       "alt_title": [
+           "North Carolina EPIS",
+           "EPIS",
+           "North Carolina SNAP",
+           "SNAP",
+           "North Carolina Supplemental Nutrition Assistance Program",
+           "Supplemental Nutrition Assistance Program"
+       ],
+       "url": "https://policies.ncdhhs.gov/divisional/health-benefits-nc-medicaid/eligibility-information-system-eis/eis-1105-state-data-exchange-sdx",
+       "description": "Data containing information on family members who have received employment program services."
+    },
+    {
+        "id": "dataset-272",
+        "provider": "Arizona Department of Economic Security",
+        "title": "Arizona Department of Economic Security database",
+        "alt_title": [
+            "ADES administrative database"
+        ],
+        "url": "https://des.az.gov/services",
+        "description": "Contains information from ADES Unemployment Insurance, cash assistance, food stamps, Medicaid, childcare, child support, child protective services and community services automated systems to determine wages, recidivism and use of ADES benefits."
+    },
+    {
+        "id": "dataset-273",
+        "provider": "District of Columbia Department of Human Services",
+        "title": "District of Columbia's Automated Computer Eligibility Determination System",
+        "alt_title": [
+            "D.C.'s ACEDS",
+            "ACEDS",
+            "Automated Computer Eligibility Determination System",
+            "District of Columbia ACEDS"
+        ],
+        "url": "https://dhs.dc.gov/sites/default/files/dc/sites/dhs/release_content/attachments/DCAS.docx",
+        "description": "Integrates eligibility data for most programs run by IMA, most significantly Medicaid, AFDC, and Food Stamps."
+    },
+    {
+        "id": "dataset-274",
+        "provider": "Department of Health and Human Services",
+        "title": "National Directory of New Hires",
+        "alt_title": [
+            "NDNH"
+        ],
+        "url": "https://www.acf.hhs.gov/css/resource/overview-of-national-directory-of-new-hires",
+        "description": "Virtually all employers nationwide, including the federal government, report quarterly earnings information to the NDNH."
+    },
+    {
+        "id": "dataset-275",
+        "provider": "Illinois Department of Human Services",
+        "title": "IDHS Client Database",
+        "alt_title": [
+            "CDB",
+            "IDHS CDB",
+            "Client Database",
+            "Project Chance",
+            "Project Chance Information System"
+        ],
+        "url": "http://www.dhs.state.il.us/page.aspx?item=58589",
+        "description": "The Client Database contains both case-level variables (those with one value being used to represent each case) and individual-level variables that relate to characteristics of the individuals who are on the cases."
     }
 ]
