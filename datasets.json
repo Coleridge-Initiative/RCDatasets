@@ -919,7 +919,9 @@
             "Aid to Dependent Families with Children",
             "Georgia Aid to Dependent Families with Children",
             "Georgia AFDC",
-            "AFDC"
+            "AFDC",
+            "SUCCESS",
+            "DHR's SUCCESS system"
         ],
         "url": "https://dfcs.georgia.gov/tanf-eligibility-requirements",
         "description": "Temporary Assistance for Needy Families (TANF) provides temporary cash for families in need."
