@@ -1520,7 +1520,8 @@
         "provider": "State of Florida",
         "title": "Florida WAGES",
         "alt_title": [
-            "WAGES"
+            "WAGES",
+            "WAGES information system"
         ],
         "description": "Statewide database containing FTP group members' case histories and participation in employment-related activities."
     },
