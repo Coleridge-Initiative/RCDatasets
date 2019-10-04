@@ -3388,6 +3388,84 @@
     "url": "https://www.dshs.wa.gov/sites/default/files/SESA/legislative/documents/WTAP.pdf",
     "description": "The Washington Telephone Assistance Program (WTAP) is designed to help low income residents in this state afford a telephone."
   },
+  {
+      "id": "dataset-294",
+      "provider": "Utah Department of Workforce Services",
+      "title": "Workforce Statistics - Public Assistance Recipients",
+      "alt_title": [
+          "Utah Workforce Statistics",
+          "DWS",
+          "Department of Workforce Services",
+          "Utah Public Assistance",
+          "Public Assistance"
+      ],
+      "url": "https://jobs.utah.gov/wi/data/misstats/pubassist/",
+      "description": "Dataset including information on public assistance recipients, assistance types, counts, segmented by county."
+  },
+  {
+      "id": "dataset-295",
+      "provider": "Utah Department of Human Services",
+      "title": "Department of Child and Family Services Annual Report",
+      "alt_title": [
+          "Utah DCFS Annual Report",
+          "Utah DCFS",
+          "DCFS",
+          "Utah Child and Family Services"
+      ],
+      "url": "https://dcfs.utah.gov/resources/records-requests/",
+      "description": "Data on child protective services referral, domestic violence services, foster care placement, and individual and family counseling. Additional data available upon request."
+  },
+  {
+      "id": "dataset-296",
+      "provider": "Los Angeles Department of Public Social Services",
+      "title": "Los Angeles Greater Avenues For Independence Program Case Files",
+      "alt_title": [
+          "Los Angeles GAIN",
+          "GAIN",
+          "Greater Avenues For Independence",
+          "Public Services"
+      ],
+      "url": "http://file.lacounty.gov/SDSInter/bos/supdocs/Records.pdf",
+      "description": "Contains regular, supportive services, and employment cases files generated through the GAIN program."
+  },
+  {
+      "id": "dataset-297",
+      "provider": "California Department of Social Services",
+      "title": "California Work Opportunities and Responsibility to Kids Data Tables",
+      "alt_title": [
+          "California DSS",
+          "CalWORK",
+          "Work Opportunities and Responsibility to Kids",
+          "California WORK"
+      ],
+      "url": "https://www.cdss.ca.gov/inforesources/Research-and-Data/CalWORKs-Data-Tables",
+      "description": "Data tables provided by County Welfare Departments and other agencies concerning caseloads, costs, and services of the CalWORKs and related programs."
+  },
+  {
+      "id": "dataset-298",
+      "provider": "Centers for Disease Control and Prevention",
+      "title": "Abortion Surveillance Report",
+      "alt_title": [
+          "CDC",
+          "Abortion Report",
+          "Abortions"
+      ],
+      "url": "https://www.cdc.gov/reproductivehealth/data_stats/abortion.htm",
+      "description": "Data report identifying unintended pregnancy birth rates; abortion numbers, rates, and ratios of abortions; and effectiveness of programs aimed to reduce teen pregnancies."
+  },
+  {
+      "id": "dataset-299",
+      "provider": "Maryland Department of Human Services",
+      "title": "Life After Welfare Study",
+      "alt_title": [
+          "Maryland DHS",
+          "DHS",
+          "Welfare",
+          "Child Welfare"
+      ],
+      "url": "http://dhs.maryland.gov/business-center/documents/data-and-reports/",
+      "description": "Data from state welfare management system regarding families who have left cash assistance roles, evaluation of compliance with child welfare support."
+  },
     {
         "id": "dataset-300",
         "provider": "Nielsen",
