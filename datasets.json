@@ -2,7 +2,7 @@
     {
         "id": "dataset-001",
         "provider": "IRI",
-        "title": "IRI Ifoscan",
+        "title": "IRI Infoscan",
         "alt_title": [
             "retail scanner data"
         ],
@@ -2762,9 +2762,6 @@
         "UI",
         "New York UI",
         "N.Y. UI",
-
-        "N.Y. Unemployment Insurance"
-
         "N.Y. Unemployment Insurance",
         "Wage Reporting System data",
         "WRS data",
@@ -2954,5 +2951,448 @@
             "MSP Data"
         ],
         "url": "https://www.michigan.gov/msp/0,4643,7-123-1586_3501_4621---,00.html"
-    }
+    },
+    {
+    "id": "dataset-261",
+    "provider": "Iowa Department of Human Services",
+    "title": "Iowa Collection and Reporting System",
+    "alt_title": [
+        "ICAR"
+    ],
+    "url": "https://dhs.iowa.gov/sites/default/files/14-D.pdf?100220191849",
+    "description": "Contains monthly data on court-ordered child support obligations, payments made by noncustodial parents toward obligations and arrearages, and amounts of support the state distributes to the custodial parent for each child belonging to a family that has been on FIP."
+    },
+    {
+    "id": "dataset-262",
+    "provider": "Iowa Department of Human Services",
+    "title": "Iowa Unemployment Insurance",
+    "alt_title": [
+        "UI",
+        "Iowa UI",
+        "Iowa Unemployment Insurance"
+    ],
+    "url": "https://www.iowaworkforcedevelopment.gov/my-iowa-unemployment-insurance-employers-and-agents",
+    "description": "UI-related data on employment and unemployment."
+    },
+    {
+    "id": "dataset-263",
+    "provider": "Iowa Department of Human Services",
+    "title": "Iowa Family and Child Services System data",
+    "alt_title": [
+        "FACS",
+        "Child welfare data",
+        "Iowa child welfare administrative records"
+    ],
+    "url": "https://dhs.iowa.gov/child-welfare/services",
+    "description": "Contains monthly data on children who have received foster care, family preservation, and family-centered services from Iowa’s child welfare system from 1996 through the present."
+    },
+    {
+    "id": "dataset-264",
+    "provider": "Department of Health and Human Services",
+    "title": "Child Support Enforcement Data",
+    "alt_title": [
+        "CSE"
+    ],
+    "url": "https://www.acf.hhs.gov/css/data",
+    "description": "Data from state and tribal child support agencies."
+    },
+    {
+    "id": "dataset-265",
+    "provider": "State of California Employment Development Department",
+    "title": "State Unemployment Insurance Base Wage File",
+    "alt_title": [
+        "UIBWF",
+        "California UI",
+        "California Unemployment Insurance",
+        "California Base Wage"
+    ],
+    "url": "https://data.edd.ca.gov/",
+    "description": "Data from state to track employment and earnings."
+    },
+    {
+        "id": "dataset-266",
+        "provider": "California Department of Social Services",
+        "title": "California County Case Data System",
+        "alt_title": [
+            "California CDS",
+            "CDS",
+            "California Statewide Automated Welfare System",
+            "California SAWS",
+            "SAWS"
+        ],
+        "url": "https://www.cdss.ca.gov/inforesources/SAWS",
+        "description": "Data from California welfare case data system to identify populations, demographics, and identify reasons for welfare assistance."
+    },
+    {
+        "id": "dataset-267",
+        "provider": "Maryland Department of Human Services",
+        "title": "Maryland Work Opportunities Management Information System",
+        "alt_title": [
+            "Maryland WO MIS",
+            "WO MIS"
+        ],
+        "description": "Data from Maryland state database recording work and training for welfare participants. Includes demographic information."
+    },
+    {
+        "id": "dataset-268",
+        "provider": "North Carolina Division of Social Services",
+        "title": "North Carolina Work First",
+        "alt_title": [
+            "North Carolina TANF",
+            "Temporary Assistance for Needy Families",
+            "Work First",
+            "WF",
+            "North Carolina Aid to Families with Dependent Children",
+            "AFDC"
+        ],
+        "url": "https://www.ncdhhs.gov/divisions/social-services/program-statistics-and-reviews",
+        "description": "Data from North Carolina social services on Work First (TANF) caseload services and welfare program statistics."
+    },
+    {
+        "id": "dataset-269",
+        "provider": "North Carolina Department of Health and Human Services",
+        "title": "North Carolina Food Stamp Information System",
+        "alt_title": [
+            "North Carolina FSIS",
+            "FSIS",
+            "North Carolina SNAP",
+            "SNAP"
+        ],
+        "url": "https://policies.ncdhhs.gov/divisional/social-services/food-stamp-information-system-fsis-users/policy-manuals",
+        "description": "FSIS contains information on household income and expenses and includes earned as well as unearned income."
+    },
+    {
+        "id": "dataset-270",
+        "provider": "North Carolina Department of Health and Human Services",
+        "title": "North Carolina Eligibility Information System",
+        "alt_title": [
+            "North Carolina EIS",
+            "EIS"
+        ],
+        "url": "https://policies.ncdhhs.gov/divisional/health-benefits-nc-medicaid/eligibility-information-system-eis",
+        "description": "Data including  information about benefits provided to Supplemental Security Income (SSI) applicants/recipients, used to determine eligibility."
+    },
+    {
+       "id": "dataset-271",
+       "provider": "North Carolina Department of Health and Human Services",
+       "title": "North Carolina Employment Programs Information System",
+       "alt_title": [
+           "North Carolina EPIS",
+           "EPIS",
+           "North Carolina SNAP",
+           "SNAP",
+           "North Carolina Supplemental Nutrition Assistance Program",
+           "Supplemental Nutrition Assistance Program"
+       ],
+       "url": "https://policies.ncdhhs.gov/divisional/health-benefits-nc-medicaid/eligibility-information-system-eis/eis-1105-state-data-exchange-sdx",
+       "description": "Data containing information on family members who have received employment program services."
+    },
+    {
+        "id": "dataset-272",
+        "provider": "Arizona Department of Economic Security",
+        "title": "Arizona Department of Economic Security database",
+        "alt_title": [
+            "ADES administrative database"
+        ],
+        "url": "https://des.az.gov/services",
+        "description": "Contains information from ADES Unemployment Insurance, cash assistance, food stamps, Medicaid, childcare, child support, child protective services and community services automated systems to determine wages, recidivism and use of ADES benefits."
+    },
+    {
+        "id": "dataset-273",
+        "provider": "District of Columbia Department of Human Services",
+        "title": "District of Columbia's Automated Computer Eligibility Determination System",
+        "alt_title": [
+            "D.C.'s ACEDS",
+            "ACEDS",
+            "Automated Computer Eligibility Determination System",
+            "District of Columbia ACEDS"
+        ],
+        "url": "https://dhs.dc.gov/sites/default/files/dc/sites/dhs/release_content/attachments/DCAS.docx",
+        "description": "Integrates eligibility data for most programs run by IMA, most significantly Medicaid, AFDC, and Food Stamps."
+    },
+    {
+        "id": "dataset-274",
+        "provider": "Department of Health and Human Services",
+        "title": "National Directory of New Hires",
+        "alt_title": [
+            "NDNH"
+        ],
+        "url": "https://www.acf.hhs.gov/css/resource/overview-of-national-directory-of-new-hires",
+        "description": "Virtually all employers nationwide, including the federal government, report quarterly earnings information to the NDNH."
+    },
+    {
+        "id": "dataset-275",
+        "provider": "Illinois Department of Human Services",
+        "title": "IDHS Client Database",
+        "alt_title": [
+            "CDB",
+            "IDHS CDB",
+            "Client Database",
+            "Project Chance",
+            "Project Chance Information System"
+        ],
+        "url": "http://www.dhs.state.il.us/page.aspx?item=58589",
+        "description": "The Client Database contains both case-level variables (those with one value being used to represent each case) and individual-level variables that relate to characteristics of the individuals who are on the cases."
+    },
+    {
+    "id": "dataset-276",
+    "provider": "Illinois Department of Human Services",
+    "title": "Illinois Special Supplemental Nutrition Program for Women, Infants, and Children data",
+    "alt_title": [
+        "WIC data",
+        "WIC",
+        "Illinois WIC data",
+        "Special Supplemental Nutrition Program for Women, Infants, and Children data"
+    ],
+    "url": "http://www.dhs.state.il.us/page.aspx?item=31174",
+    "description": "Contains a variable that notes the start and end dates of participation in a program that provides packages of high-nutrition foodstuffs for women before and after birth and for families with children under six years old that have been identified with medical or nutritional risks."
+    },
+    {
+    "id": "dataset-277",
+    "provider": "Illinois Department of Human Services",
+    "title": "Illinois Family Case Management data",
+    "alt_title": [
+        "FCM data",
+        "FCM",
+        "Illinois FCM data",
+        "Family Case Management data"
+    ],
+    "url": "http://www.dhs.state.il.us/page.aspx?item=31174",
+    "description": "Contains a variable that indicates the dates of participation in an individualized program that uses case managers to meet the health needs of those eligible."
+    },
+    {
+    "id": "dataset-278",
+    "provider": "Illinois Department of Human Services",
+    "title": "Illinois Child Care Tracking System data",
+    "alt_title": [
+        "IDHS Child Care Tracking System data",
+        "CCTS data",
+        "CCTS",
+        "Illinois CCTS data",
+        "Child Care Tracking System data"
+    ],
+    "url": "https://www.dhs.state.il.us/page.aspx?item=39834",
+    "description": "Contains a variable that records months of child care subsidy paid by the IDHS to the identified TANF leavers, both before and after exit."
+    },
+    {
+    "id": "dataset-279",
+    "provider": "Illinois Department of Human Services",
+    "title": "Illinois Automated Reporting and Tracking System data",
+    "alt_title": [
+        "IDHS Automated Reporting and Tracking System data",
+        "DARTS data",
+        "DARTS",
+        "Illinois DARTS data",
+        "Automated Reporting and Tracking System data"
+    ],
+    "url": "https://www.dhs.state.il.us/page.aspx?item=32527",
+    "description": "A software program used to report funded and/or Medicaid certified substance use disorder intervention and treatment services as authorized by the Division of Substance Use Prevention and Recovery (SUPR). Information extracted from DARTS is used to authorize grant fixed rate and fee-for-service payments, reconcile advance and reconcile disbursements, and determine compliance with State and Federal reporting requirements. Additionally, data extracted from DARTS is used to determine treatment and intervention service delivery patterns for budgetary purposes, measure outcomes and assist with long term planning."
+    },
+    {
+    "id": "dataset-280",
+    "provider": "Illinois Department of Children and Family Services",
+    "title": "Illinois Abuse/Neglect Children’s Case Allegations data",
+    "alt_title": [
+        "IDCFS Abuse/Neglect Children’s Case Allegations data",
+        "Abuse/Neglect Children’s Case Allegations data",
+        "Abuse/Neglect Children’s Case Allegations"
+    ],
+    "url": "https://www2.illinois.gov/dcfs/aboutus/newsandreports/Documents/CANStat.pdf",
+    "description": "Contains a variable that documented allegations of abuse or neglect of the children in the quarters before and after first exit, aggregated for adult leaver cases that the children are on at first exit; includes sexual abuse, physical abuse, substance abuse, emotional abuse, lack of supervision, environmental neglect, other neglect, and substantial risk of harm."
+    },
+    {
+    "id": "dataset-281",
+    "provider": "Illinois Department of Children and Family Services",
+    "title": "Illinois Placement Outcomes data",
+    "alt_title": [
+        "IDCFS Placement Outcomes data",
+        "Placement Outcomes data",
+        "Placement Outcomes"
+    ],
+    "url": "https://www2.illinois.gov/dcfs/aboutus/newsandreports/Documents/PlacementCounty.PDF",
+    "description": "Contains data tracking several outcomes recorded for those children placed out of the home before and after exit."
+    },
+    {
+    "id": "dataset-282",
+    "provider": "New York State Department of Social Services",
+    "title": "Welfare Management System Extracts data",
+    "alt_title": [
+        "WMS Extracts data",
+        "WMS data",
+        "WMS",
+        "Wealth Management System"
+    ],
+    "url": "https://www.nysenate.gov/legislation/laws/SOS/21",
+    "description": "The Welfare Management System is the primary system for maintaining information on public assistance eligibility in New York State."
+    },
+    {
+    "id": "dataset-283",
+    "provider": "New York State Department of Social Services",
+    "title": "Welfare Management Systems Quality Control Extract File",
+    "alt_title": [
+        "Welfare Management Systems Quality Control Extract File data",
+        "WMS data",
+        "WMS",
+        "Wealth Management System"
+    ],
+    "url": "https://osc.state.ny.us/audits/allaudits/093003/093003-h/01s35.pdf",
+    "description": "This monthly file, historically used for social services quality control, includes information on current Public Assistance, Food Stamp, and Medicaid status for all individuals statewide."
+    },
+    {
+    "id": "dataset-284",
+    "provider": "Washington Department of Social and Health Services",
+    "title": "Washington Caseload Analysis and Reporting Database",
+    "alt_title": [
+        "Caseload Analysis and Reporting Database",
+        "CARD",
+        "Washington CARD"
+    ],
+    "url": "https://aspe.hhs.gov/tanf-leavers-applicants-and-caseload-studies-data-files-washington-department-social-and-health-services-public-use-data-files-applicants-study",
+    "description": " Caseload Analysis and Reporting Database includes data on cash assistance, food stamps, benefit amounts, and client demographics."
+    },
+    {
+    "id": "dataset-291",
+    "provider": "Washington Department of Children, Youth and Families",
+    "title": "Washington Social Service Payment System data",
+    "alt_title": [
+        "SSPS data",
+        "Social Service Payment System data",
+        "Washington SSPS"
+    ],
+    "url": "https://www.dcyf.wa.gov/services/ssps",
+    "description": "SSPS provides authorization and payment processing for services delivered to DCYF clients. This mission-critical system is used by more than 2,000 case workers from DCYF to pay over 23,000 social service providers more than $800 million annually in services to more than 100,000 clients."
+    },
+    {
+    "id": "dataset-292",
+    "provider": "Washington Department of Children, Youth and Families",
+    "title": "Washington Case and Management Information System data",
+    "alt_title": [
+        "CAMIS data",
+        "Case and Management Information System data",
+        "Washington CAMIS",
+        "Statewide Automated Child Welfare Information System",
+        "SACWIS"
+    ],
+    "url": "https://www.dcyf.wa.gov/15200-system-development-security-and-network-standards/15201-sacwis-system-work-request",
+    "description": "An automated system which stores data regarding referrals, placement, case activity, contracts, licensing, and other case-specific information."
+    },
+    {
+    "id": "dataset-293",
+    "provider": "Washington Department of Children, Youth and Families",
+    "title": "Washington’s Telephone Assistance Plan data",
+    "alt_title": [
+        "WTAP data",
+        "Telephone Assistance Plan data"
+    ],
+    "url": "https://www.dshs.wa.gov/sites/default/files/SESA/legislative/documents/WTAP.pdf",
+    "description": "The Washington Telephone Assistance Program (WTAP) is designed to help low income residents in this state afford a telephone."
+  },
+    {
+        "id": "dataset-300",
+        "provider": "Nielsen",
+        "title": "Nielsen’s Retail Measurement Services",
+        "alt_title": [
+            "RMS"
+        ],
+        "url": "https://www.nielsen.com/us/en/client-learning/retail-measurement-services/",
+        "description": "RMS is a national panel of UPC-level sales data from 35,000 stores covering about 40% of all U.S. grocery purchases."
+        },
+        {
+        "id": "dataset-301",
+        "provider":"U.S. Department of Agriculture",
+        "title": "Flexible Consumer Behavior Survey",
+        "alt_title": [
+            "FCBS"
+        ],
+        "url": "https://www.ers.usda.gov/topics/food-choices-health/food-consumption-demand/flexible-consumer-behavior-survey/",
+        "description": "Since 2007, ERS has fielded the Flexible Consumer Behavior Survey (FCBS), a module in NCHS's National Health and Nutrition Examination Survey (NHANES), designed to collect information on U.S. consumers' knowledge, attitudes, and beliefs regarding nutrition and food choices."
+        },
+        {
+        "id": "dataset-302",
+        "provider":"National Center for Education Statistics",
+        "title": "Early Childhood Longitudinal Program",
+        "alt_title": [
+            "ECLS",
+            "Early Childhood Longitudinal Program - Birth Cohort",
+            "ECLS-B"
+        ],
+        "url": "https://nces.ed.gov/ecls/birth.asp",
+        "description": "The Early Childhood Longitudinal Study, Birth Cohort (ECLS-B) was designed to provide policy makers, researchers, child care providers, teachers, and parents with detailed information about children's early life experiences."
+        },
+        {
+        "id": "dataset-303",
+        "provider":"University of Michigan",
+        "title": "Panel Study of Income Dynamics",
+        "alt_title": [
+            "PSID",
+            "Panel Study of Income Dynamics—Child Development Supplement",
+            "PSID-CDS"
+        ],
+        "url": "https://psidonline.isr.umich.edu/",
+        "description": "The study began in 1968 with a nationally representative sample of over 18,000 individuals living in 5,000 families in the United States. Information on these individuals and their descendants has been collected continuously, including data covering employment, income, wealth, expenditures, health, marriage, childbearing, child development, philanthropy, education, and numerous other topics."
+        },
+        {
+        "id": "dataset-304",
+        "provider":"Princeton University",
+        "title": "Fragile Families and Child Wellbeing Study",
+        "alt_title": [
+            "FFCWS"
+        ],
+        "url": "https://fragilefamilies.princeton.edu/",
+        "description": "The Fragile Families & Child Wellbeing Study is following a cohort of nearly 5,000 children born in large U.S. cities between 1998 and 2000 (roughly three-quarters of whom were born to unmarried parents). We refer to unmarried parents and their children as “fragile families” to underscore that they are families and that they are at greater risk of breaking up and living in poverty than more traditional families."
+        },
+        {
+            "id": "dataset-305",
+            "provider": "California Department of Social Services",
+            "title": "Welfare to Work Data",
+            "alt_title": [
+                "WTW",
+                "WTW Data"
+            ],
+            "url": "https://data.chhs.ca.gov/dataset/calworks-welfare-to-work-monthly-activities",
+            "description": "CalWORKs Welfare-to-Work (WTW) Monthly Activity Report. These data provide detailed counts of CalWORKs WTW enrollees, including exemptions and the type of activity individuals are enrolled in as part of their WTW plan requirements. "
+        },
+        {
+            "id": "dataset-306",
+            "provider": "Multi-Resolution Land Characteristics Consortium",
+            "title": "National Land Cover Data",
+            "alt_title":[
+                "NLCD"
+            ],
+            "url": "https://www.mrlc.gov/data",
+            "description": "The National Land Cover Database (NLCD) provides nationwide data on land cover and land cover change at a 30m resolution with a 16-class legend based on a modified Anderson Level II classification system."
+        },
+        {
+            "id": "dataset-307",
+            "provider": "United States Environmental Protection Agency",
+            "title": "Toxics Release Inventory Data",
+            "alt_title":[
+                "TRI",
+                "TRI Data"
+            ],
+            "url": "https://www.epa.gov/toxics-release-inventory-tri-program/2000-tri-public-data-release-materials",
+            "description": "EPA's annual analysis of Toxics Release Inventory (TRI) data for calendar year 2000. Note that prior to calendar year 2008, this report was called the Public Data Release. In 2008, the name of the report changed to the TRI National Analysis."
+        },
+        {
+            "id": "dataset-308",
+            "provider": "New York City Department of Corrections",
+            "title": "New York City Department of Corrections Admissions and Releases Data",
+            "alt_title":[
+                "NYCDOC",
+                "NYDOC Data"
+            ],
+            "url": "https://www1.nyc.gov/site/doc/about/doc-statistics.page",
+            "description": "Find the latest statistics and information on our Fiscal Year budget, inmate population and services."
+        },
+        {
+            "id": "dataset-309",
+            "provider": "Winconsin Department of Corrections",
+            "title": "Winconsin Department of Corrections Administrative Data",
+            "alt_title":[
+                "WIDOC",
+                "WDOC Data"
+            ],
+            "url": "https://doc.wi.gov/Pages/DataResearch/DataAndReports.aspx",
+            "description": "The sections below contain data and reports that address the questions most frequently asked of DOC. This includes adult prison statistics, community supervision statistics, data on youthful offenders, staff assault and injury reports, and recidivism and reincarceration rates."
+        }
 ]
