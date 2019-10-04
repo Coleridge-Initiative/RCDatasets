@@ -3340,5 +3340,62 @@
         ],
         "url": "https://fragilefamilies.princeton.edu/",
         "description": "The Fragile Families & Child Wellbeing Study is following a cohort of nearly 5,000 children born in large U.S. cities between 1998 and 2000 (roughly three-quarters of whom were born to unmarried parents). We refer to unmarried parents and their children as “fragile families” to underscore that they are families and that they are at greater risk of breaking up and living in poverty than more traditional families."
+
+        },
+        {
+            "id": "dataset-305",
+            "provider": "California Department of Social Services",
+            "title": "Welfare to Work Data",
+            "alt_title": [
+                "WTW",
+                "WTW Data"
+            ],
+            "url": "https://data.chhs.ca.gov/dataset/calworks-welfare-to-work-monthly-activities",
+            "description": "CalWORKs Welfare-to-Work (WTW) Monthly Activity Report. These data provide detailed counts of CalWORKs WTW enrollees, including exemptions and the type of activity individuals are enrolled in as part of their WTW plan requirements. "
+        },
+        {
+            "id": "dataset-306",
+            "provider": "Multi-Resolution Land Characteristics Consortium",
+            "title": "National Land Cover Data",
+            "alt_title":[
+                "NLCD"
+            ],
+            "url": "https://www.mrlc.gov/data",
+            "description": "The National Land Cover Database (NLCD) provides nationwide data on land cover and land cover change at a 30m resolution with a 16-class legend based on a modified Anderson Level II classification system."
+        },
+        {
+            "id": "dataset-307",
+            "provider": "United States Environmental Protection Agency",
+            "title": "Toxics Release Inventory Data",
+            "alt_title":[
+                "TRI",
+                "TRI Data"
+            ],
+            "url": "https://www.epa.gov/toxics-release-inventory-tri-program/2000-tri-public-data-release-materials",
+            "description": "EPA's annual analysis of Toxics Release Inventory (TRI) data for calendar year 2000. Note that prior to calendar year 2008, this report was called the Public Data Release. In 2008, the name of the report changed to the TRI National Analysis."
+        },
+        {
+            "id": "dataset-308",
+            "provider": "New York City Department of Corrections",
+            "title": "New York City Department of Corrections Admissions and Releases Data",
+            "alt_title":[
+                "NYCDOC",
+                "NYDOC Data"
+            ],
+            "url": "https://www1.nyc.gov/site/doc/about/doc-statistics.page",
+            "description": "Find the latest statistics and information on our Fiscal Year budget, inmate population and services."
+        },
+        {
+            "id": "dataset-309",
+            "provider": "Winconsin Department of Corrections",
+            "title": "Winconsin Department of Corrections Administrative Data",
+            "alt_title":[
+                "WIDOC",
+                "WDOC Data"
+            ],
+            "url": "https://doc.wi.gov/Pages/DataResearch/DataAndReports.aspx",
+            "description": "The sections below contain data and reports that address the questions most frequently asked of DOC. This includes adult prison statistics, community supervision statistics, data on youthful offenders, staff assault and injury reports, and recidivism and reincarceration rates."
+
+
         }
 ]
