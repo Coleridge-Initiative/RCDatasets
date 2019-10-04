@@ -3129,15 +3129,15 @@
     {
         "id": "dataset-275",
         "provider": "Illinois Department of Human Services",
-        "title": "IDHS Client Database",
+        "title": "Illinois Department of Human Services Client Database",
         "alt_title": [
             "CDB",
+            "IDHS Client Database"
             "IDHS CDB",
             "Client Database",
             "Project Chance",
             "Project Chance Information System"
         ],
-        "url": "http://www.dhs.state.il.us/page.aspx?item=58589",
         "description": "The Client Database contains both case-level variables (those with one value being used to represent each case) and individual-level variables that relate to characteristics of the individuals who are on the cases."
     },
     {
@@ -3346,7 +3346,9 @@
     "title": "California Department of Health Services Birth Statistical Master File",
     "alt_title": [
         "CBSMF",
-        "Birth Statistical Master File"
+        "Birth Statistical Master File",
+        "California vital statistics",
+        "California VS"
     ],
     "url": "https://www.cdph.ca.gov/Programs/CHSI/Pages/Vital-Statistics-Data-.aspx",
     "description": "Contains California birth information."
