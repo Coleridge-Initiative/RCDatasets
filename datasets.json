@@ -955,7 +955,13 @@
             "Ohio AFDC",
             "AFDC",
             "Monthly income maintenance files",
-            "IMFs"
+            "IMFs",
+            "TANF Leavers, Applicants, and Caseload Studies: Data Files: Cuyahoga Public Use Data Files",
+            "Cuyahoga County TANF",
+            "Cuyahoga County Temporary Assistance to Needy Families",
+            "Temporary Assistance",
+            "Ohio Temporary Assistance",
+            "Cuyahoga County Temporary Assistance"
         ],
         "url": "http://jfs.ohio.gov/owf/plan_new.stm",
         "description": "Temporary Assistance for Needy Families (TANF) provides temporary cash for families in need."
@@ -3257,7 +3263,7 @@
     "title": "Montana Temporary Assistance for Needy Families",
     "alt_title": [
         "TANF",
-        "Montana TANF"
+        "Montana TANF",
         "Temporary Assistance to Needy Families",
         "Aid to Dependent Families with Children",
         "Montana Aid to Dependent Families with Children",
@@ -3325,7 +3331,7 @@
     "title": "Ohio Client Registry Information System Enhanced",
     "alt_title": [
         "Ohio CRIS-E",
-        "Ohio Client Registry"
+        "Ohio Client Registry",
         "Ohio Information Services",
         "Ohio Works First",
         "Ohio WF",
@@ -3336,20 +3342,14 @@
     },
     {
     "id": "dataset-290",
-    "provider": "U.S. Department of Health and Human Services",
-    "title": "TANF Leavers, Applicants, and Caseload Studies: Data Files: Cuyahoga Public Use Data Files",
+    "provider":"California Department of Public Health",
+    "title": "California Department of Health Services Birth Statistical Master File",
     "alt_title": [
-        "Ohio TANF",
-        "TANF"
-        "Cuyahoga County TANF",
-        "Ohio Temporary Assistance to Needy Families",
-        "Cuyahoga County Temporary Assistance to Needy Families",
-        "Temporary Assistance",
-        "Ohio Temporary Assistance",
-        "Cuyahoga County Temporary Assistance"
+        "CBSMF",
+        "Birth Statistical Master File"
     ],
-    "url": "https://aspe.hhs.gov/tanf-leavers-applicants-and-caseload-studies-data-files-cuyahoga-public-use-data-files",
-    "description": "Data files including information on Cuyahoga County TANF applicants, recipients, and especially those leaving TANF program."
+    "url": "https://www.cdph.ca.gov/Programs/CHSI/Pages/Vital-Statistics-Data-.aspx",
+    "description": "Contains California birth information."
     },
     {
     "id": "dataset-291",
@@ -3574,7 +3574,55 @@
             ],
             "url": "https://doc.wi.gov/Pages/DataResearch/DataAndReports.aspx",
             "description": "The sections below contain data and reports that address the questions most frequently asked of DOC. This includes adult prison statistics, community supervision statistics, data on youthful offenders, staff assault and injury reports, and recidivism and reincarceration rates."
-
-
-        }
+        },
+    {
+    "id": "dataset-310",
+    "provider":"California Department of Social Services",
+    "title": "Child Welfare Services/Case Management System data",
+    "alt_title": [
+        "CWS/CMS",
+        "CMS",
+        "CWS",
+        "California Child Welfare Services/Case Management System data",
+        "California Children’s Services Archive data"
+    ],
+    "url": "https://cwscms.osi.ca.gov/",
+    "description": "The CWS/CMS is a statewide tool that supports an effective Child Welfare System of services. The CWS/CMS improves the lives of children and families by giving service workers information to improve case work services and freeing them from repetitive tasks; provides policy makers with information to design and manage services; and fulfill State and Federal legislative intent."
+    },
+    {
+    "id": "dataset-311",
+    "provider":"California Department of Health Care Services",
+    "title": "Medi-Cal data",
+    "alt_title": [
+        "California medicaid data",
+        "Medi-Cal",
+        "MediCal data"
+    ],
+    "url": "https://www.dhcs.ca.gov/dataandstats",
+    "description": "Contains California Medicaid data, as well as AFDC/TANF recipients that can be identified using payment codes."
+    },
+    {
+    "id": "dataset-312",
+    "provider": "Canadian Institute for Health Information",
+    "title": "National Health Expenditure Database",
+    "alt_title": ["NHEX"],
+    "url": "https://www.cihi.ca/en/national-health-expenditure-database-metadata",
+    "description": "The National Health Expenditure Database (NHEX) has been collecting, processing and analyzing summary data on all health spending in Canada since 1975. Health expenditures for the most recent 2 years are also forecast."
+    },
+    {
+    "id": "dataset-313",
+    "provider": "Statistics Canada",
+    "title": "Canadian Community Health Survey",
+    "alt_title": ["CCHS"],
+    "url": "http://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&Id=795204",
+    "description":"The central objective of the Canadian Community Health Survey (CCHS) is to gather health-related data at the sub-provincial levels of geography (health region or combined health regions)."
+    },
+    {
+    "id": "dataset-314",
+    "title": "Seattle Obesity Study",
+    "provider": "University of Washington Center for Public Health Nutrition",
+    "alt_title": ["SOS"],
+    "url": "https://depts.washington.edu/uwcphn/work/cor/diet_disparities.shtml",
+    "description": "The main purpose of the project was to examine the role of access to foods, both physical and economic, in influencing dietary choices and, thereby, contributing to disparities in obesity."
+    }
 ]
