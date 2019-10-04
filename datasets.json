@@ -3132,7 +3132,7 @@
         "title": "Illinois Department of Human Services Client Database",
         "alt_title": [
             "CDB",
-            "IDHS Client Database"
+            "IDHS Client Database",
             "IDHS CDB",
             "Client Database",
             "Project Chance",
@@ -3577,20 +3577,20 @@
             "url": "https://doc.wi.gov/Pages/DataResearch/DataAndReports.aspx",
             "description": "The sections below contain data and reports that address the questions most frequently asked of DOC. This includes adult prison statistics, community supervision statistics, data on youthful offenders, staff assault and injury reports, and recidivism and reincarceration rates."
         },
-    {
-    "id": "dataset-310",
-    "provider":"California Department of Social Services",
-    "title": "Child Welfare Services/Case Management System data",
-    "alt_title": [
-        "CWS/CMS",
-        "CMS",
-        "CWS",
-        "California Child Welfare Services/Case Management System data",
-        "California Children’s Services Archive data"
-    ],
-    "url": "https://cwscms.osi.ca.gov/",
-    "description": "The CWS/CMS is a statewide tool that supports an effective Child Welfare System of services. The CWS/CMS improves the lives of children and families by giving service workers information to improve case work services and freeing them from repetitive tasks; provides policy makers with information to design and manage services; and fulfill State and Federal legislative intent."
-    },
+      {
+        "id": "dataset-310",
+        "provider":"California Department of Social Services",
+        "title": "Child Welfare Services/Case Management System data",
+        "alt_title": [
+            "CWS/CMS",
+            "CMS",
+            "CWS",
+            "California Child Welfare Services/Case Management System data",
+            "California Children’s Services Archive data"
+        ],
+        "url": "https://cwscms.osi.ca.gov/",
+        "description": "The CWS/CMS is a statewide tool that supports an effective Child Welfare System of services. The CWS/CMS improves the lives of children and families by giving service workers information to improve case work services and freeing them from repetitive tasks; provides policy makers with information to design and manage services; and fulfill State and Federal legislative intent."
+        },
     {
     "id": "dataset-311",
     "provider":"California Department of Health Care Services",
@@ -3607,7 +3607,9 @@
     "id": "dataset-312",
     "provider": "Canadian Institute for Health Information",
     "title": "National Health Expenditure Database",
-    "alt_title": ["NHEX"],
+    "alt_title": [
+        "NHEX"
+    ],
     "url": "https://www.cihi.ca/en/national-health-expenditure-database-metadata",
     "description": "The National Health Expenditure Database (NHEX) has been collecting, processing and analyzing summary data on all health spending in Canada since 1975. Health expenditures for the most recent 2 years are also forecast."
     },
@@ -3615,7 +3617,9 @@
     "id": "dataset-313",
     "provider": "Statistics Canada",
     "title": "Canadian Community Health Survey",
-    "alt_title": ["CCHS"],
+    "alt_title": [
+        "CCHS"
+    ],
     "url": "http://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&Id=795204",
     "description":"The central objective of the Canadian Community Health Survey (CCHS) is to gather health-related data at the sub-provincial levels of geography (health region or combined health regions)."
     },
@@ -3623,8 +3627,30 @@
     "id": "dataset-314",
     "title": "Seattle Obesity Study",
     "provider": "University of Washington Center for Public Health Nutrition",
-    "alt_title": ["SOS"],
+    "alt_title": [
+        "SOS"
+    ],
     "url": "https://depts.washington.edu/uwcphn/work/cor/diet_disparities.shtml",
     "description": "The main purpose of the project was to examine the role of access to foods, both physical and economic, in influencing dietary choices and, thereby, contributing to disparities in obesity."
+    },
+    {
+    "id": "dataset-315",
+    "provider": "Wisconsin Department of Children and Families",
+    "title": "Alaska Temporary Assistance for Needy Families",
+    "alt_title": [
+        "TANF",
+        "Alaska TANF",
+        "Temporary Assistance for Needy Families",
+        "Aid to Dependent Families with Children",
+        "Alaska Aid to Dependent Families with Children",
+        "Alaska AFDC",
+        "AFDC",
+        "ATAP",
+        "Alaska Temporary Assistance Program",
+        "Alaska Temporary Assistance",
+        "Temporary Assistance"
+    ],
+    "url": "http://dhss.alaska.gov/dpa/Pages/atap/default.aspx",
+    "description": "Temporary Assistance for Needy Families (TANF) provides temporary cash for families in need."
     }
 ]
