@@ -3248,32 +3248,32 @@
         "Washington CARD"
     ],
     "url": "https://aspe.hhs.gov/tanf-leavers-applicants-and-caseload-studies-data-files-washington-department-social-and-health-services-public-use-data-files-applicants-study",
-    "description": " Caseload Analysis and Reporting Database includes data on cash assistance, food stamps, benefit amounts, and client demographics."
+    "description": "Caseload Analysis and Reporting Database includes data on cash assistance, food stamps, benefit amounts, and client demographics."
     },
     {
-        "id": "dataset-285",
-        "provider": "Montana Department of Public Health and Human Services",
-        "title": "Montana Temporary Assistance for Needy Families",
-        "alt_title": [
-            "TANF",
-            "Montana TANF"
-            "Temporary Assistance to Needy Families",
-            "Aid to Dependent Families with Children",
-            "Montana Aid to Dependent Families with Children",
-            "Montana AFDC",
-            "AFDC",
-            "Temporary Assistance",
-            "Montana Temporary Assistance",
-            "Montana TA",
-            "TA",
-            "Families Achieving Independence in Montana",
-            "FAIM",
-            "Montana FAIM"
-        ],
+    "id": "dataset-285",
+    "provider": "Montana Department of Public Health and Human Services",
+    "title": "Montana Temporary Assistance for Needy Families",
+    "alt_title": [
+        "TANF",
+        "Montana TANF"
+        "Temporary Assistance to Needy Families",
+        "Aid to Dependent Families with Children",
+        "Montana Aid to Dependent Families with Children",
+        "Montana AFDC",
+        "AFDC",
+        "Temporary Assistance",
+        "Montana Temporary Assistance",
+        "Montana TA",
+        "TA",
+        "Families Achieving Independence in Montana",
+        "FAIM",
+        "Montana FAIM"
+    ],
         "url": "https://dphhs.mt.gov/hcsd/tanf/tanfeligibility",
         "description": "The Temporary Assistance for Needy Families program, also known as Temporary Assistance (TA), is a program designed to provide cash benefits to low-income families for the household\u2019s children such as clothing, utilities and other services."
     },
-{
+    {
     "id": "dataset-286",
     "provider": "North Carolina Department of Commerce",
     "title": "North Carolina Unemployment Insurance",
@@ -3316,39 +3316,39 @@
         "Utah Temporary Cash Assistance"
       ],
     "url": "https://jobs.utah.gov/services/tevs/tanfcontract.html",
-    "description": "Temporary Cash Assistance (TCA), Utah\u Temporary Assistance to Needy Families (TANF) program, provides cash assistance to families with dependent children when available resources do not fully address the family\u needs and while preparing program participants for independence through work."
+    "description": "Temporary Cash Assistance (TCA), Utah Temporary Assistance to Needy Families (TANF) program, provides cash assistance to families with dependent children when available resources do not fully address the family needs and while preparing program participants for independence through work."
     },
     {
-        "id": "dataset-289",
-        "provider": "Ohio Department of Family and Job Services",
-        "title": "Ohio Client Registry Information System Enhanced",
-        "alt_title": [
-            "Ohio CRIS-E",
-            "Ohio Client Registry"
-            "Ohio Information Services",
-            "Ohio Works First",
-            "Ohio WF",
-            "WF"
+    "id": "dataset-289",
+    "provider": "Ohio Department of Family and Job Services",
+    "title": "Ohio Client Registry Information System Enhanced",
+    "alt_title": [
+        "Ohio CRIS-E",
+        "Ohio Client Registry"
+        "Ohio Information Services",
+        "Ohio Works First",
+        "Ohio WF",
+        "WF"
     ],
-        "url": "https://jfs.ohio.gov/omis/projects.stm",
-        "description": "CRIS-E is an automated system used by caseworkers and administrators in support of the Ohio Works First program; Prevention, Retention and Contingency; Food Assistance; and Medicaid benefits to those eligible. Core operations include application intake, eligibility determination, and issuance of benefits to clients."
+    "url": "https://jfs.ohio.gov/omis/projects.stm",
+    "description": "CRIS-E is an automated system used by caseworkers and administrators in support of the Ohio Works First program; Prevention, Retention and Contingency; Food Assistance; and Medicaid benefits to those eligible. Core operations include application intake, eligibility determination, and issuance of benefits to clients."
     },
     {
-        "id": "dataset-290",
-        "provider": "U.S. Department of Health and Human Services",
-        "title": "TANF Leavers, Applicants, and Caseload Studies: Data Files: Cuyahoga Public Use Data Files",
-        "alt_title": [
-            "Ohio TANF",
-            "TANF"
-            "Cuyahoga County TANF",
-            "Ohio Temporary Assistance to Needy Families",
-            "Cuyahoga County Temporary Assistance to Needy Families",
-            "Temporary Assistance",
-            "Ohio Temporary Assistance",
-            "Cuyahoga County Temporary Assistance"
-        ],
-        "url": "https://aspe.hhs.gov/tanf-leavers-applicants-and-caseload-studies-data-files-cuyahoga-public-use-data-files",
-        "description": "Data files including information on Cuyahoga County TANF applicants, recipients, and especially those leaving TANF program."
+    "id": "dataset-290",
+    "provider": "U.S. Department of Health and Human Services",
+    "title": "TANF Leavers, Applicants, and Caseload Studies: Data Files: Cuyahoga Public Use Data Files",
+    "alt_title": [
+        "Ohio TANF",
+        "TANF"
+        "Cuyahoga County TANF",
+        "Ohio Temporary Assistance to Needy Families",
+        "Cuyahoga County Temporary Assistance to Needy Families",
+        "Temporary Assistance",
+        "Ohio Temporary Assistance",
+        "Cuyahoga County Temporary Assistance"
+    ],
+    "url": "https://aspe.hhs.gov/tanf-leavers-applicants-and-caseload-studies-data-files-cuyahoga-public-use-data-files",
+    "description": "Data files including information on Cuyahoga County TANF applicants, recipients, and especially those leaving TANF program."
     },
     {
     "id": "dataset-291",
