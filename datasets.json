@@ -955,7 +955,13 @@
             "Ohio AFDC",
             "AFDC",
             "Monthly income maintenance files",
-            "IMFs"
+            "IMFs",
+            "TANF Leavers, Applicants, and Caseload Studies: Data Files: Cuyahoga Public Use Data Files",
+            "Cuyahoga County TANF",
+            "Cuyahoga County Temporary Assistance to Needy Families",
+            "Temporary Assistance",
+            "Ohio Temporary Assistance",
+            "Cuyahoga County Temporary Assistance"
         ],
         "url": "http://jfs.ohio.gov/owf/plan_new.stm",
         "description": "Temporary Assistance for Needy Families (TANF) provides temporary cash for families in need."
@@ -3123,15 +3129,15 @@
     {
         "id": "dataset-275",
         "provider": "Illinois Department of Human Services",
-        "title": "IDHS Client Database",
+        "title": "Illinois Department of Human Services Client Database",
         "alt_title": [
             "CDB",
+            "IDHS Client Database",
             "IDHS CDB",
             "Client Database",
             "Project Chance",
             "Project Chance Information System"
         ],
-        "url": "http://www.dhs.state.il.us/page.aspx?item=58589",
         "description": "The Client Database contains both case-level variables (those with one value being used to represent each case) and individual-level variables that relate to characteristics of the individuals who are on the cases."
     },
     {
@@ -3248,7 +3254,104 @@
         "Washington CARD"
     ],
     "url": "https://aspe.hhs.gov/tanf-leavers-applicants-and-caseload-studies-data-files-washington-department-social-and-health-services-public-use-data-files-applicants-study",
-    "description": " Caseload Analysis and Reporting Database includes data on cash assistance, food stamps, benefit amounts, and client demographics."
+
+    "description": "Caseload Analysis and Reporting Database includes data on cash assistance, food stamps, benefit amounts, and client demographics."
+    },
+    {
+    "id": "dataset-285",
+    "provider": "Montana Department of Public Health and Human Services",
+    "title": "Montana Temporary Assistance for Needy Families",
+    "alt_title": [
+        "TANF",
+        "Montana TANF",
+        "Temporary Assistance to Needy Families",
+        "Aid to Dependent Families with Children",
+        "Montana Aid to Dependent Families with Children",
+        "Montana AFDC",
+        "AFDC",
+        "Temporary Assistance",
+        "Montana Temporary Assistance",
+        "Montana TA",
+        "TA",
+        "Families Achieving Independence in Montana",
+        "FAIM",
+        "Montana FAIM"
+    ],
+        "url": "https://dphhs.mt.gov/hcsd/tanf/tanfeligibility",
+        "description": "The Temporary Assistance for Needy Families program, also known as Temporary Assistance (TA), is a program designed to provide cash benefits to low-income families for the household\u2019s children such as clothing, utilities and other services."
+    },
+    {
+    "id": "dataset-286",
+    "provider": "North Carolina Department of Commerce",
+    "title": "North Carolina Unemployment Insurance",
+    "alt_title": [
+        "UI",
+        "North Carolina UI",
+        "North Carolina Unemployment Insurance"
+    ],
+    "url": "https://www.nccommerce.com/business/workforce-development/unemployment-insurance",
+    "description": "North Carolina UI-related data on employment and unemployment."
+},
+{
+    "id": "dataset-287",
+    "provider": "North Carolina Department of Commerce",
+    "title": "North Carolina Employment Security Commission Job Listings Database",
+    "alt_title": [
+        "North Carolina Employment Security Commission",
+        "North Carolina ESC",
+        "North Carolina Works Online",
+        "North Carolina Job Listings Database",
+        "North Carolina"
+    ],
+    "url": "https://www.ncworks.gov/vosnet/Default.aspx",
+    "description": "Service provided by North Carolina Employment Security Commission to link employers with workers seeking employment."
+    },
+    {
+    "id": "dataset-288",
+    "provider": "Utah Department of Workforce Services",
+    "title": "Utah Temporary Assistance for Needy Families",
+    "alt_title": [
+        "Utah TANF",
+        "Temporary Assistance to Needy Families",
+        "Aid to Dependent Families with Children",
+        "Utah Aid to Dependent Families with Children",
+        "Utah AFDC",
+        "AFDC",
+        "TCA",
+        "Utah TCA",
+        "Temporary Cash Assistance",
+        "Utah Temporary Cash Assistance"
+      ],
+    "url": "https://jobs.utah.gov/services/tevs/tanfcontract.html",
+    "description": "Temporary Cash Assistance (TCA), Utah Temporary Assistance to Needy Families (TANF) program, provides cash assistance to families with dependent children when available resources do not fully address the family needs and while preparing program participants for independence through work."
+    },
+    {
+    "id": "dataset-289",
+    "provider": "Ohio Department of Family and Job Services",
+    "title": "Ohio Client Registry Information System Enhanced",
+    "alt_title": [
+        "Ohio CRIS-E",
+        "Ohio Client Registry",
+        "Ohio Information Services",
+        "Ohio Works First",
+        "Ohio WF",
+        "WF"
+    ],
+    "url": "https://jfs.ohio.gov/omis/projects.stm",
+    "description": "CRIS-E is an automated system used by caseworkers and administrators in support of the Ohio Works First program; Prevention, Retention and Contingency; Food Assistance; and Medicaid benefits to those eligible. Core operations include application intake, eligibility determination, and issuance of benefits to clients."
+    },
+    {
+    "id": "dataset-290",
+    "provider":"California Department of Public Health",
+    "title": "California Department of Health Services Birth Statistical Master File",
+    "alt_title": [
+        "CBSMF",
+        "Birth Statistical Master File",
+        "California vital statistics",
+        "California VS"
+    ],
+    "url": "https://www.cdph.ca.gov/Programs/CHSI/Pages/Vital-Statistics-Data-.aspx",
+    "description": "Contains California birth information."
     },
     {
     "id": "dataset-291",
@@ -3286,6 +3389,84 @@
     ],
     "url": "https://www.dshs.wa.gov/sites/default/files/SESA/legislative/documents/WTAP.pdf",
     "description": "The Washington Telephone Assistance Program (WTAP) is designed to help low income residents in this state afford a telephone."
+  },
+  {
+      "id": "dataset-294",
+      "provider": "Utah Department of Workforce Services",
+      "title": "Workforce Statistics - Public Assistance Recipients",
+      "alt_title": [
+          "Utah Workforce Statistics",
+          "DWS",
+          "Department of Workforce Services",
+          "Utah Public Assistance",
+          "Public Assistance"
+      ],
+      "url": "https://jobs.utah.gov/wi/data/misstats/pubassist/",
+      "description": "Dataset including information on public assistance recipients, assistance types, counts, segmented by county."
+  },
+  {
+      "id": "dataset-295",
+      "provider": "Utah Department of Human Services",
+      "title": "Department of Child and Family Services Annual Report",
+      "alt_title": [
+          "Utah DCFS Annual Report",
+          "Utah DCFS",
+          "DCFS",
+          "Utah Child and Family Services"
+      ],
+      "url": "https://dcfs.utah.gov/resources/records-requests/",
+      "description": "Data on child protective services referral, domestic violence services, foster care placement, and individual and family counseling. Additional data available upon request."
+  },
+  {
+      "id": "dataset-296",
+      "provider": "Los Angeles Department of Public Social Services",
+      "title": "Los Angeles Greater Avenues For Independence Program Case Files",
+      "alt_title": [
+          "Los Angeles GAIN",
+          "GAIN",
+          "Greater Avenues For Independence",
+          "Public Services"
+      ],
+      "url": "http://file.lacounty.gov/SDSInter/bos/supdocs/Records.pdf",
+      "description": "Contains regular, supportive services, and employment cases files generated through the GAIN program."
+  },
+  {
+      "id": "dataset-297",
+      "provider": "California Department of Social Services",
+      "title": "California Work Opportunities and Responsibility to Kids Data Tables",
+      "alt_title": [
+          "California DSS",
+          "CalWORK",
+          "Work Opportunities and Responsibility to Kids",
+          "California WORK"
+      ],
+      "url": "https://www.cdss.ca.gov/inforesources/Research-and-Data/CalWORKs-Data-Tables",
+      "description": "Data tables provided by County Welfare Departments and other agencies concerning caseloads, costs, and services of the CalWORKs and related programs."
+  },
+  {
+      "id": "dataset-298",
+      "provider": "Centers for Disease Control and Prevention",
+      "title": "Abortion Surveillance Report",
+      "alt_title": [
+          "CDC",
+          "Abortion Report",
+          "Abortions"
+      ],
+      "url": "https://www.cdc.gov/reproductivehealth/data_stats/abortion.htm",
+      "description": "Data report identifying unintended pregnancy birth rates; abortion numbers, rates, and ratios of abortions; and effectiveness of programs aimed to reduce teen pregnancies."
+  },
+  {
+      "id": "dataset-299",
+      "provider": "Maryland Department of Human Services",
+      "title": "Life After Welfare Study",
+      "alt_title": [
+          "Maryland DHS",
+          "DHS",
+          "Welfare",
+          "Child Welfare"
+      ],
+      "url": "http://dhs.maryland.gov/business-center/documents/data-and-reports/",
+      "description": "Data from state welfare management system regarding families who have left cash assistance roles, evaluation of compliance with child welfare support."
   },
     {
         "id": "dataset-300",
@@ -3395,7 +3576,190 @@
             ],
             "url": "https://doc.wi.gov/Pages/DataResearch/DataAndReports.aspx",
             "description": "The sections below contain data and reports that address the questions most frequently asked of DOC. This includes adult prison statistics, community supervision statistics, data on youthful offenders, staff assault and injury reports, and recidivism and reincarceration rates."
-
-
-        }
+        },
+      {
+        "id": "dataset-310",
+        "provider":"California Department of Social Services",
+        "title": "Child Welfare Services/Case Management System data",
+        "alt_title": [
+            "CWS/CMS",
+            "CMS",
+            "CWS",
+            "California Child Welfare Services/Case Management System data",
+            "California Children’s Services Archive data"
+        ],
+        "url": "https://cwscms.osi.ca.gov/",
+        "description": "The CWS/CMS is a statewide tool that supports an effective Child Welfare System of services. The CWS/CMS improves the lives of children and families by giving service workers information to improve case work services and freeing them from repetitive tasks; provides policy makers with information to design and manage services; and fulfill State and Federal legislative intent."
+        },
+    {
+    "id": "dataset-311",
+    "provider":"California Department of Health Care Services",
+    "title": "Medi-Cal data",
+    "alt_title": [
+        "California medicaid data",
+        "Medi-Cal",
+        "MediCal data"
+    ],
+    "url": "https://www.dhcs.ca.gov/dataandstats",
+    "description": "Contains California Medicaid data, as well as AFDC/TANF recipients that can be identified using payment codes."
+    },
+    {
+    "id": "dataset-312",
+    "provider": "Canadian Institute for Health Information",
+    "title": "National Health Expenditure Database",
+    "alt_title": [
+        "NHEX"
+    ],
+    "url": "https://www.cihi.ca/en/national-health-expenditure-database-metadata",
+    "description": "The National Health Expenditure Database (NHEX) has been collecting, processing and analyzing summary data on all health spending in Canada since 1975. Health expenditures for the most recent 2 years are also forecast."
+    },
+    {
+    "id": "dataset-313",
+    "provider": "Statistics Canada",
+    "title": "Canadian Community Health Survey",
+    "alt_title": [
+        "CCHS"
+    ],
+    "url": "http://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&Id=795204",
+    "description":"The central objective of the Canadian Community Health Survey (CCHS) is to gather health-related data at the sub-provincial levels of geography (health region or combined health regions)."
+    },
+    {
+    "id": "dataset-314",
+    "title": "Seattle Obesity Study",
+    "provider": "University of Washington Center for Public Health Nutrition",
+    "alt_title": [
+        "SOS"
+    ],
+    "url": "https://depts.washington.edu/uwcphn/work/cor/diet_disparities.shtml",
+    "description": "The main purpose of the project was to examine the role of access to foods, both physical and economic, in influencing dietary choices and, thereby, contributing to disparities in obesity."
+    },
+    {
+    "id": "dataset-315",
+    "provider": "Wisconsin Department of Children and Families",
+    "title": "Alaska Temporary Assistance for Needy Families",
+    "alt_title": [
+        "TANF",
+        "Alaska TANF",
+        "Temporary Assistance for Needy Families",
+        "Aid to Dependent Families with Children",
+        "Alaska Aid to Dependent Families with Children",
+        "Alaska AFDC",
+        "AFDC",
+        "ATAP",
+        "Alaska Temporary Assistance Program",
+        "Alaska Temporary Assistance",
+        "Temporary Assistance"
+    ],
+    "url": "http://dhss.alaska.gov/dpa/Pages/atap/default.aspx",
+    "description": "Temporary Assistance for Needy Families (TANF) provides temporary cash for families in need."
+    },
+    {
+        "id": "dataset-316",
+        "provider": "Pennsylvania Department of Public Welfare",
+        "title": "Department of Public Welfare Data",
+        "alt_title":[
+            "DPW",
+            "DPW Data"
+        ],
+        "url": "http://www.dhs.pa.gov/learnaboutdhs/data-dashboard/index.htm"
+    },
+    {
+        "id": "dataset-317",
+        "provider": "State of California Department of Justice",
+        "title": "State of California Department of Justice Arrest Data",
+        "alt_title":[
+            "SCDJ",
+            "SCDJ Data"
+        ],
+        "url": "https://oag.ca.gov/crime",
+        "description" : "This site contains crime data submitted by county and local law enforcement agencies, as well as current and historical publications on crime, juvenile justice, homicide, and hate crimes in California."
+    },
+    {
+        "id": "dataset-320",
+        "provider": "Pennsylvania Department of Human Services",
+        "title": "Pennsylvania Temporary Assistance for Needy Families receipt",
+        "alt_title":[
+            "Pennsylvania TANF"
+        ],
+        "url": "http://listserv.dpw.state.pa.us/ma-food-stamps-and-cash-stats.html",
+        "description": "Medical Assistance, Food Stamps and Cash Assistance statistics reports"
+    },
+    {
+        "id": "dataset-321",
+        "provider": "Chicago Police Department",
+        "title": "Chicago Police Department Administrative Records",
+        "alt_title":[
+            "CPD",
+            "CPD Administrative Data"
+        ],
+        "url": "https://home.chicagopolice.org/statistics-data/statistical-reports/"
+    },
+    {
+        "id": "dataset-322",
+        "provider": "Detroit Police Department",
+        "title": "Detroit Police Department Administrative Records",
+        "alt_title":[
+            "DPD",
+            "DPD Administrative Data"
+        ],
+        "url": "https://data.detroitmi.gov/datasets/police-reports-2011-to-2014"
+    },
+    {
+        "id": "dataset-323",
+        "provider": "Wisconsin Department of Justice",
+        "title": "Wisconsin Department of Justice State Prison Data",
+        "alt_title":[
+            "WDJ",
+            "WDJ Arrest and Conviction Data"
+        ],
+        "url": "https://www.doj.state.wi.us/dles/bjia/ucr-offense-data"
+    },
+    {
+        "id": "dataset-324",
+        "provider": "Illinois Department of Corrections",
+        "title": "Illinois Department of Corrections State Prison Data",
+        "alt_title":[
+            "IL DOC",
+            "IL DOC State Prison Data"
+        ],
+        "url": "https://www2.illinois.gov/idoc/reportsandstatistics/Pages/default.aspx"
+    },
+    {
+        "id": "dataset-325",
+        "provider": "Minnesota Department of Corrections",
+        "title": "Minnsesota State Prison Data",
+        "alt_title":[
+            "MN DOC State Prison Data"
+        ],
+        "url": "https://mn.gov/doc/data-publications/"
+    },
+    {
+        "id": "dataset-326",
+        "provider": "Michigan Department of Corrections",
+        "title": "Michigan Department of Corrections Prison Data",
+        "alt_title":[
+            "MI DOC State Prison Data"
+        ],
+        "url": "https://www.michigan.gov/corrections/0,4551,7-119-1441---,00.html"
+    },
+    {
+        "id": "dataset-327",
+        "provider": "Washington State Department of Corrections",
+        "title": "Washington State Department of Corrections Administrative Data",
+        "alt_title":[
+            "WADOC Administrative Data",
+            "WADOC"
+        ],
+        "url": "https://www.doc.wa.gov/information/data/analytics.htm"
+    },
+    {
+        "id": "dataset-328",
+        "provider":"Bureau of Labor Statistics",
+        "title": "Quarterly Census of Employment and Wages",
+        "alt_title":[
+            "QCEW"
+        ],
+        "url" : "https://www.bls.gov/cEw/#databases",
+        "description" : "The Quarterly Census of Employment and Wages (QCEW) program publishes a quarterly count of employment and wages reported by employers covering more than 95 percent of U.S. jobs, available at the county, MSA, state and national levels by industry."
+    }
 ]
