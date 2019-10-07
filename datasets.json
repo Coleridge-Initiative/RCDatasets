@@ -3652,6 +3652,7 @@
     ],
     "url": "http://dhss.alaska.gov/dpa/Pages/atap/default.aspx",
     "description": "Temporary Assistance for Needy Families (TANF) provides temporary cash for families in need."
+
     },
     {
         "id": "dataset-316",
@@ -3761,5 +3762,7 @@
         ],
         "url" : "https://www.bls.gov/cEw/#databases",
         "description" : "The Quarterly Census of Employment and Wages (QCEW) program publishes a quarterly count of employment and wages reported by employers covering more than 95 percent of U.S. jobs, available at the county, MSA, state and national levels by industry."
+
+
     }
 ]

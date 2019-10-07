@@ -60,7 +60,17 @@ Other fields that may be included:
   * `date` -- date of publication, which may help resolve conflicting identifiers
 
 
-## To Do - enrich `datasets.json` with additional metadata. 
+## To Do 
+### quality checks on dataset entries
+* spot checks on urls, titles, etc
+* unify naming conventioins
+* is 'program data' a dataset? revisit after november workshop
+
+### additions to test.py
+* add check for commas within entries
+
+
+### enrich `datasets.json` with additional metadata. 
 
 The datasets enumerated in `datasets.json` may have additional metadata, which would be given to us by the data provider or client using the dataset.
 
