@@ -3763,7 +3763,6 @@
         "url" : "https://www.bls.gov/cEw/#databases",
         "description" : "The Quarterly Census of Employment and Wages (QCEW) program publishes a quarterly count of employment and wages reported by employers covering more than 95 percent of U.S. jobs, available at the county, MSA, state and national levels by industry."
 
-
     },
     {
         "id": "dataset-329",
@@ -3860,4 +3859,7 @@
         "url": "https://www.hcup-us.ahrq.gov/sidoverview.jsp",
         "description": "State Inpatient Databases includes inpatient discharge records from community hospitals in that State."
     },
+
+    }
+
 ]
