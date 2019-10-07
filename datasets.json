@@ -751,7 +751,8 @@
         "provider": "Department of Health and Human Services",
         "title": "Temporary Assistance for Needy Families",
         "alt_title": [
-            "TANF"
+            "TANF",
+            "Administration for Children and Families (ACF) - Office of Family Assistance"
         ],
         "url": "https://www.acf.hhs.gov/ofa/programs/tanf/data-reports",
         "description": "TANF administrative records from the Department of Health and Human Services (HHS), which collects them from various state agencies. States have the option to submit either sample or universe data to HHS, and 30 states submitted universe data."
@@ -2678,7 +2679,9 @@
     "provider": "California Department of Social Services",
     "title": "Medi-Cal Eligibility Data System",
     "alt_title": [
-        "MEDS"
+        "MEDS",
+        "WDTIP",
+        "Welfare Data Tracking Implementation Project"
     ],
     "url": "https://www.dhcs.ca.gov/provgovpart/Pages/DHCS-IT-Systems-and-Projects.aspx",
     "description": "MEDS is a statewide data hub serving a variety of eligibility, enrollment and reporting functions for Medi-Cal and other state and federal benefits. MEDS maintains eligibility history for Medi-Cal and other health and human services programs."
