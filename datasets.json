@@ -3920,13 +3920,14 @@
     },
     {
     "id": "dataset-346",
-    "provider": "U.S. Department of Health and Human Resources",
-    "title":  "National Child Abuse and Neglect Data System",
+    "title": "Women, Infants, and Children",
+    "provider": "U.S. Department of Agriculture",
     "alt_title": [
-        "NCANDS"
+    "WIC",
+    "Special Supplemental Nutrition Program for Women, Infants, and Children"
     ],
-    "url": "https://www.ndacan.acf.hhs.gov/",
-    "description": "The National Child Abuse and Neglect Data System (NCANDS) is a voluntary data collection system that gathers information from all 50 states, the District of Columbia, and Puerto Rico about reports of child abuse and neglect."
+    "url": "https://www.fns.usda.gov/pd/wic-program",
+    "description": "The Special Supplemental Nutrition Program for Women, Infants, and Children (WIC) provides federal grants to states for supplemental foods, health care referrals, and nutrition education for low-income pregnant, breastfeeding, and non-breastfeeding postpartum women, and to infants and children up to age five who are found to be at nutritional risk."
     },
     {
     "id": "dataset-347",
@@ -3973,7 +3974,7 @@
     "title":  "Child Care Monthly Report - CalWORKs Families",
     "alt_title": [
         "CW 115"
-    ]
+    ],
     "url": "https://www.cdss.ca.gov/inforesources/Research-and-Data/CalWORKs-Data-Tables/CW-115",
     "description": "This monthly report includes data on the number of CalWORKs families and children approved/authorized/certified to receive Stage 1 child care during the report month."
     },
@@ -3983,7 +3984,7 @@
     "title":  "Child Care Monthly Report - Two-Parent Families",
     "alt_title": [
         "CW 115A"
-    ]
+    ],
     "url": "https://www.cdss.ca.gov/inforesources/Research-and-Data/CalWORKs-Data-Tables/CW-115A",
     "description": "This monthly report includes data on the number of Two Parent families and children approved/authorized/certified to receive Stage 1 child care during the report month."
     },
@@ -3994,7 +3995,7 @@
     "alt_title": [
         "CalWORKs FS Program Quarterly Report",
         "FSP 14"
-    ]
+    ],
     "url": "https://www.cdss.ca.gov/inforesources/Research-and-Data/CalWORKs-Data-Tables/FSP-14",
     "description": "This quarterly report includes statistical information for the CalWORKs Family Stabilization Program (FS): CalWORKs cases that are receiving FS services, cases denied FS services and cases that are unable to receive FS services."
     },
@@ -4005,7 +4006,7 @@
     "alt_title": [
         "CalWORKs HSP Monthly Status Report",
         "HSP 14"
-    ]
+    ],
     "url": "https://www.cdss.ca.gov/inforesources/Research-and-Data/Report-Form-and-Instructions",
     "description": "This report contains monthly information about the CalWORKs Housing Support Program (HSP) and provides information about CalWORKs families that have requested or been referred to HSP services, have been approved, denied or discontinued, the reasons for denials and discontinuances, family residence status entering and exiting the program, and the number and type of HSP services and amount of HSP financial assistance issued to the family."
     },
@@ -4015,7 +4016,7 @@
     "title":  "Research and Development Enterprise Project data",
     "alt_title": [
         "RADEP data"
-    ]
+    ],
     "url": "https://apps.cce.csus.edu/sites/calworks/17/speakers/uploads/4D%20RADEP!%20Training%20Academy%20Presentation.pdf",
     "description": "RADEP is a web-based data collection tool used by county and state staff to report federal Temporary Assistance for Needy Families (TANF) disaggregated data which is used by the federal Department of Health and Human Services to calculate the State’s federal work participation rates."
     }
