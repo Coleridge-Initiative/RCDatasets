@@ -1088,7 +1088,7 @@
             "California UI",
             "California Unemployment Insurance"
         ],
-        "url": "https://www.edd.ca.gov/unemployment/",
+        "url": "https://data.edd.ca.gov/",
         "description": "The Unemployment Insurance (UI) program pays benefits to workers who have lost their job and meet the program's eligibility requirements."
     },
     {
@@ -3011,10 +3011,10 @@
     "title": "State Unemployment Insurance Base Wage File",
     "alt_title": [
         "UIBWF",
-        "California UI",
-        "California Unemployment Insurance",
         "California Base Wage",
-        "EDD Base Wage File"
+        "EDD Base Wage File",
+        "EDD Base Wage data",
+        "Employment Development Department Base Wage data"
     ],
     "url": "https://data.edd.ca.gov/",
     "description": "Data from state to track employment and earnings."
@@ -3536,7 +3536,7 @@
                 "WTW Data"
             ],
             "url": "https://data.chhs.ca.gov/dataset/calworks-welfare-to-work-monthly-activities",
-            "description": "CalWORKs Welfare-to-Work (WTW) Monthly Activity Report. These data provide detailed counts of CalWORKs WTW enrollees, including exemptions and the type of activity individuals are enrolled in as part of their WTW plan requirements. "
+            "description": "CalWORKs Welfare-to-Work (WTW) Monthly Activity Report. These data provide detailed counts of CalWORKs WTW enrollees, including exemptions and the type of activity individuals are enrolled in as part of their WTW plan requirements."
         },
         {
             "id": "dataset-306",
