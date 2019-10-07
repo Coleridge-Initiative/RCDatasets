@@ -3013,7 +3013,8 @@
         "UIBWF",
         "California UI",
         "California Unemployment Insurance",
-        "California Base Wage"
+        "California Base Wage",
+        "EDD Base Wage File"
     ],
     "url": "https://data.edd.ca.gov/",
     "description": "Data from state to track employment and earnings."
