@@ -3763,6 +3763,103 @@
         "url" : "https://www.bls.gov/cEw/#databases",
         "description" : "The Quarterly Census of Employment and Wages (QCEW) program publishes a quarterly count of employment and wages reported by employers covering more than 95 percent of U.S. jobs, available at the county, MSA, state and national levels by industry."
 
+    },
+    {
+        "id": "dataset-329",
+        "provider": "Colorado Department of Human Services",
+        "title": "Colorado Office of Behavioral Health Licensing and Designation Database and Electronic Records System",
+        "alt_title": [
+            "Colorado LADDERS",
+            "LADDERS",
+            "Colorado Office of Behavioral Health",
+            "Colorado Linking Care",
+            "Linking Care",
+            "LinkingCare"
+        ],
+        "url": "https://www.colorado.gov/LADDERS/OBH_PSS_Landing",
+        "description": "Data collection and referral resource for information and services for prevention, treatment and recovery from substance use and mental health conditions. Replaces previous database called LinkingCare."
+    },
+    {
+        "id": "dataset-330",
+        "provider": "Colorado Department of Human Services",
+        "title": "Colorado Department of Human Services Community Performance Center",
+        "alt_title": [
+            "cdhsdatamatters",
+            "CDHS",
+            "Results-Oriented Management",
+            "ROM",
+            "CDHS Community Performance Center"
+        ],
+        "url": "http://www.cdhsdatamatters.org/data-by-county.html",
+        "description": "."
+    },
+    {
+        "id": "dataset-331",
+        "provider": "Colorado Department of Human Services",
+        "title": "Colorado Division of Youth Services Records Unit",
+        "alt_title": [
+            "Colorado DYS",
+            "DYS",
+            "Youth Services"
+        ],
+        "url": "https://www.colorado.gov/pacific/cdhs/division-youth-services-records-unit",
+        "description": "Source of Colorado youth services data, available upon request."
+    },
+    {
+        "id": "dataset-332",
+        "provider": "Colorado Department of Human Services",
+        "title": "State of Colorado Supplemental Nutrition Assistance Program",
+        "alt_title": [
+            "SNAP",
+            "Colorado SNAP",
+            "Colorado Supplemental Nutrition Assistance Program",
+            "Supplemental Nutrition Assistance Program",
+            "State of Colorado SNAP"
+        ],
+        "url": "https://www.colorado.gov/pacific/cdhs/data-economic-security",
+        "description": "SNAP offers food benefits to eligible, low-income individuals and families."
+    },
+    {
+        "id": "dataset-333",
+        "provider": "U.S. Department of Health and Human Services",
+        "title": "National Child Abuse and Neglect Data System",
+        "alt_title": [
+            "NCANDS",
+            "Child Abuse and Child Neglect",
+            "Child Welfare",
+            "Child Maltreatment"
+        ],
+        "url": "https://www.ndacan.acf.hhs.gov/datasets/datasets-list.cfm",
+        "description": "Data collection system that gathers information from all states about reports of child abuse and neglect."
+    },
+    {
+        "id": "dataset-334",
+        "provider": "Colorado Children’s Campaign",
+        "title": "Kids Count Data Center",
+        "alt_title": [
+            "KIDS COUNT",
+            "Annie E. Casey Foundation",
+            "Colorado Kids Count"
+        ],
+        "url": "https://datacenter.kidscount.org/data#CO/2/0/char/0",
+        "description": "Data initiative to assess and share information about the well-being of Colorado's children and trends."
+    },
+    {
+        "id": "dataset-335",
+        "provider": "U.S. Department of Health and Human Services",
+        "title": "Healthcare Cost and Utilization Project-State Inpatient Databases",
+        "alt_title": [
+            "State Inpatient Databases",
+            "Healthcare Cost and Utilization Project",
+            "SID",
+            "HCUP",
+            "HCUP-SID",
+            "Agency for Healthcare Research and Quality"
+        ],
+        "url": "https://www.hcup-us.ahrq.gov/sidoverview.jsp",
+        "description": "State Inpatient Databases includes inpatient discharge records from community hospitals in that State."
+    },
 
     }
+
 ]
