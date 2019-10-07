@@ -3652,5 +3652,117 @@
     ],
     "url": "http://dhss.alaska.gov/dpa/Pages/atap/default.aspx",
     "description": "Temporary Assistance for Needy Families (TANF) provides temporary cash for families in need."
+
+    },
+    {
+        "id": "dataset-316",
+        "provider": "Pennsylvania Department of Public Welfare",
+        "title": "Department of Public Welfare Data",
+        "alt_title":[
+            "DPW",
+            "DPW Data"
+        ],
+        "url": "http://www.dhs.pa.gov/learnaboutdhs/data-dashboard/index.htm"
+    },
+    {
+        "id": "dataset-317",
+        "provider": "State of California Department of Justice",
+        "title": "State of California Department of Justice Arrest Data",
+        "alt_title":[
+            "SCDJ",
+            "SCDJ Data"
+        ],
+        "url": "https://oag.ca.gov/crime",
+        "description" : "This site contains crime data submitted by county and local law enforcement agencies, as well as current and historical publications on crime, juvenile justice, homicide, and hate crimes in California."
+    },
+    {
+        "id": "dataset-320",
+        "provider": "Pennsylvania Department of Human Services",
+        "title": "Pennsylvania Temporary Assistance for Needy Families receipt",
+        "alt_title":[
+            "Pennsylvania TANF"
+        ],
+        "url": "http://listserv.dpw.state.pa.us/ma-food-stamps-and-cash-stats.html",
+        "description": "Medical Assistance, Food Stamps and Cash Assistance statistics reports"
+    },
+    {
+        "id": "dataset-321",
+        "provider": "Chicago Police Department",
+        "title": "Chicago Police Department Administrative Records",
+        "alt_title":[
+            "CPD",
+            "CPD Administrative Data"
+        ],
+        "url": "https://home.chicagopolice.org/statistics-data/statistical-reports/"
+    },
+    {
+        "id": "dataset-322",
+        "provider": "Detroit Police Department",
+        "title": "Detroit Police Department Administrative Records",
+        "alt_title":[
+            "DPD",
+            "DPD Administrative Data"
+        ],
+        "url": "https://data.detroitmi.gov/datasets/police-reports-2011-to-2014"
+    },
+    {
+        "id": "dataset-323",
+        "provider": "Wisconsin Department of Justice",
+        "title": "Wisconsin Department of Justice State Prison Data",
+        "alt_title":[
+            "WDJ",
+            "WDJ Arrest and Conviction Data"
+        ],
+        "url": "https://www.doj.state.wi.us/dles/bjia/ucr-offense-data"
+    },
+    {
+        "id": "dataset-324",
+        "provider": "Illinois Department of Corrections",
+        "title": "Illinois Department of Corrections State Prison Data",
+        "alt_title":[
+            "IL DOC",
+            "IL DOC State Prison Data"
+        ],
+        "url": "https://www2.illinois.gov/idoc/reportsandstatistics/Pages/default.aspx"
+    },
+    {
+        "id": "dataset-325",
+        "provider": "Minnesota Department of Corrections",
+        "title": "Minnsesota State Prison Data",
+        "alt_title":[
+            "MN DOC State Prison Data"
+        ],
+        "url": "https://mn.gov/doc/data-publications/"
+    },
+    {
+        "id": "dataset-326",
+        "provider": "Michigan Department of Corrections",
+        "title": "Michigan Department of Corrections Prison Data",
+        "alt_title":[
+            "MI DOC State Prison Data"
+        ],
+        "url": "https://www.michigan.gov/corrections/0,4551,7-119-1441---,00.html"
+    },
+    {
+        "id": "dataset-327",
+        "provider": "Washington State Department of Corrections",
+        "title": "Washington State Department of Corrections Administrative Data",
+        "alt_title":[
+            "WADOC Administrative Data",
+            "WADOC"
+        ],
+        "url": "https://www.doc.wa.gov/information/data/analytics.htm"
+    },
+    {
+        "id": "dataset-328",
+        "provider":"Bureau of Labor Statistics",
+        "title": "Quarterly Census of Employment and Wages",
+        "alt_title":[
+            "QCEW"
+        ],
+        "url" : "https://www.bls.gov/cEw/#databases",
+        "description" : "The Quarterly Census of Employment and Wages (QCEW) program publishes a quarterly count of employment and wages reported by employers covering more than 95 percent of U.S. jobs, available at the county, MSA, state and national levels by industry."
+
+
     }
 ]
