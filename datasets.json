@@ -3763,6 +3763,393 @@
         "url" : "https://www.bls.gov/cEw/#databases",
         "description" : "The Quarterly Census of Employment and Wages (QCEW) program publishes a quarterly count of employment and wages reported by employers covering more than 95 percent of U.S. jobs, available at the county, MSA, state and national levels by industry."
 
-
+    },
+    {
+        "id": "dataset-329",
+        "provider": "Colorado Department of Human Services",
+        "title": "Colorado Office of Behavioral Health Licensing and Designation Database and Electronic Records System",
+        "alt_title": [
+            "Colorado LADDERS",
+            "LADDERS",
+            "Colorado Office of Behavioral Health",
+            "Colorado Linking Care",
+            "Linking Care",
+            "LinkingCare"
+        ],
+        "url": "https://www.colorado.gov/LADDERS/OBH_PSS_Landing",
+        "description": "Data collection and referral resource for information and services for prevention, treatment and recovery from substance use and mental health conditions. Replaces previous database called LinkingCare."
+    },
+    {
+        "id": "dataset-330",
+        "provider": "Colorado Department of Human Services",
+        "title": "Colorado Department of Human Services Community Performance Center",
+        "alt_title": [
+            "cdhsdatamatters",
+            "CDHS",
+            "Results-Oriented Management",
+            "ROM",
+            "CDHS Community Performance Center"
+        ],
+        "url": "http://www.cdhsdatamatters.org/data-by-county.html",
+        "description": "."
+    },
+    {
+        "id": "dataset-331",
+        "provider": "Colorado Department of Human Services",
+        "title": "Colorado Division of Youth Services Records Unit",
+        "alt_title": [
+            "Colorado DYS",
+            "DYS",
+            "Youth Services"
+        ],
+        "url": "https://www.colorado.gov/pacific/cdhs/division-youth-services-records-unit",
+        "description": "Source of Colorado youth services data, available upon request."
+    },
+    {
+        "id": "dataset-332",
+        "provider": "Colorado Department of Human Services",
+        "title": "State of Colorado Supplemental Nutrition Assistance Program",
+        "alt_title": [
+            "SNAP",
+            "Colorado SNAP",
+            "Colorado Supplemental Nutrition Assistance Program",
+            "Supplemental Nutrition Assistance Program",
+            "State of Colorado SNAP"
+        ],
+        "url": "https://www.colorado.gov/pacific/cdhs/data-economic-security",
+        "description": "SNAP offers food benefits to eligible, low-income individuals and families."
+    },
+    {
+        "id": "dataset-333",
+        "provider": "U.S. Department of Health and Human Services",
+        "title": "National Child Abuse and Neglect Data System",
+        "alt_title": [
+            "NCANDS",
+            "Child Abuse and Child Neglect",
+            "Child Welfare",
+            "Child Maltreatment"
+        ],
+        "url": "https://www.ndacan.acf.hhs.gov/datasets/datasets-list.cfm",
+        "description": "Data collection system that gathers information from all states about reports of child abuse and neglect."
+    },
+    {
+        "id": "dataset-334",
+        "provider": "Colorado Children’s Campaign",
+        "title": "Kids Count Data Center",
+        "alt_title": [
+            "KIDS COUNT",
+            "Annie E. Casey Foundation",
+            "Colorado Kids Count"
+        ],
+        "url": "https://datacenter.kidscount.org/data#CO/2/0/char/0",
+        "description": "Data initiative to assess and share information about the well-being of Colorado's children and trends."
+    },
+    {
+        "id": "dataset-335",
+        "provider": "U.S. Department of Health and Human Services",
+        "title": "Healthcare Cost and Utilization Project-State Inpatient Databases",
+        "alt_title": [
+            "State Inpatient Databases",
+            "Healthcare Cost and Utilization Project",
+            "SID",
+            "HCUP",
+            "HCUP-SID",
+            "Agency for Healthcare Research and Quality"
+        ],
+        "url": "https://www.hcup-us.ahrq.gov/sidoverview.jsp",
+        "description": "State Inpatient Databases includes inpatient discharge records from community hospitals in that State."
+    },
+    {
+        "id": "dataset-336",
+        "provider": "Alabama Department of Human Resources",
+        "title": "Alabama Statewide Automated Child Welfare Information System data",
+        "alt_title": [
+            "Statewide Automated Child Welfare Information System data",
+            "Alabama SACWIS",
+            "SACWIS data",
+            "FACTS data",
+            "Alabama FACTS data",
+            "Family, Adult and Child Tracking System data",
+            "Alabama Family, Adult and Child Tracking System data",
+            "QSR data",
+            "Alabama QSR data",
+            "Alabama Quality Service Review data",
+            "Quality Service Review"
+        ],
+        "url": "http://dhr.alabama.gov/directory/SACWIS.aspx",
+        "description": "SACWIS, or Statewide Automated Child Welfare Information System, is a comprehensive automated case management tool."
+    },
+    {
+        "id": "dataset-337",
+        "provider": "Alabama Department of Human Resources",
+        "title": "Alabama Child Death database",
+        "alt_title": [
+            "Child Death database"
+        ],
+        "url": "http://www.alabamapublichealth.gov/cdr/",
+        "description": "The Child Death Database captures all child deaths reported per policy to the state office."
+    },
+    {
+        "id": "dataset-338",
+        "provider": "Alabama Department of Human Resources",
+        "title": "Alabama Quality Assurance database",
+        "alt_title": [
+            "Quality Assurance database"
+        ],
+        "description": "The Quality Assurance Database captures all county and state quality service review data. Queries from this system provide qualitative data measures."
+    },
+    {
+        "id": "dataset-339",
+        "provider": "U.S. Department of Health and Human Resources",
+        "title": "Adoption and Foster Care Analysis Reporting System",
+        "alt_title": [
+            "AFCARS data"
+        ],
+        "url": "http://www.alabamapublichealth.gov/cdr/",
+        "description": "The Child Death Database captures all child deaths reported per policy to the state office."
+    },
+    {
+        "id": "dataset-340",
+        "provider": "U.S. Department of Health and Human Resources",
+        "title": "National Youth in Transition Database",
+        "alt_title": [
+            "NYTD"
+        ],
+        "url": "https://www.acf.hhs.gov/cb/research-data-technology/reporting-systems/nytd",
+        "description": "The National Youth in Transition Database (NYTD) collects information on youth in foster care, including sex, race, ethnicity, date of birth, and foster care status. It also collects information about the outcomes of those youth who have aged out of foster care."
+    },
+    {
+        "id" : "dataset-341",
+        "provider" : "Bureau of Labor Statistics",
+        "title" : "Business Employment Dynamics Data",
+        "alt_title" : [
+            "BED",
+            "BED Data"
+        ],
+        "url" : "https://www.bls.gov/bdm/#data",
+        "description" : "Business Employment Dynamics is a set of statistics generated from the Quarterly Census of Employment and Wages program. These quarterly data series consist of gross job gains and gross job losses statistics from 1992 forward. These data help to provide a picture of the dynamic state of the labor market."
+    },
+    {
+        "id" : "dataset-342",
+        "provider" : "Bureau of Labor Statistics",
+        "title" : "Job Openings and Labor Turnover Survey Data",
+        "alt_title" : [
+            "JOLTS",
+            "JOLTS Data"
+        ],
+        "url" : "https://www.bls.gov/jlt/",
+        "description" : "The Job Openings and Labor Turnover Survey (JOLTS) program produces data on job openings, hires, and separations."
+    },
+    {
+        "id" : "dataset-343",
+        "provider" : "Employment and Training Administration",
+        "title" : "Workforce Investment Act Standardized Record Data",
+        "alt_title" : [
+            "WIASRD",
+            "WIASRD Data"
+        ],
+        "url" : "https://www.federalregister.gov/documents/2002/01/11/02-667/workforce-investment-act-wia-standardized-record-data-wiasrd-quarterly-summary-report-and-annual"
+    },
+    {
+        "id" : "dataset-344",
+        "provider" : "United States Census Bureau",
+        "title" : "Business Dynamics Statistics Data",
+        "alt_title" : [
+            "BDS",
+            "BDS Data"
+        ],
+        "url" : "https://www.census.gov/programs-surveys/bds/data.html",
+        "description" : "BDS provides annual measures of business dynamics (such as job creation and destruction, establishment births and deaths, and firm startups and shutdowns) for the economy and aggregated by establishment and firm characteristics."
+    },
+    {
+        "id" : "dataset-345",
+        "provider" : "Bureau of Labor Statistics",
+        "title" : "Current Employment Statistics Survey Data",
+        "alt_title" : [
+            "CES",
+            "CES Data"
+        ],
+        "url" : "https://www.bls.gov/ces/home.htm#data",
+        "description" : "The Current Employment Statistics (CES) program produces detailed industry estimates of nonfarm employment, hours, and earnings of workers on payrolls."
+    },
+    {
+    "id": "dataset-346",
+    "title": "Women, Infants, and Children",
+    "provider": "U.S. Department of Agriculture",
+    "alt_title": [
+    "WIC",
+    "Special Supplemental Nutrition Program for Women, Infants, and Children"
+    ],
+    "url": "https://www.fns.usda.gov/pd/wic-program",
+    "description": "The Special Supplemental Nutrition Program for Women, Infants, and Children (WIC) provides federal grants to states for supplemental foods, health care referrals, and nutrition education for low-income pregnant, breastfeeding, and non-breastfeeding postpartum women, and to infants and children up to age five who are found to be at nutritional risk."
+    },
+    {
+    "id": "dataset-347",
+    "provider": "AdoptUSKids",
+    "title":  "AdoptUSKids Family Intake Tracking Tool database",
+    "alt_title": [
+        "FITT database",
+        "RRT database",
+        "Rapid Response Team database"
+    ],
+    "url": "http://www.nrcdr.org/develop-and-support-families/tools-and-resources",
+    "description": "The FITT database provides child welfare professional easy access to the names of families who have contacted AdoptUSKids from their state and indicated an interest in fostering or adopting from foster care."
+    },
+    {
+    "id": "dataset-348",
+    "provider": "California Department of Social Services",
+    "title":  "CalWORKs Cash Grant Caseload Movement Report",
+    "alt_title": [
+        "CA 237 CW"
+    ],
+    "url": "https://www.cdss.ca.gov/inforesources/Research-and-Data/CalWORKs-Data-Tables/CA-237-CW",
+    "description": "This monthly report includes data on CalWORKs caseload movement for Two Parent Families, Zero Parent Families, All Other Families, TANF Timed-Out, Safety Net, Fleeing Felon and Long Term Sanction cases."
+    },
+    {
+    "id": "dataset-349",
+    "provider": "California Department of Education",
+    "title":  "California Department of Education 801A Archived Data",
+    "alt_title": [
+        "CDD-801A"
+    ],
+    "url": "https://www.cde.ca.gov/sp/cd/ci/ccdata.asp",
+    "description": "The CDD-801A report is a list of all families and children that received Early Education and Support Division (EESD)-subsidized services for a specified month."
+    },
+    {
+    "id": "dataset-350",
+    "provider": "California Department of Education",
+    "title":  "CalWORKs Quarterly Report",
+    "url": "https://www.cdss.ca.gov/inforesources/Research-and-Data/CalWORKs-Reports",
+    "description": "The Quarterly CalWORKs Report is an information tool to monitor the progress of the CalWORKs Program and provide periodic snapshots of the data for some key program components."
+    },
+    {
+        "id" : "dataset-351",
+        "provider" : "Illinois State Police",
+        "title" : "Illinois State Police Data",
+        "alt_title" : [
+            "ISP",
+            "ISP Data"
+        ],
+        "url" : "https://www.isp.state.il.us/foia/access.cfm"
+    },
+    {
+        "id" : "dataset-352",
+        "provider" : "Chicago Public Schools",
+        "title" : "Chicago Public Schools Data",
+        "alt_title" : [
+            "CPS",
+            "CPS Data"
+        ],
+        "url" : "https://cps.edu/SchoolData/Pages/SchoolData.aspx"
+    },
+    {
+        "id" : "dataset-353",
+        "provider" : "Bureau of Justice Statistics",
+        "title" : "Survey of Inmates in Federal Correctional Facilities Data",
+        "alt_title" : [
+            "SIFCF",
+            "SIFCF Data"
+        ],
+        "url" : "https://www.bjs.gov/index.cfm?ty=dcdetail&iid=273",
+        "description" : "The survey is conducted concurrently with the SISCF and includes the same data items: individual characteristics of prison inmates, current offenses and sentences, characteristics of victims, criminal histories, family background, gun possession and use, prior drug and alcohol use and treatment, medical and mental health history and treatment, educational programs and other services provided while in prison, as well as other personal characteristics. "
+    },
+    {
+        "id" : "dataset-354",
+        "provider" : "Pennsylvania Department of Human Services",
+        "title" : "Pennsylvania Department of Huma Services Integrated Data Warehouse",
+        "alt_title" : [
+            "PDHS",
+            "PDHS Data",
+            "PDHS Intergrated Data Warehouse"
+        ],
+        "url" : "http://www.dhs.pa.gov/learnaboutdhs/data-dashboard/index.htm"
+    },
+    {
+        "id" : "dataset-355",
+        "provider" : "Allegheny County Analytics",
+        "title" : "Allegheny County Jail Data",
+        "url" : "https://www.alleghenycountyanalytics.us/index.php/2018/11/29/allegheny-county-jail-population-management-dashboards/"
+    },
+    {
+    "id": "dataset-356",
+    "provider": "California Department of Social Services",
+    "title":  "Child Care Monthly Report - CalWORKs Families",
+    "alt_title": [
+        "CW 115"
+    ],
+    "url": "https://www.cdss.ca.gov/inforesources/Research-and-Data/CalWORKs-Data-Tables/CW-115",
+    "description": "This monthly report includes data on the number of CalWORKs families and children approved/authorized/certified to receive Stage 1 child care during the report month."
+    },
+    {
+    "id": "dataset-357",
+    "provider": "California Department of Social Services",
+    "title":  "Child Care Monthly Report - Two-Parent Families",
+    "alt_title": [
+        "CW 115A"
+    ],
+    "url": "https://www.cdss.ca.gov/inforesources/Research-and-Data/CalWORKs-Data-Tables/CW-115A",
+    "description": "This monthly report includes data on the number of Two Parent families and children approved/authorized/certified to receive Stage 1 child care during the report month."
+    },
+    {
+    "id": "dataset-358",
+    "provider": "California Department of Social Services",
+    "title":  "CalWORKs Family Stabilization Program Quarterly Report",
+    "alt_title": [
+        "CalWORKs FS Program Quarterly Report",
+        "FSP 14"
+    ],
+    "url": "https://www.cdss.ca.gov/inforesources/Research-and-Data/CalWORKs-Data-Tables/FSP-14",
+    "description": "This quarterly report includes statistical information for the CalWORKs Family Stabilization Program (FS): CalWORKs cases that are receiving FS services, cases denied FS services and cases that are unable to receive FS services."
+    },
+    {
+    "id": "dataset-359",
+    "provider": "California Department of Social Services",
+    "title":  "CalWORKs Housing Support Program Monthly Status Report",
+    "alt_title": [
+        "CalWORKs HSP Monthly Status Report",
+        "HSP 14"
+    ],
+    "url": "https://www.cdss.ca.gov/inforesources/Research-and-Data/Report-Form-and-Instructions",
+    "description": "This report contains monthly information about the CalWORKs Housing Support Program (HSP) and provides information about CalWORKs families that have requested or been referred to HSP services, have been approved, denied or discontinued, the reasons for denials and discontinuances, family residence status entering and exiting the program, and the number and type of HSP services and amount of HSP financial assistance issued to the family."
+    },
+    {
+    "id": "dataset-360",
+    "provider": "California Department of Social Services",
+    "title":  "Research and Development Enterprise Project data",
+    "alt_title": [
+        "RADEP data"
+    ],
+    "url": "https://apps.cce.csus.edu/sites/calworks/17/speakers/uploads/4D%20RADEP!%20Training%20Academy%20Presentation.pdf",
+    "description": "RADEP is a web-based data collection tool used by county and state staff to report federal Temporary Assistance for Needy Families (TANF) disaggregated data which is used by the federal Department of Health and Human Services to calculate the State’s federal work participation rates."
+    },
+    {
+    "id": "dataset-361",
+    "provider": "California Department of Social Services",
+    "title":  "CalWORKs Welfare-To-Work Monthly Activity Report - All (Other) Families",
+    "alt_title": [
+        "WTW 25"
+    ],
+    "url": "https://www.cdss.ca.gov/inforesources/Research-and-Data/CalWORKs-Data-Tables/WTW25",
+    "description": "This monthly report includes the number of All (Other) Families who are enrolled in mandatory WTW employment-preparation activities."
+    },
+    {
+    "id": "dataset-362",
+    "provider": "California Department of Social Services",
+    "title":  "CalWORKs Welfare-To-Work Monthly Activity Report - Two-Parent Families",
+    "alt_title": [
+        "WTW 25A"
+    ],
+    "url": "https://www.cdss.ca.gov/inforesources/Research-and-Data/CalWORKs-Data-Tables/WTW25A",
+    "description": "This monthly report includes the number of Two-Parent Families who are enrolled in mandatory WTW employment-preparation activities."
+    },
+    {
+    "id": "dataset-363",
+    "provider": "California Department of Social Services",
+    "title":  "South Bay Workforce Investment Board payroll data",
+    "alt_title": [
+        "SBWIB payroll data"
+    ],
+    "url": "https://www.sbwib.org/home",
+    "description": "The primary objective of the SBWIB is to provide policy guidance which will allow the staff to create an environment where every person maximizes his or her career potential, and all employers have the human resources they need to grow and prosper."
     }
 ]
