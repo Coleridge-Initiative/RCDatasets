@@ -3859,7 +3859,63 @@
         "url": "https://www.hcup-us.ahrq.gov/sidoverview.jsp",
         "description": "State Inpatient Databases includes inpatient discharge records from community hospitals in that State."
     },
-
+    {
+        "id": "dataset-336",
+        "provider": "Alabama Department of Human Resources",
+        "title": "Alabama Statewide Automated Child Welfare Information System data",
+        "alt_title": [
+            "Statewide Automated Child Welfare Information System data",
+            "Alabama SACWIS",
+            "SACWIS data",
+            "FACTS data",
+            "Alabama FACTS data",
+            "Family, Adult and Child Tracking System data",
+            "Alabama Family, Adult and Child Tracking System data",
+            "QSR data",
+            "Alabama QSR data",
+            "Alabama Quality Service Review data",
+            "Quality Service Review"
+        ],
+        "url": "http://dhr.alabama.gov/directory/SACWIS.aspx",
+        "description": "SACWIS, or Statewide Automated Child Welfare Information System, is a comprehensive automated case management tool."
+    },
+    {
+        "id": "dataset-337",
+        "provider": "Alabama Department of Human Resources",
+        "title": "Alabama Child Death database",
+        "alt_title": [
+            "Child Death database"
+        ],
+        "url": "http://www.alabamapublichealth.gov/cdr/",
+        "description": "The Child Death Database captures all child deaths reported per policy to the state office."
+    },
+    {
+        "id": "dataset-338",
+        "provider": "Alabama Department of Human Resources",
+        "title": "Alabama Quality Assurance database",
+        "alt_title": [
+            "Quality Assurance database"
+        ],
+        "description": "The Quality Assurance Database captures all county and state quality service review data. Queries from this system provide qualitative data measures."
+    },
+    {
+        "id": "dataset-339",
+        "provider": "U.S. Department of Health and Human Resources",
+        "title": "Adoption and Foster Care Analysis Reporting System",
+        "alt_title": [
+            "AFCARS data"
+        ],
+        "url": "http://www.alabamapublichealth.gov/cdr/",
+        "description": "The Child Death Database captures all child deaths reported per policy to the state office."
+    },
+    {
+        "id": "dataset-340",
+        "provider": "U.S. Department of Health and Human Resources",
+        "title": "National Youth in Transition Database",
+        "alt_title": [
+            "NYTD"
+        ],
+        "url": "https://www.acf.hhs.gov/cb/research-data-technology/reporting-systems/nytd",
+        "description": "The National Youth in Transition Database (NYTD) collects information on youth in foster care, including sex, race, ethnicity, date of birth, and foster care status. It also collects information about the outcomes of those youth who have aged out of foster care."
     }
-
 ]
