@@ -4019,5 +4019,35 @@
     ],
     "url": "https://apps.cce.csus.edu/sites/calworks/17/speakers/uploads/4D%20RADEP!%20Training%20Academy%20Presentation.pdf",
     "description": "RADEP is a web-based data collection tool used by county and state staff to report federal Temporary Assistance for Needy Families (TANF) disaggregated data which is used by the federal Department of Health and Human Services to calculate the State’s federal work participation rates."
+    },
+    {
+    "id": "dataset-361",
+    "provider": "California Department of Social Services",
+    "title":  "CalWORKs Welfare-To-Work Monthly Activity Report - All (Other) Families",
+    "alt_title": [
+        "WTW 25"
+    ],
+    "url": "https://www.cdss.ca.gov/inforesources/Research-and-Data/CalWORKs-Data-Tables/WTW25",
+    "description": "This monthly report includes the number of All (Other) Families who are enrolled in mandatory WTW employment-preparation activities."
+    },
+    {
+    "id": "dataset-362",
+    "provider": "California Department of Social Services",
+    "title":  "CalWORKs Welfare-To-Work Monthly Activity Report - Two-Parent Families",
+    "alt_title": [
+        "WTW 25A"
+    ],
+    "url": "https://www.cdss.ca.gov/inforesources/Research-and-Data/CalWORKs-Data-Tables/WTW25A",
+    "description": "This monthly report includes the number of Two-Parent Families who are enrolled in mandatory WTW employment-preparation activities."
+    },
+    {
+    "id": "dataset-363",
+    "provider": "California Department of Social Services",
+    "title":  "South Bay Workforce Investment Board payroll data",
+    "alt_title": [
+        "SBWIB payroll data"
+    ],
+    "url": "https://www.sbwib.org/home",
+    "description": "The primary objective of the SBWIB is to provide policy guidance which will allow the staff to create an environment where every person maximizes his or her career potential, and all employers have the human resources they need to grow and prosper."
     }
 ]
