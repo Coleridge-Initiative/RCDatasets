@@ -751,8 +751,7 @@
         "provider": "Department of Health and Human Services",
         "title": "Temporary Assistance for Needy Families",
         "alt_title": [
-            "TANF",
-            "Administration for Children and Families (ACF) - Office of Family Assistance"
+            "TANF"
         ],
         "url": "https://www.acf.hhs.gov/ofa/programs/tanf/data-reports",
         "description": "TANF administrative records from the Department of Health and Human Services (HHS), which collects them from various state agencies. States have the option to submit either sample or universe data to HHS, and 30 states submitted universe data."
@@ -1088,7 +1087,7 @@
             "California UI",
             "California Unemployment Insurance"
         ],
-        "url": "https://data.edd.ca.gov/",
+        "url": "https://www.edd.ca.gov/unemployment/",
         "description": "The Unemployment Insurance (UI) program pays benefits to workers who have lost their job and meet the program's eligibility requirements."
     },
     {
@@ -2679,9 +2678,7 @@
     "provider": "California Department of Social Services",
     "title": "Medi-Cal Eligibility Data System",
     "alt_title": [
-        "MEDS",
-        "WDTIP",
-        "Welfare Data Tracking Implementation Project"
+        "MEDS"
     ],
     "url": "https://www.dhcs.ca.gov/provgovpart/Pages/DHCS-IT-Systems-and-Projects.aspx",
     "description": "MEDS is a statewide data hub serving a variety of eligibility, enrollment and reporting functions for Medi-Cal and other state and federal benefits. MEDS maintains eligibility history for Medi-Cal and other health and human services programs."
@@ -3011,10 +3008,9 @@
     "title": "State Unemployment Insurance Base Wage File",
     "alt_title": [
         "UIBWF",
-        "California Base Wage",
-        "EDD Base Wage File",
-        "EDD Base Wage data",
-        "Employment Development Department Base Wage data"
+        "California UI",
+        "California Unemployment Insurance",
+        "California Base Wage"
     ],
     "url": "https://data.edd.ca.gov/",
     "description": "Data from state to track employment and earnings."
@@ -3536,7 +3532,7 @@
                 "WTW Data"
             ],
             "url": "https://data.chhs.ca.gov/dataset/calworks-welfare-to-work-monthly-activities",
-            "description": "CalWORKs Welfare-to-Work (WTW) Monthly Activity Report. These data provide detailed counts of CalWORKs WTW enrollees, including exemptions and the type of activity individuals are enrolled in as part of their WTW plan requirements."
+            "description": "CalWORKs Welfare-to-Work (WTW) Monthly Activity Report. These data provide detailed counts of CalWORKs WTW enrollees, including exemptions and the type of activity individuals are enrolled in as part of their WTW plan requirements. "
         },
         {
             "id": "dataset-306",
@@ -3656,5 +3652,270 @@
     ],
     "url": "http://dhss.alaska.gov/dpa/Pages/atap/default.aspx",
     "description": "Temporary Assistance for Needy Families (TANF) provides temporary cash for families in need."
+
+    },
+    {
+        "id": "dataset-316",
+        "provider": "Pennsylvania Department of Public Welfare",
+        "title": "Department of Public Welfare Data",
+        "alt_title":[
+            "DPW",
+            "DPW Data"
+        ],
+        "url": "http://www.dhs.pa.gov/learnaboutdhs/data-dashboard/index.htm"
+    },
+    {
+        "id": "dataset-317",
+        "provider": "State of California Department of Justice",
+        "title": "State of California Department of Justice Arrest Data",
+        "alt_title":[
+            "SCDJ",
+            "SCDJ Data"
+        ],
+        "url": "https://oag.ca.gov/crime",
+        "description" : "This site contains crime data submitted by county and local law enforcement agencies, as well as current and historical publications on crime, juvenile justice, homicide, and hate crimes in California."
+    },
+    {
+        "id": "dataset-320",
+        "provider": "Pennsylvania Department of Human Services",
+        "title": "Pennsylvania Temporary Assistance for Needy Families receipt",
+        "alt_title":[
+            "Pennsylvania TANF"
+        ],
+        "url": "http://listserv.dpw.state.pa.us/ma-food-stamps-and-cash-stats.html",
+        "description": "Medical Assistance, Food Stamps and Cash Assistance statistics reports"
+    },
+    {
+        "id": "dataset-321",
+        "provider": "Chicago Police Department",
+        "title": "Chicago Police Department Administrative Records",
+        "alt_title":[
+            "CPD",
+            "CPD Administrative Data"
+        ],
+        "url": "https://home.chicagopolice.org/statistics-data/statistical-reports/"
+    },
+    {
+        "id": "dataset-322",
+        "provider": "Detroit Police Department",
+        "title": "Detroit Police Department Administrative Records",
+        "alt_title":[
+            "DPD",
+            "DPD Administrative Data"
+        ],
+        "url": "https://data.detroitmi.gov/datasets/police-reports-2011-to-2014"
+    },
+    {
+        "id": "dataset-323",
+        "provider": "Wisconsin Department of Justice",
+        "title": "Wisconsin Department of Justice State Prison Data",
+        "alt_title":[
+            "WDJ",
+            "WDJ Arrest and Conviction Data"
+        ],
+        "url": "https://www.doj.state.wi.us/dles/bjia/ucr-offense-data"
+    },
+    {
+        "id": "dataset-324",
+        "provider": "Illinois Department of Corrections",
+        "title": "Illinois Department of Corrections State Prison Data",
+        "alt_title":[
+            "IL DOC",
+            "IL DOC State Prison Data"
+        ],
+        "url": "https://www2.illinois.gov/idoc/reportsandstatistics/Pages/default.aspx"
+    },
+    {
+        "id": "dataset-325",
+        "provider": "Minnesota Department of Corrections",
+        "title": "Minnsesota State Prison Data",
+        "alt_title":[
+            "MN DOC State Prison Data"
+        ],
+        "url": "https://mn.gov/doc/data-publications/"
+    },
+    {
+        "id": "dataset-326",
+        "provider": "Michigan Department of Corrections",
+        "title": "Michigan Department of Corrections Prison Data",
+        "alt_title":[
+            "MI DOC State Prison Data"
+        ],
+        "url": "https://www.michigan.gov/corrections/0,4551,7-119-1441---,00.html"
+    },
+    {
+        "id": "dataset-327",
+        "provider": "Washington State Department of Corrections",
+        "title": "Washington State Department of Corrections Administrative Data",
+        "alt_title":[
+            "WADOC Administrative Data",
+            "WADOC"
+        ],
+        "url": "https://www.doc.wa.gov/information/data/analytics.htm"
+    },
+    {
+        "id": "dataset-328",
+        "provider":"Bureau of Labor Statistics",
+        "title": "Quarterly Census of Employment and Wages",
+        "alt_title":[
+            "QCEW"
+        ],
+        "url" : "https://www.bls.gov/cEw/#databases",
+        "description" : "The Quarterly Census of Employment and Wages (QCEW) program publishes a quarterly count of employment and wages reported by employers covering more than 95 percent of U.S. jobs, available at the county, MSA, state and national levels by industry."
+
+    },
+    {
+        "id": "dataset-329",
+        "provider": "Colorado Department of Human Services",
+        "title": "Colorado Office of Behavioral Health Licensing and Designation Database and Electronic Records System",
+        "alt_title": [
+            "Colorado LADDERS",
+            "LADDERS",
+            "Colorado Office of Behavioral Health",
+            "Colorado Linking Care",
+            "Linking Care",
+            "LinkingCare"
+        ],
+        "url": "https://www.colorado.gov/LADDERS/OBH_PSS_Landing",
+        "description": "Data collection and referral resource for information and services for prevention, treatment and recovery from substance use and mental health conditions. Replaces previous database called LinkingCare."
+    },
+    {
+        "id": "dataset-330",
+        "provider": "Colorado Department of Human Services",
+        "title": "Colorado Department of Human Services Community Performance Center",
+        "alt_title": [
+            "cdhsdatamatters",
+            "CDHS",
+            "Results-Oriented Management",
+            "ROM",
+            "CDHS Community Performance Center"
+        ],
+        "url": "http://www.cdhsdatamatters.org/data-by-county.html",
+        "description": "."
+    },
+    {
+        "id": "dataset-331",
+        "provider": "Colorado Department of Human Services",
+        "title": "Colorado Division of Youth Services Records Unit",
+        "alt_title": [
+            "Colorado DYS",
+            "DYS",
+            "Youth Services"
+        ],
+        "url": "https://www.colorado.gov/pacific/cdhs/division-youth-services-records-unit",
+        "description": "Source of Colorado youth services data, available upon request."
+    },
+    {
+        "id": "dataset-332",
+        "provider": "Colorado Department of Human Services",
+        "title": "State of Colorado Supplemental Nutrition Assistance Program",
+        "alt_title": [
+            "SNAP",
+            "Colorado SNAP",
+            "Colorado Supplemental Nutrition Assistance Program",
+            "Supplemental Nutrition Assistance Program",
+            "State of Colorado SNAP"
+        ],
+        "url": "https://www.colorado.gov/pacific/cdhs/data-economic-security",
+        "description": "SNAP offers food benefits to eligible, low-income individuals and families."
+    },
+    {
+        "id": "dataset-333",
+        "provider": "U.S. Department of Health and Human Services",
+        "title": "National Child Abuse and Neglect Data System",
+        "alt_title": [
+            "NCANDS",
+            "Child Abuse and Child Neglect",
+            "Child Welfare",
+            "Child Maltreatment"
+        ],
+        "url": "https://www.ndacan.acf.hhs.gov/datasets/datasets-list.cfm",
+        "description": "Data collection system that gathers information from all states about reports of child abuse and neglect."
+    },
+    {
+        "id": "dataset-334",
+        "provider": "Colorado Children’s Campaign",
+        "title": "Kids Count Data Center",
+        "alt_title": [
+            "KIDS COUNT",
+            "Annie E. Casey Foundation",
+            "Colorado Kids Count"
+        ],
+        "url": "https://datacenter.kidscount.org/data#CO/2/0/char/0",
+        "description": "Data initiative to assess and share information about the well-being of Colorado's children and trends."
+    },
+    {
+        "id": "dataset-335",
+        "provider": "U.S. Department of Health and Human Services",
+        "title": "Healthcare Cost and Utilization Project-State Inpatient Databases",
+        "alt_title": [
+            "State Inpatient Databases",
+            "Healthcare Cost and Utilization Project",
+            "SID",
+            "HCUP",
+            "HCUP-SID",
+            "Agency for Healthcare Research and Quality"
+        ],
+        "url": "https://www.hcup-us.ahrq.gov/sidoverview.jsp",
+        "description": "State Inpatient Databases includes inpatient discharge records from community hospitals in that State."
+    },
+    {
+        "id": "dataset-336",
+        "provider": "Alabama Department of Human Resources",
+        "title": "Alabama Statewide Automated Child Welfare Information System data",
+        "alt_title": [
+            "Statewide Automated Child Welfare Information System data",
+            "Alabama SACWIS",
+            "SACWIS data",
+            "FACTS data",
+            "Alabama FACTS data",
+            "Family, Adult and Child Tracking System data",
+            "Alabama Family, Adult and Child Tracking System data",
+            "QSR data",
+            "Alabama QSR data",
+            "Alabama Quality Service Review data",
+            "Quality Service Review"
+        ],
+        "url": "http://dhr.alabama.gov/directory/SACWIS.aspx",
+        "description": "SACWIS, or Statewide Automated Child Welfare Information System, is a comprehensive automated case management tool."
+    },
+    {
+        "id": "dataset-337",
+        "provider": "Alabama Department of Human Resources",
+        "title": "Alabama Child Death database",
+        "alt_title": [
+            "Child Death database"
+        ],
+        "url": "http://www.alabamapublichealth.gov/cdr/",
+        "description": "The Child Death Database captures all child deaths reported per policy to the state office."
+    },
+    {
+        "id": "dataset-338",
+        "provider": "Alabama Department of Human Resources",
+        "title": "Alabama Quality Assurance database",
+        "alt_title": [
+            "Quality Assurance database"
+        ],
+        "description": "The Quality Assurance Database captures all county and state quality service review data. Queries from this system provide qualitative data measures."
+    },
+    {
+        "id": "dataset-339",
+        "provider": "U.S. Department of Health and Human Resources",
+        "title": "Adoption and Foster Care Analysis Reporting System",
+        "alt_title": [
+            "AFCARS data"
+        ],
+        "url": "http://www.alabamapublichealth.gov/cdr/",
+        "description": "The Child Death Database captures all child deaths reported per policy to the state office."
+    },
+    {
+        "id": "dataset-340",
+        "provider": "U.S. Department of Health and Human Resources",
+        "title": "National Youth in Transition Database",
+        "alt_title": [
+            "NYTD"
+        ],
+        "url": "https://www.acf.hhs.gov/cb/research-data-technology/reporting-systems/nytd",
+        "description": "The National Youth in Transition Database (NYTD) collects information on youth in foster care, including sex, race, ethnicity, date of birth, and foster care status. It also collects information about the outcomes of those youth who have aged out of foster care."
     }
 ]
