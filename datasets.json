@@ -3919,6 +3919,60 @@
         "description": "The National Youth in Transition Database (NYTD) collects information on youth in foster care, including sex, race, ethnicity, date of birth, and foster care status. It also collects information about the outcomes of those youth who have aged out of foster care."
     },
     {
+        "id" : "dataset-341",
+        "provider" : "Bureau of Labor Statistics",
+        "title" : "Business Employment Dynamics Data",
+        "alt_title" : [
+            "BED",
+            "BED Data"
+        ],
+        "url" : "https://www.bls.gov/bdm/#data",
+        "description" : "Business Employment Dynamics is a set of statistics generated from the Quarterly Census of Employment and Wages program. These quarterly data series consist of gross job gains and gross job losses statistics from 1992 forward. These data help to provide a picture of the dynamic state of the labor market."
+    },
+    {
+        "id" : "dataset-342",
+        "provider" : "Bureau of Labor Statistics",
+        "title" : "Job Openings and Labor Turnover Survey Data",
+        "alt_title" : [
+            "JOLTS",
+            "JOLTS Data"
+        ],
+        "url" : "https://www.bls.gov/jlt/",
+        "description" : "The Job Openings and Labor Turnover Survey (JOLTS) program produces data on job openings, hires, and separations."
+    },
+    {
+        "id" : "dataset-343",
+        "provider" : "Employment and Training Administration",
+        "title" : "Workforce Investment Act Standardized Record Data",
+        "alt_title" : [
+            "WIASRD",
+            "WIASRD Data"
+        ],
+        "url" : "https://www.federalregister.gov/documents/2002/01/11/02-667/workforce-investment-act-wia-standardized-record-data-wiasrd-quarterly-summary-report-and-annual"
+    },
+    {
+        "id" : "dataset-344",
+        "provider" : "United States Census Bureau",
+        "title" : "Business Dynamics Statistics Data",
+        "alt_title" : [
+            "BDS",
+            "BDS Data"
+        ],
+        "url" : "https://www.census.gov/programs-surveys/bds/data.html",
+        "description" : "BDS provides annual measures of business dynamics (such as job creation and destruction, establishment births and deaths, and firm startups and shutdowns) for the economy and aggregated by establishment and firm characteristics."
+    },
+    {
+        "id" : "dataset-345",
+        "provider" : "Bureau of Labor Statistics",
+        "title" : "Current Employment Statistics Survey Data",
+        "alt_title" : [
+            "CES",
+            "CES Data"
+        ],
+        "url" : "https://www.bls.gov/ces/home.htm#data",
+        "description" : "The Current Employment Statistics (CES) program produces detailed industry estimates of nonfarm employment, hours, and earnings of workers on payrolls."
+    },
+    {
     "id": "dataset-346",
     "title": "Women, Infants, and Children",
     "provider": "U.S. Department of Agriculture",
@@ -3967,6 +4021,54 @@
     "title":  "CalWORKs Quarterly Report",
     "url": "https://www.cdss.ca.gov/inforesources/Research-and-Data/CalWORKs-Reports",
     "description": "The Quarterly CalWORKs Report is an information tool to monitor the progress of the CalWORKs Program and provide periodic snapshots of the data for some key program components."
+    },
+    {
+        "id" : "dataset-351",
+        "provider" : "Illinois State Police",
+        "title" : "Illinois State Police Data",
+        "alt_title" : [
+            "ISP",
+            "ISP Data"
+        ],
+        "url" : "https://www.isp.state.il.us/foia/access.cfm"
+    },
+    {
+        "id" : "dataset-352",
+        "provider" : "Chicago Public Schools",
+        "title" : "Chicago Public Schools Data",
+        "alt_title" : [
+            "CPS",
+            "CPS Data"
+        ],
+        "url" : "https://cps.edu/SchoolData/Pages/SchoolData.aspx"
+    },
+    {
+        "id" : "dataset-353",
+        "provider" : "Bureau of Justice Statistics",
+        "title" : "Survey of Inmates in Federal Correctional Facilities Data",
+        "alt_title" : [
+            "SIFCF",
+            "SIFCF Data"
+        ],
+        "url" : "https://www.bjs.gov/index.cfm?ty=dcdetail&iid=273",
+        "description" : "The survey is conducted concurrently with the SISCF and includes the same data items: individual characteristics of prison inmates, current offenses and sentences, characteristics of victims, criminal histories, family background, gun possession and use, prior drug and alcohol use and treatment, medical and mental health history and treatment, educational programs and other services provided while in prison, as well as other personal characteristics. "
+    },
+    {
+        "id" : "dataset-354",
+        "provider" : "Pennsylvania Department of Human Services",
+        "title" : "Pennsylvania Department of Huma Services Integrated Data Warehouse",
+        "alt_title" : [
+            "PDHS",
+            "PDHS Data",
+            "PDHS Intergrated Data Warehouse"
+        ],
+        "url" : "http://www.dhs.pa.gov/learnaboutdhs/data-dashboard/index.htm"
+    },
+    {
+        "id" : "dataset-355",
+        "provider" : "Allegheny County Analytics",
+        "title" : "Allegheny County Jail Data",
+        "url" : "https://www.alleghenycountyanalytics.us/index.php/2018/11/29/allegheny-county-jail-population-management-dashboards/"
     },
     {
     "id": "dataset-356",
