@@ -4152,4 +4152,26 @@
     "url": "https://www.sbwib.org/home",
     "description": "The primary objective of the SBWIB is to provide policy guidance which will allow the staff to create an environment where every person maximizes his or her career potential, and all employers have the human resources they need to grow and prosper."
     }
+    ,
+    {
+    "id": "dataset-364",
+    "provider": "National Science Foundation",
+    "title":  "Survey of Earned Doctorates",
+    "alt_title": [
+        "SED"
+    ],
+    "url": "https://sedsurvey.org/DataUsers/DataProducts",
+    "description": "The Survey of Earned Doctorates (SED) gathers information annually from approximately 50,000 new research doctorate graduates from U.S. universities about their educational histories, funding sources, and post-doctoral plans."
+    }
+    ,
+    {
+    "id": "dataset-365",
+    "provider": "National Science Foundation",
+    "title":  "Survey of Doctorate Recipients",
+    "alt_title": [
+        "SDR"
+    ],
+    "url": "https://www.nsf.gov/statistics/srvydoctoratework/",
+    "description": "The Survey of Doctorate Recipients (SDR) provides demographic, education, and career history information from individuals with a U.S. research doctoral degree in a science, engineering, or health (SEH) field."
+    }
 ]
