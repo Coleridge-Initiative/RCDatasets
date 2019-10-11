@@ -133,4 +133,4 @@ class TestVerifyDatasets (unittest.TestCase):
 
 
 if __name__ == "__main__":
-    unittest.main(filename)
+    unittest.main()
