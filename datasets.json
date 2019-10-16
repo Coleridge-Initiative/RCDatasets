@@ -4267,5 +4267,14 @@
             "IN WIC"
         ],
         "url": "https://www.in.gov/isdh/24849.htm"
+    },
+    {
+        "id": "dataset-375",
+        "provider": "Kansas City Missouri Police Department",
+        "title": "Kansas City Police Department Crime Data",
+        "alt_title":[
+            "KCPD Crime Data"
+        ],
+        "url": "https://www.kcpd.org/crime/crime-statistics/"
     }
 ]
