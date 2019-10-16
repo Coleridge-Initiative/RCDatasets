@@ -4276,5 +4276,51 @@
             "KCPD Crime Data"
         ],
         "url": "https://www.kcpd.org/crime/crime-statistics/"
+    },
+    {
+        "id": "dataset-376",
+        "provider": "Indiana Commission for Higher Education",
+        "title": "Indiana Public Higher Education Enrollment Data",
+        "alt_title":[
+            "IN CHH Enrollment Data"
+        ],
+        "url": "https://public.tableau.com/profile/che.staff#!/vizhome/FB_11/Story1"
+    },
+    {
+        "id": "dataset-377",
+        "provider": "Indiana Commission for Higher Education",
+        "title": "Indiana Public Higher Education Completion Data",
+        "alt_title":[
+            "IN CHH Completion Data"
+        ],
+        "url": "https://www.in.gov/che/3032.htm"
+    },
+    {
+        "id": "dataset-378",
+        "provider": "Missouri Department of Higher Education & Workforce Development",
+        "title": "Missouri Department of Higher Education Enrollment Data",
+        "alt_title":[
+            "MI DHEWD Enrollment Data"
+        ],
+        "url": "https://dhewd.mo.gov/data/statsum/"
+    },
+    {
+        "id": "dataset-379",
+        "provider": "Missouri Department of Higher Education & Workforce Development",
+        "title": "Missouri Department of Higher Education Completion Data",
+        "alt_title":[
+            "MI DHEWD Completion Data"
+        ],
+        "url": "https://dhewd.mo.gov/data/statsum/" 
+    },
+    {
+        "id": "dataset-380",
+        "provider": "Deutsche Bundesbank",
+        "title": "External position of banks",
+        "alt_title":[
+            "AUSTA"
+        ],
+        "url": "https://www.bundesbank.de/en/bundesbank/research/rdsc/research-data/external-position-of-banks-austa-auslandsstatus--618018",
+        "description" : "The external position of banks shows the assets and liabilities of banks in Germany and their foreign branches and subsidiaries vis-à-vis non-residents. The microdatabase is based on the individual monthly reports of all German banks dating back to January 2003."
     }
 ]
