@@ -2487,7 +2487,7 @@
         "Illinois UI",
         "Illinois Unemployment Insurance"
     ],
-    "url": "https://www2.illinois.gov/ides/Pages/default.aspx",
+    "url": "https://www2.illinois.gov/ides/lmi/Pages/Data_Statistics.aspx",
     "description": "UI-related data on employment and unemployment."
     },
     {
@@ -4151,6 +4151,72 @@
     ],
     "url": "https://www.sbwib.org/home",
     "description": "The primary objective of the SBWIB is to provide policy guidance which will allow the staff to create an environment where every person maximizes his or her career potential, and all employers have the human resources they need to grow and prosper."
+    },
+    {
+        "id": "dataset-364",
+        "provider": "Illinois Department of Corrections",
+        "title": "Illinois Department of Corrections Inmate Admissions",
+        "alt_title":[
+            "IL DOC",
+            "IL DOC Inmate Admissions"
+        ],
+        "url": "https://www2.illinois.gov/idoc/reportsandstatistics/Pages/Prison-Population-Data-Sets.aspx",
+        "description": "Detailed transactional data of each time a person was admitted to an Illinois Department of Corrections (DOC) facility from 1990 to 2015. Variables include demographic, charges, sentencing, conduct, security level, health and mental health status, gang affiliation. Data are collected using correctional facility data and court records. See data dictionary documentation for detailed description of all fields."
+    },
+    {
+        "id": "dataset-365",
+        "provider": "Illinois Department of Corrections",
+        "title": "Illinois Department of Corrections Inmate Exits",
+        "alt_title":[
+            "IL DOC",
+            "IL DOC Inmate Exits"
+        ],
+        "url": "https://www2.illinois.gov/idoc/reportsandstatistics/Pages/Prison-Population-Data-Sets.aspx",
+        "description" : "Detailed transactional data of each time an inmate was released from an Illinois Department of Corrections (DOC) facility from 1990 to 2015. Variables include demographic, residence, charges, sentencing, conduct, security level, health and mental health status, gang affiliation. Data are collected using correctional facility data and court records. See data dictionary documentation for detailed description of all fields."
+    },
+    {
+        "id": "dataset-366",
+        "provider": "U.S. Department of Housing and Urban Development",
+        "title": "US Department of Housing and Urban Development Program Microdata - Individuals: Illinois",
+        "alt_title":[
+            "US HUD",
+            "US HUD Program Microdata: Individuals"
+        ],
+        "url": "https://www.huduser.gov/portal/pdrdatas_landing.html#dataset-title",
+        "description" : "Detailed transactional data consisting of tenant-level data for individuals in the US Department of Housing and Urban Development's (HUD) largest rental assistance programs: the Housing Choice Voucher Program, Public Housing, Project-based Section 8, and the Section 202/811 Programs. The dataset includes information on individuals aggregated at the Census block level, including rent, years in program, and income; and individual race and gender. Data originate from two sources within HUD: The Public and Indian Housing (PIH) Information Center and Tenant Rental Assistance Certification System (TRACS)."
+    },
+    {
+        "id": "dataset-367",
+        "provider": "U.S. Department of Housing and Urban Development",
+        "title": "US Department of Housing and Urban Development Program Microdata - Households: Illinois",
+        "alt_title":[
+            "US HUD",
+            "US HUD Program Microdata: Households"
+        ],
+        "url": "https://www.huduser.gov/portal/pdrdatas_landing.html#dataset-title",
+        "description" : "Detailed transactional data consisting of tenant-level data for households in the US Department of Housing and Urban Development's (HUD) largest rental assistance programs: the Housing Choice Voucher Program, Public Housing, Project-based Section 8, and the Section 202/811 Programs. The dataset includes information on households aggregated at the Census block level, including household family type, rent, years in program, and income. Data originate from two sources within HUD: The Public and Indian Housing (PIH) Information Center and Tenant Rental Assistance Certification System (TRACS)."
+    },
+    {
+        "id": "dataset-368",
+        "provider": "Illinois Correctional Industries",
+        "title": "Illinois Correctional Industries training dataset",
+        "alt_title":[
+            "ICI",
+            "ICI training dataset"
+        ],
+        "url": "http://www.icicatalog.illinois.gov/AnnualReport.aspx",
+        "description" : "This data contains the individuals who participated in an Illinois Correctional Industries vocational training program for forward years 2011 - 2016. The dataset includes a 'Shop Function Code' designating the program, start and end dates of the program, and the result of that training program for the inmate in question. These data are tracked by hand by ICI's payroll unit."
+    },
+    {
+        "id": "dataset-369",
+        "provider": "Illinois Department of Corrections",
+        "title": "Illinois Department of Corrections Parolee address data",
+        "alt_title":[
+            "IL DOC",
+            "IL DOC Parolee address data"
+        ],
+        "url": "https://www2.illinois.gov/idoc/reportsandstatistics/Pages/Parole-Population-Data-Sets.aspx",
+        "description" : "Location information for persons active in the Illinois parole system from 2009 to 2015. A given person could have multiple rows in this table, one per year they were on parole. Each row contains a latitude/longitude coordinate based on the parolee’s address on file (redacted from this file), as well as additional information on original and derived county, city, and zip code and metadata that indicates who confident we are that the point corresponds to the address. Because the parole system doesn’t include historical data, parolees who exited the system before 2009 won’t be represented in this data set."
     }
     ,
     {
