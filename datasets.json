@@ -4239,5 +4239,33 @@
     ],
     "url": "https://www.nsf.gov/statistics/srvydoctoratework/",
     "description": "The Survey of Doctorate Recipients (SDR) provides demographic, education, and career history information from individuals with a U.S. research doctoral degree in a science, engineering, or health (SEH) field."
+    },
+    {
+        "id": "dataset-372",
+        "provider": "North Carolina Department of Health and Human Services",
+        "title": "North Carolina eWIC",
+        "alt_title":[
+            "NCDHHS eWIC"
+        ],
+        "url": "https://www.nutritionnc.com/ewic/index.htm",
+        "description" : "The North Carolina WIC Program has moved from a paper-based method of WIC benefit issuance to an electronic benefit transfer system (eWIC). Instead of paper food instruments, WIC food benefits are issued into an electronic benefit account at the local WIC clinic. Families use their eWIC card and PIN to access their food benefits at the grocery store."
+    },
+    {
+        "id": "dataset-373",
+        "provider": "California Department of Public Health",
+        "title": "California WIC",
+        "alt_title":[
+            "CA WIC"
+        ],
+        "url": "https://www.cdph.ca.gov/Programs/CFH/DWICSN/Pages/WICFoods/CAWICAPL.aspx"
+    },
+    {
+        "id": "dataset-374",
+        "provider": "Indiana State Department of Health",
+        "title": "Idiana WIC",
+        "alt_title":[
+            "IN WIC"
+        ],
+        "url": "https://www.in.gov/isdh/24849.htm"
     }
 ]
