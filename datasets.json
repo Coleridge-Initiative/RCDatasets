@@ -4322,5 +4322,92 @@
         ],
         "url": "https://www.bundesbank.de/en/bundesbank/research/rdsc/research-data/external-position-of-banks-austa-auslandsstatus--618018",
         "description" : "The external position of banks shows the assets and liabilities of banks in Germany and their foreign branches and subsidiaries vis-à-vis non-residents. The microdatabase is based on the individual monthly reports of all German banks dating back to January 2003."
+    },
+    {
+        "id": "dataset-381",
+        "provider": "Deutsche Bundesbank",
+        "title": "Quarterly borrower statistics",
+        "alt_title":[
+            "VJKRE"
+        ],
+        "url": "https://www.bundesbank.de/en/bundesbank/research/rdsc/research-data/quarterly-borrowers-statistics-vjkre-vierteljaehrliche-kreditnehmerstatistik--618014",
+        "description" : "The banks' loans (without securities) to domestic enterprises and households reported in the monthly balance sheet statistics (BISTA) are further broken down by sector in the quarterly borrowers statistics. These statistics provide an insight into the structure of and developments in the lending business with the most important groups of private borrowers. The data have been collected and published on the basis of the Federal Statistical Office's industrial classification system. Data dating back to 1999 are available for research purposes."
+    },
+    {
+        "id": "dataset-382",
+        "provider": "Deutsche Bundesbank",
+        "title": "Panel on Household Finances",
+        "alt_title":[
+            "PHF"
+        ],
+        "url": "https://www.bundesbank.de/en/bundesbank/research/panel-on-household-finances",
+        "description" : "The German Panel on Household Finances (PHF) is a panel survey on household finance and wealth in Germany, covering the balance sheet, pension, income, work life and other demographic characteristics of private households living in Germany. The panel survey is conducted by the Research Centre of the Deutsche Bundesbank."
+    },
+    {
+        "id": "dataset-383",
+        "provider": "Deutsche Bundesbank",
+        "title": "Investment Funds Statistics",
+        "alt_title":[
+            "IFS-Base"
+        ],
+        "url": "https://www.bundesbank.de/en/bundesbank/research/rdsc/research-data/investment-funds-statistics-ifs-base--618058",
+        "description" : "The IFS-Base is the core module of the Deutsche Bundesbank’s Investment Funds Statistics (IFS). Since September 2009 the IFS allows for a detailed overview of the assets and liabilities of German open-end investment funds on a fund-by-fund level."
+    },
+    {
+        "id": "dataset-384",
+        "provider": "Deutsche Bundesbank",
+        "title": "Survey on Adult Financial Literacy in Germany",
+        "alt_title":[
+            "OECD"
+        ],
+        "url": "https://www.bundesbank.de/en/bundesbank/research/rdsc/research-data/oecd-infe-survey-of-adult-financial-literacy-competencies-in-germany-617222",
+        "description" : "The survey collects relevant information about respondents' financial literacy, financial inclusion and socio-demographics. Of particular interest are the financial knowledge, behaviour and attitudes as well as awareness and holding of financial products of adults in Germany. The questionnaire consists of 40 questions and covers e.g. topics such as keeping track of finances, making-ends-meet and longer-term financial planning. Furthermore, numeracy skills within a financial context and basic knowledge of financial concepts (e.g. time-value of money, compound interest or diversification) are tested."
+    },
+    {
+        "id": "dataset-385",
+        "provider": "Deutsche Bundesbank",
+        "title": "Statistics of the banks’ profit and loss accounts",
+        "alt_title":[
+            "GuV"
+        ],
+        "url": "https://www.bundesbank.de/en/bundesbank/research/rdsc/research-data/guv-618032",
+        "description" : "Bank profit and loss statistics provide data on the income and expenditure of MFIs on an annual basis. This involves the evaluation of the profits and losses calculated from the annual accounts which the banks must submit to the Bundesbank pursuant to section 26 of the Banking Act (Kreditwesengesetz). As the annual accounts apply to the whole institution (however not to the group), the income and expenses of foreign branches are also recorded. Research data go back to 1999."
+    },
+    {
+        "id": "dataset-386",
+        "provider": "Deutsche Bundesbank",
+        "title": "Zentralkartei Banken",
+        "alt_title":[
+            "ZentK"
+        ],
+        "url": "https://www.bundesbank.de/en/tasks/topics/selected-master-data-for-mfis-mamfi--749540",
+        "description" : "The Zentralkartei Banken (ZentK) is the database where the master data for the institutes with reporting obligations (MFIs, their foreign branches and subsidiaries as well as the multi-office banks) are administered chronologically and therefore their codification in all surveys of the banking statistics. This key information is used uniformly from all units of the banking statistics."
+    },
+    {
+        "id": "dataset-387",
+        "provider": "Deutsche Bundesbank",
+        "title": "Bank Lending Survey for Germany",
+        "alt_title":[
+            "BLS"
+        ],
+        "url": "https://www.bundesbank.de/en/tasks/monetary-policy/economic-analyses/-/bank-lending-survey-for-germany-618070",
+        "description" : "Since January 2003, the Eurosystem has carried out a quarterly bank lending survey (BLS) to expand its knowledge about the role of lending in the monetary transmission mechanism and thus to obtain additional information for monetary policy analysis. The questionnaire comprises 23 qualitative questions on past and expected future lending policies by participating institutions to the private non-financial sector as well as on credit demand. Ad hoc questions on particularly topical issues may be added if necessary."
+    },
+    {
+        "id": "dataset-388",
+        "provider": "Deutsche Bundesbank",
+        "title": "Centralised Securities Database",
+        "alt_title":[
+            "CSDB"
+        ],
+        "url": "https://www.bundesbank.de/en/bundesbank/research/rdsc/research-data/csdb-769890",
+        "description" : "The “Centralised Securities Database” (CSDB) is a security-by-security reference database that contains data on instruments, issuers and prices for debt securities, equity instruments and investment fund shares issued worldwide. A security-by-security database is a microdatabase that stores statistics at an individual security level. For instance more than 10 million of such securities were covered by the CSDB for the reporting month June 2018 (i.e. reported for 31-05-2018)."
+    },
+    {
+        "id": "dataset-389",
+        "provider": "European Central Bank",
+        "title": "TARGET2",
+        "url": "https://www.ecb.europa.eu/paym/target/target2/html/index.en.html",
+        "description" : "TARGET2 is the real-time gross settlement (RTGS) system owned and operated by the Eurosystem. Central banks and commercial banks can submit payment orders in euro to TARGET2, where they are processed and settled in central bank money, i.e. money held in an account with a central bank."
     }
 ]
