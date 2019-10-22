@@ -4409,5 +4409,89 @@
         "title": "TARGET2",
         "url": "https://www.ecb.europa.eu/paym/target/target2/html/index.en.html",
         "description" : "TARGET2 is the real-time gross settlement (RTGS) system owned and operated by the Eurosystem. Central banks and commercial banks can submit payment orders in euro to TARGET2, where they are processed and settled in central bank money, i.e. money held in an account with a central bank."
+    },
+    {
+        "id": "dataset-390",
+        "provider": "Data.gov",
+        "title": "Chicago Microlending Institute Microloans",
+        "url": "https://catalog.data.gov/dataset/chicago-microlending-institute-cmi-microloans",
+        "description" : "To improve access to capital, the City of Chicago seeded a $2MM revolving loan fund and partnered with Accion to create the Chicago Microlending Institute (CMI). CMI helped train two new local microlenders, Chicago Neighborhood Initiatives (CNI) and Women’s Business Development Corporation (WBDC), to help connect small businesses around the city to affordable access to capital. These microloans vary in size from $500 to $25,000 and the average loan size is around $10,000. This dataset reflects the lender, location, business industry, and borrower demographics for small businesses supported by the City’s revolving loan fund. Certain data elements could not be included on a per-loan basis for privacy reasons but are summarized in the https://data.cityofchicago.org/id/4s8s-adbr dataset."
+    },
+    {
+        "id": "dataset-391",
+        "provider": "Chicago Data Portal",
+        "title": "Small Business Improvement Fund Grant Agreements",
+        "alt_title": [
+            "SBIF"
+        ],
+        "url": "https://data.cityofchicago.org/Community-Economic-Development/Small-Business-Improvement-Fund-SBIF-Grant-Agreeme/jp7n-tgmf",
+        "description" : "Small Business Improvement Fund (SBIF) program grants made since 2001. SBIF uses Tax Increment Financing (TIF) revenues to help owners of commercial and industrial properties within specific TIF districts to repair or remodel their facilities for their own business or on behalf of tenants."
+    },
+    {
+
+        "id": "dataset-392",
+        "provider": "Chicago Data Portal",
+        "title": "Public Health Services - Licensed Substance Abuse Treatment Providers in Chicago, 2011",
+        "url": "https://data.cityofchicago.org/Health-Human-Services/Public-Health-Services-Licensed-Substance-Abuse-Tr/9zqv-3uhs",
+        "description" : "Detailed listing of licensed substance abuse treatment providers, treatment modalities, and populations served in Chicago as of April 2011."
+    },
+    {
+        "id": "dataset-393",
+        "provider": "NYC OpenData",
+        "title": "Selected Facilities and Program Sites",
+        "url": "https://data.cityofnewyork.us/dataset/Selected-Facilities-and-Program-Sites-Text/8jba-a978",
+        "description" : "Data providing the location, type and capacity of public and private community facilities in New York City, including schools, parks, libraries, public safety, day care, foster care, special needs housing, health and mental health facilities and programs. Additional data included to provide location of transportation and waste management facilities."
+    },
+    {
+        "id": "dataset-394",
+        "provider": "NYC OpenData",
+        "title": "Primary Land Use Tax Lot Output",
+        "alt_title":[
+            "PLUTO"
+        ],
+        "url": "https://data.cityofnewyork.us/City-Government/Primary-Land-Use-Tax-Lot-Output-PLUTO-/xuk2-nczf",
+        "description" : "Extensive land use and geographic data at the tax lot level in comma–separated values (CSV) file format. The PLUTO files contain more than seventy fields derived from data maintained by city agencies."
+    },
+    {
+        "id": "dataset-395",
+        "provider": "Open Data DC",
+        "title": "Check Cashing Locations",
+        "url": "https://opendata.dc.gov/datasets/9f137d3a66af4a1fb76369322fadc8dc_1",
+        "description" : "CheckCasher locations without payday lending authority. The dataset contains locations and attributes of checkcashers, created as part of the DC Geographic Information System (DC GIS) for the D.C. Office of the Chief Technology Officer (OCTO) and participating D.C. government agencies. A database provided by the Department of Insurance, Securities, and Banking DISB) identified CheckCasher locations. METADATA CONTENT IS IN PROCESS OF VALIDATION AND SUBJECT TO CHANGE."
+    },
+    {
+        "id": "dataset-396",
+        "provider": "Open Data DC",
+        "title": "Human Services Locations",
+        "url": "https://opendata.dc.gov/datasets/human-service-locations/data",
+        "description" : "Human Services Facilities - DC Answers Please Program. The dataset contains locations and attributes of Human Services Facilities, created as part of the DC Geographic Information System (DC GIS) for the D.C. Office of the Chief Technology Officer (OCTO) and participating D.C. government agencies. A database provided by the DC Department of Human Services (DHS) identified Human Services Facilities and DC GIS staff geo-processed the data. All DC GIS data is stored and exported in Maryland State Plane coordinates NAD 83 meters."
+    },
+    {
+        "id": "dataset-397",
+        "provider": "Open Data DC",
+        "title": "Homeless Shelter Locations",
+        "url": "https://opendata.dc.gov/datasets/87c5e68942304363a4578b30853f385d_25",
+        "description" : "The dataset contains locations and attributes of Homeless Shelters, created as part of the DC Geographic Information System (DC GIS) for the D.C. Office of the Chief Technology Officer (OCTO) and participating D.C. government agencies. A database provided by the Department of Human Services identified Homeless Shelter locations. METADATA CONTENT IS IN PROCESS OF VALIDATION AND SUBJECT TO CHANGE."
+    },
+    {
+        "id": "dataset-398",
+        "provider": "Open Data DC",
+        "title": "Homeless Service Facilities",
+        "url": "https://opendata.dc.gov/datasets/47be87a68e7a4376a3bdbe15d85de398_6",
+        "description" : "Homeless Facility and Service locations. The dataset contains locations and attributes of Homeless Facility and Service locations, created as part of the DC Geographic Information System (DC GIS) for the D.C. Office of the Chief Technology Officer (OCTO) and participating D.C. government agencies. A database provided by Answers Please and The InterFaith Conference of Metropolitan Washington identified emergency food, shelter and health care locations. METADATA CONTENT IS IN PROCESS OF VALIDATION AND SUBJECT TO CHANGE."
+    },
+    {
+        "id": "dataset-399",
+        "provider": "Open Data DC",
+        "title": "Public Schools",
+        "url": "https://opendata.dc.gov/datasets/4ac321b2d409438ebd76a6569ad94034_5",
+        "description" : "DC public schools. This dataset contains points representing public schools. It was created for the D.C. public schools and later added to the DC Geographic Information System (DC GIS) for the D.C. Office of the Chief Technology Officer (OCTO). This dataset includes all identifiable DCPS public elementary, middle, education campus's, senior high, and special education schools as well as learning centers. Does not include private or charter schools. School locations were identified from a database from the DC Public Schools, Office of Facilities Management. Current for the 2018-2019 school year. METADATA CONTENT IS IN PROCESS OF VALIDATION AND SUBJECT TO CHANGE."
+    },
+    {
+        "id": "dataset-400",
+        "provider": "Open Data DC",
+        "title": "Charter Schools",
+        "url": "https://opendata.dc.gov/datasets/a3832935b1d644e48c887e6ec5a65fcd_1",
+        "description" : "Charter Schools. This layer contains points representing locations for charter schools, created as part of the DC Geographic Information System (DC GIS) for the D.C. Office of the Chief Technology Officer (OCTO) and participating D.C. government agencies. School locations were identified from public records and heads-up digitized from the 2010 orthophotographs. METADATA CONTENT IS IN PROCESS OF VALIDATION AND SUBJECT TO CHANGE."
     }
 ]
