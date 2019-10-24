@@ -4493,5 +4493,94 @@
         "title": "Charter Schools",
         "url": "https://opendata.dc.gov/datasets/a3832935b1d644e48c887e6ec5a65fcd_1",
         "description" : "Charter Schools. This layer contains points representing locations for charter schools, created as part of the DC Geographic Information System (DC GIS) for the D.C. Office of the Chief Technology Officer (OCTO) and participating D.C. government agencies. School locations were identified from public records and heads-up digitized from the 2010 orthophotographs. METADATA CONTENT IS IN PROCESS OF VALIDATION AND SUBJECT TO CHANGE."
+    },
+    {
+        "id": "dataset-401",
+        "provider": "Chicago Data Portal",
+        "title": "Affordable Rental Housing Developments",
+        "url": "https://data.cityofchicago.org/Community-Economic-Development/Affordable-Rental-Housing-Developments/s6ha-ppgi",
+        "description" : "The rental housing developments listed below are among the thousands of affordable units that are supported by City of Chicago programs to maintain affordability in local neighborhoods. The list is updated periodically when construction is completed for new projects or when the compliance period for older projects expire, typically after 30 years. The list is provided as a courtesy to the public. It does not include every City-assisted affordable housing unit that may be available for rent, nor does it include the hundreds of thousands of naturally occurring affordable housing units located throughout Chicago without City subsidies. For information on rents, income requirements and availability for the projects listed, contact each property directly. For information on other affordable rental properties in Chicago and Illinois, call (877) 428-8844, or visit"
+    },
+    {
+        "id": "dataset-402",
+        "provider": "NYC OpenData",
+        "title": "2014-2015 DOE High School Directory",
+        "url": "https://nycopendata.socrata.com/Education/2014-2015-DOE-High-School-Directory/n3p6-zve2",
+        "description" : "Directory of NYC High Schools"
+    },
+    {
+        "id": "dataset-403",
+        "provider": "NYC OpenData",
+        "title": "Directory of NYCHA Community Facilities",
+        "url": "https://nycopendata.socrata.com/Social-Services/Directory-of-NYCHA-Community-Facilities/crns-fw6u",
+        "description" : "Community Facilities (Centers) that are on NYCHA property with programs either sponsored by NYCHA or by a non-NYCHA entity. All programs are open to the public. The file contains development name, address, city, state, zipcode, telephone #, sponsoring organization and contact person."
+    },
+    {
+        "id": "dataset-404",
+        "provider": "State of Illinois Data Portal",
+        "title": "Illinois Department of Human Services Office Locator",
+        "alt_title":[
+            "IDHS Office Locator"
+        ],
+        "url": "https://data.illinois.gov/dataset/247idhs_office_locator",
+        "description" : "Listing of Department of Human Services and Service Provider Office Locations"
+    },
+    {
+        "id": "dataset-405",
+        "provider": "Cook County Government Open Data",
+        "title": "Cook County Recorder - Foreclosures, Mortgages, and Quit Claim Deeds",
+        "url": "https://datacatalog.cookcountyil.gov/Property-Taxation/Cook-County-Recorder-Foreclosures-Mortgages-and-Qu/4f2q-h3b7",
+        "description" : "Foreclosures, Mortgages, and Quit Claim Deeds recorded with the Cook County Recorder of Deeds. Data covers 2013 through March 27, 2015. This dataset will be updated Quarterly. For more information see http://cookrecorder.com/ ."
+    },
+    {
+        "id": "dataset-406",
+        "provider": "Chicago Data Portal",
+        "title": "Family and Support Services Delegate Agencies",
+        "url": "https://data.cityofchicago.org/Health-Human-Services/Family-and-Support-Services-Delegate-Agencies/jmw7-ijg5",
+        "description" : "A list of the delegate agencies with which the Department of Family and Support Services has contracted to provide services to residents of Chicago. For more information on the department and its services, please see http://www.cityofchicago.org/city/en/depts/fss.html."
+    },
+    {
+        "id": "dataset-407",
+        "provider": "Chicago Data Portal",
+        "title": "Substance Abuse Treatment Facilities in Illinois",
+        "url": "https://findtreatment.samhsa.gov/locator?sAddr=&submit=Go",
+        "description" : "Location of Substance Abuse treatment facilities in the state of Illinois. Locations are published by the Substance Abuse and Mental Health Services Administration (SAMHSA) through their Behavioral Health Treatment Services Locator. The Behavioral Health Treatment Services Locator is an online source of information for persons seeking treatment facilities in the United States or U.S. Territories for substance abuse/addiction and/or mental health problems."
+    },
+    {
+        "id": "dataset-408",
+        "provider": "U.S Census Bureau",
+        "title": "Census ZIP Code Tabulation Area to Census Tract Relationship File",
+        "alt_title":[
+            "ZCTA"
+        ],
+        "url": "https://www.census.gov/geographies/reference-files/time-series/geo/relationship-files.html#par_textimage_19960473",
+        "description" : "The 2010 ZIP Code Tabulation Area (ZCTA) to Census Tract Relationship file provides a simple crosswalk between the 2010 ZCTAs and 2010 Census tracts. From this file, data users may determine which ZCTAs exist within the other geographies and vice versa. "
+    },
+    {
+        "id": "dataset-409",
+        "provider": "NYC Department of Planning",
+        "title": "New York City Census Tract to Neighborhood Tabulation Area Equivalency",
+        "url": "https://www.census.gov/geographies/reference-files/time-series/geo/relationship-files.html#par_textimage_19960473",
+        "description" : "Neighborhood Tabulation Areas (NTAs) were created to project populations at a small area level, from 2000 to 2030 for PlaNYC, the long-term sustainability plan for New York City. Since population size affects the error associated with population projections, these geographic units needed to have a minimum population, which were determined to be 15,000. This criterion resulted in combinations of neighborhoods that probably would not occur if one were solely designating boundaries of historical neighborhoods. Moreover, the neighborhood names associated with the neighborhood tabulation areas are not intended to be definitive. Another feature of the sustainability plan, was the creation of projections for Public Use Microdata Areas (PUMAs), which are approximations of New York City's Community Districts developed for use with the Census Bureau's Public Use Microdata Samples (PUMS). In order to make the boundaries consistent with PUMAs, NTAs were created using whole census tracts, from the 2010 census, within PUMAs. Since NTAs were not permitted to cross PUMA boundaries, this further restricted our ability to identify what may be thought of as historical neighborhood boundaries. Thus, users need to be cognizant of the reason why NTAs were created and the demographic/geographic constraints inherent in how they were configured. Despite these limitations, NTAs are a valuable summary level for use with both the 2010 Census and the American Community Survey (ACS). Regarding the decennial census, these geographic areas offer a good compromise between the very detailed data for census tracts (2,168) and the broad strokes provided by community districts (59). For the ACS, NTAs offer a statistically reliable alternative to the high sampling error that renders data for most individual census tracts unusable. Note: ""park-cemetery-etc"" NTAs, while not contiguous, only represent five unique NTAs; one in each borough. However, each of these five NTAs may appear more than once in this table, as they may fall in more than one PUMA."
+    },
+    {
+        "id": "dataset-410",
+        "provider": "U.S Census Bureau",
+        "title": "Longitudinal Employer-Household Dynamics Origin-Destination Employment Statistics",
+        "alt_title":[
+            "LODES"
+        ],
+        "url": "https://lehd.ces.census.gov/data/lodes/LODES7/",
+        "description" : "LEHD Origin-Destination Employment Statistics (LODES) used by OnTheMap are available for download below. Version 7 of LODES was enumerated by 2010 census blocks. Previous versions of LODES were enumerated with 2000 census blocks. Data files are state-based and organized into three types: Origin-Destination (OD), Residence Area Characteristics (RAC), and Workplace Area Characteristics (WAC), all at census block geographic detail. Data is available for most states for the years 2002-2014."
+    },
+    {
+        "id": "dataset-411",
+        "provider": "",
+        "title": "United States Zipcode to County Relationship File",
+        "alt_title":[
+            "HUD-USPS"
+        ],
+        "url": "https://www.huduser.gov/portal/datasets/usps_crosswalk.html#data",
+        "description" : "Cross walk of United States Postal Service (USPS) Zip codes to their equivalent Census defined counties as of Q1 2013. Original crosswalk is provided by the U.S. Department of Housing and Urban Development (HUD) and has been joined with US Census Bureau 2010 FIPS Codes for Counties and County Equivalent Entities to provide county names."
     }
 ]
