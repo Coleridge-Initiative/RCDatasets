@@ -4597,7 +4597,7 @@
         "id": "dataset-413",
         "provider": "New York State Department of Labor",
         "title": "New York State Short-Term Occupational Employment Projections",
-        "url": "https://www.census.gov/eos/www/naics/",
+        "url": "https://www.labor.ny.gov/stats/lsproj.shtm",
         "description" : "Short-term industry and occupational estimates and projections are presented for New York State and its ten labor market regions. Projections are used for assessing short-range trends in occupational employment and resulting occupational opportunities. The projections process consists of four principal phases:"
     },
     {
@@ -4652,7 +4652,7 @@
         "id": "dataset-420",
         "provider": "NYC OpenData",
         "title": "NYPD Borough and Precinct Crime Statistics",
-        "url": "https://data.cityofnewyork.us/browse?q=NYPD+Arrest",
+        "url": "https://www1.nyc.gov/site/nypd/stats/crime-statistics/borough-and-precinct-crime-stats.page",
         "description" : "The NYPD provides statistics that are categorized by police borough and precinct. These reports are updated weekly and can be viewed below. The department's advanced digital version can be viewed at CompStat 2.0."
     },
     {
@@ -4674,7 +4674,7 @@
         "id": "dataset-423",
         "provider": "Chicago Police Department",
         "title": "Chicago Police Department Adult Arrestees",
-        "url": "http://publicsearch1.chicagopolice.org/",
+        "url": "http://publicsearch1.chicagopolice.org/",   
         "description":"This is Chicago Police Department official website for searching arrest records. This site is made available for the use and benefit of law enforcement partners, news media, and members of the public to search Chicago Police public arrest records including Name, Mugshot, Age, Address, Central Booking Number, Charges, Arrest Date/Time, Arrest Location, Date Time Released from Chicago Police Facility, Bond Type/Amount/Date, and the geographic police area/district/beat."
     }
 ]
