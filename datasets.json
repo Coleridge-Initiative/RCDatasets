@@ -4561,7 +4561,7 @@
         "provider": "NYC Department of Planning",
         "title": "New York City Census Tract to Neighborhood Tabulation Area Equivalency",
         "url": "https://www.census.gov/geographies/reference-files/time-series/geo/relationship-files.html#par_textimage_19960473",
-        "description" : "Neighborhood Tabulation Areas (NTAs) were created to project populations at a small area level, from 2000 to 2030 for PlaNYC, the long-term sustainability plan for New York City. Since population size affects the error associated with population projections, these geographic units needed to have a minimum population, which were determined to be 15,000. This criterion resulted in combinations of neighborhoods that probably would not occur if one were solely designating boundaries of historical neighborhoods. Moreover, the neighborhood names associated with the neighborhood tabulation areas are not intended to be definitive. Another feature of the sustainability plan, was the creation of projections for Public Use Microdata Areas (PUMAs), which are approximations of New York City's Community Districts developed for use with the Census Bureau's Public Use Microdata Samples (PUMS). In order to make the boundaries consistent with PUMAs, NTAs were created using whole census tracts, from the 2010 census, within PUMAs. Since NTAs were not permitted to cross PUMA boundaries, this further restricted our ability to identify what may be thought of as historical neighborhood boundaries. Thus, users need to be cognizant of the reason why NTAs were created and the demographic/geographic constraints inherent in how they were configured. Despite these limitations, NTAs are a valuable summary level for use with both the 2010 Census and the American Community Survey (ACS). Regarding the decennial census, these geographic areas offer a good compromise between the very detailed data for census tracts (2,168) and the broad strokes provided by community districts (59). For the ACS, NTAs offer a statistically reliable alternative to the high sampling error that renders data for most individual census tracts unusable. Note: ""park-cemetery-etc"" NTAs, while not contiguous, only represent five unique NTAs; one in each borough. However, each of these five NTAs may appear more than once in this table, as they may fall in more than one PUMA."
+        "description" : "Neighborhood Tabulation Areas (NTAs) were created to project populations at a small area level, from 2000 to 2030 for PlaNYC, the long-term sustainability plan for New York City. Since population size affects the error associated with population projections, these geographic units needed to have a minimum population, which were determined to be 15,000. This criterion resulted in combinations of neighborhoods that probably would not occur if one were solely designating boundaries of historical neighborhoods. Moreover, the neighborhood names associated with the neighborhood tabulation areas are not intended to be definitive. Another feature of the sustainability plan, was the creation of projections for Public Use Microdata Areas (PUMAs), which are approximations of New York City's Community Districts developed for use with the Census Bureau's Public Use Microdata Samples (PUMS). In order to make the boundaries consistent with PUMAs, NTAs were created using whole census tracts, from the 2010 census, within PUMAs. Since NTAs were not permitted to cross PUMA boundaries, this further restricted our ability to identify what may be thought of as historical neighborhood boundaries. Thus, users need to be cognizant of the reason why NTAs were created and the demographic/geographic constraints inherent in how they were configured. Despite these limitations, NTAs are a valuable summary level for use with both the 2010 Census and the American Community Survey (ACS). Regarding the decennial census, these geographic areas offer a good compromise between the very detailed data for census tracts (2,168) and the broad strokes provided by community districts (59). For the ACS, NTAs offer a statistically reliable alternative to the high sampling error that renders data for most individual census tracts unusable. Note: park-cemetery-etc NTAs, while not contiguous, only represent five unique NTAs; one in each borough. However, each of these five NTAs may appear more than once in this table, as they may fall in more than one PUMA."
     },
     {
         "id": "dataset-410",
@@ -4582,5 +4582,99 @@
         ],
         "url": "https://www.huduser.gov/portal/datasets/usps_crosswalk.html#data",
         "description" : "Cross walk of United States Postal Service (USPS) Zip codes to their equivalent Census defined counties as of Q1 2013. Original crosswalk is provided by the U.S. Department of Housing and Urban Development (HUD) and has been joined with US Census Bureau 2010 FIPS Codes for Counties and County Equivalent Entities to provide county names."
+    },
+    { 
+        "id": "dataset-412",
+        "provider": "U.S Census Bureau",
+        "title": "North American Industry Classification System Definitions",
+        "alt_title": [
+            "NAICS"
+        ],
+        "url": "https://www.census.gov/eos/www/naics/",
+        "description" : "The North American Industry Classification System (NAICS) is the standard used by Federal statistical agencies in classifying business establishments for the purpose of collecting, analyzing, and publishing statistical data related to the U.S. business economy."
+    },
+    {
+        "id": "dataset-413",
+        "provider": "New York State Department of Labor",
+        "title": "New York State Short-Term Occupational Employment Projections",
+        "url": "https://www.labor.ny.gov/stats/lsproj.shtm",
+        "description" : "Short-term industry and occupational estimates and projections are presented for New York State and its ten labor market regions. Projections are used for assessing short-range trends in occupational employment and resulting occupational opportunities. The projections process consists of four principal phases:"
+    },
+    {
+        "id": "dataset-414",
+        "provider": "Illinois Department of Commerce & Economic Opportunity",
+        "title": "Illinois Worker Adjustment and Retraining Notification Notices of Layoffs and Closures",
+        "alt_title":[
+            "WARN"
+        ],
+        "url": "https://www.illinoisworknet.com/LayoffRecovery/Pages/ArchivedWARNReports.aspx",
+        "description" : "A WARN layoff is a plant closure or mass layoff. Under state law, employers must notify the state when they plan to lay off workers. This law is known as the WARN Act (Illinois Worker Adjustment and Retraining Notification Act). This dataset was generated by ADRF participants who downloaded PDF WARN reports from the state website at https://www.illinois.gov/dceo/WorkforceDevelopment/warn/Pages/default.aspx, extracted their information to a spreadsheet and used SAS to realign the data into columns."
+    },
+    {
+        "id": "dataset-415",
+        "provider": "Mapping Police Violence",
+        "title": "Mapping Police Violence Data",
+        "url": "https://mappingpoliceviolence.org/2015",
+        "description" : "Data compiled about fatal police shootings in the United States from FatalEncounters.org, the U.S. Police Shootings Database and Killed by Police.net. The data are presented and available for download from mappingpoliceviolence.org. Population data from the US Census Bureau American Community Survey is also included in report tables."
+    },
+    {
+        "id": "dataset-416",
+        "provider": "City of Kansas City",
+        "title": "Kansas City Missouri Business Licenses",
+        "url": "http://city.kcmo.org/kc/BusinessLicenseSearch/",
+        "description" : "Data for persons or businesses with a current business license with the City of Kansas City, Missouri. Includes business licenses from 2013-2018"
+    },
+    {
+        "id": "dataset-417",
+        "provider": "State of Illinois Data Portal",
+        "title": "Illinois Department of Labor Illinois Minimum Wage",
+        "alt_title":[
+            "IDOL Minimum Wage"
+        ],
+        "url": "https://data.illinois.gov/dataset/307idol_illinois_minimum_wage/resource/a288abda-51e7-44bb-8066-361bb5f50ab0",
+        "description" : "Illinois state minimum wage hourly rates for workers 18 years of age and older from 1972 to 2014."
+    },
+    {
+        "id": "dataset-418",
+        "provider": "Chicago Data Portal",
+        "title": "City of Chicago Crimes",
+        "url": "https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2",
+        "description" : "This dataset reflects reported incidents of crime (with the exception of murders where data exists for each victim) that occurred in the City of Chicago from 2001 to present, minus the most recent seven days. Data is extracted from the Chicago Police Department's CLEAR (Citizen Law Enforcement Analysis and Reporting) system. In order to protect the privacy of crime victims, addresses are shown at the block level only and specific locations are not identified. Should you have questions about this dataset, you may contact the Research & Development Division of the Chicago Police Department at PSITAdministration@ChicagoPolice.org."
+    },
+    {
+        "id": "dataset-419",
+        "provider": "NYC OpenData",
+        "title": "NYPD Arrest Data",
+        "url": "https://data.cityofnewyork.us/browse?q=NYPD+Arrest",
+        "description" : "Data from NYPD arrest reports. Records include: an arrest ID obfuscated by a confidential key; date of arrest; arrest NYS law code; description of law code; level of offense; person ID modified by a confidential key; age, sex, race of arrestee; NYC borough of Arrestee residence; precinct of arrestee residence; coordinates of arrest location generalized to nearest street segment; census tract for arrest incident"
+    },
+    {
+        "id": "dataset-420",
+        "provider": "NYC OpenData",
+        "title": "NYPD Borough and Precinct Crime Statistics",
+        "url": "https://www1.nyc.gov/site/nypd/stats/crime-statistics/borough-and-precinct-crime-stats.page",
+        "description" : "The NYPD provides statistics that are categorized by police borough and precinct. These reports are updated weekly and can be viewed below. The department's advanced digital version can be viewed at CompStat 2.0."
+    },
+    {
+        "id": "dataset-421",
+        "provider": "MECKNC.GOV",
+        "title": "Mecklenburg County Criminal Justice Services Data",
+        "url": "https://www.mecknc.gov/CriminalJusticeServices/Pages/Reports.aspx"
+    },
+    {
+        "id": "dataset-422",
+        "provider": "North Carolina Judicial Branch",
+        "title": "North Carolina Administrative Office of the Courts Charge Codes",
+        "alt_title":[
+            "AOC Charge Codes"
+        ],
+        "url": "https://www.nccourts.gov/documents/publications/nc-courts-offense-codes-and-classes"
+    },
+    {
+        "id": "dataset-423",
+        "provider": "Chicago Police Department",
+        "title": "Chicago Police Department Adult Arrestees",
+        "url": "http://publicsearch1.chicagopolice.org/",   
+        "description":"This is Chicago Police Department official website for searching arrest records. This site is made available for the use and benefit of law enforcement partners, news media, and members of the public to search Chicago Police public arrest records including Name, Mugshot, Age, Address, Central Booking Number, Charges, Arrest Date/Time, Arrest Location, Date Time Released from Chicago Police Facility, Bond Type/Amount/Date, and the geographic police area/district/beat."
     }
 ]
