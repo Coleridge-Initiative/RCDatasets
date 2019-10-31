@@ -4225,7 +4225,8 @@
     "provider": "National Science Foundation",
     "title":  "Survey of Earned Doctorates",
     "alt_title": [
-        "SED"
+        "SED",
+        "SESTAT"
     ],
     "url": "https://sedsurvey.org/DataUsers/DataProducts",
     "description": "The Survey of Earned Doctorates (SED) gathers information annually from approximately 50,000 new research doctorate graduates from U.S. universities about their educational histories, funding sources, and post-doctoral plans."
@@ -4236,7 +4237,8 @@
     "provider": "National Science Foundation",
     "title":  "Survey of Doctorate Recipients",
     "alt_title": [
-        "SDR"
+        "SDR",
+        "SESTAT"
     ],
     "url": "https://www.nsf.gov/statistics/srvydoctoratework/",
     "description": "The Survey of Doctorate Recipients (SDR) provides demographic, education, and career history information from individuals with a U.S. research doctoral degree in a science, engineering, or health (SEH) field."
