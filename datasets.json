@@ -612,7 +612,8 @@
         "provider": "Bureau of Labor Statistics",
         "title": "Consumer Price Index",
         "alt_title": [
-            "HEI"
+            "CPI",
+            "BLS CPI"
         ],
         "url": "https://www.bls.gov/cpi/",
         "description": "The Consumer Price Index (CPI) is a measure of the average change over time in the prices paid by urban consumers for a market basket of consumer goods and services."
@@ -4224,7 +4225,8 @@
     "provider": "National Science Foundation",
     "title":  "Survey of Earned Doctorates",
     "alt_title": [
-        "SED"
+        "SED",
+        "SESTAT"
     ],
     "url": "https://sedsurvey.org/DataUsers/DataProducts",
     "description": "The Survey of Earned Doctorates (SED) gathers information annually from approximately 50,000 new research doctorate graduates from U.S. universities about their educational histories, funding sources, and post-doctoral plans."
@@ -4676,5 +4678,15 @@
         "title": "Chicago Police Department Adult Arrestees",
         "url": "http://publicsearch1.chicagopolice.org/",   
         "description":"This is Chicago Police Department official website for searching arrest records. This site is made available for the use and benefit of law enforcement partners, news media, and members of the public to search Chicago Police public arrest records including Name, Mugshot, Age, Address, Central Booking Number, Charges, Arrest Date/Time, Arrest Location, Date Time Released from Chicago Police Facility, Bond Type/Amount/Date, and the geographic police area/district/beat."
+    },
+    {
+        "id": "dataset-424",
+        "provider": "NYC Open Data",
+        "title": "New York City Human Resources Administration case files",
+        "alt_title":[
+            "HRA",
+            "HRA files"
+        ],
+        "url": "https://data.cityofnewyork.us/browse?Dataset-Information_Agency=Human+Resources+Administration+%28HRA%29"
     }
 ]
