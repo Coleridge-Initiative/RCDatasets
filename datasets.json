@@ -612,7 +612,8 @@
         "provider": "Bureau of Labor Statistics",
         "title": "Consumer Price Index",
         "alt_title": [
-            "HEI"
+            "CPI",
+            "BLS CPI"
         ],
         "url": "https://www.bls.gov/cpi/",
         "description": "The Consumer Price Index (CPI) is a measure of the average change over time in the prices paid by urban consumers for a market basket of consumer goods and services."
@@ -2487,7 +2488,7 @@
         "Illinois UI",
         "Illinois Unemployment Insurance"
     ],
-    "url": "https://www2.illinois.gov/ides/Pages/default.aspx",
+    "url": "https://www2.illinois.gov/ides/lmi/Pages/Data_Statistics.aspx",
     "description": "UI-related data on employment and unemployment."
     },
     {
@@ -3919,6 +3920,60 @@
         "description": "The National Youth in Transition Database (NYTD) collects information on youth in foster care, including sex, race, ethnicity, date of birth, and foster care status. It also collects information about the outcomes of those youth who have aged out of foster care."
     },
     {
+        "id" : "dataset-341",
+        "provider" : "Bureau of Labor Statistics",
+        "title" : "Business Employment Dynamics Data",
+        "alt_title" : [
+            "BED",
+            "BED Data"
+        ],
+        "url" : "https://www.bls.gov/bdm/#data",
+        "description" : "Business Employment Dynamics is a set of statistics generated from the Quarterly Census of Employment and Wages program. These quarterly data series consist of gross job gains and gross job losses statistics from 1992 forward. These data help to provide a picture of the dynamic state of the labor market."
+    },
+    {
+        "id" : "dataset-342",
+        "provider" : "Bureau of Labor Statistics",
+        "title" : "Job Openings and Labor Turnover Survey Data",
+        "alt_title" : [
+            "JOLTS",
+            "JOLTS Data"
+        ],
+        "url" : "https://www.bls.gov/jlt/",
+        "description" : "The Job Openings and Labor Turnover Survey (JOLTS) program produces data on job openings, hires, and separations."
+    },
+    {
+        "id" : "dataset-343",
+        "provider" : "Employment and Training Administration",
+        "title" : "Workforce Investment Act Standardized Record Data",
+        "alt_title" : [
+            "WIASRD",
+            "WIASRD Data"
+        ],
+        "url" : "https://www.federalregister.gov/documents/2002/01/11/02-667/workforce-investment-act-wia-standardized-record-data-wiasrd-quarterly-summary-report-and-annual"
+    },
+    {
+        "id" : "dataset-344",
+        "provider" : "United States Census Bureau",
+        "title" : "Business Dynamics Statistics Data",
+        "alt_title" : [
+            "BDS",
+            "BDS Data"
+        ],
+        "url" : "https://www.census.gov/programs-surveys/bds/data.html",
+        "description" : "BDS provides annual measures of business dynamics (such as job creation and destruction, establishment births and deaths, and firm startups and shutdowns) for the economy and aggregated by establishment and firm characteristics."
+    },
+    {
+        "id" : "dataset-345",
+        "provider" : "Bureau of Labor Statistics",
+        "title" : "Current Employment Statistics Survey Data",
+        "alt_title" : [
+            "CES",
+            "CES Data"
+        ],
+        "url" : "https://www.bls.gov/ces/home.htm#data",
+        "description" : "The Current Employment Statistics (CES) program produces detailed industry estimates of nonfarm employment, hours, and earnings of workers on payrolls."
+    },
+    {
     "id": "dataset-346",
     "title": "Women, Infants, and Children",
     "provider": "U.S. Department of Agriculture",
@@ -3967,6 +4022,54 @@
     "title":  "CalWORKs Quarterly Report",
     "url": "https://www.cdss.ca.gov/inforesources/Research-and-Data/CalWORKs-Reports",
     "description": "The Quarterly CalWORKs Report is an information tool to monitor the progress of the CalWORKs Program and provide periodic snapshots of the data for some key program components."
+    },
+    {
+        "id" : "dataset-351",
+        "provider" : "Illinois State Police",
+        "title" : "Illinois State Police Data",
+        "alt_title" : [
+            "ISP",
+            "ISP Data"
+        ],
+        "url" : "https://www.isp.state.il.us/foia/access.cfm"
+    },
+    {
+        "id" : "dataset-352",
+        "provider" : "Chicago Public Schools",
+        "title" : "Chicago Public Schools Data",
+        "alt_title" : [
+            "CPS",
+            "CPS Data"
+        ],
+        "url" : "https://cps.edu/SchoolData/Pages/SchoolData.aspx"
+    },
+    {
+        "id" : "dataset-353",
+        "provider" : "Bureau of Justice Statistics",
+        "title" : "Survey of Inmates in Federal Correctional Facilities Data",
+        "alt_title" : [
+            "SIFCF",
+            "SIFCF Data"
+        ],
+        "url" : "https://www.bjs.gov/index.cfm?ty=dcdetail&iid=273",
+        "description" : "The survey is conducted concurrently with the SISCF and includes the same data items: individual characteristics of prison inmates, current offenses and sentences, characteristics of victims, criminal histories, family background, gun possession and use, prior drug and alcohol use and treatment, medical and mental health history and treatment, educational programs and other services provided while in prison, as well as other personal characteristics. "
+    },
+    {
+        "id" : "dataset-354",
+        "provider" : "Pennsylvania Department of Human Services",
+        "title" : "Pennsylvania Department of Huma Services Integrated Data Warehouse",
+        "alt_title" : [
+            "PDHS",
+            "PDHS Data",
+            "PDHS Intergrated Data Warehouse"
+        ],
+        "url" : "http://www.dhs.pa.gov/learnaboutdhs/data-dashboard/index.htm"
+    },
+    {
+        "id" : "dataset-355",
+        "provider" : "Allegheny County Analytics",
+        "title" : "Allegheny County Jail Data",
+        "url" : "https://www.alleghenycountyanalytics.us/index.php/2018/11/29/allegheny-county-jail-population-management-dashboards/"
     },
     {
     "id": "dataset-356",
@@ -4101,5 +4204,581 @@
     ],
     "url": "https://www.nsf.gov/statistics/srvyherd/",
     "description": "he survey collects information on R&D expenditures by field of research and source of funds and also gathers information on types of research, expenses, and headcounts of R&D personnel. "
+=======
+        "id": "dataset-364",
+        "provider": "Illinois Department of Corrections",
+        "title": "Illinois Department of Corrections Inmate Admissions",
+        "alt_title":[
+            "IL DOC",
+            "IL DOC Inmate Admissions"
+        ],
+        "url": "https://www2.illinois.gov/idoc/reportsandstatistics/Pages/Prison-Population-Data-Sets.aspx",
+        "description": "Detailed transactional data of each time a person was admitted to an Illinois Department of Corrections (DOC) facility from 1990 to 2015. Variables include demographic, charges, sentencing, conduct, security level, health and mental health status, gang affiliation. Data are collected using correctional facility data and court records. See data dictionary documentation for detailed description of all fields."
+    },
+    {
+        "id": "dataset-365",
+        "provider": "Illinois Department of Corrections",
+        "title": "Illinois Department of Corrections Inmate Exits",
+        "alt_title":[
+            "IL DOC",
+            "IL DOC Inmate Exits"
+        ],
+        "url": "https://www2.illinois.gov/idoc/reportsandstatistics/Pages/Prison-Population-Data-Sets.aspx",
+        "description" : "Detailed transactional data of each time an inmate was released from an Illinois Department of Corrections (DOC) facility from 1990 to 2015. Variables include demographic, residence, charges, sentencing, conduct, security level, health and mental health status, gang affiliation. Data are collected using correctional facility data and court records. See data dictionary documentation for detailed description of all fields."
+    },
+    {
+        "id": "dataset-366",
+        "provider": "U.S. Department of Housing and Urban Development",
+        "title": "US Department of Housing and Urban Development Program Microdata - Individuals: Illinois",
+        "alt_title":[
+            "US HUD",
+            "US HUD Program Microdata: Individuals"
+        ],
+        "url": "https://www.huduser.gov/portal/pdrdatas_landing.html#dataset-title",
+        "description" : "Detailed transactional data consisting of tenant-level data for individuals in the US Department of Housing and Urban Development's (HUD) largest rental assistance programs: the Housing Choice Voucher Program, Public Housing, Project-based Section 8, and the Section 202/811 Programs. The dataset includes information on individuals aggregated at the Census block level, including rent, years in program, and income; and individual race and gender. Data originate from two sources within HUD: The Public and Indian Housing (PIH) Information Center and Tenant Rental Assistance Certification System (TRACS)."
+    },
+    {
+        "id": "dataset-367",
+        "provider": "U.S. Department of Housing and Urban Development",
+        "title": "US Department of Housing and Urban Development Program Microdata - Households: Illinois",
+        "alt_title":[
+            "US HUD",
+            "US HUD Program Microdata: Households"
+        ],
+        "url": "https://www.huduser.gov/portal/pdrdatas_landing.html#dataset-title",
+        "description" : "Detailed transactional data consisting of tenant-level data for households in the US Department of Housing and Urban Development's (HUD) largest rental assistance programs: the Housing Choice Voucher Program, Public Housing, Project-based Section 8, and the Section 202/811 Programs. The dataset includes information on households aggregated at the Census block level, including household family type, rent, years in program, and income. Data originate from two sources within HUD: The Public and Indian Housing (PIH) Information Center and Tenant Rental Assistance Certification System (TRACS)."
+    },
+    {
+        "id": "dataset-368",
+        "provider": "Illinois Correctional Industries",
+        "title": "Illinois Correctional Industries training dataset",
+        "alt_title":[
+            "ICI",
+            "ICI training dataset"
+        ],
+        "url": "http://www.icicatalog.illinois.gov/AnnualReport.aspx",
+        "description" : "This data contains the individuals who participated in an Illinois Correctional Industries vocational training program for forward years 2011 - 2016. The dataset includes a 'Shop Function Code' designating the program, start and end dates of the program, and the result of that training program for the inmate in question. These data are tracked by hand by ICI's payroll unit."
+    },
+    {
+        "id": "dataset-369",
+        "provider": "Illinois Department of Corrections",
+        "title": "Illinois Department of Corrections Parolee address data",
+        "alt_title":[
+            "IL DOC",
+            "IL DOC Parolee address data"
+        ],
+        "url": "https://www2.illinois.gov/idoc/reportsandstatistics/Pages/Parole-Population-Data-Sets.aspx",
+        "description" : "Location information for persons active in the Illinois parole system from 2009 to 2015. A given person could have multiple rows in this table, one per year they were on parole. Each row contains a latitude/longitude coordinate based on the parolee’s address on file (redacted from this file), as well as additional information on original and derived county, city, and zip code and metadata that indicates who confident we are that the point corresponds to the address. Because the parole system doesn’t include historical data, parolees who exited the system before 2009 won’t be represented in this data set."
+    }
+    ,
+    {
+    "id": "dataset-370",
+    "provider": "National Science Foundation",
+    "title":  "Survey of Earned Doctorates",
+    "alt_title": [
+        "SED",
+        "SESTAT"
+    ],
+    "url": "https://sedsurvey.org/DataUsers/DataProducts",
+    "description": "The Survey of Earned Doctorates (SED) gathers information annually from approximately 50,000 new research doctorate graduates from U.S. universities about their educational histories, funding sources, and post-doctoral plans."
+    }
+    ,
+    {
+    "id": "dataset-371",
+    "provider": "National Science Foundation",
+    "title":  "Survey of Doctorate Recipients",
+    "alt_title": [
+        "SDR"
+    ],
+    "url": "https://www.nsf.gov/statistics/srvydoctoratework/",
+    "description": "The Survey of Doctorate Recipients (SDR) provides demographic, education, and career history information from individuals with a U.S. research doctoral degree in a science, engineering, or health (SEH) field."
+    },
+    {
+        "id": "dataset-372",
+        "provider": "North Carolina Department of Health and Human Services",
+        "title": "North Carolina eWIC",
+        "alt_title":[
+            "NCDHHS eWIC"
+        ],
+        "url": "https://www.nutritionnc.com/ewic/index.htm",
+        "description" : "The North Carolina WIC Program has moved from a paper-based method of WIC benefit issuance to an electronic benefit transfer system (eWIC). Instead of paper food instruments, WIC food benefits are issued into an electronic benefit account at the local WIC clinic. Families use their eWIC card and PIN to access their food benefits at the grocery store."
+    },
+    {
+        "id": "dataset-373",
+        "provider": "California Department of Public Health",
+        "title": "California WIC",
+        "alt_title":[
+            "CA WIC"
+        ],
+        "url": "https://www.cdph.ca.gov/Programs/CFH/DWICSN/Pages/WICFoods/CAWICAPL.aspx"
+    },
+    {
+        "id": "dataset-374",
+        "provider": "Indiana State Department of Health",
+        "title": "Idiana WIC",
+        "alt_title":[
+            "IN WIC"
+        ],
+        "url": "https://www.in.gov/isdh/24849.htm"
+    },
+    {
+        "id": "dataset-375",
+        "provider": "Kansas City Missouri Police Department",
+        "title": "Kansas City Police Department Crime Data",
+        "alt_title":[
+            "KCPD Crime Data"
+        ],
+        "url": "https://www.kcpd.org/crime/crime-statistics/"
+    },
+    {
+        "id": "dataset-376",
+        "provider": "Indiana Commission for Higher Education",
+        "title": "Indiana Public Higher Education Enrollment Data",
+        "alt_title":[
+            "IN CHH Enrollment Data"
+        ],
+        "url": "https://public.tableau.com/profile/che.staff#!/vizhome/FB_11/Story1"
+    },
+    {
+        "id": "dataset-377",
+        "provider": "Indiana Commission for Higher Education",
+        "title": "Indiana Public Higher Education Completion Data",
+        "alt_title":[
+            "IN CHH Completion Data"
+        ],
+        "url": "https://www.in.gov/che/3032.htm"
+    },
+    {
+        "id": "dataset-378",
+        "provider": "Missouri Department of Higher Education & Workforce Development",
+        "title": "Missouri Department of Higher Education Enrollment Data",
+        "alt_title":[
+            "MI DHEWD Enrollment Data"
+        ],
+        "url": "https://dhewd.mo.gov/data/statsum/"
+    },
+    {
+        "id": "dataset-379",
+        "provider": "Missouri Department of Higher Education & Workforce Development",
+        "title": "Missouri Department of Higher Education Completion Data",
+        "alt_title":[
+            "MI DHEWD Completion Data"
+        ],
+        "url": "https://dhewd.mo.gov/data/statsum/" 
+    },
+    {
+        "id": "dataset-380",
+        "provider": "Deutsche Bundesbank",
+        "title": "External position of banks",
+        "alt_title":[
+            "AUSTA"
+        ],
+        "url": "https://www.bundesbank.de/en/bundesbank/research/rdsc/research-data/external-position-of-banks-austa-auslandsstatus--618018",
+        "description" : "The external position of banks shows the assets and liabilities of banks in Germany and their foreign branches and subsidiaries vis-à-vis non-residents. The microdatabase is based on the individual monthly reports of all German banks dating back to January 2003."
+    },
+    {
+        "id": "dataset-381",
+        "provider": "Deutsche Bundesbank",
+        "title": "Quarterly borrower statistics",
+        "alt_title":[
+            "VJKRE"
+        ],
+        "url": "https://www.bundesbank.de/en/bundesbank/research/rdsc/research-data/quarterly-borrowers-statistics-vjkre-vierteljaehrliche-kreditnehmerstatistik--618014",
+        "description" : "The banks' loans (without securities) to domestic enterprises and households reported in the monthly balance sheet statistics (BISTA) are further broken down by sector in the quarterly borrowers statistics. These statistics provide an insight into the structure of and developments in the lending business with the most important groups of private borrowers. The data have been collected and published on the basis of the Federal Statistical Office's industrial classification system. Data dating back to 1999 are available for research purposes."
+    },
+    {
+        "id": "dataset-382",
+        "provider": "Deutsche Bundesbank",
+        "title": "Panel on Household Finances",
+        "alt_title":[
+            "PHF"
+        ],
+        "url": "https://www.bundesbank.de/en/bundesbank/research/panel-on-household-finances",
+        "description" : "The German Panel on Household Finances (PHF) is a panel survey on household finance and wealth in Germany, covering the balance sheet, pension, income, work life and other demographic characteristics of private households living in Germany. The panel survey is conducted by the Research Centre of the Deutsche Bundesbank."
+    },
+    {
+        "id": "dataset-383",
+        "provider": "Deutsche Bundesbank",
+        "title": "Investment Funds Statistics",
+        "alt_title":[
+            "IFS-Base"
+        ],
+        "url": "https://www.bundesbank.de/en/bundesbank/research/rdsc/research-data/investment-funds-statistics-ifs-base--618058",
+        "description" : "The IFS-Base is the core module of the Deutsche Bundesbank’s Investment Funds Statistics (IFS). Since September 2009 the IFS allows for a detailed overview of the assets and liabilities of German open-end investment funds on a fund-by-fund level."
+    },
+    {
+        "id": "dataset-384",
+        "provider": "Deutsche Bundesbank",
+        "title": "Survey on Adult Financial Literacy in Germany",
+        "alt_title":[
+            "OECD"
+        ],
+        "url": "https://www.bundesbank.de/en/bundesbank/research/rdsc/research-data/oecd-infe-survey-of-adult-financial-literacy-competencies-in-germany-617222",
+        "description" : "The survey collects relevant information about respondents' financial literacy, financial inclusion and socio-demographics. Of particular interest are the financial knowledge, behaviour and attitudes as well as awareness and holding of financial products of adults in Germany. The questionnaire consists of 40 questions and covers e.g. topics such as keeping track of finances, making-ends-meet and longer-term financial planning. Furthermore, numeracy skills within a financial context and basic knowledge of financial concepts (e.g. time-value of money, compound interest or diversification) are tested."
+    },
+    {
+        "id": "dataset-385",
+        "provider": "Deutsche Bundesbank",
+        "title": "Statistics of the banks’ profit and loss accounts",
+        "alt_title":[
+            "GuV"
+        ],
+        "url": "https://www.bundesbank.de/en/bundesbank/research/rdsc/research-data/guv-618032",
+        "description" : "Bank profit and loss statistics provide data on the income and expenditure of MFIs on an annual basis. This involves the evaluation of the profits and losses calculated from the annual accounts which the banks must submit to the Bundesbank pursuant to section 26 of the Banking Act (Kreditwesengesetz). As the annual accounts apply to the whole institution (however not to the group), the income and expenses of foreign branches are also recorded. Research data go back to 1999."
+    },
+    {
+        "id": "dataset-386",
+        "provider": "Deutsche Bundesbank",
+        "title": "Zentralkartei Banken",
+        "alt_title":[
+            "ZentK"
+        ],
+        "url": "https://www.bundesbank.de/en/tasks/topics/selected-master-data-for-mfis-mamfi--749540",
+        "description" : "The Zentralkartei Banken (ZentK) is the database where the master data for the institutes with reporting obligations (MFIs, their foreign branches and subsidiaries as well as the multi-office banks) are administered chronologically and therefore their codification in all surveys of the banking statistics. This key information is used uniformly from all units of the banking statistics."
+    },
+    {
+        "id": "dataset-387",
+        "provider": "Deutsche Bundesbank",
+        "title": "Bank Lending Survey for Germany",
+        "alt_title":[
+            "BLS"
+        ],
+        "url": "https://www.bundesbank.de/en/tasks/monetary-policy/economic-analyses/-/bank-lending-survey-for-germany-618070",
+        "description" : "Since January 2003, the Eurosystem has carried out a quarterly bank lending survey (BLS) to expand its knowledge about the role of lending in the monetary transmission mechanism and thus to obtain additional information for monetary policy analysis. The questionnaire comprises 23 qualitative questions on past and expected future lending policies by participating institutions to the private non-financial sector as well as on credit demand. Ad hoc questions on particularly topical issues may be added if necessary."
+    },
+    {
+        "id": "dataset-388",
+        "provider": "Deutsche Bundesbank",
+        "title": "Centralised Securities Database",
+        "alt_title":[
+            "CSDB"
+        ],
+        "url": "https://www.bundesbank.de/en/bundesbank/research/rdsc/research-data/csdb-769890",
+        "description" : "The “Centralised Securities Database” (CSDB) is a security-by-security reference database that contains data on instruments, issuers and prices for debt securities, equity instruments and investment fund shares issued worldwide. A security-by-security database is a microdatabase that stores statistics at an individual security level. For instance more than 10 million of such securities were covered by the CSDB for the reporting month June 2018 (i.e. reported for 31-05-2018)."
+    },
+    {
+        "id": "dataset-389",
+        "provider": "European Central Bank",
+        "title": "TARGET2",
+        "url": "https://www.ecb.europa.eu/paym/target/target2/html/index.en.html",
+        "description" : "TARGET2 is the real-time gross settlement (RTGS) system owned and operated by the Eurosystem. Central banks and commercial banks can submit payment orders in euro to TARGET2, where they are processed and settled in central bank money, i.e. money held in an account with a central bank."
+    },
+    {
+        "id": "dataset-390",
+        "provider": "Data.gov",
+        "title": "Chicago Microlending Institute Microloans",
+        "url": "https://catalog.data.gov/dataset/chicago-microlending-institute-cmi-microloans",
+        "description" : "To improve access to capital, the City of Chicago seeded a $2MM revolving loan fund and partnered with Accion to create the Chicago Microlending Institute (CMI). CMI helped train two new local microlenders, Chicago Neighborhood Initiatives (CNI) and Women’s Business Development Corporation (WBDC), to help connect small businesses around the city to affordable access to capital. These microloans vary in size from $500 to $25,000 and the average loan size is around $10,000. This dataset reflects the lender, location, business industry, and borrower demographics for small businesses supported by the City’s revolving loan fund. Certain data elements could not be included on a per-loan basis for privacy reasons but are summarized in the https://data.cityofchicago.org/id/4s8s-adbr dataset."
+    },
+    {
+        "id": "dataset-391",
+        "provider": "Chicago Data Portal",
+        "title": "Small Business Improvement Fund Grant Agreements",
+        "alt_title": [
+            "SBIF"
+        ],
+        "url": "https://data.cityofchicago.org/Community-Economic-Development/Small-Business-Improvement-Fund-SBIF-Grant-Agreeme/jp7n-tgmf",
+        "description" : "Small Business Improvement Fund (SBIF) program grants made since 2001. SBIF uses Tax Increment Financing (TIF) revenues to help owners of commercial and industrial properties within specific TIF districts to repair or remodel their facilities for their own business or on behalf of tenants."
+    },
+    {
+
+        "id": "dataset-392",
+        "provider": "Chicago Data Portal",
+        "title": "Public Health Services - Licensed Substance Abuse Treatment Providers in Chicago, 2011",
+        "url": "https://data.cityofchicago.org/Health-Human-Services/Public-Health-Services-Licensed-Substance-Abuse-Tr/9zqv-3uhs",
+        "description" : "Detailed listing of licensed substance abuse treatment providers, treatment modalities, and populations served in Chicago as of April 2011."
+    },
+    {
+        "id": "dataset-393",
+        "provider": "NYC OpenData",
+        "title": "Selected Facilities and Program Sites",
+        "url": "https://data.cityofnewyork.us/dataset/Selected-Facilities-and-Program-Sites-Text/8jba-a978",
+        "description" : "Data providing the location, type and capacity of public and private community facilities in New York City, including schools, parks, libraries, public safety, day care, foster care, special needs housing, health and mental health facilities and programs. Additional data included to provide location of transportation and waste management facilities."
+    },
+    {
+        "id": "dataset-394",
+        "provider": "NYC OpenData",
+        "title": "Primary Land Use Tax Lot Output",
+        "alt_title":[
+            "PLUTO"
+        ],
+        "url": "https://data.cityofnewyork.us/City-Government/Primary-Land-Use-Tax-Lot-Output-PLUTO-/xuk2-nczf",
+        "description" : "Extensive land use and geographic data at the tax lot level in comma–separated values (CSV) file format. The PLUTO files contain more than seventy fields derived from data maintained by city agencies."
+    },
+    {
+        "id": "dataset-395",
+        "provider": "Open Data DC",
+        "title": "Check Cashing Locations",
+        "url": "https://opendata.dc.gov/datasets/9f137d3a66af4a1fb76369322fadc8dc_1",
+        "description" : "CheckCasher locations without payday lending authority. The dataset contains locations and attributes of checkcashers, created as part of the DC Geographic Information System (DC GIS) for the D.C. Office of the Chief Technology Officer (OCTO) and participating D.C. government agencies. A database provided by the Department of Insurance, Securities, and Banking DISB) identified CheckCasher locations. METADATA CONTENT IS IN PROCESS OF VALIDATION AND SUBJECT TO CHANGE."
+    },
+    {
+        "id": "dataset-396",
+        "provider": "Open Data DC",
+        "title": "Human Services Locations",
+        "url": "https://opendata.dc.gov/datasets/human-service-locations/data",
+        "description" : "Human Services Facilities - DC Answers Please Program. The dataset contains locations and attributes of Human Services Facilities, created as part of the DC Geographic Information System (DC GIS) for the D.C. Office of the Chief Technology Officer (OCTO) and participating D.C. government agencies. A database provided by the DC Department of Human Services (DHS) identified Human Services Facilities and DC GIS staff geo-processed the data. All DC GIS data is stored and exported in Maryland State Plane coordinates NAD 83 meters."
+    },
+    {
+        "id": "dataset-397",
+        "provider": "Open Data DC",
+        "title": "Homeless Shelter Locations",
+        "url": "https://opendata.dc.gov/datasets/87c5e68942304363a4578b30853f385d_25",
+        "description" : "The dataset contains locations and attributes of Homeless Shelters, created as part of the DC Geographic Information System (DC GIS) for the D.C. Office of the Chief Technology Officer (OCTO) and participating D.C. government agencies. A database provided by the Department of Human Services identified Homeless Shelter locations. METADATA CONTENT IS IN PROCESS OF VALIDATION AND SUBJECT TO CHANGE."
+    },
+    {
+        "id": "dataset-398",
+        "provider": "Open Data DC",
+        "title": "Homeless Service Facilities",
+        "url": "https://opendata.dc.gov/datasets/47be87a68e7a4376a3bdbe15d85de398_6",
+        "description" : "Homeless Facility and Service locations. The dataset contains locations and attributes of Homeless Facility and Service locations, created as part of the DC Geographic Information System (DC GIS) for the D.C. Office of the Chief Technology Officer (OCTO) and participating D.C. government agencies. A database provided by Answers Please and The InterFaith Conference of Metropolitan Washington identified emergency food, shelter and health care locations. METADATA CONTENT IS IN PROCESS OF VALIDATION AND SUBJECT TO CHANGE."
+    },
+    {
+        "id": "dataset-399",
+        "provider": "Open Data DC",
+        "title": "Public Schools",
+        "url": "https://opendata.dc.gov/datasets/4ac321b2d409438ebd76a6569ad94034_5",
+        "description" : "DC public schools. This dataset contains points representing public schools. It was created for the D.C. public schools and later added to the DC Geographic Information System (DC GIS) for the D.C. Office of the Chief Technology Officer (OCTO). This dataset includes all identifiable DCPS public elementary, middle, education campus's, senior high, and special education schools as well as learning centers. Does not include private or charter schools. School locations were identified from a database from the DC Public Schools, Office of Facilities Management. Current for the 2018-2019 school year. METADATA CONTENT IS IN PROCESS OF VALIDATION AND SUBJECT TO CHANGE."
+    },
+    {
+        "id": "dataset-400",
+        "provider": "Open Data DC",
+        "title": "Charter Schools",
+        "url": "https://opendata.dc.gov/datasets/a3832935b1d644e48c887e6ec5a65fcd_1",
+        "description" : "Charter Schools. This layer contains points representing locations for charter schools, created as part of the DC Geographic Information System (DC GIS) for the D.C. Office of the Chief Technology Officer (OCTO) and participating D.C. government agencies. School locations were identified from public records and heads-up digitized from the 2010 orthophotographs. METADATA CONTENT IS IN PROCESS OF VALIDATION AND SUBJECT TO CHANGE."
+    },
+    {
+        "id": "dataset-401",
+        "provider": "Chicago Data Portal",
+        "title": "Affordable Rental Housing Developments",
+        "url": "https://data.cityofchicago.org/Community-Economic-Development/Affordable-Rental-Housing-Developments/s6ha-ppgi",
+        "description" : "The rental housing developments listed below are among the thousands of affordable units that are supported by City of Chicago programs to maintain affordability in local neighborhoods. The list is updated periodically when construction is completed for new projects or when the compliance period for older projects expire, typically after 30 years. The list is provided as a courtesy to the public. It does not include every City-assisted affordable housing unit that may be available for rent, nor does it include the hundreds of thousands of naturally occurring affordable housing units located throughout Chicago without City subsidies. For information on rents, income requirements and availability for the projects listed, contact each property directly. For information on other affordable rental properties in Chicago and Illinois, call (877) 428-8844, or visit"
+    },
+    {
+        "id": "dataset-402",
+        "provider": "NYC OpenData",
+        "title": "2014-2015 DOE High School Directory",
+        "url": "https://nycopendata.socrata.com/Education/2014-2015-DOE-High-School-Directory/n3p6-zve2",
+        "description" : "Directory of NYC High Schools"
+    },
+    {
+        "id": "dataset-403",
+        "provider": "NYC OpenData",
+        "title": "Directory of NYCHA Community Facilities",
+        "url": "https://nycopendata.socrata.com/Social-Services/Directory-of-NYCHA-Community-Facilities/crns-fw6u",
+        "description" : "Community Facilities (Centers) that are on NYCHA property with programs either sponsored by NYCHA or by a non-NYCHA entity. All programs are open to the public. The file contains development name, address, city, state, zipcode, telephone #, sponsoring organization and contact person."
+    },
+    {
+        "id": "dataset-404",
+        "provider": "State of Illinois Data Portal",
+        "title": "Illinois Department of Human Services Office Locator",
+        "alt_title":[
+            "IDHS Office Locator"
+        ],
+        "url": "https://data.illinois.gov/dataset/247idhs_office_locator",
+        "description" : "Listing of Department of Human Services and Service Provider Office Locations"
+    },
+    {
+        "id": "dataset-405",
+        "provider": "Cook County Government Open Data",
+        "title": "Cook County Recorder - Foreclosures, Mortgages, and Quit Claim Deeds",
+        "url": "https://datacatalog.cookcountyil.gov/Property-Taxation/Cook-County-Recorder-Foreclosures-Mortgages-and-Qu/4f2q-h3b7",
+        "description" : "Foreclosures, Mortgages, and Quit Claim Deeds recorded with the Cook County Recorder of Deeds. Data covers 2013 through March 27, 2015. This dataset will be updated Quarterly. For more information see http://cookrecorder.com/ ."
+    },
+    {
+        "id": "dataset-406",
+        "provider": "Chicago Data Portal",
+        "title": "Family and Support Services Delegate Agencies",
+        "url": "https://data.cityofchicago.org/Health-Human-Services/Family-and-Support-Services-Delegate-Agencies/jmw7-ijg5",
+        "description" : "A list of the delegate agencies with which the Department of Family and Support Services has contracted to provide services to residents of Chicago. For more information on the department and its services, please see http://www.cityofchicago.org/city/en/depts/fss.html."
+    },
+    {
+        "id": "dataset-407",
+        "provider": "Chicago Data Portal",
+        "title": "Substance Abuse Treatment Facilities in Illinois",
+        "url": "https://findtreatment.samhsa.gov/locator?sAddr=&submit=Go",
+        "description" : "Location of Substance Abuse treatment facilities in the state of Illinois. Locations are published by the Substance Abuse and Mental Health Services Administration (SAMHSA) through their Behavioral Health Treatment Services Locator. The Behavioral Health Treatment Services Locator is an online source of information for persons seeking treatment facilities in the United States or U.S. Territories for substance abuse/addiction and/or mental health problems."
+    },
+    {
+        "id": "dataset-408",
+        "provider": "U.S Census Bureau",
+        "title": "Census ZIP Code Tabulation Area to Census Tract Relationship File",
+        "alt_title":[
+            "ZCTA"
+        ],
+        "url": "https://www.census.gov/geographies/reference-files/time-series/geo/relationship-files.html#par_textimage_19960473",
+        "description" : "The 2010 ZIP Code Tabulation Area (ZCTA) to Census Tract Relationship file provides a simple crosswalk between the 2010 ZCTAs and 2010 Census tracts. From this file, data users may determine which ZCTAs exist within the other geographies and vice versa. "
+    },
+    {
+        "id": "dataset-409",
+        "provider": "NYC Department of Planning",
+        "title": "New York City Census Tract to Neighborhood Tabulation Area Equivalency",
+        "url": "https://www.census.gov/geographies/reference-files/time-series/geo/relationship-files.html#par_textimage_19960473",
+        "description" : "Neighborhood Tabulation Areas (NTAs) were created to project populations at a small area level, from 2000 to 2030 for PlaNYC, the long-term sustainability plan for New York City. Since population size affects the error associated with population projections, these geographic units needed to have a minimum population, which were determined to be 15,000. This criterion resulted in combinations of neighborhoods that probably would not occur if one were solely designating boundaries of historical neighborhoods. Moreover, the neighborhood names associated with the neighborhood tabulation areas are not intended to be definitive. Another feature of the sustainability plan, was the creation of projections for Public Use Microdata Areas (PUMAs), which are approximations of New York City's Community Districts developed for use with the Census Bureau's Public Use Microdata Samples (PUMS). In order to make the boundaries consistent with PUMAs, NTAs were created using whole census tracts, from the 2010 census, within PUMAs. Since NTAs were not permitted to cross PUMA boundaries, this further restricted our ability to identify what may be thought of as historical neighborhood boundaries. Thus, users need to be cognizant of the reason why NTAs were created and the demographic/geographic constraints inherent in how they were configured. Despite these limitations, NTAs are a valuable summary level for use with both the 2010 Census and the American Community Survey (ACS). Regarding the decennial census, these geographic areas offer a good compromise between the very detailed data for census tracts (2,168) and the broad strokes provided by community districts (59). For the ACS, NTAs offer a statistically reliable alternative to the high sampling error that renders data for most individual census tracts unusable. Note: park-cemetery-etc NTAs, while not contiguous, only represent five unique NTAs; one in each borough. However, each of these five NTAs may appear more than once in this table, as they may fall in more than one PUMA."
+    },
+    {
+        "id": "dataset-410",
+        "provider": "U.S Census Bureau",
+        "title": "Longitudinal Employer-Household Dynamics Origin-Destination Employment Statistics",
+        "alt_title":[
+            "LODES"
+        ],
+        "url": "https://lehd.ces.census.gov/data/lodes/LODES7/",
+        "description" : "LEHD Origin-Destination Employment Statistics (LODES) used by OnTheMap are available for download below. Version 7 of LODES was enumerated by 2010 census blocks. Previous versions of LODES were enumerated with 2000 census blocks. Data files are state-based and organized into three types: Origin-Destination (OD), Residence Area Characteristics (RAC), and Workplace Area Characteristics (WAC), all at census block geographic detail. Data is available for most states for the years 2002-2014."
+    },
+    {
+        "id": "dataset-411",
+        "provider": "",
+        "title": "United States Zipcode to County Relationship File",
+        "alt_title":[
+            "HUD-USPS"
+        ],
+        "url": "https://www.huduser.gov/portal/datasets/usps_crosswalk.html#data",
+        "description" : "Cross walk of United States Postal Service (USPS) Zip codes to their equivalent Census defined counties as of Q1 2013. Original crosswalk is provided by the U.S. Department of Housing and Urban Development (HUD) and has been joined with US Census Bureau 2010 FIPS Codes for Counties and County Equivalent Entities to provide county names."
+    },
+    { 
+        "id": "dataset-412",
+        "provider": "U.S Census Bureau",
+        "title": "North American Industry Classification System Definitions",
+        "alt_title": [
+            "NAICS"
+        ],
+        "url": "https://www.census.gov/eos/www/naics/",
+        "description" : "The North American Industry Classification System (NAICS) is the standard used by Federal statistical agencies in classifying business establishments for the purpose of collecting, analyzing, and publishing statistical data related to the U.S. business economy."
+    },
+    {
+        "id": "dataset-413",
+        "provider": "New York State Department of Labor",
+        "title": "New York State Short-Term Occupational Employment Projections",
+        "url": "https://www.labor.ny.gov/stats/lsproj.shtm",
+        "description" : "Short-term industry and occupational estimates and projections are presented for New York State and its ten labor market regions. Projections are used for assessing short-range trends in occupational employment and resulting occupational opportunities. The projections process consists of four principal phases:"
+    },
+    {
+        "id": "dataset-414",
+        "provider": "Illinois Department of Commerce & Economic Opportunity",
+        "title": "Illinois Worker Adjustment and Retraining Notification Notices of Layoffs and Closures",
+        "alt_title":[
+            "WARN"
+        ],
+        "url": "https://www.illinoisworknet.com/LayoffRecovery/Pages/ArchivedWARNReports.aspx",
+        "description" : "A WARN layoff is a plant closure or mass layoff. Under state law, employers must notify the state when they plan to lay off workers. This law is known as the WARN Act (Illinois Worker Adjustment and Retraining Notification Act). This dataset was generated by ADRF participants who downloaded PDF WARN reports from the state website at https://www.illinois.gov/dceo/WorkforceDevelopment/warn/Pages/default.aspx, extracted their information to a spreadsheet and used SAS to realign the data into columns."
+    },
+    {
+        "id": "dataset-415",
+        "provider": "Mapping Police Violence",
+        "title": "Mapping Police Violence Data",
+        "url": "https://mappingpoliceviolence.org/2015",
+        "description" : "Data compiled about fatal police shootings in the United States from FatalEncounters.org, the U.S. Police Shootings Database and Killed by Police.net. The data are presented and available for download from mappingpoliceviolence.org. Population data from the US Census Bureau American Community Survey is also included in report tables."
+    },
+    {
+        "id": "dataset-416",
+        "provider": "City of Kansas City",
+        "title": "Kansas City Missouri Business Licenses",
+        "url": "http://city.kcmo.org/kc/BusinessLicenseSearch/",
+        "description" : "Data for persons or businesses with a current business license with the City of Kansas City, Missouri. Includes business licenses from 2013-2018"
+    },
+    {
+        "id": "dataset-417",
+        "provider": "State of Illinois Data Portal",
+        "title": "Illinois Department of Labor Illinois Minimum Wage",
+        "alt_title":[
+            "IDOL Minimum Wage"
+        ],
+        "url": "https://data.illinois.gov/dataset/307idol_illinois_minimum_wage/resource/a288abda-51e7-44bb-8066-361bb5f50ab0",
+        "description" : "Illinois state minimum wage hourly rates for workers 18 years of age and older from 1972 to 2014."
+    },
+    {
+        "id": "dataset-418",
+        "provider": "Chicago Data Portal",
+        "title": "City of Chicago Crimes",
+        "url": "https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2",
+        "description" : "This dataset reflects reported incidents of crime (with the exception of murders where data exists for each victim) that occurred in the City of Chicago from 2001 to present, minus the most recent seven days. Data is extracted from the Chicago Police Department's CLEAR (Citizen Law Enforcement Analysis and Reporting) system. In order to protect the privacy of crime victims, addresses are shown at the block level only and specific locations are not identified. Should you have questions about this dataset, you may contact the Research & Development Division of the Chicago Police Department at PSITAdministration@ChicagoPolice.org."
+    },
+    {
+        "id": "dataset-419",
+        "provider": "NYC OpenData",
+        "title": "NYPD Arrest Data",
+        "url": "https://data.cityofnewyork.us/browse?q=NYPD+Arrest",
+        "description" : "Data from NYPD arrest reports. Records include: an arrest ID obfuscated by a confidential key; date of arrest; arrest NYS law code; description of law code; level of offense; person ID modified by a confidential key; age, sex, race of arrestee; NYC borough of Arrestee residence; precinct of arrestee residence; coordinates of arrest location generalized to nearest street segment; census tract for arrest incident"
+    },
+    {
+        "id": "dataset-420",
+        "provider": "NYC OpenData",
+        "title": "NYPD Borough and Precinct Crime Statistics",
+        "url": "https://www1.nyc.gov/site/nypd/stats/crime-statistics/borough-and-precinct-crime-stats.page",
+        "description" : "The NYPD provides statistics that are categorized by police borough and precinct. These reports are updated weekly and can be viewed below. The department's advanced digital version can be viewed at CompStat 2.0."
+    },
+    {
+        "id": "dataset-421",
+        "provider": "MECKNC.GOV",
+        "title": "Mecklenburg County Criminal Justice Services Data",
+        "url": "https://www.mecknc.gov/CriminalJusticeServices/Pages/Reports.aspx"
+    },
+    {
+        "id": "dataset-422",
+        "provider": "North Carolina Judicial Branch",
+        "title": "North Carolina Administrative Office of the Courts Charge Codes",
+        "alt_title":[
+            "AOC Charge Codes"
+        ],
+        "url": "https://www.nccourts.gov/documents/publications/nc-courts-offense-codes-and-classes"
+    },
+    {
+        "id": "dataset-423",
+        "provider": "Chicago Police Department",
+        "title": "Chicago Police Department Adult Arrestees",
+        "url": "http://publicsearch1.chicagopolice.org/",   
+        "description":"This is Chicago Police Department official website for searching arrest records. This site is made available for the use and benefit of law enforcement partners, news media, and members of the public to search Chicago Police public arrest records including Name, Mugshot, Age, Address, Central Booking Number, Charges, Arrest Date/Time, Arrest Location, Date Time Released from Chicago Police Facility, Bond Type/Amount/Date, and the geographic police area/district/beat."
+    },
+        "id": "dataset-424",
+        "provider": "U.S. Department of Agriculture",
+        "title":  "Food Pattern Equivalent Database",
+        "alt_title": [
+            "FPED"
+        ],
+        "url": "https://www.ars.usda.gov/northeast-area/beltsville-md-bhnrc/beltsville-human-nutrition-research-center/food-surveys-research-group/docs/fped-overview/",
+        "description": "The Food Patterns Equivalents Database (FPED) is a tool that allows researchers to examine diets in a standardized way by characterizing ready-to-eat foods and beverages in terms of dietary guidance."
+    },
+    {
+      "id": "dataset-425",
+      "provider": "Institute for Research on Innovation and Science (IRIS)",
+      "title":  "Universities: Measuring the Impacts of Research on Innovation, Competitiveness, and Science",
+      "alt_title": [
+          "UMETRICS"
+      ],
+      "url": "https://iris.isr.umich.edu/about/ ",
+      "description": "Long term, comprehensive data about academic researchers."
+    },
+    {
+      "id": "dataset-426",
+      "provider": "The United States Patent and Trademark Office",
+      "title":  "USPTO PatentsView",
+      "alt_title": [
+          "USPTO"
+      ],
+      "url": "http://www.patentsview.org/web/#viz/locations",
+      "description": "When patents are granted, the locations of inventors and patent-owning entities - or assignees - are recorded."
+    },
+    {
+      "id": "dataset-427",
+      "provider": "U.S. Department of Health and Human Services",
+      "title":  "FedREPORTER",
+      "alt_title": [
+          "Grants data",
+          "Federal RePORTER"
+      ],
+      "url": "https://federalreporter.nih.gov/FileDownload",
+      "description": "Federal RePORTER is a collaborative effort led by STAR METRICS® to create a searchable database of scientific awards from agencies."
+    },
+    {
+      "id": "dataset-428",
+      "provider": "National Science Foundation",
+      "title":  "Higher Education Research and Development Survey",
+      "alt_title": [
+          "HERD",
+          "Federal RePORTER"
+      ],
+      "url": "https://www.nsf.gov/statistics/srvyherd/",
+      "description": "he survey collects information on R&D expenditures by field of research and source of funds and also gathers information on types of research, expenses, and headcounts of R&D personnel. "
     }
 ]
