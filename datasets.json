@@ -3635,7 +3635,7 @@
     },
     {
     "id": "dataset-315",
-    "provider": "Wisconsin Department of Children and Families",
+    "provider": "Alaska Department of Health and Social Services",
     "title": "Alaska Temporary Assistance for Needy Families",
     "alt_title": [
         "TANF",
@@ -4049,5 +4049,57 @@
     ],
     "url": "https://www.sbwib.org/home",
     "description": "The primary objective of the SBWIB is to provide policy guidance which will allow the staff to create an environment where every person maximizes his or her career potential, and all employers have the human resources they need to grow and prosper."
+    },
+    {
+    "id": "dataset-364",
+    "provider": "U.S. Department of Agriculture",
+    "title":  "Food Pattern Equivalent Database",
+    "alt_title": [
+        "FPED"
+    ],
+    "url": "https://www.ars.usda.gov/northeast-area/beltsville-md-bhnrc/beltsville-human-nutrition-research-center/food-surveys-research-group/docs/fped-overview/",
+    "description": "The Food Patterns Equivalents Database (FPED) is a tool that allows researchers to examine diets in a standardized way by characterizing ready-to-eat foods and beverages in terms of dietary guidance."
+    },
+    {
+    "id": "dataset-365",
+    "provider": "Institute for Research on Innovation and Science (IRIS)",
+    "title":  "Universities: Measuring the Impacts of Research on Innovation, Competitiveness, and Science",
+    "alt_title": [
+        "UMETRICS"
+    ],
+    "url": "https://iris.isr.umich.edu/about/ ",
+    "description": "Long term, comprehensive data about academic researchers."
+    },
+    {
+    "id": "dataset-366",
+    "provider": "The United States Patent and Trademark Office",
+    "title":  "USPTO PatentsView",
+    "alt_title": [
+        "USPTO"
+    ],
+    "url": "http://www.patentsview.org/web/#viz/locations",
+    "description": "When patents are granted, the locations of inventors and patent-owning entities - or assignees - are recorded."
+    },
+    {
+    "id": "dataset-367",
+    "provider": "U.S. Department of Health and Human Services",
+    "title":  "FedREPORTER",
+    "alt_title": [
+        "Grants data",
+        "Federal RePORTER"
+    ],
+    "url": "https://federalreporter.nih.gov/FileDownload",
+    "description": "Federal RePORTER is a collaborative effort led by STAR METRICS® to create a searchable database of scientific awards from agencies."
+    },
+    {
+    "id": "dataset-368",
+    "provider": "National Science Foundation",
+    "title":  "Higher Education Research and Development Survey",
+    "alt_title": [
+        "HERD",
+        "Federal RePORTER"
+    ],
+    "url": "https://www.nsf.gov/statistics/srvyherd/",
+    "description": "he survey collects information on R&D expenditures by field of research and source of funds and also gathers information on types of research, expenses, and headcounts of R&D personnel. "
     }
 ]
