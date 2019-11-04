@@ -4237,8 +4237,7 @@
     "provider": "National Science Foundation",
     "title":  "Survey of Doctorate Recipients",
     "alt_title": [
-        "SDR",
-        "SESTAT"
+        "SDR"
     ],
     "url": "https://www.nsf.gov/statistics/srvydoctoratework/",
     "description": "The Survey of Doctorate Recipients (SDR) provides demographic, education, and career history information from individuals with a U.S. research doctoral degree in a science, engineering, or health (SEH) field."
