@@ -3636,7 +3636,7 @@
     },
     {
     "id": "dataset-315",
-    "provider": "Wisconsin Department of Children and Families",
+    "provider": "Alaska Department of Health and Social Services",
     "title": "Alaska Temporary Assistance for Needy Families",
     "alt_title": [
         "TANF",
@@ -4313,7 +4313,7 @@
         "alt_title":[
             "MI DHEWD Completion Data"
         ],
-        "url": "https://dhewd.mo.gov/data/statsum/" 
+        "url": "https://dhewd.mo.gov/data/statsum/"
     },
     {
         "id": "dataset-380",
@@ -4585,7 +4585,7 @@
         "url": "https://www.huduser.gov/portal/datasets/usps_crosswalk.html#data",
         "description" : "Cross walk of United States Postal Service (USPS) Zip codes to their equivalent Census defined counties as of Q1 2013. Original crosswalk is provided by the U.S. Department of Housing and Urban Development (HUD) and has been joined with US Census Bureau 2010 FIPS Codes for Counties and County Equivalent Entities to provide county names."
     },
-    { 
+    {
         "id": "dataset-412",
         "provider": "U.S Census Bureau",
         "title": "North American Industry Classification System Definitions",
@@ -4676,11 +4676,62 @@
         "id": "dataset-423",
         "provider": "Chicago Police Department",
         "title": "Chicago Police Department Adult Arrestees",
-        "url": "http://publicsearch1.chicagopolice.org/",   
+        "url": "http://publicsearch1.chicagopolice.org/",
         "description":"This is Chicago Police Department official website for searching arrest records. This site is made available for the use and benefit of law enforcement partners, news media, and members of the public to search Chicago Police public arrest records including Name, Mugshot, Age, Address, Central Booking Number, Charges, Arrest Date/Time, Arrest Location, Date Time Released from Chicago Police Facility, Bond Type/Amount/Date, and the geographic police area/district/beat."
     },
     {
         "id": "dataset-424",
+
+        "provider": "U.S. Department of Agriculture",
+        "title":  "Food Pattern Equivalent Database",
+        "alt_title": [
+            "FPED"
+        ],
+        "url": "https://www.ars.usda.gov/northeast-area/beltsville-md-bhnrc/beltsville-human-nutrition-research-center/food-surveys-research-group/docs/fped-overview/",
+        "description": "The Food Patterns Equivalents Database (FPED) is a tool that allows researchers to examine diets in a standardized way by characterizing ready-to-eat foods and beverages in terms of dietary guidance."
+    },
+    {
+      "id": "dataset-425",
+      "provider": "Institute for Research on Innovation and Science (IRIS)",
+      "title":  "Universities: Measuring the Impacts of Research on Innovation, Competitiveness, and Science",
+      "alt_title": [
+          "UMETRICS"
+      ],
+      "url": "https://iris.isr.umich.edu/about/ ",
+      "description": "Long term, comprehensive data about academic researchers."
+    },
+    {
+      "id": "dataset-426",
+      "provider": "The United States Patent and Trademark Office",
+      "title":  "USPTO PatentsView",
+      "alt_title": [
+          "USPTO"
+      ],
+      "url": "http://www.patentsview.org/web/#viz/locations",
+      "description": "When patents are granted, the locations of inventors and patent-owning entities - or assignees - are recorded."
+    },
+    {
+      "id": "dataset-427",
+      "provider": "U.S. Department of Health and Human Services",
+      "title":  "FedREPORTER",
+      "alt_title": [
+          "Grants data",
+          "Federal RePORTER"
+      ],
+      "url": "https://federalreporter.nih.gov/FileDownload",
+      "description": "Federal RePORTER is a collaborative effort led by STAR METRICS® to create a searchable database of scientific awards from agencies."
+    },
+    {
+      "id": "dataset-428",
+      "provider": "National Science Foundation",
+      "title":  "Higher Education Research and Development Survey",
+      "alt_title": [
+          "HERD",
+          "Federal RePORTER"
+      ],
+      "url": "https://www.nsf.gov/statistics/srvyherd/",
+      "description": "he survey collects information on R&D expenditures by field of research and source of funds and also gathers information on types of research, expenses, and headcounts of R&D personnel. "
+
         "provider": "NYC Open Data",
         "title": "New York City Human Resources Administration case files",
         "alt_title":[
@@ -4688,5 +4739,6 @@
             "HRA files"
         ],
         "url": "https://data.cityofnewyork.us/browse?Dataset-Information_Agency=Human+Resources+Administration+%28HRA%29"
+
     }
 ]
