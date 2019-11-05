@@ -4681,6 +4681,7 @@
     },
     {
         "id": "dataset-424",
+
         "provider": "U.S. Department of Agriculture",
         "title":  "Food Pattern Equivalent Database",
         "alt_title": [
@@ -4730,5 +4731,14 @@
       ],
       "url": "https://www.nsf.gov/statistics/srvyherd/",
       "description": "he survey collects information on R&D expenditures by field of research and source of funds and also gathers information on types of research, expenses, and headcounts of R&D personnel. "
+
+        "provider": "NYC Open Data",
+        "title": "New York City Human Resources Administration case files",
+        "alt_title":[
+            "HRA",
+            "HRA files"
+        ],
+        "url": "https://data.cityofnewyork.us/browse?Dataset-Information_Agency=Human+Resources+Administration+%28HRA%29"
+
     }
 ]
