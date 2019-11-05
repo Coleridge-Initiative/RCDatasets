@@ -4730,8 +4730,10 @@
           "Federal RePORTER"
       ],
       "url": "https://www.nsf.gov/statistics/srvyherd/",
-      "description": "he survey collects information on R&D expenditures by field of research and source of funds and also gathers information on types of research, expenses, and headcounts of R&D personnel. "
-
+      "description": "The survey collects information on R&D expenditures by field of research and source of funds and also gathers information on types of research, expenses, and headcounts of R&D personnel."
+    },
+    { 
+        "id": "dataset-429",
         "provider": "NYC Open Data",
         "title": "New York City Human Resources Administration case files",
         "alt_title":[
