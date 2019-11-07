@@ -101,10 +101,12 @@
     {
         "id": "dataset-012",
         "provider": "Deutsche Bundesbank",
-        "title": "Interest rates on deposits and loans",
+        "title": "MFI Interest Rate Statistics",
         "description": "The data are collected within the framework of the MFI interest rate statistics on a harmonised basis in the euro area since January 2003, fulfilling the requirements of Regulation ECB/2001/18.",
         "alt_title": [
             "Zinsstatistik",
+            "Interest rates on deposits and loans",
+            "ZISTA",
             "MFI statistical report",
             "MIR"
         ],
@@ -123,6 +125,9 @@
         "id": "dataset-013",
         "provider": "Deutsche Bundesbank",
         "title": "Monthly balance sheet statistics",
+        "alt_title" :[
+            "BISTA"
+        ],
         "url": "https://www.bundesbank.de/en/service/reporting-systems/banking-statistics/monthly-balance-sheet-statistics-620110",
         "doi": "10.12757/BBk.BISTA.99Q1-16Q4.01.12",
         "alt_ids": [
@@ -4742,5 +4747,48 @@
         ],
         "url": "https://data.cityofnewyork.us/browse?Dataset-Information_Agency=Human+Resources+Administration+%28HRA%29"
 
+    },
+    {
+        "id": "dataset-430",
+        "provider": "Illinois Department of Employment Security",
+        "title": "Illinois Wage Data",
+        "alt_title":[
+            "IDES",
+            "IDES Wage Data"
+        ],
+        "url": "https://www2.illinois.gov/ides/lmi/Pages/Occupational_Employment_Statistics.aspx",
+        "description" : "Wage data for occupations is collected in the Occupational Employment Statistics (OES) program. Information on entry level, median, and experienced hourly (and annual) wages is available for Illinois, the Metropolitan Statistical Areas (MSAs), Economic Development Regions (EDRs), counties and the Local Workforce Investment Areas (LWIAs) in Excel format."
+    },
+    {
+        "id": "dataset-431",
+        "provider": "Deutsche Bundesbank",
+        "title": "Securities holdings",
+        "alt_title":[
+            "SHS",
+            "SHS-Base"
+        ],
+        "url": "https://www.bundesbank.de/en/statistics/money-and-capital-markets/securities-holdings/securities-holdings-793710",
+        "description": "The securities holdings statistics (formerly referred to as the securities deposits statistics) include micro data on securities holdings. Financial institutions domiciled in Germany report any securities which they hold for domestic or foreign customers. Furthermore, domestic banks provide information about their own holdings, irrespective of where the securities are held."
+    },
+    {
+        "id": "dataset-432",
+        "provider": "European Central Bank",
+        "title": "Eligible Assets Database",
+        "alt_title":[
+            "ECB",
+            "ECB Eligible Assets Database"
+            ],
+        "url": "https://www.ecb.europa.eu/paym/coll/assets/html/list-MID.en.html"
+    },
+    {
+        "id": "dataset-433",
+        "provider": "Federal Financial Supervisory Authority",
+        "title": "German Federal Financial Supervisory Authority Data",
+        "alt_title":[
+            "BaFin",
+            "BaFin data"
+            ],
+        "url": "https://www.bafin.de/EN/PublikationenDaten/Datenbanken/Datenbanken_node_en.html",
+        "description" : "Before banks, financial services providers, asset management companies, insurers or pension funds can commence operations, they need written authorisation from BaFin. An exception applies to companies from another signatory state to the Agreement on the European Economic Area, which simply must notify BaFin of their intention to provide cross-border services or establish a branch in Germany. This is known as “notification procedure” or “European Passport”."
     }
 ]
