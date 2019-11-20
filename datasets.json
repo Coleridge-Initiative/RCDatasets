@@ -4511,7 +4511,13 @@
     {
         "id": "dataset-402",
         "provider": "NYC OpenData",
-        "title": "DOE High School Directory",
+        "title": "New York City Department of Education High School Directory",
+        "alt_title": [
+            "NYC DOE HS Directory",
+            "NYC DOE High Schools",
+            "NYC High Schools",
+            "NYC High School Directory"
+        ]
         "url": "https://nycopendata.socrata.com/Education/2014-2015-DOE-High-School-Directory/n3p6-zve2",
         "description" : "Directory of NYC High Schools"
     },
