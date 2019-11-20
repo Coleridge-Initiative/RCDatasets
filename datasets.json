@@ -4511,7 +4511,7 @@
     {
         "id": "dataset-402",
         "provider": "NYC OpenData",
-        "title": "2014-2015 DOE High School Directory",
+        "title": "DOE High School Directory",
         "url": "https://nycopendata.socrata.com/Education/2014-2015-DOE-High-School-Directory/n3p6-zve2",
         "description" : "Directory of NYC High Schools"
     },
@@ -4790,5 +4790,56 @@
             ],
         "url": "https://www.bafin.de/EN/PublikationenDaten/Datenbanken/Datenbanken_node_en.html",
         "description" : "Before banks, financial services providers, asset management companies, insurers or pension funds can commence operations, they need written authorisation from BaFin. An exception applies to companies from another signatory state to the Agreement on the European Economic Area, which simply must notify BaFin of their intention to provide cross-border services or establish a branch in Germany. This is known as “notification procedure” or “European Passport”."
+    },
+    {
+        "id": "dataset-434",
+        "provider": "Deutsche Bundesbank",
+        "title": "Annual Distress Database of the Deutsche Bundesbank",
+        "alt_title":[
+            "SRP"
+        ]
+    },
+    {
+        "id": "dataset-435",
+        "provider": "New York City Department of Homeless Services",
+        "title": "New York City Department of Homeless Services Data",
+        "alt_title":[
+            "NYC DHS",
+            "NY DHS Data"
+        ],
+        "url": "https://www1.nyc.gov/site/dhs/about/stats-and-reports.page"
+    },
+    {
+        "id": "dataset-436",
+        "provider": "New York State Department of Labor",
+        "title": "New York State Department of Labor Data",
+        "alt_title":[
+            "NYS DOL",
+            "NYS DOL Data"
+        ],
+        "url": "https://www.labor.ny.gov/stats/nyc/"
+    },
+    {
+        "id": "dataset-437",
+        "provider": "Federal Reserve Bank of St. Louis",
+        "title": "Illinois Economic Indicators",
+        "alt_title":[],
+        "url": "https://fred.stlouisfed.org/search?st=Illinois+Economic+indicators" 
+    },
+    {
+        "id": "dataset-438",
+        "provider": "Disastercenter.com",
+        "title": "Illinois Crime Rates",
+        "alt_title":[],
+        "url": "http://www.disastercenter.com/crime/ilcrime.htm"
+    },
+    {
+        "id": "dataset-439",
+        "provider": "OpenData KC",
+        "title": "Kansas City Energy and Water Consumption data",
+        "alt_title":[
+            "KC Energy and Water Consumption data"
+        ],
+        "url": "https://data.kcmo.org/browse?q=Water%20Consumption&sortBy=relevance"
     }
 ]
