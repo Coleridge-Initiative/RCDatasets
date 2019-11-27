@@ -4889,7 +4889,7 @@
             "KC Energy and Water Consumption data"
         ],
         "url": "https://data.kcmo.org/browse?q=Water%20Consumption&sortBy=relevance"
-    }
+    },
     {
         "id": "dataset-440",
         "provider": "National Center for Education Statistics",
@@ -5060,8 +5060,8 @@
             "GSS",
             "Social Survey"
         ],
-        "url": "Survey of national perspective on what Americans think and feel about such issues as national spendi​ng priorities, crime and punishment, intergroup relations, and confidence in institutions.",
-        "description": ""
+        "url": "https://gss.norc.org/get-the-data",
+        "description": "Survey of national perspective on what Americans think and feel about such issues as national spendi​ng priorities, crime and punishment, intergroup relations, and confidence in institutions."
     },
     {
         "id": "dataset-455",
@@ -5251,17 +5251,6 @@
         "description": "Longitudinal study where over 7,000 students in 79 schools were randomly assigned into one of three interventions: small class (13 to 17 students per teacher), regular class (22 to 25 students per teacher), and regular-with-aide class (22 to 25 students with a full-time teacher's aide). Classroom teachers were also randomly assigned to the classes they would teach. The interventions were initiated as the students entered school in kindergarten and continued through third grade."
     },
     {
-        "id": "dataset-472",
-        "provider": "National Science Foundation",
-        "title": "Survey of Doctorate Recipients",
-        "alt_title": [
-            "SDR",
-            "NSF Survey"
-        ],
-        "url": "https://www.nsf.gov/statistics/srvydoctoratework/#tabs-2&micro",
-        "description": "Provides demographic, education, and career history information from individuals with a U.S. research doctoral degree in a science, engineering, or health (SEH) field."
-    },
-    {
         "id": "dataset-473",
         "provider": "U.S. Department of Education",
         "title": "Early Childhood Longitudinal Study, Kindergarten Class of 1998-99",
@@ -5282,16 +5271,6 @@
         ],
         "url": "https://www.n-r-c.com/surveys-consulting/the-national-employee-survey/",
         "description": "A complete assessment tool to help local governments answer tough questions about the workplace. The NES presents findings across ten dimensions of the employee experience. This survey provides benchmarking against results from other local government employees across the U.S. The NES also explores how employees perceive the community in which they work, providing insight into how the work they do impacts the community at large."
-    },
-    {
-        "id": "dataset-475",
-        "provider": "Princeton University",
-        "title": "Fragile Families and Child Wellbeing Study",
-        "alt_title": [
-            "FFCWS"
-        ],
-        "url": "https://fragilefamilies.princeton.edu/documentation",
-        "description": "The core Study was originally designed to primarily address four questions of great interest to researchers and policy makers: (1) What are the conditions and capabilities of unmarried parents, especially fathers?; (2) What is the nature of the relationships between unmarried parents?; (3) How do children born into these families fare?; and (4) How do policies and environmental conditions affect families and children?"
     },
     {
         "id": "dataset-476",
@@ -5398,5 +5377,5 @@
         ],
         "url": "https://nces.ed.gov/surveys/b&b/datainfo.asp",
         "description": "Examines students’ education and work experiences after they complete a bachelor’s degree, with a special emphasis on the experiences of new elementary and secondary teachers."
-    },
+    }
 ]
