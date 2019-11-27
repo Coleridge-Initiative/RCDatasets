@@ -4848,4 +4848,513 @@
         ],
         "url": "https://data.kcmo.org/browse?q=Water%20Consumption&sortBy=relevance"
     }
+    {
+        "id": "dataset-440",
+        "provider": "National Center for Education Statistics",
+        "title": "International Adult Literacy Survey",
+        "alt_title": [
+            "IALS",
+            "Literacy Survey",
+            "Adult Literacy"
+        ],
+        "url": "https://nces.ed.gov/surveys/ials/data.asp",
+        "description": "Measures prose literacy (understanding information from text materials), document literacy (ability to use information from various formats), and quantitative literacy (applying arithmetic operations)."
+    },
+    {
+        "id": "dataset-441",
+        "provider": "University of Wisconsin - Madison, Institute on Aging",
+        "title": "National Survey of Midlife Development in the United States",
+        "alt_title": [
+            "Midlife in the United States",
+            "MIDUS",
+            "ICPSR",
+            "Institute on Aging"
+        ],
+        "url": "http://midus.wisc.edu/data/index.php",
+        "description": "Investigates the role of behavioral, psychological, and social factors in accounting for age-related variations in health and well-being."
+    },
+    {
+        "id": "dataset-442",
+        "provider": "Harvard Dataverse",
+        "title": "Beginning School Study",
+        "alt_title": [
+            "BSS",
+            "Baltimore City Public Schools",
+            "BCPS",
+            "Murray Archive"
+        ],
+        "url": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=hdl:1902.1/01293",
+        "description": "Longitudinal study of children's academic and social development beginning in first grade and continuing through high school and beyond."
+    },
+    {
+        "id": "dataset-443",
+        "provider": "U.S. Department of Labor",
+        "title": "Occupational Information Network",
+        "alt_title": [
+            "ONET",
+            "O*NET"
+        ],
+        "url": "https://www.onetonline.org/find/descriptor/browse",
+        "description": "Detailed descriptions of the world of work for use by job seekers, workforce development and HR professionals, students, researchers, and more."
+    },
+    {
+        "id": "dataset-444",
+        "provider": "U.S. Department of Labor",
+        "title": "Dictionary of Occupational Titles",
+        "alt_title": [
+            "DOT"
+        ],
+        "url": "https://occupationalinfo.org/dot_search.html",
+        "description": "Standard reference in several types of cases adjudicated by the Office of Administrative Law Judges, especially labor-related immigration cases. The DOT is being replaced by the O*NET."
+    },
+    {
+        "id": "dataset-445",
+        "provider": "European Research Infrastructure Consortium",
+        "title": "European Social Survey",
+        "alt_title": [
+            "ESS",
+            "Social Survey",
+            "ESS ERIC",
+            "ERIC"
+        ],
+        "url": "https://www.europeansocialsurvey.org/data/",
+        "description": "Biennial cross-national survey of attitudes and behaviour established in 2001. The ESS uses cross-sectional, probability samples which are representative of all persons aged 15 and over resident within private households in each country."
+    },
+    {
+        "id": "dataset-446",
+        "provider": "National Center for Education Statistics",
+        "title": "National Longitudinal Study of 1972",
+        "alt_title": [
+            "NLS-72"
+        ],
+        "url": "https://nces.ed.gov/surveys/nls72/data.asp",
+        "description": "Describes the transition of young adults from high school through postsecondary education and the workplace. The data span 1972 through 1986."
+    },
+    {
+        "id": "dataset-447",
+        "provider": "U.S. Bureau of Labor Statistics",
+        "title": "National Longitudinal Survey of Young Women",
+        "alt_title": [
+            "NLS-YW",
+            "NLSW",
+            "Young Women Survey"
+        ],
+        "url": "https://www.bls.gov/nls/nlsorig.htm",
+        "description": "NLS of Young women was comprised of women in their teen and early 20s who were completing school, making initial career and job decisions, and starting families."
+    },
+    {
+        "id": "dataset-448",
+        "provider": "National Science Foundation",
+        "title": "National Survey of College Graduates",
+        "alt_title": [
+            "NSCG",
+            "NSF",
+            "College Graduate data"
+        ],
+        "url": "https://www.nsf.gov/statistics/srvygrads/?#tabs-2&micro",
+        "description": "Repeated cross-sectional biennial survey that provides data on the nation's college graduates, with a focus on those in the science and engineering workforce."
+    },
+    {
+        "id": "dataset-449",
+        "provider": "U.S. Bureau of Labor Statistics",
+        "title": "National Longitudinal Survey of Young Men",
+        "alt_title": [
+            "NLS-YM",
+            "NLSM"
+        ],
+        "url": "https://www.bls.gov/nls/oldyoungmen.htm",
+        "description": "Surveys of the young men traced in detail their educational experiences including a separate survey of respondents' high schools, training investments, and career choices, as well as marital and fertility histories."
+    },
+    {
+        "id": "dataset-450",
+        "provider": "Centers for Disaease Control and Prevention",
+        "title": "Behavioral Risk Factor Surveillance System",
+        "alt_title": [
+            "BRFSS"
+        ],
+        "url": "https://www.cdc.gov/brfss/data_documentation/index.htm",
+        "description": "System of health-related telephone surveys that collect state data about U.S. residents regarding their health-related risk behaviors, chronic health conditions, and use of preventive services."
+    },
+    {
+        "id": "dataset-451",
+        "provider": "U.S. Bureau of Labor Statistics",
+        "title": "National Longitudinal Survey of Youth 1979",
+        "alt_title": [
+            "NLSY79",
+            "Youth Survey",
+            "1979 Survey"
+        ],
+        "url": "https://www.nlsinfo.org/investigator/pages/search.jsp?s=NLSY79",
+        "description": "NLSY79 Cohort is a longitudinal project that follows the lives of a sample of American youth born between 1957-64."
+    },
+    {
+        "id": "dataset-452",
+        "provider": "Maastricht University",
+        "title": "Research into Employment and Professional Flexibility Survey",
+        "alt_title": [
+            "REFLEX",
+            "Europe graduates",
+            "European higher education"
+        ],
+        "url": "https://easy.dans.knaw.nl/ui/datasets/id/easy-dataset:34416/tab/2",
+        "description": "A survey among higher education graduates in fifteen European countries."
+    },
+    {
+        "id": "dataset-453",
+        "provider": "European Commission Eurostat",
+        "title": "European Union Labour Force Survey",
+        "alt_title": [
+            "EULFS",
+            "Eurostat"
+        ],
+        "url": "https://www.gesis.org/en/missy/metadata/EU-LFS/",
+        "description": "Large household sample survey providing quarterly results on labour participation of people aged 15 and over as well as on persons outside the labour force. The data is commonly broken down by age, sex, education level, economic activity and occupation where applicable."
+    },
+    {
+        "id": "dataset-454",
+        "provider": "NORC University of Chicago",
+        "title": "General Social Survey",
+        "alt_title": [
+            "GSS",
+            "Social Survey"
+        ],
+        "url": "Survey of national perspective on what Americans think and feel about such issues as national spendi​ng priorities, crime and punishment, intergroup relations, and confidence in institutions.",
+        "description": ""
+    },
+    {
+        "id": "dataset-455",
+        "provider": "NORC University of Chicago",
+        "title": "Quality of Worklife Survey",
+        "alt_title": [
+            "QWL",
+            "Worklife Survey",
+            "Worklife Quality"
+        ],
+        "url": "http://gss.norc.org/Get-The-Data",
+        "description": "Gathers data on contemporary American society in order to monitor and explain trends and constants in attitudes, behaviors, and attributes since 1972."
+    },
+    {
+        "id": "dataset-456",
+        "provider": "",
+        "title": "Survey of Economic Opportunity, 1967",
+        "alt_title": [
+            "SEO60",
+            "SEO67"
+        ],
+        "url": "https://catalog.archives.gov/id/1272709",
+        "description": "This series consists of a file containing response data from a representative national sample of 22,284 households and an over sample of 15,760 households in census enumeration districts with large non-white populations. Data are reported for the households, families, and individuals (persons and adults)."
+    },
+    {
+        "id": "dataset-457",
+        "provider": "University College London ESRC Centre for Time Use Research",
+        "title": "American Heritage Time Use Study",
+        "alt_title": [
+            "AHTUS",
+            "Time Use Study",
+            "Time Use Survey"
+        ],
+        "url": "https://www.timeuse.org/ahtus/data",
+        "description": "Database of national time-diary samples collected over six decades, includes harmonised background, activity, location, mode of transport and who else was present variables. "
+    },
+    {
+        "id": "dataset-458",
+        "provider": "Center for Demography University of Wisconsin",
+        "title": "National Survey of Families and Household",
+        "alt_title": [
+            "NSFH",
+            "Survey of Families and Households"
+        ],
+        "url": "https://www.ssc.wisc.edu/nsfh/",
+        "description": "Provides a broad range of information (family living arrangements in childhood, departures and returns to the parental home, and histories of marriage, cohabitation, education, fertility, and employment) on family life to serve as a resource for research across disciplinary perspectives."
+    },
+    {
+        "id": "dataset-459",
+        "provider": "National Center for Education Statistics - U.S. Department of Education",
+        "title": "Program for International Student Assessment",
+        "alt_title": [
+            "PISA",
+            "NCES PISA"
+        ],
+        "url": "https://nces.ed.gov/surveys/pisa/datafiles.asp",
+        "description": "International assessment that measures 15-year-old students' reading, mathematics, and science literacy every three years."
+    },
+    {
+        "id": "dataset-460",
+        "provider": "National Center for Education Statistics - U.S. Department of Education",
+        "title": "National Education Longitudinal Study of 1988",
+        "alt_title": [
+            "NELS",
+            "NELS88",
+            "NELS 1988"
+        ],
+        "url": "https://nces.ed.gov/surveys/nels88/data_products.asp",
+        "description": "Nationally representative, longitudinal study of 8th graders in 1988. Sample of students followed throughout secondary and postsecondary years. Surveys of students reporting on school, work, home experiences, educational resources and support, the role in education of parents and peers, neighborhood characteristics, educational and occupational aspirations, and other student perceptions."
+    },
+    {
+        "id": "dataset-461",
+        "provider": "Centers for Disaease Control and Prevention",
+        "title": "Linked Birth and Infant Death Data",
+        "alt_title": [
+            "LBIDD",
+            "National Vital Statistics System"
+        ],
+        "url": "https://www.cdc.gov/nchs/nvss/linked-birth.htm#Microdata",
+        "description": "The linked birth and infant death data set is a valuable tool for monitoring and exploring the complex inter-relationships between infant death and risk factors present at birth."
+    },
+    {
+        "id": "dataset-462",
+        "provider": "U.S. Census Bureau",
+        "title": "National Longitudinal Mortality Study",
+        "alt_title": [
+            "NLMS"
+        ],
+        "url": "https://www.census.gov/did/www/nlms/publications/public.html",
+        "description": "The NLMS is a national, longitudinal, mortality study for the purpose of studying the effects of differentials in demographic and socio-economic characteristics on mortality."
+    },
+    {
+        "id": "dataset-463",
+        "provider": "",
+        "title": "Americans’ Changing Lives",
+        "alt_title": [
+            "ACL"
+        ],
+        "url": "https://www.icpsr.umich.edu/icpsrweb/NACDA/studies/4690/summary",
+        "description": "Nationally representative longitudinal study of the role of a broad range of social, psychological, and behavioral factors (along with aspects of medical care and environmental exposure) in health and the way health changes with age over the adult life course."
+    },
+    {
+        "id": "dataset-464",
+        "provider": "U.S. Department of Health and Human Services",
+        "title": "NICHD Study of Early Child Care and Youth Development",
+        "alt_title": [
+            "SECCYD",
+            "NICHD"
+        ],
+        "url": "https://www.icpsr.umich.edu/icpsrweb/ICPSR/series/00233",
+        "description": "Researchers analyzed how different child care arrangements related to measurements of the children's health, behavior, school performance, and other indicators of development in infancy, early childhood, middle childhood, and middle adolescence."
+    },
+    {
+        "id": "dataset-465",
+        "provider": "University of Wisconsin Madison",
+        "title": "Wisconsin Longitudinal Study",
+        "alt_title": [
+            "WLS"
+        ],
+        "url": "https://www.ssc.wisc.edu/wlsresearch/data/",
+        "description": "Long-term study of a random sample of 10,317 men and women who graduated from Wisconsin high schools in 1957. The WLS provides an opportunity to study the life course, intergenerational transfers and relationships, family functioning, physical and mental health and well-being, and morbidity and mortality from late adolescence through 2011. WLS data also cover social background, youthful aspirations, schooling, military service, labor market experiences, family characteristics and events, social participation, psychological characteristics and retirement."
+    },
+    {
+        "id": "dataset-466",
+        "provider": "U.K. Medical Research Council",
+        "title": "MRC National Survey of Health and Development",
+        "alt_title": [
+            "NSHD",
+            "MRC",
+            "MRC NSHD"
+        ],
+        "url": "https://www.nshd.mrc.ac.uk/data/",
+        "description": "Includes data from birth on the health and social circumstances of a representative sample (N=5362) of men and women born in England, Scotland or Wales in March 1946."
+    },
+    {
+        "id": "dataset-467",
+        "provider": "University College London Institute of Education",
+        "title": "1958 National Child Development Study",
+        "alt_title": [
+            "NCDS",
+            "NCDS58",
+            "1958 NCDS"
+        ],
+        "url": "https://beta.ukdataservice.ac.uk/datacatalogue/series/series?id=2000032",
+        "description": "Longitudinal study that seeks to follow the lives of all those living in Great Britain who were born in one particular week in 1958. Conducted by the Centre for Longitudinal Studies (CLS), the aim of the study is to improve understanding of the factors affecting human development over the whole lifespan. It collects information on physical and educational development, economic circumstances, employment, family life, health behaviour, wellbeing, social participation and attitudes."
+    },
+    {
+        "id": "dataset-468",
+        "provider": "University College London Institute of Education",
+        "title": "1970 British Cohort Study",
+        "alt_title": [
+            "BCS70",
+            "BCS"
+        ],
+        "url": "https://beta.ukdataservice.ac.uk/datacatalogue/series/series?id=200001",
+        "description": "The 1970 British Cohort Study (BCS70) is following the lives of around 17,000 people born in England, Scotland and Wales in a single week of 1970. Information has been collected on health, physical, educational and social development, and economic circumstances among other factors."
+    },
+    {
+        "id": "dataset-469",
+        "provider": "International Social Survey Programme",
+        "title": "International Social Survey Programme",
+        "alt_title": [
+            "ISSP"
+        ],
+        "url": "http://w.issp.org/data-download/by-year/",
+        "description": "ISSP is a cross-national collaboration programme conducting annual surveys on diverse topics relevant to social sciences."
+    },
+    {
+        "id": "dataset-470",
+        "provider": "University College London Institute of Education",
+        "title": "U.K. Time Use Survey",
+        "alt_title": [
+            "UKTUS"
+        ],
+        "url": "https://beta.ukdataservice.ac.uk/datacatalogue/series/series?id=2000054",
+        "description": "Large-scale household survey that provides data on how people aged 8 years and over in the UK spend their time."
+    },
+    {
+        "id": "dataset-471",
+        "provider": "",
+        "title": "Tennessee's Student Teacher Achievement Ratio (STAR) project",
+        "alt_title": [
+            "STAR",
+            "Tennessee STAR"
+        ],
+        "url": "https://dataverse.harvard.edu/dataset.xhtml;jsessionid=df148da02f943c87386171e7c235?persistentId=hdl%3A1902.1%2F10766&version=&q=&fileTypeGroupFacet=%22Tabular+Data%22&fileAccess=&fileTag=&fileSortField=&fileSortOrder=",
+        "description": "Longitudinal study where over 7,000 students in 79 schools were randomly assigned into one of three interventions: small class (13 to 17 students per teacher), regular class (22 to 25 students per teacher), and regular-with-aide class (22 to 25 students with a full-time teacher's aide). Classroom teachers were also randomly assigned to the classes they would teach. The interventions were initiated as the students entered school in kindergarten and continued through third grade."
+    },
+    {
+        "id": "dataset-472",
+        "provider": "National Science Foundation",
+        "title": "Survey of Doctorate Recipients",
+        "alt_title": [
+            "SDR",
+            "NSF Survey"
+        ],
+        "url": "https://www.nsf.gov/statistics/srvydoctoratework/#tabs-2&micro",
+        "description": "Provides demographic, education, and career history information from individuals with a U.S. research doctoral degree in a science, engineering, or health (SEH) field."
+    },
+    {
+        "id": "dataset-473",
+        "provider": "U.S. Department of Education",
+        "title": "Early Childhood Longitudinal Study, Kindergarten Class of 1998-99",
+        "alt_title": [
+            "ECLS-K",
+            "ECLS-K 1998",
+            "ECLS-K 1999"
+        ],
+        "url": "https://nces.ed.gov/ecls/dataproducts.asp",
+        "description": "Focuses on children's early school experiences beginning with kindergarten and following children through middle school. The ECLS-K data provide descriptive information on children's status at entry to school, their transition into school, and their progression through 8th grade. The longitudinal nature of the ECLS-K data enables researchers to study how a wide range of family, school, community, and individual factors are associated with school performance."
+    },
+    {
+        "id": "dataset-474",
+        "provider": "National Research Center",
+        "title": "National Employee Surveys",
+        "alt_title": [
+            "NES"
+        ],
+        "url": "https://www.n-r-c.com/surveys-consulting/the-national-employee-survey/",
+        "description": "A complete assessment tool to help local governments answer tough questions about the workplace. The NES presents findings across ten dimensions of the employee experience. This survey provides benchmarking against results from other local government employees across the U.S. The NES also explores how employees perceive the community in which they work, providing insight into how the work they do impacts the community at large."
+    },
+    {
+        "id": "dataset-475",
+        "provider": "Princeton University",
+        "title": "Fragile Families and Child Wellbeing Study",
+        "alt_title": [
+            "FFCWS"
+        ],
+        "url": "https://fragilefamilies.princeton.edu/documentation",
+        "description": "The core Study was originally designed to primarily address four questions of great interest to researchers and policy makers: (1) What are the conditions and capabilities of unmarried parents, especially fathers?; (2) What is the nature of the relationships between unmarried parents?; (3) How do children born into these families fare?; and (4) How do policies and environmental conditions affect families and children?"
+    },
+    {
+        "id": "dataset-476",
+        "provider": "U.S. Bureau of Labor Statistics",
+        "title": "National Longitudinal Survey of Youth 1997",
+        "alt_title": [
+            "NLSY97",
+            "NLSY 1997",
+            "NLSY"
+        ],
+        "url": "https://www.nlsinfo.org/investigator/pages/search.jsp?s=NLSY97",
+        "description": "Longitudinal project that follows the lives of a sample of American youth born between 1980-84; 8,984 respondents were ages 12-17 when first interviewed in 1997. This ongoing cohort has been surveyed 17 times to date and is now interviewed biennially."
+    },
+    {
+        "id": "dataset-477",
+        "provider": "Motivation and Identity Research Lab, University of California, Irvine",
+        "title": "The Michigan Study of Adolescent and Adult Life Transitions",
+        "alt_title": [
+            "MSALT"
+        ],
+        "url": "http://garp.education.uci.edu/msalt---for-researchers.html",
+        "description": "Longitudinal study begun in 1983 of adolescent development with a group of fifth and sixth graders recruited from 10 different school districts in Southeastern Michigan."
+    },
+    {
+        "id": "dataset-478",
+        "provider": "Google, Alphabet Inc.",
+        "title": "Google Trends",
+        "alt_title": [
+            "Trends"
+        ],
+        "url": "https://trends.google.com/trends/?geo=US",
+        "description": "Tool to explore what various world populations are searching on Google."
+    },
+    {
+        "id": "dataset-479",
+        "provider": "Federal Institute for Vocational Education and Training",
+        "title": "German BIBB/IAB- and BIBB/BAuA Surveys on Qualifications and Working Conditions",
+        "alt_title": [
+            "SQWC",
+            "BIBB",
+            "IAB",
+            "BAuA"
+        ],
+        "url": "https://www.gesis.org/en/institute/departments/data-archive-for-the-social-sciences/",
+        "description": "Surveys are representative labour force cross-sections on qualification and working conditions in Germany each covering between 20,000 - 35,000 individuals. Major concerns of these surveys are to measure qualifications, career history, and detailed job characteristics in the German labour force."
+    },
+    {
+        "id": "dataset-480",
+        "provider": "Bureau of Labor Statistics",
+        "title": "Occupational Employment Statistics",
+        "alt_title": [
+            "OES"
+        ],
+        "url": "https://www.bls.gov/oes/#data",
+        "description": "The OES program produces employment and wage estimates annually for over 800 occupations. These estimates are available for the nation as a whole, for individual states, and for metropolitan and nonmetropolitan areas; national occupational estimates for specific industries are also available."
+    },
+    {
+        "id": "dataset-481",
+        "provider": "Princeton University",
+        "title": "Texas Higher Education Opportunity Project",
+        "alt_title": [
+            "THEOP"
+        ],
+        "url": "https://opr.princeton.edu/archive/theop/",
+        "description": "Investigates college planning and enrollment behavior under a policy that guarantees high school seniors who graduate in the top 10% of their class admission to any Texas public college or university."
+    },
+    {
+        "id": "dataset-482",
+        "provider": "Families and Work Institute",
+        "title": "National Study of the Changing Workforce",
+        "alt_title": [
+            "NSCW"
+        ],
+        "url": "https://www.familiesandwork.org/national-study-for-the-changing-workforce/",
+        "description": "Major study of the U.S. workforce that takes a comprehensive look at employees’ lives both on and off the job. Conducted every five to six years, the NSCW is the only ongoing, nationally representative survey of a large sample of U.S. workers and has tracked emerging trends essential to attracting, engaging and retaining top talent for more than three decades."
+    },
+    {
+        "id": "dataset-483",
+        "provider": "World Values Survey Association",
+        "title": "World Values Survey",
+        "alt_title": [
+            "WVS"
+        ],
+        "url": "http://www.worldvaluessurvey.org/WVSContents.jsp",
+        "description": "Global research project that explores people's values and beliefs, how they change over time, and what social and political impact they have. WVS measures, monitors and analyzes: support for democracy, tolerance of foreigners and ethnic minorities, support for gender equality, the role of religion and changing levels of religiosity, the impact of globalization, attitudes toward the environment, work, family, politics, national identity, culture, diversity, insecurity, and subjective well-being."
+    },
+    {
+        "id": "dataset-484",
+        "provider": "Johns Hopkins University",
+        "title": "Pathways to Adulthood: A Three-Generation Urban Study, 1960-1994",
+        "alt_title": [
+            "PA3G"
+        ],
+        "url": "https://www.icpsr.umich.edu/web/HMCA/studies/2420/datadocumentation",
+        "description": "This collection incorporates both prospective and retrospective data on three generations of families initially living in inner-city Baltimore, Maryland. "
+    },
+    {
+        "id": "dataset-485",
+        "provider": "U.S. Department of Education",
+        "title": "Baccalaureate and Beyond Longitudinal Study 1993",
+        "alt_title": [
+            "B&B93",
+            "B&B 1993"
+        ],
+        "url": "https://nces.ed.gov/surveys/b&b/datainfo.asp",
+        "description": "Examines students’ education and work experiences after they complete a bachelor’s degree, with a special emphasis on the experiences of new elementary and secondary teachers."
+    },
 ]
