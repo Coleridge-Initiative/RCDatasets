@@ -1309,6 +1309,48 @@
         "description": "Temporary Assistance for Needy Families (TANF) provides temporary cash for families in need."
     },
     {
+    "id": "dataset-111",
+    "provider": "Pennsylvania Department of Human Services",
+    "title": "Transitional Work Corporation",
+    "alt_title": [
+        "Philadelphia Transitional Work Corporation",
+        "TWC"
+    ],
+    "url": "http://nationalinitiatives.issuelab.org/resources/16855/16855.pdf",
+    "description": "The primary relationship for participants in the Transitional Work Corporation’s Program, Philadelphia@Work (P@W), is with a Career Advisor. The Career Advisor will guide the participant through the transitional work experience and provide continued support through the first six months of permanent employment."
+    },
+
+    {
+    "id": "dataset-114",
+    "provider": "Mississippi Department of Human Services",
+    "title": "Mississippi Temporary Assistance to Needy Families",
+    "alt_title": [
+        "TANF",
+        "Mississippi TANF",
+        "Temporary Assistance to Needy Families",
+        "Aid to Dependent Families with Children",
+        "Mississippi Aid to Dependent Families with Children",
+        "Mississippi AFDC",
+        "AFDC"
+    ],
+    "url": "https://www.mdhs.ms.gov/economic-assistance/tanf/",
+    "description": "The TANF Program provides benefits for families with needy children under age 18. The TANF Program is designed to help needy families achieve self-sufficiency through employment and training activities provided by the TANF Work Program (TWP). TANF supportive services such as assistance with child care and transportation expenses are available to help the adults in the family prepare for employment and to promote self-sufficiency."
+    },
+    {
+    "id": "dataset-115",
+    "provider": "Mississippi Department of Human Services",
+    "title": "State of Mississippi Supplemental Nutrition Assistance Program",
+    "alt_title": [
+        "SNAP",
+        "Mississippi SNAP",
+        "Mississippi Supplemental Nutrition Assistance Program",
+        "Supplemental Nutrition Assistance Program",
+        "State of Mississippi SNAP"
+    ],
+    "url": "https://fred.stlouisfed.org/series/BRMS28M647NCEN",
+    "description": "SNAP offers food benefits to eligible, low-income individuals and families."
+},
+    {
         "id": "dataset-116",
         "provider": "Mississippi Department of Employment Services",
         "title": "Mississippi Unemployment Insurance",
@@ -4741,7 +4783,10 @@
           "Federal RePORTER"
       ],
       "url": "https://www.nsf.gov/statistics/srvyherd/",
-      "description": "The survey collects information on R&D expenditures by field of research and source of funds and also gathers information on types of research, expenses, and headcounts of R&D personnel."
+      "description": "The survey collects information on R&D expenditures by field of research and source of funds and also gathers information on types of research, expenses, and headcounts of R&D personnel.",
+      "original":{
+          "joins_to":["dataset-493"]
+      }
     },
     { 
         "id": "dataset-429",
@@ -5018,8 +5063,8 @@
             "GSS",
             "Social Survey"
         ],
-        "url": "Survey of national perspective on what Americans think and feel about such issues as national spendi​ng priorities, crime and punishment, intergroup relations, and confidence in institutions.",
-        "description": ""
+        "url": "https://gss.norc.org/get-the-data",
+        "description": "Survey of national perspective on what Americans think and feel about such issues as national spendi​ng priorities, crime and punishment, intergroup relations, and confidence in institutions."
     },
     {
         "id": "dataset-455",
@@ -5209,17 +5254,6 @@
         "description": "Longitudinal study where over 7,000 students in 79 schools were randomly assigned into one of three interventions: small class (13 to 17 students per teacher), regular class (22 to 25 students per teacher), and regular-with-aide class (22 to 25 students with a full-time teacher's aide). Classroom teachers were also randomly assigned to the classes they would teach. The interventions were initiated as the students entered school in kindergarten and continued through third grade."
     },
     {
-        "id": "dataset-472",
-        "provider": "National Science Foundation",
-        "title": "Survey of Doctorate Recipients",
-        "alt_title": [
-            "SDR",
-            "NSF Survey"
-        ],
-        "url": "https://www.nsf.gov/statistics/srvydoctoratework/#tabs-2&micro",
-        "description": "Provides demographic, education, and career history information from individuals with a U.S. research doctoral degree in a science, engineering, or health (SEH) field."
-    },
-    {
         "id": "dataset-473",
         "provider": "U.S. Department of Education",
         "title": "Early Childhood Longitudinal Study, Kindergarten Class of 1998-99",
@@ -5240,16 +5274,6 @@
         ],
         "url": "https://www.n-r-c.com/surveys-consulting/the-national-employee-survey/",
         "description": "A complete assessment tool to help local governments answer tough questions about the workplace. The NES presents findings across ten dimensions of the employee experience. This survey provides benchmarking against results from other local government employees across the U.S. The NES also explores how employees perceive the community in which they work, providing insight into how the work they do impacts the community at large."
-    },
-    {
-        "id": "dataset-475",
-        "provider": "Princeton University",
-        "title": "Fragile Families and Child Wellbeing Study",
-        "alt_title": [
-            "FFCWS"
-        ],
-        "url": "https://fragilefamilies.princeton.edu/documentation",
-        "description": "The core Study was originally designed to primarily address four questions of great interest to researchers and policy makers: (1) What are the conditions and capabilities of unmarried parents, especially fathers?; (2) What is the nature of the relationships between unmarried parents?; (3) How do children born into these families fare?; and (4) How do policies and environmental conditions affect families and children?"
     },
     {
         "id": "dataset-476",
