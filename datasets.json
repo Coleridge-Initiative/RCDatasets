@@ -5380,5 +5380,160 @@
         ],
         "url": "https://nces.ed.gov/surveys/b&b/datainfo.asp",
         "description": "Examines students’ education and work experiences after they complete a bachelor’s degree, with a special emphasis on the experiences of new elementary and secondary teachers."
-    }
+    },
+    {
+        "id": "dataset-486",
+        "provider": "U.S. Department of Education",
+        "title": "Beginning Postsecondary Students Longitudinal Study 1990",
+        "alt_title": [
+            "BPS90"
+        ],
+        "url": "https://nces.ed.gov/surveys/bps/datainfo.asp",
+        "description": "BPS currently surveys cohorts of first-time, beginning students at three points in time: at the end of their first year, and then three and six years after first starting in postsecondary education. It collects data on a variety of topics, including student demographic characteristics, school and work experiences, persistence, transfer, and degree attainment."
+    },
+    {
+        "id": "dataset-487",
+        "provider": "U.S. Department of Education",
+        "title": "National Postsecondary Student Aid Study",
+        "alt_title": [
+            "NPSAS"
+        ],
+        "url": "https://nces.ed.gov/surveys/npsas/datainfo.asp",
+        "description": "NPSAS examines the characteristics of students in postsecondary education, with special focus on how they finance their education."
+    },
+    {
+        "id": "dataset-488",
+        "provider": "U.S. Department of Education",
+        "title": "National Assessment of Adult Literacy",
+        "alt_title": [
+            "NAAL",
+            "NALS"
+        ],
+        "url": "https://nces.ed.gov/naal/datafiles.asp",
+        "description": "Nationally representative assessment of English literacy among American adults age 16 and older. NAAL not only provides information on adults' literacy performance but also on related background characteristics that are of interest to researchers, practitioners, policymakers, and the general public."
+    },
+    {
+        "id": "dataset-489",
+        "provider": "U.S. Department of Education",
+        "title": "High School and Beyond",
+        "alt_title": [
+            "HS&B"
+        ],
+        "url": "https://nces.ed.gov/datalab/index.aspx",
+        "description": "Longitudinal study focused on students' trajectories after leaving high school into postsecondary education, the workforce, and beyond, and the factors which influence the students' educational and career outcomes after passing through the American educational system."
+    },
+    {
+        "id": "dataset-490",
+        "provider": "Inter-university Consortium for Political and Social Research",
+        "title": "Occupational Changes in a Generation, 1962 and 1973",
+        "alt_title": [
+            "OCG",
+            "ICPSR 6162",
+            "ICPSR"
+        ],
+        "url": "https://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/06162/datadocumentation",
+        "description": "Data were collected to study the effect of men's backgrounds on their careers. This file was designed to facilitate carrying out comparative analyses of the 1962 and 1973 data. Variables include respondent's age, employment history, military service (1973 only), marital history, ethnicity, income, education, and (in 1962 only) number of children. Also included is information about educational attainment and occupation of the head of the household."
+    },
+    {
+        "id": "dataset-491",
+        "provider": "Higher Education Research Institute at UCLA",
+        "title": "Cooperative Institutional Research Program Freshman Survey",
+        "alt_title": [
+            "CIRP",
+            "TFS",
+            "HERI"
+        ],
+        "url": "https://www.drcsurveys.com/heriregistration/landingpage.aspx",
+        "description": "CIRP Freshman Survey is designed for administration to incoming first-year students before they start classes at your institution. The instrument collects extensive information that allows for a snapshot of what your incoming students are like before they experience college."
+    },
+    {
+        "id": "dataset-492",
+        "provider": "U.S. Census Bureau",
+        "title": "Annual Survey of Manufactures",
+        "alt_title": [
+            "ASM"
+        ],
+        "url": "https://www.census.gov/programs-surveys/asm/data.html",
+        "description": "The Annual Survey of Manufactures (ASM) provides sample estimates of statistics for all manufacturing establishments with one or more paid employee."
+    },
+    {
+        "id": "dataset-493",
+        "provider": "National Science Foundation",
+        "title": "Integrated Postsecondary Education Data System Survey",
+        "alt_title": [
+            "IPEDS"
+        ],
+        "url": "https://ncsesdata.nsf.gov/ids/ipeds_c",
+        "description": "Integrated Postsecondary Education Data System (IPEDS) is an integrated system of surveys conducted by the National Center for Education Statistics. The Completions Survey is the survey within this system designed to collect information on the number and types of degrees awarded by U.S. postsecondary institutions and to collect information on the characteristics of degree recipients."
+    },
+    {
+        "id": "dataset-494",
+        "provider": "National Science Foundation",
+        "title": "Science and Engineering Research Facilities Survey",
+        "alt_title": [
+            "SERFS"
+        ],
+        "url": "https://ncsesdata.nsf.gov/ids/fac",
+        "description": "Survey of Science and Engineering Research Facilities is a congressionally mandated, biennial survey that collects data on the amount, construction, repair, renovation, and funding of research facilities, as well as the computing and networking capacities at U.S. colleges and universities. "
+    },
+    {
+        "id": "dataset-495",
+        "provider": "National Center for Education Statistics",
+        "title": "Higher Education General Information Survey",
+        "alt_title": [
+            "HEGIS"
+        ],
+        "url": "https://nces.ed.gov/ipeds/use-the-data",
+        "description": "Designed to provide comprehensive information on various aspects of postsecondary education in the United States and its territories (American Samoa, Guam, Puerto Rico, the Virgin Islands, and the Marshall Islands) and Department of Defense schools outside the United States. Data are available for both public and private two-year and four-year institutions."
+    },
+    {
+        "id": "dataset-496",
+        "provider": "National Institutes of Health",
+        "title": "Monitoring the Future",
+        "alt_title": [
+            "MTF"
+        ],
+        "url": "http://monitoringthefuture.org/data/17data.html#2017data-drugs",
+        "description": "MTF survey has measured drug and alcohol use and related attitudes among adolescent students nationwide. Survey participants report their drug use behaviors across three time periods: lifetime, past year, and past month."
+    },
+    {
+        "id": "dataset-497",
+        "provider": "Interuniversity Consortium for Political and Social Research",
+        "title": "Eurobarometer",
+        "alt_title": [
+            "Eurobarometer"
+        ],
+        "url": "https://www.gesis.org/eurobarometer-data-service/search-data-access/data-access",
+        "description": "These surveys cover a wide range of issues, focusing on citizens' perceptions and expectations towards EU action, and the main challenges the Union is facing. The surveys also measure in detail citizens’ attitudes towards the EU and the European Parliament, while also keeping a close eye on the public’s views on the European elections."
+    },
+    {
+        "id": "dataset-498",
+        "provider": "Bureau of Labor Statistics",
+        "title": "National Longitudinal Survey 1979 Children and Young Adults",
+        "alt_title": [
+            "NLSY79CYA"
+        ],
+        "url": "https://www.nlsinfo.org/investigator/pages/login.jsp?p=timeout",
+        "description": "In addition to all the mother's information from the NLSY79, the child survey includes assessments of each child as well as additional demographic and development information collected from either the mother or child. Information has been collected from the children biennially since 1988 on a variety of factors including child-parent interaction, attitudes toward schooling, dating and friendship patterns, religious attendance, health, substance use, and home responsibilities."
+    },
+    {
+        "id": "dataset-499",
+        "provider": "National Institutes of Health",
+        "title": "National Survey of Parents and Youth",
+        "alt_title": [
+            "NSPY"
+        ],
+        "url": "https://www.icpsr.umich.edu/icpsrweb/NAHDAP/studies/27868/datadocumentation",
+        "description": "Survey conducted to evaluate the National Youth Anti-Drug Media Campaign (Campaign). It focuses on the measurement of the outcomes and impact of Phase III of the Campaign on children and their parents concerning illegal drug use among youth."
+    }, 
+    {
+        "id": "dataset-500",
+        "provider": "U.S. Bureau of Labor Statistics",
+        "title": "National Longitudinal Survey of Mature and Young Women",
+        "alt_title": [
+            "NLS-MY"
+        ],
+        "url": "https://www.nlsinfo.org/investigator/pages/search.jsp?s=NLSW",
+        "description": " The Mature Women's cohort includes 5,083 women who were ages 30-44 when first interviewed in 1967, while the Young Women's cohort includes 5,159 women who were ages 14-24 when first interviewed in 1968."
+    }   
 ]
