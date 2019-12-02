@@ -4783,7 +4783,10 @@
           "Federal RePORTER"
       ],
       "url": "https://www.nsf.gov/statistics/srvyherd/",
-      "description": "The survey collects information on R&D expenditures by field of research and source of funds and also gathers information on types of research, expenses, and headcounts of R&D personnel."
+      "description": "The survey collects information on R&D expenditures by field of research and source of funds and also gathers information on types of research, expenses, and headcounts of R&D personnel.",
+      "original":{
+          "joins_to":["dataset-493"]
+      }
     },
     { 
         "id": "dataset-429",
