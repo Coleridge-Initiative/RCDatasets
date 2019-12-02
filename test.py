@@ -27,7 +27,8 @@ class TestVerifyDatasets (unittest.TestCase):
             "id",
             "provider",
             "title",
-            "url"
+            "url",
+            "original"
             ])
 
     PAT_ID_FORMAT = re.compile(r"^dataset\-(\d+)$")
@@ -130,6 +131,17 @@ class TestVerifyDatasets (unittest.TestCase):
         for dataset in self.datasets:
             self.has_clean_name(dataset, "title")
             self.has_clean_name(dataset, "provider")
+    
+    def test_related_datasets (self):
+        # if a dataset has an 'original' subdict that includes a `joins_to` field, check that the
+        # dataset exists in datasets.json
+        for dataset in self.datasets:
+            if 'original' in dataset.keys():
+                if 'joins_to' in dataset['original'].keys():
+                    for ds in dataset['original']['joins_to']:
+                        if ds not in list(set([f['id'] for f in self.datasets])):
+                            raise Exception("Metadata for {} indicates that the dataset can be joined to {}, but {} is not in datasets.json. Please update datasets.json or fix the metadata field joins_to".format(dataset['id'], ds,ds))
+                
 
 
 if __name__ == "__main__":
