@@ -5534,6 +5534,187 @@
             "NLS-MY"
         ],
         "url": "https://www.nlsinfo.org/investigator/pages/search.jsp?s=NLSW",
-        "description": " The Mature Women's cohort includes 5,083 women who were ages 30-44 when first interviewed in 1967, while the Young Women's cohort includes 5,159 women who were ages 14-24 when first interviewed in 1968."
-    }   
+        "description": "The Mature Women's cohort includes 5,083 women who were ages 30-44 when first interviewed in 1967, while the Young Women's cohort includes 5,159 women who were ages 14-24 when first interviewed in 1968."
+    },  
+    {
+        "id": "dataset-501",
+        "provider": "National Institutes of Health",
+        "title": "Aging, Status, and Sense of Control",
+        "alt_title": [
+            "ASOC"
+        ],
+        "url": "https://www.icpsr.umich.edu/icpsrweb/NACDA/studies/3334/datadocumentation",
+        "description": "ASOC was conducted during 1995, 1998 and 2001 and examined the relationship between age and changes in the sense of control over one's life. Part I contains data for Waves I and II. Respondents were queried about their physical health, including activities of daily living such as shopping, walking, and doing housework, along with medical conditions such as heart disease, high blood pressure, lung disease, breast cancer, diabetes, arthritis or rheumatism, osteoporosis, and allergies or asthma."
+    }, 
+    {
+        "id": "dataset-502",
+        "provider": "U.S. Census Bureau",
+        "title": "Survey of Natural and Social Scientists and Engineers",
+        "alt_title": [
+            "SSE"
+        ],
+        "url": "https://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/8898/datadocumentation",
+        "description": "This data collection focuses on persons engaged in the fields of natural science, social science, and engineering as well as in related occupations. The aim of the SSE was to gauge the effects of rapid development and innovation in science and technology during recent years on highly trained scientists and engineers in specific target occupations. "
+    }, 
+    {
+        "id": "dataset-503",
+        "provider": "Centers for Disease Control and Prevention",
+        "title": "National Nursing Assistant Survey",
+        "alt_title": [
+            "NNAS"
+        ],
+        "url": "ftp://ftp.cdc.gov/pub/Health_Statistics/NCHS/Datasets/NNAS/2004",
+        "description": "National Nursing Assistant Survey (NNAS) is the first national study of nursing assistants working in nursing facilities in the United States. The NNAS will look at the important role of nursing assistants in providing long-term care services for the growing elderly and chronically ill population."
+    }, 
+    {
+        "id": "dataset-504",
+        "provider": "Centers for Disease Control and Prevention",
+        "title": "National Survey of Family Growth",
+        "alt_title": [
+            "NSFG"
+        ],
+        "url": "https://www.cdc.gov/nchs/nsfg/nsfg_questionnaires.htm",
+        "description": "The National Survey of Family Growth (NSFG) gathers information on family life, marriage and divorce, pregnancy, infertility, use of contraception, and men’s and women’s health. The survey results are used by the U.S. Department of Health and Human Services and others to plan health services and health education programs, and to do statistical studies of families, fertility, and health."
+    }, 
+    {
+        "id": "dataset-505",
+        "provider": "Bureau of Labor Statistics",
+        "title": "Survey of Occupational Injuries and Illnesses",
+        "alt_title": [
+            "SOII"
+        ],
+        "url": "https://www.bls.gov/iif/soii-data.htm",
+        "description": "The survey is the only comprehensive measure of work-related injuries and illnesses in American workplaces. As such, it is relied on by employers, employees, public policy makers and researchers in their efforts to protect the American workforce and maintain its high level of productivity. The survey uses a scientific sampling approach to select employers to represent all industries and all sizes of establishments."
+    }, 
+    {
+        "id": "dataset-506",
+        "provider": "University of Michigan Institute for Social Research",
+        "title": "Health and Retirement Study",
+        "alt_title": [
+            "HRS"
+        ],
+        "url": "https://hrs.isr.umich.edu/data-products",
+        "description": "The Health and Retirement Study (HRS) is a longitudinal panel study that surveys a representative sample of approximately 20,000 people in America, supported by the National Institute on Aging (NIA U01AG009740) and the Social Security Administration."
+    }, 
+    {
+        "id": "dataset-507",
+        "provider": "Federal Reserve System",
+        "title": "Survey of Consumer Finance",
+        "alt_title": [
+            "SCF"
+        ],
+        "url": "https://www.federalreserve.gov/econres/scfindex.htm",
+        "description": "The Survey of Consumer Finances (SCF) is a triennial statistical survey of the balance sheet, pension, income and other demographic characteristics of families in the United States; the survey also gathers information on the use of financial institutions.["
+    }, 
+    {
+        "id": "dataset-508",
+        "provider": "U.S. Equal Employment Opportunity Commission",
+        "title": "Equal Employment Opportunity",
+        "alt_title": [
+            "EEO"
+        ],
+        "url": "https://www.eeoc.gov/eeoc/statistics/census/availability.html",
+        "description": "EEO data on agency public Web sites is intended to assist Congress, federal agencies, and the public to assess whether and the extent to which agencies are living up to their equal employment opportunity responsibilities."
+    }, 
+    {
+        "id": "dataset-509",
+        "provider": "The World Bank",
+        "title": "Living Standards Measurement Study",
+        "alt_title": [
+            "LSMS"
+        ],
+        "url": "https://microdata.worldbank.org/index.php/catalog/lsms",
+        "description": "The Living Standards Measurement Study (LSMS) is a household survey program housed within the Survey Unit of the World Bank's Development Data Group that provides technical assistance to national statistical offices (NSOs) in the design and implementation of multi-topic household surveys."
+    }, 
+    {
+        "id": "dataset-510",
+        "provider": "National Institute of Health",
+        "title": "India Human Development Survey",
+        "alt_title": [
+            "IHDS"
+        ],
+        "url": "https://www.ihds.umd.edu/data-documentation",
+        "description": "The India Human Development Survey (IHDS) is a nationally representative, multi-topic survey of 41,554 households in 1503 villages and 971 urban neighborhoods across India."
+    }, 
+    {
+        "id": "dataset-511",
+        "provider": "The World Bank",
+        "title": "South African Living Conditions Survey",
+        "alt_title": [
+            "LCS",
+            "SALCS"
+        ],
+        "url": "https://www.datafirst.uct.ac.za/dataportal/index.php/catalog/608",
+        "description": "South Africa's first Living Conditions Survey (LCS) was conducted by Statistics South Africa over a period of one year between 13 October 2014 and 25 October 2015. The main aim of this survey is to provide data that will contribute to a better understanding of living conditions and poverty in South Africa for monitoring levels of poverty over time."
+    }, 
+    {
+        "id": "dataset-512",
+        "provider": "U.S. Agency for International Development",
+        "title": "Demographic and Health Survey",
+        "alt_title": [
+            "DHS"
+        ],
+        "url": "http://api.dhsprogram.com/#/index.html",
+        "description": "Demographic and Health Surveys (DHS) are nationally-representative household surveys that provide data for a wide range of monitoring and impact evaluation indicators in the areas of population, health, and nutrition."
+    },
+    {
+        "id": "dataset-513",
+        "provider": "National Center for Education Statistics",
+        "title": "Trends in International Mathematics and Science Study",
+        "alt_title": [
+            "TIMSS"
+        ],
+        "url": "https://nces.ed.gov/timss/datafiles.asp",
+        "description": "The Trends in International Mathematics and Science Study (TIMSS) provides reliable and timely data on the mathematics and science achievement of U.S. students compared to that of students in other countries. TIMSS data have been collected from students at grades 4 and 8 since 1995 every 4 years, generally. In addition, TIMSS Advanced measures advanced mathematics and physics achievement in the final year of secondary school across countries."
+    },
+    {
+        "id": "dataset-514",
+        "provider": "University of Michigan Institute for Social Research",
+        "title": "Chinese Household Income Project",
+        "alt_title": [
+            "CHIP"
+        ],
+        "url": "https://www.icpsr.umich.edu/icpsrweb/ICPSR/series/243/studies",
+        "description": "The purpose of the Chinese Household Income Project was to measure and estimate the distribution of personal income in both rural and urban areas of the People's Republic of China. "
+    },
+    {
+        "id": "dataset-515",
+        "provider": "University of Pennsylvania Population Studies Center",
+        "title": "The Gansu Survey of Children and Families",
+        "alt_title": [
+            "GSCF"
+        ],
+        "url": "https://www.icpsr.umich.edu/icpsrweb/DSDR/studies/28661/datadocumentation",
+        "description": "The Gansu Survey of Children and Families (GSCF) is a longitudinal, multi-level study of rural children's welfare outcomes, including education, health, and psycho-social development."
+    },
+    {
+        "id": "dataset-516",
+        "provider": "",
+        "title": "Taiwan Youth Project",
+        "alt_title": [
+            "TYP"
+        ],
+        "url": "http://www.typ.sinica.edu.tw/E/?q=node/16",
+        "description": "The main goal of the Taiwan Youth Project is to understand the diverse growth trajectory of Taiwan's youth from early adolescence to young adulthood."
+    },
+    {
+        "id": "dataset-517",
+        "provider": "U.S. Department of Housing and Urban Development",
+        "title": "Moving to Opportunity",
+        "alt_title": [
+            "MTO"
+        ],
+        "url": "https://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/34563/datadocumentation",
+        "description": "Moving to Opportunity for Fair Housing (MTO) is a 10-year research demonstration that combines tenant-based rental assistance with housing counseling to help very low-income families move from poverty-stricken urban areas to low-poverty neighborhoods."
+    },
+    {
+        "id": "dataset-518",
+        "provider": "International Statistical Institute",
+        "title": "World Fertility Survey",
+        "alt_title": [
+            "WFS"
+        ],
+        "url": "https://wfs.dhsprogram.com/",
+        "description": "The surveys are nationally representative and generally include both a household and an individual (female) component. The surveys covered reproductive health, household characteristics such as family composition, marital status.  Often surveys included additional topics such as water and sanitation, mortality, economic status, assets, religion and race.  In addition, there were 20 WFS conducted in developed countries."
+    }
 ]
