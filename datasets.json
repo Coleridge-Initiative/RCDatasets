@@ -5567,16 +5567,6 @@
         "description": "National Nursing Assistant Survey (NNAS) is the first national study of nursing assistants working in nursing facilities in the United States. The NNAS will look at the important role of nursing assistants in providing long-term care services for the growing elderly and chronically ill population."
     }, 
     {
-        "id": "dataset-504",
-        "provider": "Centers for Disease Control and Prevention",
-        "title": "National Survey of Family Growth",
-        "alt_title": [
-            "NSFG"
-        ],
-        "url": "https://www.cdc.gov/nchs/nsfg/nsfg_questionnaires.htm",
-        "description": "The National Survey of Family Growth (NSFG) gathers information on family life, marriage and divorce, pregnancy, infertility, use of contraception, and men’s and women’s health. The survey results are used by the U.S. Department of Health and Human Services and others to plan health services and health education programs, and to do statistical studies of families, fertility, and health."
-    }, 
-    {
         "id": "dataset-505",
         "provider": "Bureau of Labor Statistics",
         "title": "Survey of Occupational Injuries and Illnesses",
@@ -5589,7 +5579,7 @@
     {
         "id": "dataset-506",
         "provider": "University of Michigan Institute for Social Research",
-        "title": "Health and Retirement Study",
+        "title": "Michigan Health and Retirement Study",
         "alt_title": [
             "HRS"
         ],
