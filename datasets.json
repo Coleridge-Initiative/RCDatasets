@@ -2106,6 +2106,9 @@
             "Illinois AFDC",
             "AFDC"
         ],
+        "original":{
+          "related_to": ["dataset-275"]
+        },
         "url": "https://www.dhs.state.il.us/page.aspx?item=30358",
         "description": "Temporary Assistance for Needy Families (TANF) provides temporary cash for families in need."
     },
@@ -2117,6 +2120,9 @@
             "IDWD",
             "IDWD Data"
         ],
+        "original":{
+          "related_to": ["dataset-520", "dataset-521"]
+        },
         "url": "http://www.hoosierdata.in.gov/data-request.asp"
     },
     {
@@ -3186,6 +3192,9 @@
             "Project Chance",
             "Project Chance Information System"
         ],
+        "original":{
+          "related_to": ["dataset-182"]
+        },
         "description": "The Client Database contains both case-level variables (those with one value being used to represent each case) and individual-level variables that relate to characteristics of the individuals who are on the cases."
     },
     {
@@ -4783,12 +4792,9 @@
           "Federal RePORTER"
       ],
       "url": "https://www.nsf.gov/statistics/srvyherd/",
-      "description": "The survey collects information on R&D expenditures by field of research and source of funds and also gathers information on types of research, expenses, and headcounts of R&D personnel.",
-      "original":{
-          "joins_to":["dataset-493"]
-      }
+      "description": "The survey collects information on R&D expenditures by field of research and source of funds and also gathers information on types of research, expenses, and headcounts of R&D personnel."
     },
-    { 
+    {
         "id": "dataset-429",
         "provider": "NYC Open Data",
         "title": "New York City Human Resources Administration case files",
@@ -4875,7 +4881,7 @@
         "provider": "Federal Reserve Bank of St. Louis",
         "title": "Illinois Economic Indicators",
         "alt_title":[],
-        "url": "https://fred.stlouisfed.org/search?st=Illinois+Economic+indicators" 
+        "url": "https://fred.stlouisfed.org/search?st=Illinois+Economic+indicators"
     },
     {
         "id": "dataset-438",
@@ -5525,7 +5531,7 @@
         ],
         "url": "https://www.icpsr.umich.edu/icpsrweb/NAHDAP/studies/27868/datadocumentation",
         "description": "Survey conducted to evaluate the National Youth Anti-Drug Media Campaign (Campaign). It focuses on the measurement of the outcomes and impact of Phase III of the Campaign on children and their parents concerning illegal drug use among youth."
-    }, 
+    },
     {
         "id": "dataset-500",
         "provider": "U.S. Bureau of Labor Statistics",
@@ -5534,8 +5540,62 @@
             "NLS-MY"
         ],
         "url": "https://www.nlsinfo.org/investigator/pages/search.jsp?s=NLSW",
-        "description": "The Mature Women's cohort includes 5,083 women who were ages 30-44 when first interviewed in 1967, while the Young Women's cohort includes 5,159 women who were ages 14-24 when first interviewed in 1968."
-    },  
+        "description": " The Mature Women's cohort includes 5,083 women who were ages 30-44 when first interviewed in 1967, while the Young Women's cohort includes 5,159 women who were ages 14-24 when first interviewed in 1968."
+    },
+    {
+        "id": "dataset-519",
+        "provider": "Illinois Department of Employment Security",
+        "title": "Illinois QCEW",
+        "alt_title": [
+            "Illinois Quarterly Census of Employment and Wages"
+        ],
+        "url": "https://www2.illinois.gov/ides/lmi/Pages/Quarterly_Census_of_Employment_and_Wages.aspx",
+        "description": "This program produces a comprehensive quarterly count of employment and wages for workers covered under the Illinois Unemployment and Insurance (UI) Act and the Federal Unemployment Compensation programs."
+    },
+    {
+        "id": "dataset-520",
+        "provider": "Indiana Department of Workforce Development",
+        "title": "Indiana QCEW",
+        "alt_title": [
+            "Indiana Quarterly Census of Employment and Wages"
+        ],
+        "original":{
+          "related_to": ["dataset-183"]
+        },
+        "url": "https://www.stats.indiana.edu/about/qcew.asp",
+        "description": "The Quarterly Census of Employment and Wages (QCEW) program publishes a quarterly count of employment and wages reported by employers, covering approximately 95 percent of wage and salary workers (not including self-employment)."
+    },
+    {
+        "id": "dataset-521",
+        "provider": "Indiana Department of Workforce Development",
+        "title": "State of Indiana Unemployment Insurance",
+        "alt_title": [
+            "UI",
+            "Indiana UI",
+            "Indiana Unemployment Insurance"
+        ],
+        "original":{
+          "related_to": ["dataset-183"]
+        },
+        "description": "UI-related data on employment and unemployment."
+    },
+    {
+        "id": "dataset-522",
+        "provider": "Indiana Family and Social Services Administration",
+        "title": "Indiana Temporary Assistance for Needy Families",
+        "alt_title": [
+            "TANF",
+            "Indiana TANF",
+            "Temporary Assistance for Needy Families",
+            "Aid to Dependent Families with Children",
+            "Indiana Aid to Dependent Families with Children",
+            "Indiana AFDC",
+            "AFDC"
+        ],
+        "url": "https://www.in.gov/fssa/dfr/2688.htm",
+        "description": "Temporary Assistance for Needy Families (TANF) provides temporary cash for families in need."
+    }, 
+  
     {
         "id": "dataset-501",
         "provider": "National Institutes of Health",
