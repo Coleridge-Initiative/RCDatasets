@@ -5896,5 +5896,186 @@
         ],
         "url": "https://international.ipums.org/international-action/samples/#historical_samples",
         "description": "The North Atlantic Population Project (NAPP) is a machine-readable database of the complete censuses of Canada (1881), Denmark (1787, 1801), Great Britain (1851, 1861, Scotland 1871, 1881, 1891, 1901, 1911), Norway (1801, 1865, 1900, 1910), Sweden (1880, 1890, 1900, 1910), the United States (1850, 1880) and Iceland (1703, 1729, 1801, 1901, 1910)."
+    },
+    {
+        "id": "dataset-537",
+        "provider": "Instituto Brasileiro de Geograa e Estatística",
+        "title": "Pesquisa de Padrões de Vida",
+        "alt_title": [
+            "PPV",
+            "IBGE"
+        ],
+        "url": "http://servicodados.ibge.gov.br/Download/Download.ashx?u=ftp.ibge.gov.br/Estatisticas_Sociais/microdados_pesquisa_sobre_padroes_de_vida.zip",
+        "description": "A partir dos dados da “Pesquisa sobre Padrões de Vida: 1996 – 1997” do Instituto Brasileiro de Geograa e Estatística (IBGE), Monteiro et alli. (2003) mostraram a prevalência de atividade física (realização de pelo menos 30 minutos em um dia na semana) no tempo de lazer, de acordo com variáveis demográcas e socioeconômicas."
+    },
+    {
+        "id": "dataset-538",
+        "provider": "Departamento Administrativo Nacional de Estadística",
+        "title": "Encuesta Nacional de Calidad de Vida",
+        "alt_title": [
+            "ECV"
+        ],
+        "url": "https://www.dane.gov.co/index.php/estadisticas-por-tema/pobreza-y-condiciones-de-vida/calidad-de-vida-ecv",
+        "description": "Estas investigaciones cuantifican y caracterizan las condiciones de vida de los colombianos incluyendo variables relacionadas con la vivienda (material de paredes, pisos y servicios públicos), las personas para los que se incluyen variables de: educación, salud, cuidado de los niños, fuerza de trabajo, gastos e ingresos, etc., y los hogares que involucra variables como: tenencia de bienes y percepción del jefe o del cónyuge sobre las condiciones de vida en el hogar."
+    },
+    {
+        "id": "dataset-539",
+        "provider": "Inter-university Consortium for Political and Social Research",
+        "title": "ESRU Social Mobility Survey in Mexico",
+        "alt_title": [
+            "SMSM"
+        ],
+        "url": "https://www.icpsr.umich.edu/icpsrweb/DSDR/studies/35333/datadocumentation",
+        "description": "The main objective of the ESRU SMSM is to describe and analyze inter-generational socioeconomic mobility in Mexican society. The SMSM is a stratified multistage sample of 7,288 men and women aged 25-64 and living in private residences in Mexico. The survey collects information on the socioeconomic standing of the respondent and his/her spouse or partner, including education, occupation, income, assets, and wealth. It also includes information on the socioeconomic standing of the respondent's and his/her spouse/partner's parents and conditions when they were growing up."
+    },
+    {
+        "id": "dataset-540",
+        "provider": "Inter-university Consortium for Political and Social Research",
+        "title": "Tsogolo la Thanzi",
+        "alt_title": [
+            "TLT"
+        ],
+        "url": "https://www.icpsr.umich.edu/icpsrweb/DSDR/studies/36863/datadocumentation",
+        "description": "Tsogolo la Thanzi (TLT) is a longitudinal study in Balaka, Malawi designed by Jenny Trinitapoli and Sara Yeatman to examine how young people navigate reproduction in an AIDS epidemic. Tsogolo la Thanzi means “Healthy Futures” in Chichewa, Malawi’s most widely spoken language."
+    },
+    {
+        "id": "dataset-541",
+        "provider": "Inter-university Consortium for Political and Social Research",
+        "title": "Mexico Panel Study 2012",
+        "alt_title": [
+            "MPS"
+        ],
+        "url": "https://www.icpsr.umich.edu/icpsrweb/RCMD/studies/35024/datadocumentation",
+        "description": "Mexico 2012 Panel Study is a 2-wave, major survey research project on Mexico's 2012 general election campaign with a focus on vote buying and the impact of crime and violence on vote choices."
+    },
+    {
+        "id": "dataset-542",
+        "provider": "Bureau of Justice Statistics",
+        "title": "Survey of Inmates in State and Federal Correctional Facilities",
+        "alt_title": [
+            "SISFCF"
+        ],
+        "url": "https://www.bjs.gov/index.cfm/content/dataonline/content/acf/index.cfm?ty=dcdetail&iid=275",
+        "description": "These surveys are part of a series of data gathering efforts undertaken to assist policymakers in assessing and remedying deficiencies in the nation's correctional institutions. The surveys gathered extensive information on demographic, socioeconomic, and criminal history characteristics."
+    },
+    {
+        "id": "dataset-543",
+        "provider": "Association of Religion Data Archives",
+        "title": "Religious Congregations and Membership Study",
+        "alt_title": [
+            "RCMS"
+        ],
+        "url": "http://www.thearda.com/Archive/Files/Downloads/RCMSMT10_DL.asp",
+        "description": "This study, designed and carried out by the Association of Statisticians of American Religious Bodies (ASARB), compiled data on the number of congregations and adherents for 236 religious groups in each county of the United States."
+    },
+    {
+        "id": "dataset-544",
+        "provider": "National Science Foundation",
+        "title": "American National Election Studies",
+        "alt_title": [
+            "ANES"
+        ],
+        "url": "https://electionstudies.org/data-center/",
+        "description": "ANES produces high quality data from its own surveys on voting, public opinion, and political participation. Central to this mission is the active involvement of the ANES research community in all phases of the project."
+    },
+    {
+        "id": "dataset-545",
+        "provider": "National Human Genome Research Institute",
+        "title": "HapMap Project",
+        "alt_title": [
+            "HapMap"
+        ],
+        "url": "ftp://ftp.ncbi.nlm.nih.gov/hapmap/",
+        "description": "The haplotype map, or 'HapMap', is a tool that allows researchers to find genes and genetic variations that affect health and disease."
+    },
+    {
+        "id": "dataset-546",
+        "provider": "Cross Nationa Data Center in Luxembourg",
+        "title": "Luxembourg Income Study",
+        "alt_title": [
+            "LIS"
+        ],
+        "url": "http://www.lisdatacenter.org/our-data/lis-database/",
+        "description": "LIS acquires datasets with income, wealth, employment, and demographic data from many high- and middle-income countries, harmonises them to enable cross-national comparisons, and makes them publicly available in two databases."
+    },
+    {
+        "id": "dataset-547",
+        "provider": "Global Leadership and Organizational Behavior Effectiveness",
+        "title": "Global Leadership and Organizational Behavior Effectiveness Study",
+        "alt_title": [
+            "GLOBE"
+        ],
+        "url": "https://globeproject.com/study_2004_2007?page_id=data#data",
+        "description": "It is a survey of cultural practices, ideal leadership attributes, and trust antecedents from 300-500 middle managers in over 120 countries with the help of over 281 Country Co-Investigators (CCIs)."
+    },
+    {
+        "id": "dataset-548",
+        "provider": "Leibniz Institute for the Social Sciences",
+        "title": "European Values Survey",
+        "alt_title": [
+            "EVS"
+        ],
+        "url": "https://dbk.gesis.org/dbksearch/GDESC2.asp?no=0009&DB=E",
+        "description": "The European Values Study (EVS) is a large-scale, cross-national, repeated cross-sectional survey research programme on basic human values. It provides insights into the ideas, beliefs, preferences, attitudes, values and opinions of citizens all over Europe."
+    },
+    {
+        "id": "dataset-549",
+        "provider": "National Center for Education Statistics",
+        "title": "Progress in International Reading Literacy Study",
+        "alt_title": [
+            "PIRLS"
+        ],
+        "url": "https://nces.ed.gov/surveys/pirls/datafiles.asp",
+        "description": "The Progress in International Reading Literacy Study (PIRLS) is an international comparative assessment that measures student learning in reading. Since 2001, PIRLS has been administered every 5 years. PIRLS documents worldwide trends in the reading knowledge of 4th-graders as well as school and teacher practices related to instruction."
+    },
+    {
+        "id": "dataset-550",
+        "provider": "National Institute of Mental Health",
+        "title": "Family and Community Health Study",
+        "alt_title": [
+            "FCHS"
+        ],
+        "url": "https://cfr.uga.edu/fachs/",
+        "description": "The Family and Community Health Study (FACHS) is a multi-site, longitudinal investigation of the effect of family processes, neighborhood characteristics, and other contextual factors on African American parents and their children."
+    },
+    {
+        "id": "dataset-551",
+        "provider": "Centers for Disease Control and Prevention",
+        "title": "National Vital Statistics",
+        "alt_title": [
+            "NVS"
+        ],
+        "url": "https://www.cdc.gov/nchs/nvss/index.htm",
+        "description": "The National Vital Statistics System is the oldest and most successful example of inter-governmental data sharing in Public Health and the shared relationships, standards, and procedures form the mechanism by which NCHS collects and disseminates the Nation’s official vital statistics. These data are provided through contracts between NCHS and vital registration systems operated in the various jurisdictions legally responsible for the registration of vital events – births, deaths, marriages, divorces, and fetal deaths."
+    },
+    {
+        "id": "dataset-552",
+        "provider": "Centers for Disease Control and Prevention",
+        "title": "Longitudinal Studies of Aging",
+        "alt_title": [
+            "LSOA"
+        ],
+        "url": "https://www.cdc.gov/nchs/lsoa/lsoa1.htm#anchor_1551487099377",
+        "description": "The Longitudinal Studies of Aging (LSOAs) is a collaborative project of National Center for Health Statistics (NCHS) and the National Institute on Aging (NIA). It is a multicohort study of persons 70 years of age and over designed primarily to measure changes in the health, functional status, living arrangements, and health services utilization of two cohorts of Americans as they move into and through the oldest ages."
+    },
+    {
+        "id": "dataset-553",
+        "provider": "U.S. Census Bureau",
+        "title": "National Long Term Care Survey",
+        "alt_title": [
+            "NLTCS"
+        ],
+        "url": "https://www.icpsr.umich.edu/icpsrweb/NACDA/studies/9681/datadocumentation",
+        "description": "The National Long-Term Care Survey is a longitudinal survey designed to study changes in the health and functional status of older Americans (aged 65+). It also tracks health expenditures, Medicare service use, and the availability of personal, family, and community resources for caregiving."
+    },
+    {
+        "id": "dataset-554",
+        "provider": "Centers for Disease Control and Prevention",
+        "title": "Longitudinal Studies of Aging II",
+        "alt_title": [
+            "LSOA2"
+        ],
+        "url": "https://www.cdc.gov/nchs/lsoa/lsoa2.htm#anchor_1551487389695",
+        "description": "The LSOA II is a prospective study with a nationally representative sample comprised of 9,447 civilian noninstitutionalized persons 70 years of age and over at the time of their SOA II interview. The LSOA II followed this cohort of older persons through two followup interviews, conducted in 1997-98 and 1999-2000."
     }
 ]
