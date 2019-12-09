@@ -5543,60 +5543,6 @@
         "description": " The Mature Women's cohort includes 5,083 women who were ages 30-44 when first interviewed in 1967, while the Young Women's cohort includes 5,159 women who were ages 14-24 when first interviewed in 1968."
     },
     {
-        "id": "dataset-519",
-        "provider": "Illinois Department of Employment Security",
-        "title": "Illinois QCEW",
-        "alt_title": [
-            "Illinois Quarterly Census of Employment and Wages"
-        ],
-        "url": "https://www2.illinois.gov/ides/lmi/Pages/Quarterly_Census_of_Employment_and_Wages.aspx",
-        "description": "This program produces a comprehensive quarterly count of employment and wages for workers covered under the Illinois Unemployment and Insurance (UI) Act and the Federal Unemployment Compensation programs."
-    },
-    {
-        "id": "dataset-520",
-        "provider": "Indiana Department of Workforce Development",
-        "title": "Indiana QCEW",
-        "alt_title": [
-            "Indiana Quarterly Census of Employment and Wages"
-        ],
-        "original":{
-          "related_to": ["dataset-183"]
-        },
-        "url": "https://www.stats.indiana.edu/about/qcew.asp",
-        "description": "The Quarterly Census of Employment and Wages (QCEW) program publishes a quarterly count of employment and wages reported by employers, covering approximately 95 percent of wage and salary workers (not including self-employment)."
-    },
-    {
-        "id": "dataset-521",
-        "provider": "Indiana Department of Workforce Development",
-        "title": "State of Indiana Unemployment Insurance",
-        "alt_title": [
-            "UI",
-            "Indiana UI",
-            "Indiana Unemployment Insurance"
-        ],
-        "original":{
-          "related_to": ["dataset-183"]
-        },
-        "description": "UI-related data on employment and unemployment."
-    },
-    {
-        "id": "dataset-522",
-        "provider": "Indiana Family and Social Services Administration",
-        "title": "Indiana Temporary Assistance for Needy Families",
-        "alt_title": [
-            "TANF",
-            "Indiana TANF",
-            "Temporary Assistance for Needy Families",
-            "Aid to Dependent Families with Children",
-            "Indiana Aid to Dependent Families with Children",
-            "Indiana AFDC",
-            "AFDC"
-        ],
-        "url": "https://www.in.gov/fssa/dfr/2688.htm",
-        "description": "Temporary Assistance for Needy Families (TANF) provides temporary cash for families in need."
-    }, 
-  
-    {
         "id": "dataset-501",
         "provider": "National Institutes of Health",
         "title": "Aging, Status, and Sense of Control",
@@ -5751,7 +5697,7 @@
     },
     {
         "id": "dataset-516",
-        "provider": "",
+        "provider": "Family and Life Course Research Group",
         "title": "Taiwan Youth Project",
         "alt_title": [
             "TYP"
@@ -5781,6 +5727,59 @@
     },
     {
         "id": "dataset-519",
+        "provider": "Illinois Department of Employment Security",
+        "title": "Illinois QCEW",
+        "alt_title": [
+            "Illinois Quarterly Census of Employment and Wages"
+        ],
+        "url": "https://www2.illinois.gov/ides/lmi/Pages/Quarterly_Census_of_Employment_and_Wages.aspx",
+        "description": "This program produces a comprehensive quarterly count of employment and wages for workers covered under the Illinois Unemployment and Insurance (UI) Act and the Federal Unemployment Compensation programs."
+    },
+    {
+        "id": "dataset-520",
+        "provider": "Indiana Department of Workforce Development",
+        "title": "Indiana QCEW",
+        "alt_title": [
+            "Indiana Quarterly Census of Employment and Wages"
+        ],
+        "original":{
+          "related_to": ["dataset-183"]
+        },
+        "url": "https://www.stats.indiana.edu/about/qcew.asp",
+        "description": "The Quarterly Census of Employment and Wages (QCEW) program publishes a quarterly count of employment and wages reported by employers, covering approximately 95 percent of wage and salary workers (not including self-employment)."
+    },
+    {
+        "id": "dataset-521",
+        "provider": "Indiana Department of Workforce Development",
+        "title": "State of Indiana Unemployment Insurance",
+        "alt_title": [
+            "UI",
+            "Indiana UI",
+            "Indiana Unemployment Insurance"
+        ],
+        "original":{
+          "related_to": ["dataset-183"]
+        },
+        "description": "UI-related data on employment and unemployment."
+    },
+    {
+        "id": "dataset-522",
+        "provider": "Indiana Family and Social Services Administration",
+        "title": "Indiana Temporary Assistance for Needy Families",
+        "alt_title": [
+            "TANF",
+            "Indiana TANF",
+            "Temporary Assistance for Needy Families",
+            "Aid to Dependent Families with Children",
+            "Indiana Aid to Dependent Families with Children",
+            "Indiana AFDC",
+            "AFDC"
+        ],
+        "url": "https://www.in.gov/fssa/dfr/2688.htm",
+        "description": "Temporary Assistance for Needy Families (TANF) provides temporary cash for families in need."
+    },
+    {
+        "id": "dataset-523",
         "provider": "Vanderbilt University",
         "title": "Latin American Opinion Project",
         "alt_title": [
@@ -5790,7 +5789,7 @@
         "description": "LAPOP uses gold standard approaches and innovative methods to carry out targeted national surveys; conduct impact evaluation studies; and produce reports on individual attitudes, evaluations, and experiences. The AmericasBarometer survey is the only scientifically rigorous comparative survey that covers 34 nations including all of North, Central, and South America, as well as a significant number of countries in the Caribbean."
     },
     {
-        "id": "dataset-520",
+        "id": "dataset-524",
         "provider": "Princeton University",
         "title": "The New Immigrant Survey",
         "alt_title": [
@@ -5800,7 +5799,7 @@
         "description": "New Immigrant Survey (NIS) is a nationally representative multi-cohort longitudinal study of new legal immigrants and their children to the United States based on nationally representative samples of the administrative records, compiled by the U.S. Immigration and Naturalization Service (INS), pertaining to immigrants newly admitted to permanent residence."
     },
     {
-        "id": "dataset-521",
+        "id": "dataset-525",
         "provider": "U.S. Bureau of Labor Statistics",
         "title": "National Longitudinal Survey of Older Men",
         "alt_title": [
@@ -5810,7 +5809,7 @@
         "description": "National Longitudinal Survey of Older and Young Men, a two-cohort survey, is part of the NLS Original Cohort project. The Older Men's cohort includes 5,020 men ages 45-59 in 1966, with data available through the 1990 survey year, the final year the Older Men were interviewed. The Young Men's cohort includes 5,225 men who were ages 14-24 when first interviewed in 1966, with data available through 1981, when active surveying was discontinued."
     },
     {
-        "id": "dataset-522",
+        "id": "dataset-526",
         "provider": "United Nations University",
         "title": "World Income Inequality Database",
         "alt_title": [
@@ -5820,7 +5819,7 @@
         "description": "The World Income Inequality Database (WIID) presents information on income inequality for developed, developing, and transition countries. It provides the most comprehensive set of income inequality statistics available and can be downloaded for free. ​"
     },
     {
-        "id": "dataset-523",
+        "id": "dataset-527",
         "provider": "Harvard Dataverse",
         "title": "Standardized World Income Inequality Database",
         "alt_title": [
@@ -5830,7 +5829,7 @@
         "description": "The goal of the Standardized World Income Inequality Database (SWIID) is to meet the needs of those engaged in broadly cross-national research by maximizing the comparability of income inequality data while maintaining the widest possible coverage across countries and over time."
     },
     {
-        "id": "dataset-524",
+        "id": "dataset-528",
         "provider": "Southern Africa Consortium for Monitoring Educational Quality",
         "title": "Southern Africa Consortium for Monitoring Educational Quality",
         "alt_title": [
@@ -5840,7 +5839,7 @@
         "description": "The goal of SEACMEQ is 1) assess the quality of education provided by Zimbabwe’s primary schools, 2) involve the staff of the Ministry’s Planning Unit in integrated research and training activities, and 3) provide meaningful advice related to policy concerns expressed by senior Ministry decision-makers. "
     },
     {
-        "id": "dataset-525",
+        "id": "dataset-529",
         "provider": "Harvard Dataverse",
         "title": "Life Histories and Social Change in Contemporary China",
         "alt_title": [
@@ -5850,7 +5849,7 @@
         "description": "Part of the project Life Histories and Social Change in Contemporary China, a national probability sample survey was conducted in the People's Republic of China during June-October 1996. Interviews were completed for 3,087 urban residents and 3,003 rural residents, using an identical questionnaire."
     },
     {
-        "id": "dataset-526",
+        "id": "dataset-530",
         "provider": "Southern Africa Labour and Development Research Unit",
         "title": "Project for Statistics on Living Standards and Development",
         "alt_title": [
@@ -5860,7 +5859,7 @@
         "description": "The purpose of the survey was to collect data on the conditions under which South Africans live in order to provide policymakers with the data necessary for development planning. This was a countrywide World Bank sponsored Living Standards Measurement Survey. It covered approximately 9000 households, drawn from a representative sample of South African households."
     },
     {
-        "id": "dataset-527",
+        "id": "dataset-531",
         "provider": "The World Bank",
         "title": "South Africa Labour Force Surveys",
         "alt_title": [
@@ -5870,7 +5869,7 @@
         "description": "Quarterly Labour Force Survey (QLFS) is a household-based sample survey conducted by Statistics South Africa (Stats SA). It collects data on the labour market activities of individuals aged 15 years or older who live in South Africa."
     },
     {
-        "id": "dataset-528",
+        "id": "dataset-532",
         "provider": "Institute for Social Research at the University of Michigan",
         "title": "Cape Area Panel Study",
         "alt_title": [
@@ -5880,7 +5879,7 @@
         "description": "The Cape Area Panel Study (CAPS) is a longitudinal study of the lives of youths and young adults in metropolitan Cape Town, South Africa."
     },
     {
-        "id": "dataset-529",
+        "id": "dataset-533",
         "provider": "Instituto Brasileiro Geografia e Estatistica",
         "title": "Pesquisa Nacional por Amostra de Domicilios",
         "alt_title": [
@@ -5890,7 +5889,7 @@
         "description": "Pesquisa Nacional por Amostra de Domicílios - PNAD, de periodicidade anual, foi encerrada em 2016, com a divulgação das informações referentes a 2015. "
     },
     {
-        "id": "dataset-530",
+        "id": "dataset-534",
         "provider": "Ministerio de Desarrollo Social y Familia",
         "title": "Encuesta de Caracterizacion Socioeconomica Nacional",
         "alt_title": [
@@ -5900,7 +5899,7 @@
         "description": "La Encuesta de Caracterización Socioeconómica Nacional 2013, diseñada e implementada por el Ministerio de Desarrollo Social, es una encuesta multipropósito que recolecta datos acerca de características sociales y económicas de una muestra representativa de la población residente en hogares particulares en Chile"
     },
     {
-        "id": "dataset-531",
+        "id": "dataset-535",
         "provider": "Instituto Nacional de Estadistics y Geografia",
         "title": "Encuesta Nacional de Ingresos y Gastos de los Hogares",
         "alt_title": [
@@ -5910,7 +5909,7 @@
         "description": "La Encuesta Nacional de Ingresos y Gastos de los Hogares 2018 se llevó a cabo del 21 de agosto al 28 de noviembre de 2018. Su objetivo es proporcionar un panorama estadístico del comportamiento de los ingresos y gastos de los hogares en cuanto a su monto, procedencia y distribución; adicionalmente, ofrece información sobre las características ocupacionales y sociodemográficas de los integrantes del hogar, así como las características de la infraestructura de la vivienda y el equipamiento del hogar."
     },
     {
-        "id": "dataset-532",
+        "id": "dataset-536",
         "provider": "Uruguay Instituto Nacional de Estadistica",
         "title": "Encuesta Continua de Hogares",
         "alt_title": [
@@ -5920,7 +5919,7 @@
         "description": "En este sector, podrá encontrar los microdatos anonimizados de la Encuesta Continua de Hogares (en distintos formatos) como también información relacionado con los mismos, como ser Manuales, Cuestionarios, Fichas Técnicas entre otros."
     },
     {
-        "id": "dataset-533",
+        "id": "dataset-537",
         "provider": "Centers for Disease Control and Prevention",
         "title": "National Death Index",
         "alt_title": [
@@ -5930,7 +5929,7 @@
         "description": "The National Death Index (NDI) is a centralized database of death record information on file in state vital statistics offices.  Working with these state offices, the National Center for Health Statistics (NCHS) established the NDI as a resource to aid epidemiologists and other health and medical investigators with their mortality ascertainment activities."
     },
     {
-        "id": "dataset-534",
+        "id": "dataset-538",
         "provider": "University of Texas Medical Branch",
         "title": "Mexican Health and Aging Study",
         "alt_title": [
@@ -5940,7 +5939,7 @@
         "description": "The Mexican Health and Aging Study (MHAS) is a national longitudinal study of adults 50 years and older in Mexico. "
     },
     {
-        "id": "dataset-535",
+        "id": "dataset-539",
         "provider": "Korean Educational Development Institute",
         "title": "Korean Educational Longitudinal Survey",
         "alt_title": [
@@ -5950,7 +5949,7 @@
         "description": "An analysis of the lives and achievements of early adulthood after graduation from high school."
     },
     {
-        "id": "dataset-536",
+        "id": "dataset-540",
         "provider": "Minnesota Population Center, University of Minnesota.",
         "title": "North Atlantic Population Project",
         "alt_title": [
@@ -5960,7 +5959,7 @@
         "description": "The North Atlantic Population Project (NAPP) is a machine-readable database of the complete censuses of Canada (1881), Denmark (1787, 1801), Great Britain (1851, 1861, Scotland 1871, 1881, 1891, 1901, 1911), Norway (1801, 1865, 1900, 1910), Sweden (1880, 1890, 1900, 1910), the United States (1850, 1880) and Iceland (1703, 1729, 1801, 1901, 1910)."
     },
     {
-        "id": "dataset-537",
+        "id": "dataset-541",
         "provider": "Instituto Brasileiro de Geograa e Estatística",
         "title": "Pesquisa de Padrões de Vida",
         "alt_title": [
@@ -5971,7 +5970,7 @@
         "description": "A partir dos dados da “Pesquisa sobre Padrões de Vida: 1996 – 1997” do Instituto Brasileiro de Geograa e Estatística (IBGE), Monteiro et alli. (2003) mostraram a prevalência de atividade física (realização de pelo menos 30 minutos em um dia na semana) no tempo de lazer, de acordo com variáveis demográcas e socioeconômicas."
     },
     {
-        "id": "dataset-538",
+        "id": "dataset-542",
         "provider": "Departamento Administrativo Nacional de Estadística",
         "title": "Encuesta Nacional de Calidad de Vida",
         "alt_title": [
@@ -5981,7 +5980,7 @@
         "description": "Estas investigaciones cuantifican y caracterizan las condiciones de vida de los colombianos incluyendo variables relacionadas con la vivienda (material de paredes, pisos y servicios públicos), las personas para los que se incluyen variables de: educación, salud, cuidado de los niños, fuerza de trabajo, gastos e ingresos, etc., y los hogares que involucra variables como: tenencia de bienes y percepción del jefe o del cónyuge sobre las condiciones de vida en el hogar."
     },
     {
-        "id": "dataset-539",
+        "id": "dataset-543",
         "provider": "Inter-university Consortium for Political and Social Research",
         "title": "ESRU Social Mobility Survey in Mexico",
         "alt_title": [
@@ -5991,7 +5990,7 @@
         "description": "The main objective of the ESRU SMSM is to describe and analyze inter-generational socioeconomic mobility in Mexican society. The SMSM is a stratified multistage sample of 7,288 men and women aged 25-64 and living in private residences in Mexico. The survey collects information on the socioeconomic standing of the respondent and his/her spouse or partner, including education, occupation, income, assets, and wealth. It also includes information on the socioeconomic standing of the respondent's and his/her spouse/partner's parents and conditions when they were growing up."
     },
     {
-        "id": "dataset-540",
+        "id": "dataset-544",
         "provider": "Inter-university Consortium for Political and Social Research",
         "title": "Tsogolo la Thanzi",
         "alt_title": [
@@ -6001,7 +6000,7 @@
         "description": "Tsogolo la Thanzi (TLT) is a longitudinal study in Balaka, Malawi designed by Jenny Trinitapoli and Sara Yeatman to examine how young people navigate reproduction in an AIDS epidemic. Tsogolo la Thanzi means “Healthy Futures” in Chichewa, Malawi’s most widely spoken language."
     },
     {
-        "id": "dataset-541",
+        "id": "dataset-545",
         "provider": "Inter-university Consortium for Political and Social Research",
         "title": "Mexico Panel Study 2012",
         "alt_title": [
@@ -6011,7 +6010,7 @@
         "description": "Mexico 2012 Panel Study is a 2-wave, major survey research project on Mexico's 2012 general election campaign with a focus on vote buying and the impact of crime and violence on vote choices."
     },
     {
-        "id": "dataset-542",
+        "id": "dataset-546",
         "provider": "Bureau of Justice Statistics",
         "title": "Survey of Inmates in State and Federal Correctional Facilities",
         "alt_title": [
@@ -6021,7 +6020,7 @@
         "description": "These surveys are part of a series of data gathering efforts undertaken to assist policymakers in assessing and remedying deficiencies in the nation's correctional institutions. The surveys gathered extensive information on demographic, socioeconomic, and criminal history characteristics."
     },
     {
-        "id": "dataset-543",
+        "id": "dataset-547",
         "provider": "Association of Religion Data Archives",
         "title": "Religious Congregations and Membership Study",
         "alt_title": [
@@ -6031,7 +6030,7 @@
         "description": "This study, designed and carried out by the Association of Statisticians of American Religious Bodies (ASARB), compiled data on the number of congregations and adherents for 236 religious groups in each county of the United States."
     },
     {
-        "id": "dataset-544",
+        "id": "dataset-548",
         "provider": "National Science Foundation",
         "title": "American National Election Studies",
         "alt_title": [
@@ -6041,7 +6040,7 @@
         "description": "ANES produces high quality data from its own surveys on voting, public opinion, and political participation. Central to this mission is the active involvement of the ANES research community in all phases of the project."
     },
     {
-        "id": "dataset-545",
+        "id": "dataset-549",
         "provider": "National Human Genome Research Institute",
         "title": "HapMap Project",
         "alt_title": [
@@ -6051,7 +6050,7 @@
         "description": "The haplotype map, or 'HapMap', is a tool that allows researchers to find genes and genetic variations that affect health and disease."
     },
     {
-        "id": "dataset-546",
+        "id": "dataset-550",
         "provider": "Cross Nationa Data Center in Luxembourg",
         "title": "Luxembourg Income Study",
         "alt_title": [
@@ -6061,7 +6060,7 @@
         "description": "LIS acquires datasets with income, wealth, employment, and demographic data from many high- and middle-income countries, harmonises them to enable cross-national comparisons, and makes them publicly available in two databases."
     },
     {
-        "id": "dataset-547",
+        "id": "dataset-551",
         "provider": "Global Leadership and Organizational Behavior Effectiveness",
         "title": "Global Leadership and Organizational Behavior Effectiveness Study",
         "alt_title": [
@@ -6071,7 +6070,7 @@
         "description": "It is a survey of cultural practices, ideal leadership attributes, and trust antecedents from 300-500 middle managers in over 120 countries with the help of over 281 Country Co-Investigators (CCIs)."
     },
     {
-        "id": "dataset-548",
+        "id": "dataset-552",
         "provider": "Leibniz Institute for the Social Sciences",
         "title": "European Values Survey",
         "alt_title": [
@@ -6081,7 +6080,7 @@
         "description": "The European Values Study (EVS) is a large-scale, cross-national, repeated cross-sectional survey research programme on basic human values. It provides insights into the ideas, beliefs, preferences, attitudes, values and opinions of citizens all over Europe."
     },
     {
-        "id": "dataset-549",
+        "id": "dataset-553",
         "provider": "National Center for Education Statistics",
         "title": "Progress in International Reading Literacy Study",
         "alt_title": [
@@ -6091,7 +6090,7 @@
         "description": "The Progress in International Reading Literacy Study (PIRLS) is an international comparative assessment that measures student learning in reading. Since 2001, PIRLS has been administered every 5 years. PIRLS documents worldwide trends in the reading knowledge of 4th-graders as well as school and teacher practices related to instruction."
     },
     {
-        "id": "dataset-550",
+        "id": "dataset-554",
         "provider": "National Institute of Mental Health",
         "title": "Family and Community Health Study",
         "alt_title": [
@@ -6101,7 +6100,7 @@
         "description": "The Family and Community Health Study (FACHS) is a multi-site, longitudinal investigation of the effect of family processes, neighborhood characteristics, and other contextual factors on African American parents and their children."
     },
     {
-        "id": "dataset-551",
+        "id": "dataset-555",
         "provider": "Centers for Disease Control and Prevention",
         "title": "National Vital Statistics",
         "alt_title": [
@@ -6111,7 +6110,7 @@
         "description": "The National Vital Statistics System is the oldest and most successful example of inter-governmental data sharing in Public Health and the shared relationships, standards, and procedures form the mechanism by which NCHS collects and disseminates the Nation’s official vital statistics. These data are provided through contracts between NCHS and vital registration systems operated in the various jurisdictions legally responsible for the registration of vital events – births, deaths, marriages, divorces, and fetal deaths."
     },
     {
-        "id": "dataset-552",
+        "id": "dataset-556",
         "provider": "Centers for Disease Control and Prevention",
         "title": "Longitudinal Studies of Aging",
         "alt_title": [
@@ -6121,7 +6120,7 @@
         "description": "The Longitudinal Studies of Aging (LSOAs) is a collaborative project of National Center for Health Statistics (NCHS) and the National Institute on Aging (NIA). It is a multicohort study of persons 70 years of age and over designed primarily to measure changes in the health, functional status, living arrangements, and health services utilization of two cohorts of Americans as they move into and through the oldest ages."
     },
     {
-        "id": "dataset-553",
+        "id": "dataset-557",
         "provider": "U.S. Census Bureau",
         "title": "National Long Term Care Survey",
         "alt_title": [
@@ -6131,7 +6130,7 @@
         "description": "The National Long-Term Care Survey is a longitudinal survey designed to study changes in the health and functional status of older Americans (aged 65+). It also tracks health expenditures, Medicare service use, and the availability of personal, family, and community resources for caregiving."
     },
     {
-        "id": "dataset-554",
+        "id": "dataset-558",
         "provider": "Centers for Disease Control and Prevention",
         "title": "Longitudinal Studies of Aging II",
         "alt_title": [
