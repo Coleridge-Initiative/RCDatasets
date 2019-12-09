@@ -6138,5 +6138,15 @@
         ],
         "url": "https://www.cdc.gov/nchs/lsoa/lsoa2.htm#anchor_1551487389695",
         "description": "The LSOA II is a prospective study with a nationally representative sample comprised of 9,447 civilian noninstitutionalized persons 70 years of age and over at the time of their SOA II interview. The LSOA II followed this cohort of older persons through two followup interviews, conducted in 1997-98 and 1999-2000."
+    },
+    {
+        "id": "dataset-559",
+        "provider": "The World Bank",
+        "title": "World Development Indicators",
+        "alt_title": [
+            "WDI"
+        ],
+        "url": "https://datacatalog.worldbank.org/dataset/world-development-indicators",
+        "description": "The primary World Bank collection of development indicators, compiled from officially-recognized international sources. It presents the most current and accurate global development data available, and includes national, regional and global estimates"
     }
 ]
