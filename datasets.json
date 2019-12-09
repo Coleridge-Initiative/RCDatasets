@@ -125,7 +125,7 @@
         "id": "dataset-013",
         "provider": "Deutsche Bundesbank",
         "title": "Monthly balance sheet statistics",
-        "alt_title" :[
+        "alt_title": [
             "BISTA"
         ],
         "url": "https://www.bundesbank.de/en/service/reporting-systems/banking-statistics/monthly-balance-sheet-statistics-620110",
@@ -5565,17 +5565,17 @@
         ],
         "url": "ftp://ftp.cdc.gov/pub/Health_Statistics/NCHS/Datasets/NNAS/2004",
         "description": "National Nursing Assistant Survey (NNAS) is the first national study of nursing assistants working in nursing facilities in the United States. The NNAS will look at the important role of nursing assistants in providing long-term care services for the growing elderly and chronically ill population."
-    }, 
+    },  
     {
         "id": "dataset-504",
-        "provider": "Centers for Disease Control and Prevention",
-        "title": "National Survey of Family Growth",
+        "provider": "Inter-university Consortium for Political and Social Research",
+        "title": "2001 Chilean Social Mobility Survey",
         "alt_title": [
-            "NSFG"
+            "CSMS"
         ],
-        "url": "https://www.cdc.gov/nchs/nsfg/nsfg_questionnaires.htm",
-        "description": "The National Survey of Family Growth (NSFG) gathers information on family life, marriage and divorce, pregnancy, infertility, use of contraception, and men’s and women’s health. The survey results are used by the U.S. Department of Health and Human Services and others to plan health services and health education programs, and to do statistical studies of families, fertility, and health."
-    }, 
+        "url": "https://www.icpsr.umich.edu/icpsrweb/DSDR/studies/35299/datadocumentation",
+        "description": "The 2001 Chilean Social Mobility Survey examined inter-generational and intra-generational mobility in Chile. The data contain information on adult Chilean men's education, migration, current job, first job, social origins (parents' education, occupation, assets and living standards when the respondent was 14 years old), wife/partner, inter-generational transfers, household income and assets, respondent's siblings and focal brother, and respondent's opinions about inequality and determinants of economic well-being."
+    },
     {
         "id": "dataset-505",
         "provider": "Bureau of Labor Statistics",
@@ -5588,14 +5588,14 @@
     }, 
     {
         "id": "dataset-506",
-        "provider": "University of Michigan Institute for Social Research",
-        "title": "Health and Retirement Study",
+        "provider": "The World Bank",
+        "title": "World Development Indicators",
         "alt_title": [
-            "HRS"
+            "WDI"
         ],
-        "url": "https://hrs.isr.umich.edu/data-products",
-        "description": "The Health and Retirement Study (HRS) is a longitudinal panel study that surveys a representative sample of approximately 20,000 people in America, supported by the National Institute on Aging (NIA U01AG009740) and the Social Security Administration."
-    }, 
+        "url": "https://datacatalog.worldbank.org/dataset/world-development-indicators",
+        "description": "The primary World Bank collection of development indicators, compiled from officially-recognized international sources. It presents the most current and accurate global development data available, and includes national, regional and global estimates"
+    },
     {
         "id": "dataset-507",
         "provider": "Federal Reserve System",
@@ -5716,5 +5716,185 @@
         ],
         "url": "https://wfs.dhsprogram.com/",
         "description": "The surveys are nationally representative and generally include both a household and an individual (female) component. The surveys covered reproductive health, household characteristics such as family composition, marital status.  Often surveys included additional topics such as water and sanitation, mortality, economic status, assets, religion and race.  In addition, there were 20 WFS conducted in developed countries."
+    },
+    {
+        "id": "dataset-519",
+        "provider": "Vanderbilt University",
+        "title": "Latin American Opinion Project",
+        "alt_title": [
+            "LAOP"
+        ],
+        "url": "https://www.vanderbilt.edu/lapop/raw-data.php",
+        "description": "LAPOP uses gold standard approaches and innovative methods to carry out targeted national surveys; conduct impact evaluation studies; and produce reports on individual attitudes, evaluations, and experiences. The AmericasBarometer survey is the only scientifically rigorous comparative survey that covers 34 nations including all of North, Central, and South America, as well as a significant number of countries in the Caribbean."
+    },
+    {
+        "id": "dataset-520",
+        "provider": "Princeton University",
+        "title": "The New Immigrant Survey",
+        "alt_title": [
+            "NIS"
+        ],
+        "url": "https://nis.princeton.edu/data.html",
+        "description": "New Immigrant Survey (NIS) is a nationally representative multi-cohort longitudinal study of new legal immigrants and their children to the United States based on nationally representative samples of the administrative records, compiled by the U.S. Immigration and Naturalization Service (INS), pertaining to immigrants newly admitted to permanent residence."
+    },
+    {
+        "id": "dataset-521",
+        "provider": "U.S. Bureau of Labor Statistics",
+        "title": "National Longitudinal Survey of Older Men",
+        "alt_title": [
+            "NLS-OM"
+        ],
+        "url": "https://www.nlsinfo.org/investigator/pages/search.jsp?s=NLSM",
+        "description": "National Longitudinal Survey of Older and Young Men, a two-cohort survey, is part of the NLS Original Cohort project. The Older Men's cohort includes 5,020 men ages 45-59 in 1966, with data available through the 1990 survey year, the final year the Older Men were interviewed. The Young Men's cohort includes 5,225 men who were ages 14-24 when first interviewed in 1966, with data available through 1981, when active surveying was discontinued."
+    },
+    {
+        "id": "dataset-522",
+        "provider": "United Nations University",
+        "title": "World Income Inequality Database",
+        "alt_title": [
+            "WIID"
+        ],
+        "url": "https://www.wider.unu.edu/database/world-income-inequality-database-wiid4",
+        "description": "The World Income Inequality Database (WIID) presents information on income inequality for developed, developing, and transition countries. It provides the most comprehensive set of income inequality statistics available and can be downloaded for free. ​"
+    },
+    {
+        "id": "dataset-523",
+        "provider": "Harvard Dataverse",
+        "title": "Standardized World Income Inequality Database",
+        "alt_title": [
+            "SWIID"
+        ],
+        "url": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LM4OWF",
+        "description": "The goal of the Standardized World Income Inequality Database (SWIID) is to meet the needs of those engaged in broadly cross-national research by maximizing the comparability of income inequality data while maintaining the widest possible coverage across countries and over time."
+    },
+    {
+        "id": "dataset-524",
+        "provider": "Southern Africa Consortium for Monitoring Educational Quality",
+        "title": "Southern Africa Consortium for Monitoring Educational Quality",
+        "alt_title": [
+            "SEACMEQ"
+        ],
+        "url": "https://microdata.worldbank.org/index.php/catalog/1246",
+        "description": "The goal of SEACMEQ is 1) assess the quality of education provided by Zimbabwe’s primary schools, 2) involve the staff of the Ministry’s Planning Unit in integrated research and training activities, and 3) provide meaningful advice related to policy concerns expressed by senior Ministry decision-makers. "
+    },
+    {
+        "id": "dataset-525",
+        "provider": "Harvard Dataverse",
+        "title": "Life Histories and Social Change in Contemporary China",
+        "alt_title": [
+            "LHSCCC"
+        ],
+        "url": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=hdl:1902.1/M889V1",
+        "description": "Part of the project Life Histories and Social Change in Contemporary China, a national probability sample survey was conducted in the People's Republic of China during June-October 1996. Interviews were completed for 3,087 urban residents and 3,003 rural residents, using an identical questionnaire."
+    },
+    {
+        "id": "dataset-526",
+        "provider": "Southern Africa Labour and Development Research Unit",
+        "title": "Project for Statistics on Living Standards and Development",
+        "alt_title": [
+            "PSLSD"
+        ],
+        "url": "https://www.datafirst.uct.ac.za/dataportal/index.php/catalog/5",
+        "description": "The purpose of the survey was to collect data on the conditions under which South Africans live in order to provide policymakers with the data necessary for development planning. This was a countrywide World Bank sponsored Living Standards Measurement Survey. It covered approximately 9000 households, drawn from a representative sample of South African households."
+    },
+    {
+        "id": "dataset-527",
+        "provider": "The World Bank",
+        "title": "South Africa Labour Force Surveys",
+        "alt_title": [
+            "SALFS"
+        ],
+        "url": "https://microdata.worldbank.org/index.php/catalog/3490",
+        "description": "Quarterly Labour Force Survey (QLFS) is a household-based sample survey conducted by Statistics South Africa (Stats SA). It collects data on the labour market activities of individuals aged 15 years or older who live in South Africa."
+    },
+    {
+        "id": "dataset-528",
+        "provider": "Institute for Social Research at the University of Michigan",
+        "title": "Cape Area Panel Study",
+        "alt_title": [
+            "CAPS"
+        ],
+        "url": "https://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/175/datadocumentation",
+        "description": "The Cape Area Panel Study (CAPS) is a longitudinal study of the lives of youths and young adults in metropolitan Cape Town, South Africa."
+    },
+    {
+        "id": "dataset-529",
+        "provider": "Instituto Brasileiro Geografia e Estatistica",
+        "title": "Pesquisa Nacional por Amostra de Domicilios",
+        "alt_title": [
+            "PNAD"
+        ],
+        "url": "https://www.ibge.gov.br/estatisticas/sociais/trabalho/9127-pesquisa-nacional-por-amostra-de-domicilios.html?=&t=resultados",
+        "description": "Pesquisa Nacional por Amostra de Domicílios - PNAD, de periodicidade anual, foi encerrada em 2016, com a divulgação das informações referentes a 2015. "
+    },
+    {
+        "id": "dataset-530",
+        "provider": "Ministerio de Desarrollo Social y Familia",
+        "title": "Encuesta de Caracterizacion Socioeconomica Nacional",
+        "alt_title": [
+            "CASEN"
+        ],
+        "url": "http://observatorio.ministeriodesarrollosocial.gob.cl/casen/basededatos_historico.php",
+        "description": "La Encuesta de Caracterización Socioeconómica Nacional 2013, diseñada e implementada por el Ministerio de Desarrollo Social, es una encuesta multipropósito que recolecta datos acerca de características sociales y económicas de una muestra representativa de la población residente en hogares particulares en Chile"
+    },
+    {
+        "id": "dataset-531",
+        "provider": "Instituto Nacional de Estadistics y Geografia",
+        "title": "Encuesta Nacional de Ingresos y Gastos de los Hogares",
+        "alt_title": [
+            "ENIGH"
+        ],
+        "url": "https://www.inegi.org.mx/programas/enigh/nc/2018/default.html#Microdatos",
+        "description": "La Encuesta Nacional de Ingresos y Gastos de los Hogares 2018 se llevó a cabo del 21 de agosto al 28 de noviembre de 2018. Su objetivo es proporcionar un panorama estadístico del comportamiento de los ingresos y gastos de los hogares en cuanto a su monto, procedencia y distribución; adicionalmente, ofrece información sobre las características ocupacionales y sociodemográficas de los integrantes del hogar, así como las características de la infraestructura de la vivienda y el equipamiento del hogar."
+    },
+    {
+        "id": "dataset-532",
+        "provider": "Uruguay Instituto Nacional de Estadistica",
+        "title": "Encuesta Continua de Hogares",
+        "alt_title": [
+            "ECH"
+        ],
+        "url": "http://www.ine.gub.uy/web/guest/encuesta-continua-de-hogares1",
+        "description": "En este sector, podrá encontrar los microdatos anonimizados de la Encuesta Continua de Hogares (en distintos formatos) como también información relacionado con los mismos, como ser Manuales, Cuestionarios, Fichas Técnicas entre otros."
+    },
+    {
+        "id": "dataset-533",
+        "provider": "Centers for Disease Control and Prevention",
+        "title": "National Death Index",
+        "alt_title": [
+            "NDI"
+        ],
+        "url": "https://www.cdc.gov/nchs/data_access/ftp_data.htm",
+        "description": "The National Death Index (NDI) is a centralized database of death record information on file in state vital statistics offices.  Working with these state offices, the National Center for Health Statistics (NCHS) established the NDI as a resource to aid epidemiologists and other health and medical investigators with their mortality ascertainment activities."
+    },
+    {
+        "id": "dataset-534",
+        "provider": "University of Texas Medical Branch",
+        "title": "Mexican Health and Aging Study",
+        "alt_title": [
+            "MHAS"
+        ],
+        "url": "http://www.mhasweb.org/Data.aspx",
+        "description": "The Mexican Health and Aging Study (MHAS) is a national longitudinal study of adults 50 years and older in Mexico. "
+    },
+    {
+        "id": "dataset-535",
+        "provider": "Korean Educational Development Institute",
+        "title": "Korean Educational Longitudinal Survey",
+        "alt_title": [
+            "KELS"
+        ],
+        "url": "https://www.kdevelopedia.org/resource/view/04201509100139859.do#.XeqqMpNKifU",
+        "description": "An analysis of the lives and achievements of early adulthood after graduation from high school."
+    },
+    {
+        "id": "dataset-536",
+        "provider": "Minnesota Population Center, University of Minnesota.",
+        "title": "North Atlantic Population Project",
+        "alt_title": [
+            "NAPP"
+        ],
+        "url": "https://international.ipums.org/international-action/samples/#historical_samples",
+        "description": "The North Atlantic Population Project (NAPP) is a machine-readable database of the complete censuses of Canada (1881), Denmark (1787, 1801), Great Britain (1851, 1861, Scotland 1871, 1881, 1891, 1901, 1911), Norway (1801, 1865, 1900, 1910), Sweden (1880, 1890, 1900, 1910), the United States (1850, 1880) and Iceland (1703, 1729, 1801, 1901, 1910)."
     }
 ]
