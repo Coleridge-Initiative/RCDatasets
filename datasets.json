@@ -6140,7 +6140,7 @@
         "description": "The LSOA II is a prospective study with a nationally representative sample comprised of 9,447 civilian noninstitutionalized persons 70 years of age and over at the time of their SOA II interview. The LSOA II followed this cohort of older persons through two followup interviews, conducted in 1997-98 and 1999-2000."
     },
     {
-        "id": "dataset-559",
+        "id": "dataset-597",
         "provider": "The World Bank",
         "title": "World Development Indicators",
         "alt_title": [
@@ -6148,16 +6148,6 @@
         ],
         "url": "https://datacatalog.worldbank.org/dataset/world-development-indicators",
         "description": "The primary World Bank collection of development indicators, compiled from officially-recognized international sources. It presents the most current and accurate global development data available, and includes national, regional and global estimates"
-    },
-    {
-        "id": "dataset-559",
-        "provider": "Association of Religion Data Archives",
-        "title": "Religious Congregations and Membership Study",
-        "alt_title": [
-            "RCMS"
-        ],
-        "url": "http://www.thearda.com/Archive/Files/Downloads/RCMSMT10_DL.asp",
-        "description": "This study, designed and carried out by the Association of Statisticians of American Religious Bodies (ASARB), compiled data on the number of congregations and adherents for 236 religious groups in each county of the United States."
     },
     {
         "id": "dataset-560",
@@ -6211,7 +6201,7 @@
     },
     {
         "id": "dataset-564",
-        "provider": " Inter-university Consortium for Political and Social Research",
+        "provider": "Inter-university Consortium for Political and Social Research",
         "title": "National Health and Social Life Survey",
         "alt_title": [
             "NHSLS"
