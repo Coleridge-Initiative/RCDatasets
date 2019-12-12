@@ -6148,5 +6148,17 @@
         ],
         "url": "https://datacatalog.worldbank.org/dataset/world-development-indicators",
         "description": "The primary World Bank collection of development indicators, compiled from officially-recognized international sources. It presents the most current and accurate global development data available, and includes national, regional and global estimates"
+    },
+    {
+        "id": "dataset-560",
+        "provider": "US Patent and Trademark Office",
+        "title": "Patent data",
+        "alt_title": [
+            "USPTO",
+            "USPTO Data",
+            "USPTO Patent Data"
+        ],
+        "url": "https://www.patentsview.org/web/#viz/locations",
+        "description": "When patents are granted, the locations of inventors and patent-owning entities – or assignees – are recorded. Places with high levels of patenting activity indicate the presence of inventors and assignees that are driving innovation. Explore the locations of inventors and assignees granted patents since 2013."
     }
 ]
