@@ -3818,8 +3818,44 @@
             "QCEW"
         ],
         "url" : "https://www.bls.gov/cEw/#databases",
-        "description" : "The Quarterly Census of Employment and Wages (QCEW) program publishes a quarterly count of employment and wages reported by employers covering more than 95 percent of U.S. jobs, available at the county, MSA, state and national levels by industry."
-
+        "description" : "The Quarterly Census of Employment and Wages (QCEW) program publishes a quarterly count of employment and wages reported by employers covering more than 95 percent of U.S. jobs, available at the county, MSA, state and national levels by industry.",
+        "original": {
+            "adrf_title": "QCEW",
+            "keywords": [
+                "QCEW",
+                "UMETRICS"
+            ],
+            "dataset_id": "adrf-000135",
+            "file_names": [
+                "adrf-000135-QCEW_Core.csv"
+            ],
+            "adrf_description": "This version of the Quarterly Census of Employment and Wages (QCEW) covers annual location quotients for counties by two-digit NAICS codes from 2001-2018. Raw QCEW data was downloaded from the Bureau of Labor Statistic's website (https://www.bls.gov/cew/downloadable-data-files.htm). In order to generate this structure several data manipulation operations were done on the raw QCEW data. Most notably, the QCEW is originally structured at the FIPS/NAICS/Ownership level, with \u201cOwnership\u201d referring to the governmental ownership status of the associated establishments(e.g. private, federal government, local government, etc). In order to reduce the dataset to the FIPS/NAICS level, the raw location quotients were combined using weighted averages based on establishment count. In addition, county/NAICS combinations that did not pass BLS\u2019 disclosure standards are not included and state level statistics for each industry are not included.",
+            "temporal_coverage_start": "2001",
+            "temporal_coverage_end": "2018",
+            "geographical_coverage": [
+                "USA"
+            ],
+            "geographical_unit": [
+                "Country"
+            ],
+            "dataset_documentation": [
+                "QCEW.xlsx"
+            ],
+            "access_actions_required": "Public / Open Access (no data use agreement required)",
+            "access_requirements": "Public / Open Access (no data use agreement required)",
+            "data_usage_policy": "These data are being provided for educational purposes for use in Applied Data Analytics program. Dataset may only be accessed and used by ADRF users who are members of a course using these data.",
+            "category": "Aggregated census data",
+            "dataset_version": 1,
+            "dataset_version_date": 1573057022,
+            "data_classification": "Public",
+            "data_steward": "Julia Lane",
+            "data_steward_organization": "Coleridge Initiative",
+            "data_provider": "Institute for Research on Innovation and Science (IRIS)",
+            "files_total": 1,
+            "joins_to": [
+                "dataset-428"
+            ]
+        }
     },
     {
         "id": "dataset-329",
@@ -4274,30 +4310,90 @@
         ],
         "url": "https://www2.illinois.gov/idoc/reportsandstatistics/Pages/Parole-Population-Data-Sets.aspx",
         "description" : "Location information for persons active in the Illinois parole system from 2009 to 2015. A given person could have multiple rows in this table, one per year they were on parole. Each row contains a latitude/longitude coordinate based on the parolee’s address on file (redacted from this file), as well as additional information on original and derived county, city, and zip code and metadata that indicates who confident we are that the point corresponds to the address. Because the parole system doesn’t include historical data, parolees who exited the system before 2009 won’t be represented in this data set."
-    }
-    ,
-    {
-    "id": "dataset-370",
-    "provider": "National Science Foundation",
-    "title":  "Survey of Earned Doctorates",
-    "alt_title": [
-        "SED",
-        "SESTAT"
-    ],
-    "url": "https://sedsurvey.org/DataUsers/DataProducts",
-    "description": "The Survey of Earned Doctorates (SED) gathers information annually from approximately 50,000 new research doctorate graduates from U.S. universities about their educational histories, funding sources, and post-doctoral plans."
-    }
-    ,
-    {
-    "id": "dataset-371",
-    "provider": "National Science Foundation",
-    "title":  "Survey of Doctorate Recipients",
-    "alt_title": [
-        "SDR"
-    ],
-    "url": "https://www.nsf.gov/statistics/srvydoctoratework/",
-    "description": "The Survey of Doctorate Recipients (SDR) provides demographic, education, and career history information from individuals with a U.S. research doctoral degree in a science, engineering, or health (SEH) field."
     },
+    {
+        "id": "dataset-370",
+        "provider": "National Science Foundation",
+        "title":  "Survey of Earned Doctorates",
+        "alt_title": [
+            "SED",
+            "SESTAT"
+        ],
+        "url": "https://sedsurvey.org/DataUsers/DataProducts",
+        "description": "The Survey of Earned Doctorates (SED) gathers information annually from approximately 50,000 new research doctorate graduates from U.S. universities about their educational histories, funding sources, and post-doctoral plans.",
+        "original": {
+            "adrf_title": "sed4ncsesclass",
+            "keywords": [
+                "education",
+                "demographics",
+                "post-graduation plan"
+            ],
+            "dataset_id": "adrf-000140",
+            "file_names": [
+                "adrf-000140-sed4ncses.sas7dbat"
+            ],
+            "adrf_description": "Survey of Earned Doctorates restricted survey data for the cohort of FY 2008 - 2017; The data set is extracted from the 2017 cumulative Doctorate Records File (DRF) for the Coleridge Initiative training class - Applied Data Analytics, sponsored by NCSES",
+            "dataset_documentation": [
+                "ADRF-Data_Provider-Dataset_Metadata_Form_NCSESdata"
+            ],
+            "access_actions_required": "Access is granted to only those with approved NCSES data use agreement",
+            "access_requirements": "Access is granted to only those with approved NCSES data use agreement",
+            "data_usage_policy": "Please see the NCSES data use agreement",
+            "dataset_version": 1,
+            "dataset_version_date": 1575326973,
+            "data_classification": "Restricted",
+            "data_steward": "Julia Lane",
+            "data_steward_organization": "Coleridge Initiative",
+            "data_provider": "National Center for Science and Engineering Statistics (NCSES)",
+            "dataset_citation": "",
+            "files_total": 1,
+            "joins_to": [
+                "dataset-371",
+                "dataset-428",
+                "dataset-425"
+            ]
+                    }
+        },
+        {
+        "id": "dataset-371",
+        "provider": "National Science Foundation",
+        "title":  "Survey of Doctorate Recipients",
+        "alt_title": [
+            "SDR"
+        ],
+        "url": "https://www.nsf.gov/statistics/srvydoctoratework/",
+        "description": "The Survey of Doctorate Recipients (SDR) provides demographic, education, and career history information from individuals with a U.S. research doctoral degree in a science, engineering, or health (SEH) field.",
+        "original": {
+            "adrf_title": "sdr2017_ncsesclass",
+            "keywords": [
+                "employment",
+                "education history",
+                "demographics"
+            ],
+            "dataset_id": "adrf-000142",
+            "file_names": [
+                "adrf-000142-sdr2017_ncsesclass.sas7bdat"
+            ],
+            "adrf_description": "A subset of the 2017 Survey of Doctorate Recipients restricted survey data. This subset includes respondents from the cohort of FY 2008 - 2013; The data set is extracted from the 2017 SDR RUF for the Coleridge Initiative training class - Applied Data Analytics, sponsored by NCSES",
+            "dataset_documentation": [
+                "ADRF-Data_Provider-Dataset_Metadata_Form_NCSESdata"
+            ],
+            "access_actions_required": "Access is granted to only those with approved NCSES data use agreement",
+            "access_requirements": "Access is granted to only those with approved NCSES data use agreement",
+            "data_usage_policy": "Please see the NCSES data use agreement",
+            "dataset_version": 1,
+            "dataset_version_date": 1575327829,
+            "data_classification": "Restricted",
+            "data_steward": "Julia Lane",
+            "data_steward_organization": "Coleridge Initiative",
+            "data_provider": "National Center for Science and Engineering Statistics (NCSES)",
+            "dataset_citation": "",
+            "files_total": 1,
+            "joins_to": [
+                "dataset-370"
+            ]
+                    }
+    },          
     {
         "id": "dataset-372",
         "provider": "North Carolina Department of Health and Human Services",
@@ -4753,47 +4849,125 @@
         "description": "The Food Patterns Equivalents Database (FPED) is a tool that allows researchers to examine diets in a standardized way by characterizing ready-to-eat foods and beverages in terms of dietary guidance."
     },
     {
-      "id": "dataset-425",
-      "provider": "Institute for Research on Innovation and Science (IRIS)",
-      "title":  "Universities: Measuring the Impacts of Research on Innovation, Competitiveness, and Science",
-      "alt_title": [
-          "UMETRICS"
-      ],
-      "url": "https://iris.isr.umich.edu/about/ ",
-      "description": "Long term, comprehensive data about academic researchers."
+        "id": "dataset-425",
+        "provider": "Institute for Research on Innovation and Science (IRIS)",
+        "title":  "Universities: Measuring the Impacts of Research on Innovation, Competitiveness, and Science",
+        "alt_title": [
+            "UMETRICS"
+        ],
+        "url": "https://iris.isr.umich.edu/about/ ",
+        "description": "Long term, comprehensive data about academic researchers.",
+        "original": {
+            "adrf_title": "UMETRICS-Semester",
+            "keywords": [
+                "Administrative data",
+                "award activity",
+                "awards and funding",
+                "award expense transaction",
+                "collaboration networks",
+                "economic and social value of research",
+                "graduate students and postdoctoral researchers",
+                "research activity",
+                "research impact",
+                "science of innovation",
+                "scientific productivity",
+                "and scientific workforce"
+            ],
+            "dataset_id": "adrf-000139",
+            "file_names": [
+                "adrf-000139-ncses_umetrics_semester.csv"
+            ],
+            "description": "These data are an extract of graduate students in the UMETRICS data compiled by IRIS, aggregated to the student-semester level. This dataset was created solely for use in the 2019 class in Applied Data Analytics at NCSES. These data are unique at the emp_number-semester level. emp_numbers are unique and exist only within institutions (institution_id).",
+            "temporal_coverage_start": "2010",
+            "temporal_coverage_end": "2017",
+            "dataset_documentation": [
+                "UMETRICS_semester.xlsx"
+            ],
+            "access_actions_required": "No Disclosure Agreement (NDA) is required to access and use this dataset",
+            "access_requirements": "No Disclosure Agreement (NDA)",
+            "data_usage_policy": "These data are being provided for educational purposes for use in Applied Data Analytics program. Dataset may only be accessed and used by ADRF users who are members of a course using these data.",
+            "category": "Administrative data",
+            "dataset_version": 1,
+            "dataset_version_date": 1573055220,
+            "data_classification": "Restricted",
+            "data_steward": "Julia Lane",
+            "data_steward_organization": "Coleridge Initiative",
+            "data_provider": "Institute for Research on Innovation and Science (IRIS)",
+            "files_total": 1,
+            "joins_to": [
+                "dataset-370"
+            ]
+                }   
     },
     {
-      "id": "dataset-426",
-      "provider": "The United States Patent and Trademark Office",
-      "title":  "USPTO PatentsView",
-      "alt_title": [
-          "USPTO"
-      ],
-      "url": "http://www.patentsview.org/web/#viz/locations",
-      "description": "When patents are granted, the locations of inventors and patent-owning entities - or assignees - are recorded."
+        "id": "dataset-426",
+        "provider": "The United States Patent and Trademark Office",
+        "title":  "USPTO PatentsView",
+        "alt_title": [
+            "USPTO"
+        ],
+        "url": "http://www.patentsview.org/web/#viz/locations",
+        "description": "When patents are granted, the locations of inventors and patent-owning entities - or assignees - are recorded."
     },
     {
-      "id": "dataset-427",
-      "provider": "U.S. Department of Health and Human Services",
-      "title":  "FedREPORTER",
-      "alt_title": [
-          "Grants data",
-          "Federal RePORTER"
-      ],
-      "url": "https://federalreporter.nih.gov/FileDownload",
-      "description": "Federal RePORTER is a collaborative effort led by STAR METRICS® to create a searchable database of scientific awards from agencies."
+        "id": "dataset-427",
+        "provider": "U.S. Department of Health and Human Services",
+        "title":  "FedREPORTER",
+        "alt_title": [
+            "Grants data",
+            "Federal RePORTER"
+        ],
+        "url": "https://federalreporter.nih.gov/FileDownload",
+        "description": "Federal RePORTER is a collaborative effort led by STAR METRICS® to create a searchable database of scientific awards from agencies."
     },
     {
-      "id": "dataset-428",
-      "provider": "National Science Foundation",
-      "title":  "Higher Education Research and Development Survey",
-      "alt_title": [
-          "HERD",
-          "Federal RePORTER"
-      ],
-      "url": "https://www.nsf.gov/statistics/srvyherd/",
-      "description": "The survey collects information on R&D expenditures by field of research and source of funds and also gathers information on types of research, expenses, and headcounts of R&D personnel."
-    },
+        "id": "dataset-428",
+        "provider": "National Science Foundation",
+        "title":  "Higher Education Research and Development Survey",
+        "alt_title": [
+            "HERD",
+            "Federal RePORTER"
+        ],
+        "url": "https://www.nsf.gov/statistics/srvyherd/",
+        "description": "The survey collects information on R&D expenditures by field of research and source of funds and also gathers information on types of research, expenses, and headcounts of R&D personnel.",
+        "original": {
+                "adrf_title": "HERD 2010-2017",
+                "keywords": [
+                        "NSF Higher Education Research and Development Survey (HERD)",
+                        "The Integrated Postsecondary Education Data System (IPEDS)"
+                        ],
+                "dataset_id": "adrf-000134",
+                "file_names": [
+                        "adrf-000134-NSF_HERD_2010_2017.csv"
+                        ],
+                "adrf_description": "This file includes publicly available Higher Education Research and Development Survey data downloaded from NSF in July 2019. HERD is the primary source of information on R&D expenditures at U.S. colleges and universities. The survey is an annual census of institutions that expended at least $150,000 in separately accounted for R&D in the fiscal year. In addition to R&D expenditures, this provides data on institutional characteristics (i.e., highest degree granted, historically black college or university [HBCU], high Hispanic enrollment [HHE], public or private control).",
+                "temporal_coverage_start": "2010",
+                "temporal_coverage_end": "2017",
+                "geographical_coverage": [
+                        "USA"
+                        ],
+                "geographical_unit": [
+                        "Country"
+                        ],
+                "dataset_documentation": [
+                        "HERD.xlsx"
+                        ],
+                "access_actions_required": "Public / Open Access (no data use agreement required)",
+                "access_requirements": "Public / Open Access (no data use agreement required)",
+                "data_usage_policy": "These data are being provided for educational purposes for use in Applied Data Analytics program. Dataset may only be accessed and used by ADRF users who are members of a course using these data.",
+                "category": "NSF-collected institutional profile data",
+                "dataset_version": 1,
+                "dataset_version_date": 1573055804,
+                "data_classification": "Public",
+                "data_steward": "Julia Lane",
+                "data_steward_organization": "Coleridge Initiative",
+                "data_provider": "Institute for Research on Innovation and Science (IRIS)",
+                "files_total": 1,
+                "joins_to": [
+                        "dataset-370"
+                        ]
+                    }
+    },   
     {
         "id": "dataset-429",
         "provider": "NYC Open Data",
@@ -6520,5 +6694,17 @@
         ],
         "url": "https://nces.ed.gov/surveys/els2002/avail_data.asp",
         "description": "Basic elements that are encompassed in the ELS:2002 research instruments can be classified in three broad categories: background information (normally collected in the base year only), process information (information about dynamic influences on the student, in the home, school, and community environment, as he or she moves through secondary school and beyond into the world of postsecondary education and the adult workforce), and outcome information (the eventual outcomes of the transition process)."
+    },
+  {
+        "id": "dataset-600",    
+        "provider": "US Patent and Trademark Office",
+        "title": "Patent data",
+        "alt_title": [
+            "USPTO",
+            "USPTO Data",
+            "USPTO Patent Data"
+        ],
+        "url": "https://www.patentsview.org/web/#viz/locations",
+        "description": "When patents are granted, the locations of inventors and patent-owning entities – or assignees – are recorded. Places with high levels of patenting activity indicate the presence of inventors and assignees that are driving innovation. Explore the locations of inventors and assignees granted patents since 2013."
     }
 ]
