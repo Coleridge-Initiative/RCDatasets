@@ -6314,7 +6314,7 @@
         "description": "The LSOA II is a prospective study with a nationally representative sample comprised of 9,447 civilian noninstitutionalized persons 70 years of age and over at the time of their SOA II interview. The LSOA II followed this cohort of older persons through two followup interviews, conducted in 1997-98 and 1999-2000."
     },
     {
-        "id": "dataset-559",
+        "id": "dataset-597",
         "provider": "The World Bank",
         "title": "World Development Indicators",
         "alt_title": [
@@ -6325,6 +6325,378 @@
     },
     {
         "id": "dataset-560",
+        "provider": "Pew Research Center",
+        "title": "Religious Landscape Study",
+        "alt_title": [
+            "RLS"
+        ],
+        "url": "https://www.pewforum.org/religious-landscape-study/",
+        "description": "The RLS surveys more than 35,000 Americans from all 50 states about their religious affiliations, beliefs and practices, and social and political views."
+    },
+    {
+        "id": "dataset-561",
+        "provider": "The Rockefeller Foundation",
+        "title": "Growth of American Families",
+        "alt_title": [
+            "GAF"
+        ],
+        "url": "https://opr.princeton.edu/archive/FileList.aspx?studyid=4",
+        "description": "Women were asked questions about fertility and contraception, including contraceptive use and pregnancy histories, opinions on childbearing and childrearing, expectation of further children, etc. Background information such as marital history, education, income, religion, social characteristics, and place of residence was also collected."
+    },
+    {
+        "id": "dataset-559",
+        "provider": "National Institute of Child Health and Human Development",
+        "title": "National Fertility Survey",
+        "alt_title": [
+            "NFS"
+        ],
+        "url": "https://opr.princeton.edu/archive/FileList.aspx?studyid=6",
+        "description": "Women were asked questions about fertility and contraception, including contraceptive use and pregnancy histories, opinions on childbearing and childrearing, desired family size, future childbearing intentions and expectation of further children."
+    },
+    {
+        "id": "dataset-562",
+        "provider": "United Nations Economic Commission for Europe",
+        "title": "Generations and Gender Surveys",
+        "alt_title": [
+            "GGS"
+        ],
+        "url": "https://www.ggp-i.org/data/browse-the-data/",
+        "description": "It is a social science Research Infrastructure that provides harmonized, large-scale, longitudinal, cross-national panel data on individual life courses and family dynamics. Over time, the GGP follows respondents through relationships, marriages, parenthood, divorces, deaths and many of the opportunities and challenges that people face along the way. It then tracks the causes and consequences of these events at the individual and societal levels."
+    },
+    {
+        "id": "dataset-563",
+        "provider": "Manpower Demonstration Research Corporation",
+        "title": "National Supported Work Demonstration",
+        "alt_title": [
+            "NSWD"
+        ],
+        "url": "https://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/7865/datadocumentation",
+        "description": "This study is an evaluation of the National Supported Work Demonstration project, a transitional, subsidized work experience program for four target groups of people with longstanding employment problems: ex-offenders, former drug addicts, women who were long-term recipients of welfare benefits, and school dropouts, many with criminal records. The program provided up to 12-18 months of employment to about 10,000 individuals at 15 locations across the country for four years."
+    },
+    {
+        "id": "dataset-564",
+        "provider": "Inter-university Consortium for Political and Social Research",
+        "title": "National Health and Social Life Survey",
+        "alt_title": [
+            "NHSLS"
+        ],
+        "url": "https://www.icpsr.umich.edu/web/HMCA/studies/6647/datadocumentation",
+        "description": "The purpose of this study was to collect extensive information on the sexual experiences and other social, demographic, attitudinal, and health-related characteristics of adults in the United States."
+    },
+    {
+        "id": "dataset-565",
+        "provider": "German Youth Institute",
+        "title": "German Youth Institute: Family Survey",
+        "alt_title": [
+            "GYIFS"
+        ],
+        "url": "https://surveys.dji.de/index.php?m=msg,0&fID=2",
+        "description": "The German Youth Institute (DJI) is one of the biggest social science research institutes in Europe. For more than 50 years it has conducted research into the life situations of children, young people and families, advising national government, the German federal states and local authorities and providing key stimuli for professional practice."
+    },
+    {
+        "id": "dataset-566",
+        "provider": "Max-Planck-Institute for Demographic Research",
+        "title": "Comparative Family Policy Database",
+        "alt_title": [
+            "CFPD"
+        ],
+        "url": "https://www.demogr.mpg.de/cgi-bin/databases/FamPolDB/index_data.plx",
+        "description": "The datasets constitute the most comprehensive data collection on historical trends in family policy regulations in developed welfare states, making them highly valuable for comparative studies on the development and effects of family policies (e.g. on fertility behavior)."
+    },
+    {
+        "id": "dataset-567",
+        "provider": "U.S. Department of Health and Human Services",
+        "title": "Norwegian Life History Study",
+        "alt_title": [
+            "NLHS"
+        ],
+        "url": "https://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/8545/datadocumentation",
+        "description": "The objective of the study was to investigate historical life changes in the life cycle experiences of Norwegian men. The respondents were asked about the families into which they were born, their childhoods, and their lives from the age of fourteen until the time of the interview. The major areas covered in the interviews include: place of residence, education, work history, income, household status and composition, marital status and family composition, illness and injuries, and receipt of benefits."
+    },
+    {
+        "id": "dataset-568",
+        "provider": "Organisation for Economic Co-operation and Development",
+        "title": "The Programme for the International Assessment of Adult Competencies",
+        "alt_title": [
+            "PIAAC"
+        ],
+        "url": "https://www.oecd.org/skills/piaac/data/",
+        "description": "The Programme for the International Assessment of Adult Competencies (PIAAC) is a programme of assessment and analysis of adult skills. The major survey conducted as part of PIAAC is the Survey of Adult Skills. The Survey measures adults’ proficiency in key information-processing skills - literacy, numeracy and problem solving - and gathers information and data on how adults use their skills at home, at work and in the wider community."
+    },
+    {
+        "id": "dataset-569",
+        "provider": "American Institutes for Research",
+        "title": "Project Talent",
+        "alt_title": [
+            "TALENT"
+        ],
+        "url": "http://www.projecttalent.org/researchers/access-the-data/",
+        "description": "The purpose of the study was to (1) create a national inventory of human resources and talent, (2) better understand the processes by which young people choose and advance their careers, and (3) discern which experiences and influences are the most important in preparing students for their future."
+    },
+    {
+        "id": "dataset-570",
+        "provider": "U.S. Department of Education",
+        "title": "National Assessment of Educational Progress",
+        "alt_title": [
+            "NAEP"
+        ],
+        "url": "https://www.nationsreportcard.gov/ndecore/landing",
+        "description": "The National Assessment of Educational Progress (NAEP) is the largest nationally representative and continuing assessment of what America's students know and can do in various subject areas."
+    },
+    {
+        "id": "dataset-571",
+        "provider": "",
+        "title": "Youth Development Study",
+        "alt_title": [
+            "YDS"
+        ],
+        "url": "http://yds.soc.umn.edu/",
+        "description": "he Youth Development Study examines the consequences of formative experiences in adolescence and early adulthood for mental health, value formation, socioeconomic attainment, and multiple facets of behavioral adjustment. This comprehensive study now encompasses three generations: a child generation studied over a 23 year period from adolescence to adulthood (G2), their parents (G1), and their adolescent children (G3)."
+    },
+    {
+        "id": "dataset-572",
+        "provider": "U.S. Department of Health and Human Services",
+        "title": "Epidemiologic Catchment Area",
+        "alt_title": [
+            "ECA"
+        ],
+        "url": "https://www.icpsr.umich.edu/icpsrweb/NAHDAP/studies/36621/datadocumentation",
+        "description": "The purpose was to collect data on the prevalence and incidence of mental disorders and on the use of and need for services by the mentally ill. The longitudinal ECA design incorporated two waves of personal interviews administered one year apart and a brief telephone interview in between (for the household sample)."
+    },
+    {
+        "id": "dataset-573",
+        "provider": "U.S. Internal Revenue Service",
+        "title": "IRS Tax Return Data",
+        "alt_title": [
+            "IRSTAX"
+        ],
+        "url": "https://www.irs.gov/statistics/soi-tax-stats-irs-data-book",
+        "description": "The Internal Revenue Service (IRS) Data Book is published annually by the IRS and contains statistical tables and organizational information on a fiscal year basis. The report provides data on collecting the revenue, issuing refunds, enforcing the law, assisting the taxpayer, and the budget and workforce."
+    },
+    {
+        "id": "dataset-574",
+        "provider": "Groningen Growth and Development Centre, University of Groningen",
+        "title": "Penn World Table",
+        "alt_title": [
+            "PWT"
+        ],
+        "url": "https://febpwt.webhosting.rug.nl/",
+        "description": "PWT version 9.1 is a database with information on relative levels of income, output, input and productivity, covering 182 countries between 1950 and 2017."
+    },
+    {
+        "id": "dataset-575",
+        "provider": "International Monetary Fund",
+        "title": "Balance of Payments Statistics by IMF",
+        "alt_title": [
+            "BOP"
+        ],
+        "url": "http://data.imf.org/?sk=7A51304B-6426-40C0-83DD-CA473CA1FD52&sId=1542633711584",
+        "description": "The balance of payments is a statistical statement that summarizes transactions between residents and nonresidents during a period. It consists of the goods and services account, the primary income account, the secondary income account, the capital account, and the financial account."
+    },
+    {
+        "id": "dataset-576",
+        "provider": "U.S. Census Bureau",
+        "title": "County Business Patterns",
+        "alt_title": [
+            "CBP"
+        ],
+        "url": "https://www.census.gov/programs-surveys/cbp/data.html",
+        "description": "CBP is an annual series that provides subnational economic data by industry. This series includes the number of establishments, employment during the week of March 12, first quarter payroll, and annual payroll."
+    },
+    {
+        "id": "dataset-577",
+        "provider": "WP Engine",
+        "title": "Linguistic Inquiry and Word Count",
+        "alt_title": [
+            "LIWC"
+        ],
+        "url": "http://liwc.wpengine.com/compare-dictionaries/",
+        "description": "LIWC (Linguistic Inquiry and Word Count) is a text analysis program available for purchase. It calculates the degree to which various categories of words are used in a text, and can process texts ranging from e-mails to speeches, poems and transcribed natural language in either plain text or Word formats."
+    },
+    {
+        "id": "dataset-578",
+        "provider": "U.S. Bureau of Economic Analysis",
+        "title": "National Income and Product Accounts",
+        "alt_title": [
+            "NIPA"
+        ],
+        "url": "https://apps.bea.gov/iTable/index_nipa.cfm",
+        "description": "BEA’s national economic accounts provide a comprehensive picture of the U.S. economy and feature many macroeconomic statistics."
+    },
+    {
+        "id": "dataset-579",
+        "provider": "Organisation for Economic Co-operation and Development",
+        "title": "OECD STructural ANalysis Database",
+        "alt_title": [
+            "OECDSTAN"
+        ],
+        "url": "https://stats.oecd.org/Index.aspx?DataSetCode=STANI4_2016",
+        "description": "The STAN database is a comprehensive tool for analysing industrial performance at a relatively detailed level of activity across countries. It includes annual measures of output, value added and its components, labour input, investment and capital stock, from 1970 onwards, which allow users to construct a wide range of indicators to focus on areas such as productivity growth, competitiveness and general structural change."
+    },
+    {
+        "id": "dataset-580",
+        "provider": "Amazon",
+        "title": "Amazon Mechanical Turk",
+        "alt_title": [
+            "MTurk"
+        ],
+        "url": "https://www.mturk.com/get-started",
+        "description": "Amazon Mechanical Turk (MTurk) is a crowdsourcing marketplace that makes it easier for individuals and businesses to outsource their processes and jobs to a distributed workforce who can perform these tasks virtually. This could include anything from conducting simple data validation and research to more subjective tasks like survey participation, content moderation, and more."
+    },
+    {
+        "id": "dataset-581",
+        "provider": "Google Developers",
+        "title": "YouTube Data API",
+        "alt_title": [
+            "YouTube"
+        ],
+        "url": "https://developers.google.com/youtube/v3/docs/?apix=true",
+        "description": "With the YouTube Data API, you can add a variety of YouTube features to your application. Use the API to upload videos, manage playlists and subscriptions, update channel settings, and more."
+    },
+    {
+        "id": "dataset-582",
+        "provider": "U.S. Department of Education",
+        "title": "High School Longitudinal Study of 2009",
+        "alt_title": [
+            "HSLS",
+            "HSLS09"
+        ],
+        "url": "https://nces.ed.gov/surveys/hsls09/tables.asp",
+        "description": "Nationally representative, longitudinal study of 23,000+ 9th graders from 944 schools in 2009, with a first follow-up in 2012 and a second follow-up in 2016. Students followed throughout secondary and postsecondary years. Surveys of students, their parents, math and science teachers, school administrators, and school counselors."
+    },
+    {
+        "id": "dataset-583",
+        "provider": "U.S. Department of Education",
+        "title": "Beginning Postsecondary Students Longitudinal Study 2004",
+        "alt_title": [
+            "BPS04"
+        ],
+        "url": "https://nces.ed.gov/pubsearch/pubsinfo.asp?pubid=2011244",
+        "description": "The Beginning Postsecondary Students Longitudinal Study (BPS) currently surveys cohorts of first-time, beginning students at three points in time: at the end of their first year, and then three and six years after first starting in postsecondary education. It collects data on a variety of topics, including student demographic characteristics, school and work experiences, persistence, transfer, and degree attainment."
+    },
+    {
+        "id": "dataset-584",
+        "provider": "National Student Clearinghouse",
+        "title": "National Student Clearinghouse data",
+        "alt_title": [
+            "NSC"
+        ],
+        "url": "https://nscresearchcenter.org/workingwithourdata/",
+        "description": "The National Student Clearinghouse regularly publishes research on student enrollment, movement, and other important student outcomes using student-level data provided exclusively to the National Student Clearinghouse by our nationwide network of postsecondary institutions. These reports are to benefit and better inform the educational community, policymakers, community leaders, and others."
+    },
+    {
+        "id": "dataset-585",
+        "provider": "U.K. Office for National Statistics",
+        "title": "UK Labor Force Survey",
+        "alt_title": [
+            "UKLFS"
+        ],
+        "url": "https://beta.ukdataservice.ac.uk/datacatalogue/series/series?id=2000026#!/access-data",
+        "description": "The Labour Force Survey (LFS) is a study of the employment circumstances of the UK population. It is the largest household study in the UK and provides the official measures of employment and unemployment."
+    },
+    {
+        "id": "dataset-586",
+        "provider": "U.S. Census Bureau",
+        "title": "Education Demographic and Geographic Estimates",
+        "alt_title": [
+            "EDGE"
+        ],
+        "url": "https://nces.ed.gov/programs/EDGE",
+        "description": "The U.S. Census Bureau's Education Demographic and Geographic Estimates project (EDGE) produces a variety of geodemographic data for the National Center for Education Statistics. It is the primary source of custom tabulated school district demographic data from the decennial census and the American Community Survey. In addition to demographic estimates, the EDGE project also produces school and school district locale codes - indicators of geographic location used for educational research and program administration."
+    },
+    {
+        "id": "dataset-587",
+        "provider": "Instituto Nacional de Estadística y Geografía",
+        "title": "Mexican National Survey of Occupation and Employment",
+        "alt_title": [
+            "ENOE"
+        ],
+        "url": "http://en.www.inegi.org.mx/proyectos/enchogares/regulares/enoe/",
+        "description": "The National Survey of Occupation and Employment (ENOE) is the consolidation and merger of the National Urban Employment Survey (ENEU) and the National Employment Survey (ENE), which for more than 20 years were providing information of the employed and unemployed population. The general objective is to obtain statistical information on occupational characteristics of the population nationwide, as well as other demographic and economic variables to deepen the analysis of labor issues."
+    },
+    {
+        "id": "dataset-588",
+        "provider": "U.S. Census Bureau",
+        "title": "Census of Governments",
+        "alt_title": [
+            "CGOV"
+        ],
+        "url": "https://www.census.gov/programs-surveys/cog/data.html",
+        "description": "The Census of Governments identifies the scope and nature of the nation's state and local government sector; provides authoritative benchmark figures of public finance and public employment."
+    },
+    {
+        "id": "dataset-589",
+        "provider": "U.S. Census Bureau",
+        "title": "Historical Database on Individual Government Finances",
+        "alt_title": [
+            "INDFIN"
+        ],
+        "url": "https://www.census.gov/programs-surveys/gov-finances/data/datasets.html",
+        "description": "This survey is the only source of nationwide, comprehensive local government finance information. It provides statistics on revenue, expenditure, debt, and assets for the 50 states and D.C."
+    },
+    {
+        "id": "dataset-590",
+        "provider": "U.S. Department of Education",
+        "title": "CCD School District Finance Survey",
+        "alt_title": [
+            "SDFS"
+        ],
+        "url": "https://nces.ed.gov/ccd/f33agency.asp",
+        "description": "The primary purpose of the Local Education Agency (School District) Finance Survey (F-33) is to provide revenue and expenditure data for all school districts in the United States."
+    },
+    {
+        "id": "dataset-591",
+        "provider": "American Hospital Association",
+        "title": "Annual Survey of Hospitals",
+        "alt_title": [
+            "ASH"
+        ],
+        "url": "https://www.ahadata.com/aha-annual-survey-database-asdb/",
+        "description": "The American Hospital Association Annual Survey of Hospitals is an annual survey of 6,500 hospitals in the United States.  Extensive data is collected on a variety of topics including hospital organizational structure, facilities and services, utilization data, physician arrangements, staffing, and community orientation."
+    },
+    {
+        "id": "dataset-592",
+        "provider": "U.S. Department of Education",
+        "title": "Common Core Data",
+        "alt_title": [
+            "CCD"
+        ],
+        "url": "https://nces.ed.gov/ccd/ccddata.asp",
+        "description": "The Common Core of Data (CCD) is the Department of Education's primary database on public elementary and secondary education in the United States. CCD is a comprehensive, annual, national database of all public elementary and secondary schools and school districts."
+    },
+    {
+        "id": "dataset-593",
+        "provider": "U.S. Department of Education",
+        "title": "School and Staffing Survey",
+        "alt_title": [
+            "SASS"
+        ],
+        "url": "https://nces.ed.gov/surveys/sass/dataproducts.asp",
+        "description": "The Schools and Staffing Survey (SASS) was conducted by NCES seven times between 1987 through 2011. SASS was an integrated study public and private school districts, schools, principals, and teachers designed to provide descriptive data on the context of elementary and secondary education. SASS covered a wide range of topics from teacher demand, teacher and principal characteristics, general conditions in schools, principals' and teachers' perceptions of school climate and problems in their schools, teacher compensation, district hiring and retention practices, to basic characteristics of the student population."
+    },
+    {
+        "id": "dataset-594",
+        "provider": "U.S. Bureau of Labor Statistics",
+        "title": "Consumer Expenditure Survey",
+        "alt_title": [
+            "CES"
+        ],
+        "url": "https://www.bls.gov/cex/pumd_data.htm",
+        "description": "The Consumer Expenditure Surveys (CE) program provides data on expenditures, income, and demographic characteristics of consumers in the United States. CE data are collected by the Census Bureau for BLS in two surveys, the Interview Survey for major and/or recurring items and the Diary Survey for more minor or frequently purchased items. CE data are primarily used to revise the relative importance of goods and services in the market basket of the Consumer Price Index. The CE is the only Federal household survey to provide information on the complete range of consumers' expenditures and incomes."
+    },
+    {
+        "id": "dataset-595",
+        "provider": "U.S. Department of Education",
+        "title": "Education Longitudinal Study of 2002",
+        "alt_title": [
+            "ELS",
+            "ELS2002"
+        ],
+        "url": "https://nces.ed.gov/surveys/els2002/avail_data.asp",
+        "description": "Basic elements that are encompassed in the ELS:2002 research instruments can be classified in three broad categories: background information (normally collected in the base year only), process information (information about dynamic influences on the student, in the home, school, and community environment, as he or she moves through secondary school and beyond into the world of postsecondary education and the adult workforce), and outcome information (the eventual outcomes of the transition process)."
+    },
+  {
+        "id": "dataset-600",    
         "provider": "US Patent and Trademark Office",
         "title": "Patent data",
         "alt_title": [
