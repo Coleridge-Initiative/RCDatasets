@@ -547,7 +547,7 @@
             "Eating and Health Module to the American Time Use Survey"
         ],
         "url": "https://www.ers.usda.gov/data-products/eating-and-health-module-atus/",
-        "description": "USDA\u2019s Economic Research Service, along with its funding and technical assistance cosponsors\u2014the Food and Nutrition Service (FNS) and the National Cancer Institute (NCI)\u2014worked with the Bureau of Labor Statistics (BLS) and the Census Bureau to collect data for the 2014-16 Eating & Health Module (EH Module), a supplement to the American Time Use Survey (ATUS)."
+        "description": "USDA's Economic Research Service, along with its funding and technical assistance cosponsors\u2014the Food and Nutrition Service (FNS) and the National Cancer Institute (NCI)\u2014worked with the Bureau of Labor Statistics (BLS) and the Census Bureau to collect data for the 2014-16 Eating & Health Module (EH Module), a supplement to the American Time Use Survey (ATUS)."
     },
     {
         "id": "dataset-052",
@@ -730,7 +730,7 @@
         "provider": "National Student Clearinghouse Research Center",
         "title": "College Enrollment",
         "url": "https://nscresearchcenter.org/workingwithourdata/",
-        "description": "Thousands of high schools currently use StudentTracker\u00ae reports from the Research Center to measure how many of their graduates go on to college, where they attend, and how many persist to graduation. The reports were designed to help schools to measure their success in preparing students for college, and to evaluate the effectiveness of college access programs and curricula."
+        "description": "Thousands of high schools currently use StudentTracker® reports from the Research Center to measure how many of their graduates go on to college, where they attend, and how many persist to graduation. The reports were designed to help schools to measure their success in preparing students for college, and to evaluate the effectiveness of college access programs and curricula."
     },
     {
         "id": "dataset-069",
@@ -6160,5 +6160,16 @@
         ],
         "url": "https://www.patentsview.org/web/#viz/locations",
         "description": "When patents are granted, the locations of inventors and patent-owning entities – or assignees – are recorded. Places with high levels of patenting activity indicate the presence of inventors and assignees that are driving innovation. Explore the locations of inventors and assignees granted patents since 2013."
+    },
+    {
+        "id": "dataset-561",
+        "provider": "Statistical Committee of the Republic of Armenia",
+        "title": "Armenian Time Use Survey",
+        "alt_title": [
+            "ArTUS",
+            "ArTUS Data",
+            "ArTUS Survey Data"
+        ],
+        "url": "https://www.armstat.am/file/article/time_use_09e.pdf" 
     }
 ]
