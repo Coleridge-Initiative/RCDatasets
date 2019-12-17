@@ -3555,8 +3555,8 @@
             "Early Childhood Longitudinal Program - Birth Cohort",
             "ECLS-B"
         ],
-        "url": "https://nces.ed.gov/ecls/birth.asp",
-        "description": "The Early Childhood Longitudinal Study, Birth Cohort (ECLS-B) was designed to provide policy makers, researchers, child care providers, teachers, and parents with detailed information about children's early life experiences."
+        "url": "https://nces.ed.gov/ecls/dataproducts.asp",
+        "description": "The ECLS program also provides data to analyze the relationships among a wide range of family, school, community, and individual factors with children's development, early learning, and performance in school."
         },
         {
         "id": "dataset-303",
@@ -5261,18 +5261,6 @@
         "description": "Longitudinal study where over 7,000 students in 79 schools were randomly assigned into one of three interventions: small class (13 to 17 students per teacher), regular class (22 to 25 students per teacher), and regular-with-aide class (22 to 25 students with a full-time teacher's aide). Classroom teachers were also randomly assigned to the classes they would teach. The interventions were initiated as the students entered school in kindergarten and continued through third grade."
     },
     {
-        "id": "dataset-473",
-        "provider": "U.S. Department of Education",
-        "title": "Early Childhood Longitudinal Study, Kindergarten Class of 1998-99",
-        "alt_title": [
-            "ECLS-K",
-            "ECLS-K 1998",
-            "ECLS-K 1999"
-        ],
-        "url": "https://nces.ed.gov/ecls/dataproducts.asp",
-        "description": "Focuses on children's early school experiences beginning with kindergarten and following children through middle school. The ECLS-K data provide descriptive information on children's status at entry to school, their transition into school, and their progression through 8th grade. The longitudinal nature of the ECLS-K data enables researchers to study how a wide range of family, school, community, and individual factors are associated with school performance."
-    },
-    {
         "id": "dataset-474",
         "provider": "National Research Center",
         "title": "National Employee Surveys",
@@ -6171,7 +6159,7 @@
             "ArTUS Data",
             "ArTUS Survey Data"
         ],
-        "url": "https://www.armstat.am/file/article/time_use_09e.pdf" 
+        "url": "https://www.armstat.am/en/?nid=82&id=335" 
     },
     {
         "id": "dataset-562",
@@ -6194,6 +6182,17 @@
         ],
         "url": "http://www.finaidstudy.org/study.html",
         "description": "The Wisconsin Scholars Longitudinal Study is the first statewide longitudinal study of the impact of private need-based financial aid on college persistence and graduation."
+    },
+    {
+        "id": "dataset-564",
+        "provider": "Young Lives",
+        "title": "Young Lives study",
+        "alt_title": [
+            "YL",
+            "YL Data"
+        ],
+        "url": "https://beta.ukdataservice.ac.uk/datacatalogue/series/series?id=2000060",
+        "description": "Young Lives is an international study of childhood poverty following the lives of 12,000 children in Ethiopia, India (in the states of Andhra Pradesh and Telangana), Peru and Vietnam over 15 years."
     }
 
 ]
