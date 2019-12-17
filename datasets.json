@@ -643,7 +643,7 @@
     },
     {
         "id": "dataset-061",
-        "provider": "Intitute for Research on Poverty at the University of Wisconsin\u2013Madison",
+        "provider": "Intitute for Research on Poverty at the University of Wisconsin-Madison",
         "title": "Multi-Sample Person File",
         "alt_title": [
             "MSPF",
@@ -3551,6 +3551,7 @@
         "title": "Early Childhood Longitudinal Program",
         "alt_title": [
             "ECLS",
+            "Early Childhood Longitudinal Program - Kindergarten",
             "Early Childhood Longitudinal Program - Birth Cohort",
             "ECLS-B"
         ],
@@ -6171,5 +6172,28 @@
             "ArTUS Survey Data"
         ],
         "url": "https://www.armstat.am/file/article/time_use_09e.pdf" 
+    },
+    {
+        "id": "dataset-562",
+        "provider": "Gallup",
+        "title": "Gallup World Poll",
+        "alt_title": [
+            "GWP",
+            "GWP Data"
+        ],
+        "url": "https://www.gallup.com/services/170945/worldpoll.aspx",
+        "description": "The World Poll is based on a framework called the Gallup Macroeconomic Path, a leadership model for successful societies. Each step on the path links to a set of survey questions that Gallup asks across each country. This approach makes it possible to track historical trends and make direct cross-country comparisons." 
+    },
+    {
+        "id": "dataset-563",
+        "provider": "Wisconsin Scholars Longitudinal Study Research Team",
+        "title": "Wisconsin Scholars Longitudinal Study",
+        "alt_title": [
+            "WSLS",
+            "WSLS Data"
+        ],
+        "url": "http://www.finaidstudy.org/study.html",
+        "description": "The Wisconsin Scholars Longitudinal Study is the first statewide longitudinal study of the impact of private need-based financial aid on college persistence and graduation."
     }
+
 ]
