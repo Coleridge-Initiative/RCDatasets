@@ -547,7 +547,7 @@
             "Eating and Health Module to the American Time Use Survey"
         ],
         "url": "https://www.ers.usda.gov/data-products/eating-and-health-module-atus/",
-        "description": "USDA\u2019s Economic Research Service, along with its funding and technical assistance cosponsors\u2014the Food and Nutrition Service (FNS) and the National Cancer Institute (NCI)\u2014worked with the Bureau of Labor Statistics (BLS) and the Census Bureau to collect data for the 2014-16 Eating & Health Module (EH Module), a supplement to the American Time Use Survey (ATUS)."
+        "description": "USDA's Economic Research Service, along with its funding and technical assistance cosponsors\u2014the Food and Nutrition Service (FNS) and the National Cancer Institute (NCI)\u2014worked with the Bureau of Labor Statistics (BLS) and the Census Bureau to collect data for the 2014-16 Eating & Health Module (EH Module), a supplement to the American Time Use Survey (ATUS)."
     },
     {
         "id": "dataset-052",
@@ -643,7 +643,7 @@
     },
     {
         "id": "dataset-061",
-        "provider": "Intitute for Research on Poverty at the University of Wisconsin\u2013Madison",
+        "provider": "Intitute for Research on Poverty at the University of Wisconsin-Madison",
         "title": "Multi-Sample Person File",
         "alt_title": [
             "MSPF",
@@ -730,7 +730,7 @@
         "provider": "National Student Clearinghouse Research Center",
         "title": "College Enrollment",
         "url": "https://nscresearchcenter.org/workingwithourdata/",
-        "description": "Thousands of high schools currently use StudentTracker\u00ae reports from the Research Center to measure how many of their graduates go on to college, where they attend, and how many persist to graduation. The reports were designed to help schools to measure their success in preparing students for college, and to evaluate the effectiveness of college access programs and curricula."
+        "description": "Thousands of high schools currently use StudentTracker® reports from the Research Center to measure how many of their graduates go on to college, where they attend, and how many persist to graduation. The reports were designed to help schools to measure their success in preparing students for college, and to evaluate the effectiveness of college access programs and curricula."
     },
     {
         "id": "dataset-069",
@@ -3551,11 +3551,12 @@
         "title": "Early Childhood Longitudinal Program",
         "alt_title": [
             "ECLS",
+            "Early Childhood Longitudinal Program - Kindergarten",
             "Early Childhood Longitudinal Program - Birth Cohort",
             "ECLS-B"
         ],
-        "url": "https://nces.ed.gov/ecls/birth.asp",
-        "description": "The Early Childhood Longitudinal Study, Birth Cohort (ECLS-B) was designed to provide policy makers, researchers, child care providers, teachers, and parents with detailed information about children's early life experiences."
+        "url": "https://nces.ed.gov/ecls/dataproducts.asp",
+        "description": "The ECLS program also provides data to analyze the relationships among a wide range of family, school, community, and individual factors with children's development, early learning, and performance in school."
         },
         {
         "id": "dataset-303",
@@ -5434,18 +5435,6 @@
         "description": "Longitudinal study where over 7,000 students in 79 schools were randomly assigned into one of three interventions: small class (13 to 17 students per teacher), regular class (22 to 25 students per teacher), and regular-with-aide class (22 to 25 students with a full-time teacher's aide). Classroom teachers were also randomly assigned to the classes they would teach. The interventions were initiated as the students entered school in kindergarten and continued through third grade."
     },
     {
-        "id": "dataset-473",
-        "provider": "U.S. Department of Education",
-        "title": "Early Childhood Longitudinal Study, Kindergarten Class of 1998-99",
-        "alt_title": [
-            "ECLS-K",
-            "ECLS-K 1998",
-            "ECLS-K 1999"
-        ],
-        "url": "https://nces.ed.gov/ecls/dataproducts.asp",
-        "description": "Focuses on children's early school experiences beginning with kindergarten and following children through middle school. The ECLS-K data provide descriptive information on children's status at entry to school, their transition into school, and their progression through 8th grade. The longitudinal nature of the ECLS-K data enables researchers to study how a wide range of family, school, community, and individual factors are associated with school performance."
-    },
-    {
         "id": "dataset-474",
         "provider": "National Research Center",
         "title": "National Employee Surveys",
@@ -6706,5 +6695,50 @@
         ],
         "url": "https://www.patentsview.org/web/#viz/locations",
         "description": "When patents are granted, the locations of inventors and patent-owning entities – or assignees – are recorded. Places with high levels of patenting activity indicate the presence of inventors and assignees that are driving innovation. Explore the locations of inventors and assignees granted patents since 2013."
+    },
+    {
+        "id": "dataset-561",
+        "provider": "Statistical Committee of the Republic of Armenia",
+        "title": "Armenian Time Use Survey",
+        "alt_title": [
+            "ArTUS",
+            "ArTUS Data",
+            "ArTUS Survey Data"
+        ],
+        "url": "https://www.armstat.am/en/?nid=82&id=335" 
+    },
+    {
+        "id": "dataset-562",
+        "provider": "Gallup",
+        "title": "Gallup World Poll",
+        "alt_title": [
+            "GWP",
+            "GWP Data"
+        ],
+        "url": "https://www.gallup.com/services/170945/worldpoll.aspx",
+        "description": "The World Poll is based on a framework called the Gallup Macroeconomic Path, a leadership model for successful societies. Each step on the path links to a set of survey questions that Gallup asks across each country. This approach makes it possible to track historical trends and make direct cross-country comparisons." 
+    },
+    {
+        "id": "dataset-563",
+        "provider": "Wisconsin Scholars Longitudinal Study Research Team",
+        "title": "Wisconsin Scholars Longitudinal Study",
+        "alt_title": [
+            "WSLS",
+            "WSLS Data"
+        ],
+        "url": "http://www.finaidstudy.org/study.html",
+        "description": "The Wisconsin Scholars Longitudinal Study is the first statewide longitudinal study of the impact of private need-based financial aid on college persistence and graduation."
+    },
+    {
+        "id": "dataset-564",
+        "provider": "Young Lives",
+        "title": "Young Lives study",
+        "alt_title": [
+            "YL",
+            "YL Data"
+        ],
+        "url": "https://beta.ukdataservice.ac.uk/datacatalogue/series/series?id=2000060",
+        "description": "Young Lives is an international study of childhood poverty following the lives of 12,000 children in Ethiopia, India (in the states of Andhra Pradesh and Telangana), Peru and Vietnam over 15 years."
     }
+
 ]
