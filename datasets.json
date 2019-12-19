@@ -6761,5 +6761,168 @@
             "ArTUS Survey Data"
         ],
         "url": "https://www.armstat.am/en/?nid=82&id=335" 
+    },
+    {
+        "id": "dataset-604",
+        "provider": "Instituto Nacional de Estaística Guatemala",
+        "title": "National Survey of Living Standards (ENCOVI)",
+        "alt_title": [
+            "ENCOVI",
+            "ENCOVI Data"
+        ],
+        "url": "https://www.ine.gob.gt/estadisticasine/index.php/usuario/encovi",
+        "description": "Con el objetivo de conocer las condiciones de vida de la población y determinar los niveles de pobreza en Guatemala desde el año 2000 se ha realizado quinquenalmente la Encuesta Nacional de Condiciones de Vida -ENCOVI-. Esta encuesta proporciona información que permite caracterizar a la población pobre y no pobre del país, brindando resultados a nivel nacional, regional y departamental. A través de este portal se ponen a disposición de los usuarios las bases de datos que contienen información sobre la población y las características de la vivienda y el hogar."
+    },
+    {
+        "id": "dataset-610",
+        "title":"Sea Level Rise Inundation",
+        "alt_title": [
+            "SLR", 
+            "SLR Data",
+            "Sea Level Rise Data"
+        ],
+        "provider": "NOAA Office for Coastal Management",
+        "url": "https://coast.noaa.gov/digitalcoast/data/slr.html"
+    },
+    {
+        "id": "dataset-611",
+        "title": "3D Elevation Program Data",
+        "alt_title": [
+            "3DEP"
+        ],
+        "provider": "U.S. Geological Survey",
+        "url":"https://catalog.data.gov/dataset/usgs-national-elevation-dataset-ned-1-meter-downloadable-data-collection-from-the-national-map-",
+        "description":"This is a tiled collection of the 3D Elevation Program (3DEP) and is one meter resolution.The 3DEP data holdings serve as the elevation layer of The National Map, and provide foundational elevation information for earth science studies and mapping applications in the United States. Scientists and resource managers use 3DEP data for hydrologic modeling, resource monitoring, mapping and visualization, and many other applications."
+    },
+    {
+        "id": "dataset-612",
+        "title": "Next Generation Weather Radar",
+        "alt_title": [
+            "NEXRAD"
+        ],
+        "provider":"NOAA",
+        "url": "https://www.ncdc.noaa.gov/nexradinv/",
+        "description":"The Next Generation Weather Radar (NEXRAD) system currently comprises 160 sites throughout the United States and select overseas locations. The NCEI archive includes the base data, called Level-II, and the derived products, called Level-III. Level-II data include the original three meteorological base data quantities: reflectivity, mean radial velocity, and spectrum width, as well as the dual-polarization base data of differential reflectivity, correlation coefficient, and differential phase."
+    },
+    {
+        "id": "dataset-613",
+        "title": "Social Vulnerability Index",
+        "alt_title": [
+            "SVI"
+        ],
+        "provider": "Centers for Disease Control and Prevention", 
+        "url": "https://toolkit.climate.gov/tool/social-vulnerability-index",
+        "description": "Social vulnerability refers to the resilience of communities when confronted by external stresses on human health, stresses such as natural or human-caused disasters, or disease outbreaks.",
+        "original":{
+            "related_dataset": [
+                "dataset-613"
+            ]
+        }
+    },
+    {
+        "id": "dataset-614",
+        "title": "Tidal Datums",
+        "provider":"NOAA",
+        "alt_title":[
+            "Tide gauge information",
+            "Tide gauge data",
+            "datums"
+        ],
+        "url": "https://tidesandcurrents.noaa.gov/api/",
+        "description": "In general, a datum is a base elevation used as a reference from which to reckon heights or depths. A tidal datum is a standard elevation defined by a certain phase of the tide. Tidal datums are used as references to measure local water levels and should not be extended into areas having differing oceanographic characteristics without substantiating measurements."
+    },
+    {
+        "id": "dataset-615",
+        "title": "National Flood Hazard Layer",
+        "provider":"FEMA",
+        "url": "https://coast.noaa.gov/digitalcoast/data/flood.html",
+        "description":"This digital database contains flood hazard mapping data from FEMA’s National Flood Insurance Program (NFIP)—the current effective flood risk data for parts of the country where maps have been modernized. It is a compilation of effective Flood Insurance Rate Map databases and Letters of Map Revision. The National Flood Hazard Layer is updated as new data reach their designated effective date and become valid for regulatory use under the NFIP."
+    },
+    {
+        "id":"dataset-616",
+        "title":"U.S. Interagency Elevation Inventory",
+        "url":"https://coast.noaa.gov/digitalcoast/data/inventory.html",
+        "provider":"NOAA",
+        "description":"This comprehensive, nationwide listing of high-accuracy topographic data (including lidar and IfSAR) and bathymetric data (including multibeam data and NOAA hydrographic surveys) is updated semiannually and includes information on vertical accuracy, point spacing, and date of collection.",
+        "original":{
+            "maintainers":[
+                "NOAA",
+                "USGS",
+                "FEMA",
+                "U.S. Army Corps",
+                "U.S. Department of Agriculture - Natural Resources Conservation Service",
+                "U.S. Forest Service", 
+                "National Park Service"
+            ]
+        }
+    },
+    {
+        "id":"dataset-617",
+        "title":"Economics: National Ocean Watch",
+        "provider":"NOAA",
+        "alt_title":[
+            "ENOW data",
+            "ENOW"
+        ],
+        "url":"https://coast.noaa.gov/digitalcoast/data/enow.html"
+    }
+    ,
+    {
+        "id":"dataset-618",
+        "title":"Coastal Topographic Lidar",
+        "provider":"NOAA",
+        "url":"https://coast.noaa.gov/htdata/lidar1_z/"
+    }
+    ,
+    {
+        "id": "dataset-619",
+        "provider": "U.S. Bureau of Economic Analysis",
+        "title": "Gross Domestic Product by State data",
+        "alt_title": [
+            "GDP by state"
+        ],
+        "url": "https://www.bea.gov/data/gdp/gdp-state",
+        "description": "A comprehensive measure of the economies of each state and the District of Columbia. GDP estimates the value of the goods and services produced in a state. The data include breakdowns of industries' contributions to each state economy."
+    },
+    {
+        "id":"dataset-620",
+        "title":"Global Forecast System",
+        "url": "https://www.ncdc.noaa.gov/data-access/model-data/model-datasets/global-forcast-system-gfs",
+        "provider":"NOAA",
+        "description":"The Global Forecast System (GFS) is a weather forecast model produced by the National Centers for Environmental Prediction (NCEP)."
+    },
+    {
+        "id":"dataset-621",
+        "title":"Integrated Surface Database",
+        "alt_title":["ISD"],
+        "url":"https://www.ncdc.noaa.gov/isd",
+        "provider":"NOAA"
+    },
+    {
+        "id":"dataset-622",
+        "title":"Coastal Flood Frequency",
+        "url":"https://coast.noaa.gov/digitalcoast/data/floodfrequency.html",
+        "provider":"NOAA"
+    },
+    {
+        "id":"dataset-623",
+        "title":"Coastal Change Analysis Program Data",
+        "alt_title":[
+            "C-CAP data",
+            "C-CAP"
+        ],
+        "provider":"NOAA",
+        "url":"https://coast.noaa.gov/digitalcoast/data/ccapregional.html",
+        "original":{
+            "related_dataset":["daataset-624"]
+        }
+    },
+    {
+        "id":"dataset-624",
+        "title":"National Land Cover Database",
+        "provider": "NOAA",
+        "alt_title":[
+            "NLCD"
+        ]
     }
 ]
