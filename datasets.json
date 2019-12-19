@@ -6685,7 +6685,7 @@
         "description": "Basic elements that are encompassed in the ELS:2002 research instruments can be classified in three broad categories: background information (normally collected in the base year only), process information (information about dynamic influences on the student, in the home, school, and community environment, as he or she moves through secondary school and beyond into the world of postsecondary education and the adult workforce), and outcome information (the eventual outcomes of the transition process)."
     },
   {
-        "id": "dataset-600",    
+        "id": "dataset-596",    
         "provider": "US Patent and Trademark Office",
         "title": "Patent data",
         "alt_title": [
@@ -6697,18 +6697,7 @@
         "description": "When patents are granted, the locations of inventors and patent-owning entities – or assignees – are recorded. Places with high levels of patenting activity indicate the presence of inventors and assignees that are driving innovation. Explore the locations of inventors and assignees granted patents since 2013."
     },
     {
-        "id": "dataset-561",
-        "provider": "Statistical Committee of the Republic of Armenia",
-        "title": "Armenian Time Use Survey",
-        "alt_title": [
-            "ArTUS",
-            "ArTUS Data",
-            "ArTUS Survey Data"
-        ],
-        "url": "https://www.armstat.am/en/?nid=82&id=335" 
-    },
-    {
-        "id": "dataset-562",
+        "id": "dataset-598",
         "provider": "Gallup",
         "title": "Gallup World Poll",
         "alt_title": [
@@ -6719,7 +6708,7 @@
         "description": "The World Poll is based on a framework called the Gallup Macroeconomic Path, a leadership model for successful societies. Each step on the path links to a set of survey questions that Gallup asks across each country. This approach makes it possible to track historical trends and make direct cross-country comparisons." 
     },
     {
-        "id": "dataset-563",
+        "id": "dataset-599",
         "provider": "Wisconsin Scholars Longitudinal Study Research Team",
         "title": "Wisconsin Scholars Longitudinal Study",
         "alt_title": [
@@ -6730,7 +6719,7 @@
         "description": "The Wisconsin Scholars Longitudinal Study is the first statewide longitudinal study of the impact of private need-based financial aid on college persistence and graduation."
     },
     {
-        "id": "dataset-564",
+        "id": "dataset-600",
         "provider": "Young Lives",
         "title": "Young Lives study",
         "alt_title": [
@@ -6739,6 +6728,38 @@
         ],
         "url": "https://beta.ukdataservice.ac.uk/datacatalogue/series/series?id=2000060",
         "description": "Young Lives is an international study of childhood poverty following the lives of 12,000 children in Ethiopia, India (in the states of Andhra Pradesh and Telangana), Peru and Vietnam over 15 years."
+    },
+    {
+        "id": "dataset-601",
+        "provider": "Inter-university Consortium for Political and Social Research",
+        "title": "National Survey of America's Families",
+        "alt_title": [
+            "NSAF",
+            "NSAF Data"
+        ],
+        "url": "https://www.icpsr.umich.edu/icpsrweb/ICPSR/series/00216",
+        "description": "The National Survey of America's Families (NSAF) is part of The Urban Institute's Assessing the New Federalism (ANF) multi-year research project. Its purpose is to track the effects of recent federal policy changes decentralizing many social programs from the federal government to the states, focusing primarily on health care, income security, job training, and social services."
+    },
+    {
+        "id": "dataset-602",
+        "provider": "UMass Lowell",
+        "title": "Boston Puerto Rican Health Study",
+        "alt_title": [
+            "BPRHS",
+            "BPRHS Data"
+        ],
+        "url": "https://www.uml.edu/Research/UML-CPH/Research/bprhs/",
+        "description": "The Boston Puerto Rican Health Study, begun in 2004, is a longitudinal study centered on our established cohort of 1500 older Puerto Ricans adults residing in the Greater Boston area."
+    },
+    {
+        "id": "dataset-603",
+        "provider": "Statistical Committee of the Republic of Armenia",
+        "title": "Armenian Time Use Survey",
+        "alt_title": [
+            "ArTUS",
+            "ArTUS Data",
+            "ArTUS Survey Data"
+        ],
+        "url": "https://www.armstat.am/en/?nid=82&id=335" 
     }
-
 ]
