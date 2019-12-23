@@ -6843,18 +6843,7 @@
         "title":"U.S. Interagency Elevation Inventory",
         "url":"https://coast.noaa.gov/digitalcoast/data/inventory.html",
         "provider":"NOAA",
-        "description":"This comprehensive, nationwide listing of high-accuracy topographic data (including lidar and IfSAR) and bathymetric data (including multibeam data and NOAA hydrographic surveys) is updated semiannually and includes information on vertical accuracy, point spacing, and date of collection.",
-        "original":{
-            "maintainers":[
-                "NOAA",
-                "USGS",
-                "FEMA",
-                "U.S. Army Corps",
-                "U.S. Department of Agriculture - Natural Resources Conservation Service",
-                "U.S. Forest Service", 
-                "National Park Service"
-            ]
-        }
+        "description":"This comprehensive, nationwide listing of high-accuracy topographic data (including lidar and IfSAR) and bathymetric data (including multibeam data and NOAA hydrographic surveys) is updated semiannually and includes information on vertical accuracy, point spacing, and date of collection."
     },
     {
         "id":"dataset-617",
