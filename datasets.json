@@ -6776,6 +6776,60 @@
     "url": "https://www.ine.gob.gt/estadisticasine/index.php/usuario/encovi"
   },
   {
+    "id": "dataset-605",
+    "provider": "Toronto District School Board",
+    "title": "Toronto District School Board Student Census data",
+    "alt_title": [
+        "TDSB",
+        "TDSB Student Census Data"
+    ],
+    "url": "https://www.tdsb.on.ca/research/Research/Parent-and-Student-Census/Census-Publications",
+    "description": "Each Portrait examines the sub-group differences within an identified grouping by describing and comparing the background, experiences in and outside of school, health, emotional well-being, self-perceptions and achievement levels of students of each sub-group. The purpose is to provide a better understanding of the similarities and differences among the various sub-groups within the TDSB population so that interventions can be more targeted to ensure the needs of all students are addressed effectively and equitably."
+},
+{
+    "id": "dataset-606",
+    "provider": "Trellis Company",
+    "title": "Student Financial Wellness Survey",
+    "alt_title": [
+        "SFWS",
+        "SFWS Data"
+    ],
+    "url": "https://www.trelliscompany.org/research/trellis-company-student-financial-wellness-survey/",
+    "description": "Trellis Company conducts this annual, nationwide student financial wellness survey to explore the connection between student finances and academic success. Trellis is a nonprofit company with origins in administering federal student loan programs and has nearly 40 years of experience working with students and higher education institutions to expand opportunities for students."
+},
+{
+    "id": "dataset-607",
+    "provider": "National Institutes of Health",
+    "title": "Healthy Aging Across Neighborhoods of Diversity across the Life Span",
+    "alt_title": [
+        "HANDLS",
+        "HANDLS Data"
+    ],
+    "url": "https://handls.nih.gov/06Coll.htm",
+    "description": "The need to understand the sources of persistent health disparities in overall longevity, cardiovascular disease, and cerebrovascular disease has led to the development of the Healthy Aging in Neighborhoods of Diversity across the Life Span study.  By posing fundamental questions about differences in rates and risks for pathological conditions associated with aging, we hope to disentangle the relationship between race, socioeconomic status, and health outcomes."
+},
+{
+    "id": "dataset-608",
+    "provider": "Institute for Clinical Evaluative Sciences",
+    "title": "Institute for Clinical Evaluative Sciences data",
+    "alt_title": [
+        "ICES",
+        "ICES Data"
+    ],
+    "url": "https://www.ices.on.ca/Data-and-Privacy/ICES-data",
+    "description": "The ICES Data Repository consists of record-level, coded and linkable health data sets. It encompasses much of the publicly funded administrative health services records for the Ontario population eligible for universal health coverage since 1986 and is capable of integrating research-specific data, registries and surveys. Currently, the repository includes health service records for as many as 13 million people."
+},
+{
+    "id": "dataset-609",
+    "provider": "systemicpeace.org",
+    "title": "Polity IV",
+    "alt_title": [
+        "Polity Data"
+    ],
+    "url": "http://www.systemicpeace.org/polity/polity4.htm",
+    "description": "Annual Polity scores have been plotted for each of the 167 countries currently covered by the Polity IV data series for the period 1946-2013 (trend graphs are also included with the Polity IV 2010 Country Reports). This version of the Polity Country Trend graphs display periods of 'factionalism' and important Polity change events, including autocratic backsliding, executive auto-coup or autogolpe, revolution, collapse of central authority (state failure), and successful military coups. Click on the country of interest in the 'Regimes by Type 2013' map directly below (or table following) to view that country's contemporary regime trend (click here for a explanatory guide to the Polity Country Trend graphs)."
+},
+  {
     "alt_title": [
       "SLR",
       "SLR Data",
@@ -6918,5 +6972,25 @@
     "provider": "provider-150",
     "title": "National Land Cover Database",
     "url": "https://coast.noaa.gov/digitalcoast/data/nlcd.html"
-  }
+  },
+  {
+    "id": "dataset-625",
+    "title": "Food and Agriculture Organization of the United Nations",
+    "provider": "FAOSTAT",
+    "alt_title": [
+        "FAOSTAT data"
+    ],
+    "url": "http://www.fao.org/faostat/en/#home"
+},
+{
+    "id": "dataset-626",
+    "provider": "Carolina Population Center at the University of North Carolina at Chapel Hill",
+    "title": "China Health and Nutrition Survey",
+    "alt_title": [
+        "CHNS",
+        "CHNS data"
+    ],
+    "url": "https://www.cpc.unc.edu/projects/china",
+    "description" : "The China Health and Nutrition Survey (CHNS), an ongoing open cohort, international collaborative project between the Carolina Population Center at the University of North Carolina at Chapel Hill and the National Institute for Nutrition and Health (NINH, former National Institute of Nutrition and Food Safety) at the Chinese Center for Disease Control and Prevention (CCDC), was designed to examine the effects of the health, nutrition, and family planning policies and programs implemented by national and local governments and to see how the social and economic transformation of Chinese society is affecting the health and nutritional status of its population. The impact on nutrition and health behaviors and outcomes is gauged by changes in community organizations and programs as well as by changes in sets of household and individual economic, demographic, and social factors."
+}
 ]
