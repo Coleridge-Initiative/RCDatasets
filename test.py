@@ -40,16 +40,26 @@ class TestVerifyDatasets (unittest.TestCase):
     def setUp (self):
         """load the dataset list"""
         self.datasets = []
+        self.providers = {}
+
         filename = "datasets.json"
-        #filename = "test.json"
 
         with open(filename, "r") as f:
             self.datasets = json.load(f)
+
+        filename = "providers.json"
+
+        with open(filename, "r") as f:
+            for p in json.load(f):
+                self.providers[p["id"]] = p
 
 
     def test_file_loaded (self):
         print("\n{} datasets loaded".format(len(self.datasets)))
         self.assertTrue(len(self.datasets) > 0)
+
+        print("\n{} providers loaded".format(len(self.providers)))
+        self.assertTrue(len(self.providers) > 0)
 
 
     def test_has_required_fields (self):
@@ -110,12 +120,9 @@ class TestVerifyDatasets (unittest.TestCase):
 
         for dataset in self.datasets:
             provider_set.add(dataset["provider"])
+            self.assertTrue(dataset["provider"] in self.providers)
 
         self.assertTrue(len(provider_set) > 0)
-        print("\n providers:")
-
-        for provider in sorted(list(provider_set)):
-            print(provider)
 
 
     def has_clean_name (self, dataset, field):
@@ -131,7 +138,9 @@ class TestVerifyDatasets (unittest.TestCase):
         for dataset in self.datasets:
             self.has_clean_name(dataset, "title")
             self.has_clean_name(dataset, "provider")
-    
+
+
+    ## TODO: this belongs at a different point in the workflow
     def test_related_datasets (self):
         # if a dataset has an 'original' subdict that includes a `joins_to` field, check that the
         # dataset exists in datasets.json
