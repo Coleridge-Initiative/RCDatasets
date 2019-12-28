@@ -758,7 +758,7 @@
     ],
     "description": "TANF administrative records from the Department of Health and Human Services (HHS), which collects them from various state agencies. States have the option to submit either sample or universe data to HHS, and 30 states submitted universe data.",
     "id": "dataset-071",
-    "provider": "provider-037",
+    "provider": "provider-229",
     "title": "Temporary Assistance for Needy Families",
     "url": "https://www.acf.hhs.gov/ofa/programs/tanf/data-reports"
   },
@@ -769,7 +769,7 @@
     ],
     "description": "The role of the Office of Public and Indian Housing is to ensure safe, decent, and affordable housing; create opportunities for residents' self-sufficiency and economic independence; and assure fiscal integrity by all program participants.",
     "id": "dataset-072",
-    "provider": "provider-038",
+    "provider": "provider-231",
     "title": "Public and Indian Housing Information Center",
     "url": "https://www.hud.gov/program_offices/public_indian_housing"
   },
@@ -779,7 +779,7 @@
     ],
     "description": "TRACS is a HUD computer system developed to help improve financial controls over assisted housing programs by automating manual procedures and incorporating automated controls.",
     "id": "dataset-073",
-    "provider": "provider-038",
+    "provider": "provider-231",
     "title": "Tenant Rental Assistance Certification System",
     "url": "https://www.hud.gov/program_offices/housing/mfh/trx/trxsum"
   },
@@ -884,7 +884,7 @@
     ],
     "description": "The Welfare Rules Database provides a comprehensive, sophisticated resource for anyone researching cash assistance programs in the U.S.",
     "id": "dataset-082",
-    "provider": "provider-037",
+    "provider": "provider-229",
     "title": "Welfare Rules Database",
     "url": "https://wrd.urban.org/wrd/databook.cfm"
   },
@@ -1104,7 +1104,7 @@
     "id": "dataset-098",
     "provider": "provider-156",
     "title": "Transitional Aid Research Project Experimental Data",
-    "url": ""
+    "url": "https://www.icpsr.umich.edu/icpsrweb/NACJD/studies/7874"
   },
   {
     "alt_title": [
@@ -1112,7 +1112,7 @@
       "Texas UI",
       "Texas Unemployment Insurance"
     ],
-    "description": "Unemployment insurance benefits is an employer-paid program that provides temporary financial assistance to workers who are unemployed through no fault of their own and meet Texas' eligibility requirements.",
+    "description": "Unemployment insurance benefits is an employer-paid program that provides temporary financial assistance to workers who are unemployed through no fault of their own and meet Texas eligibility requirements.",
     "id": "dataset-099",
     "provider": "provider-214",
     "title": "Texas Unemployment Insurance",
@@ -1124,7 +1124,7 @@
     ],
     "description": "Maintenance of effort (MOE) is a fiscal calculation for two consecutive years to demonstrate that school district expenditures from State and local funds meet or exceed the required amount necessary for Title I funding.",
     "id": "dataset-100",
-    "provider": "provider-037",
+    "provider": "provider-229",
     "title": "Maintenance of Effort",
     "url": "https://www.acf.hhs.gov/ofa/resource/tanf-and-moe-spending-and-transfers-by-activity-fy-2018-contains-national-state-pie-charts"
   },
@@ -3054,7 +3054,7 @@
     ],
     "description": "Data from state and tribal child support agencies.",
     "id": "dataset-264",
-    "provider": "provider-037",
+    "provider": "provider-229",
     "title": "Child Support Enforcement Data",
     "url": "https://www.acf.hhs.gov/css/data"
   },
@@ -3178,7 +3178,7 @@
     ],
     "description": "Virtually all employers nationwide, including the federal government, report quarterly earnings information to the NDNH.",
     "id": "dataset-274",
-    "provider": "provider-037",
+    "provider": "provider-229",
     "title": "National Directory of New Hires",
     "url": "https://www.acf.hhs.gov/css/resource/overview-of-national-directory-of-new-hires"
   },
@@ -3999,9 +3999,9 @@
     ],
     "description": "The Child Death Database captures all child deaths reported per policy to the state office.",
     "id": "dataset-339",
-    "provider": "provider-228",
+    "provider": "provider-229",
     "title": "Adoption and Foster Care Analysis Reporting System",
-    "url": "http://www.alabamapublichealth.gov/cdr/"
+    "url": "https://www.acf.hhs.gov/cb/research-data-technology/statistics-research/afcars"
   },
   {
     "alt_title": [
@@ -4009,7 +4009,7 @@
     ],
     "description": "The National Youth in Transition Database (NYTD) collects information on youth in foster care, including sex, race, ethnicity, date of birth, and foster care status. It also collects information about the outcomes of those youth who have aged out of foster care.",
     "id": "dataset-340",
-    "provider": "provider-228",
+    "provider": "provider-229",
     "title": "National Youth in Transition Database",
     "url": "https://www.acf.hhs.gov/cb/research-data-technology/reporting-systems/nytd"
   },
@@ -6119,7 +6119,7 @@
     ],
     "description": "The North Atlantic Population Project (NAPP) is a machine-readable database of the complete censuses of Canada (1881), Denmark (1787, 1801), Great Britain (1851, 1861, Scotland 1871, 1881, 1891, 1901, 1911), Norway (1801, 1865, 1900, 1910), Sweden (1880, 1890, 1900, 1910), the United States (1850, 1880) and Iceland (1703, 1729, 1801, 1901, 1910).",
     "id": "dataset-540",
-    "provider": "provider-139",
+    "provider": "provider-138",
     "title": "North Atlantic Population Project",
     "url": "https://international.ipums.org/international-action/samples/#historical_samples"
   },
@@ -6777,7 +6777,7 @@
   },
   {
     "id": "dataset-605",
-    "provider": "Toronto District School Board",
+    "provider": "provider-274",
     "title": "Toronto District School Board Student Census data",
     "alt_title": [
         "TDSB",
@@ -6788,7 +6788,7 @@
 },
 {
     "id": "dataset-606",
-    "provider": "Trellis Company",
+    "provider": "provider-275",
     "title": "Student Financial Wellness Survey",
     "alt_title": [
         "SFWS",
@@ -6799,7 +6799,7 @@
 },
 {
     "id": "dataset-607",
-    "provider": "National Institutes of Health",
+    "provider": "provider-160",
     "title": "Healthy Aging Across Neighborhoods of Diversity across the Life Span",
     "alt_title": [
         "HANDLS",
@@ -6810,7 +6810,7 @@
 },
 {
     "id": "dataset-608",
-    "provider": "Institute for Clinical Evaluative Sciences",
+    "provider": "provider-276",
     "title": "Institute for Clinical Evaluative Sciences data",
     "alt_title": [
         "ICES",
@@ -6821,7 +6821,7 @@
 },
 {
     "id": "dataset-609",
-    "provider": "systemicpeace.org",
+    "provider": "provider-277",
     "title": "Polity IV",
     "alt_title": [
         "Polity Data"
@@ -6975,16 +6975,17 @@
   },
   {
     "id": "dataset-625",
-    "title": "Food and Agriculture Organization of the United Nations",
-    "provider": "FAOSTAT",
+    "title": "FAOSTAT",
+    "provider": "provider-278",
     "alt_title": [
         "FAOSTAT data"
     ],
-    "url": "http://www.fao.org/faostat/en/#home"
+    "url": "http://www.fao.org/faostat/en/#home",
+    "description": "FAOSTAT provides free access to food and agriculture data for over 245 countries and territories and covers all FAO regional groupings from 1961 to the most recent year available."
 },
 {
     "id": "dataset-626",
-    "provider": "Carolina Population Center at the University of North Carolina at Chapel Hill",
+    "provider": "provider-139",
     "title": "China Health and Nutrition Survey",
     "alt_title": [
         "CHNS",
@@ -6992,5 +6993,58 @@
     ],
     "url": "https://www.cpc.unc.edu/projects/china",
     "description" : "The China Health and Nutrition Survey (CHNS), an ongoing open cohort, international collaborative project between the Carolina Population Center at the University of North Carolina at Chapel Hill and the National Institute for Nutrition and Health (NINH, former National Institute of Nutrition and Food Safety) at the Chinese Center for Disease Control and Prevention (CCDC), was designed to examine the effects of the health, nutrition, and family planning policies and programs implemented by national and local governments and to see how the social and economic transformation of Chinese society is affecting the health and nutritional status of its population. The impact on nutrition and health behaviors and outcomes is gauged by changes in community organizations and programs as well as by changes in sets of household and individual economic, demographic, and social factors."
+},
+{
+  "id": "dataset-627",
+    "provider": "provider-274",
+    "title": "Channel Surveys",
+    "alt_title": [
+        "USACE Channel Surveys",
+        "USACE"
+    ],
+    "url": "https://www.mvn.usace.army.mil/Missions/Navigation/Channel-Surveys/",
+    "description" : "The New Orleans District, Operations Division performs routine hydrographic surveys to monitor local river and waterway navigation conditions. This information is used as a decision making tool for channel maintenance operations. These products can also be used to supplement existing published navigation charts with more recent shoaling activity."
+},
+{
+  "id": "dataset-628",
+    "provider": "provider-275",
+    "title": "National Elevation Dataset",
+    "alt_title": [
+        "NES",
+        "USGS",
+        "NES Data",
+        "USGS National Elevation Dataset"
+    ],
+    "url": "https://www.usgs.gov/core-science-systems/national-geospatial-program/data-tools",
+    "description" : "The 3DEP products and services available through The National Map consist of lidar point clouds (LPC), standard digital elevation models (DEMs) at various horizontal resolutions, elevation source and associated datasets, an elevation point query service and bulk point query service. All 3DEP products are available, free of charge and without use restrictions."
+},
+{
+  "id": "dataset-629",
+    "provider": "provider-222",
+    "title": "Personal Income Data",
+    "alt_title": [
+        "BEA Personal Income"
+    ],
+    "url": "https://www.bea.gov/data/income-saving/personal-income"
+},
+{
+  "id": "dataset-630",
+    "provider": "provider-276",
+    "title": "Pension Database",
+    "alt_title": [
+        "PPD"
+    ],
+    "url": "https://publicplansdata.org/public-plans-database/",
+    "description": "The Public Plans Data (PPD) contains detailed annual data on the largest state/local pension in the US. The sample spans fiscal years 2001 to 2019 and includes 190 plans (114 state-run and 76 locally-run) which account for 95 percent of state/local pension assets and members in the US."
+},
+{
+  "id": "dataset-631",
+    "provider": "provider-277",
+    "title": "TRACE database",
+    "alt_title": [
+        "Finra TRACE database"
+    ],
+    "url": "https://www.finra.org/filing-reporting/trace/trace-data-licensing",
+    "description": "FINRA provides real-time and historic data for most TRACE-eligible securities to members and any others that choose to subscribe for a fee."
 }
 ]
