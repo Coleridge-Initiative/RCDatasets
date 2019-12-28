@@ -148,14 +148,6 @@
     "title": "Departamento Administrativo Nacional de Estadística"
   },
   {
-    "id": "provider-037",
-    "title": "Department of Health and Human Services"
-  },
-  {
-    "id": "provider-038",
-    "title": "Department of Housing and Urban Development"
-  },
-  {
     "id": "provider-039",
     "title": "Detroit Police Department"
   },
@@ -910,10 +902,6 @@
   {
     "id": "provider-227",
     "title": "US Department of Education"
-  },
-  {
-    "id": "provider-228",
-    "title": "US Department of Health and Human Resources"
   },
   {
     "id": "provider-229",

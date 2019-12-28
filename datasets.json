@@ -758,7 +758,7 @@
     ],
     "description": "TANF administrative records from the Department of Health and Human Services (HHS), which collects them from various state agencies. States have the option to submit either sample or universe data to HHS, and 30 states submitted universe data.",
     "id": "dataset-071",
-    "provider": "provider-037",
+    "provider": "provider-229",
     "title": "Temporary Assistance for Needy Families",
     "url": "https://www.acf.hhs.gov/ofa/programs/tanf/data-reports"
   },
@@ -769,7 +769,7 @@
     ],
     "description": "The role of the Office of Public and Indian Housing is to ensure safe, decent, and affordable housing; create opportunities for residents' self-sufficiency and economic independence; and assure fiscal integrity by all program participants.",
     "id": "dataset-072",
-    "provider": "provider-038",
+    "provider": "provider-231",
     "title": "Public and Indian Housing Information Center",
     "url": "https://www.hud.gov/program_offices/public_indian_housing"
   },
@@ -779,7 +779,7 @@
     ],
     "description": "TRACS is a HUD computer system developed to help improve financial controls over assisted housing programs by automating manual procedures and incorporating automated controls.",
     "id": "dataset-073",
-    "provider": "provider-038",
+    "provider": "provider-231",
     "title": "Tenant Rental Assistance Certification System",
     "url": "https://www.hud.gov/program_offices/housing/mfh/trx/trxsum"
   },
@@ -884,7 +884,7 @@
     ],
     "description": "The Welfare Rules Database provides a comprehensive, sophisticated resource for anyone researching cash assistance programs in the U.S.",
     "id": "dataset-082",
-    "provider": "provider-037",
+    "provider": "provider-229",
     "title": "Welfare Rules Database",
     "url": "https://wrd.urban.org/wrd/databook.cfm"
   },
@@ -1124,7 +1124,7 @@
     ],
     "description": "Maintenance of effort (MOE) is a fiscal calculation for two consecutive years to demonstrate that school district expenditures from State and local funds meet or exceed the required amount necessary for Title I funding.",
     "id": "dataset-100",
-    "provider": "provider-037",
+    "provider": "provider-229",
     "title": "Maintenance of Effort",
     "url": "https://www.acf.hhs.gov/ofa/resource/tanf-and-moe-spending-and-transfers-by-activity-fy-2018-contains-national-state-pie-charts"
   },
@@ -3054,7 +3054,7 @@
     ],
     "description": "Data from state and tribal child support agencies.",
     "id": "dataset-264",
-    "provider": "provider-037",
+    "provider": "provider-229",
     "title": "Child Support Enforcement Data",
     "url": "https://www.acf.hhs.gov/css/data"
   },
@@ -3178,7 +3178,7 @@
     ],
     "description": "Virtually all employers nationwide, including the federal government, report quarterly earnings information to the NDNH.",
     "id": "dataset-274",
-    "provider": "provider-037",
+    "provider": "provider-229",
     "title": "National Directory of New Hires",
     "url": "https://www.acf.hhs.gov/css/resource/overview-of-national-directory-of-new-hires"
   },
@@ -3999,9 +3999,9 @@
     ],
     "description": "The Child Death Database captures all child deaths reported per policy to the state office.",
     "id": "dataset-339",
-    "provider": "provider-228",
+    "provider": "provider-229",
     "title": "Adoption and Foster Care Analysis Reporting System",
-    "url": "http://www.alabamapublichealth.gov/cdr/"
+    "url": "https://www.acf.hhs.gov/cb/research-data-technology/statistics-research/afcars"
   },
   {
     "alt_title": [
@@ -4009,7 +4009,7 @@
     ],
     "description": "The National Youth in Transition Database (NYTD) collects information on youth in foster care, including sex, race, ethnicity, date of birth, and foster care status. It also collects information about the outcomes of those youth who have aged out of foster care.",
     "id": "dataset-340",
-    "provider": "provider-228",
+    "provider": "provider-229",
     "title": "National Youth in Transition Database",
     "url": "https://www.acf.hhs.gov/cb/research-data-technology/reporting-systems/nytd"
   },
