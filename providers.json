@@ -557,7 +557,7 @@
   },
   {
     "id": "provider-139",
-    "title": "Minnesota Population Center."
+    "title": "Carolina Population Center"
   },
   {
     "id": "provider-140",
@@ -1094,5 +1094,25 @@
   {
     "id": "provider-273",
     "title": "Young Lives"
+  },
+  {
+    "id": "provider-274",
+    "title": "Toronto District School Board"
+  },
+  {
+    "id": "provider-275",
+    "title": "Trellis Company"
+  },
+  {
+    "id": "provider-276",
+    "title": "Institute for Clinical Evaluative Sciences"
+  },
+  {
+    "id": "provider-277",
+    "title": "systemicpeace.org"
+  },
+  {
+    "id": "provider-278",
+    "title": "Food and Agriculture Organization of the United Nations"
   }
 ]

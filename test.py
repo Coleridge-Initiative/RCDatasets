@@ -31,7 +31,8 @@ class TestVerifyDatasets (unittest.TestCase):
             "original"
             ])
 
-    PAT_ID_FORMAT = re.compile(r"^dataset\-(\d+)$")
+    DATA_PAT_ID_FORMAT = re.compile(r"^dataset\-(\d+)$")
+    PROV_PAT_ID_FORMAT = re.compile(r"^provider\-(\d+)$")
 
     PAT_LEADING_SPACE = re.compile(r"^\s.*")
     PAT_TRAILING_SPACE = re.compile(r".*\s$")
@@ -98,19 +99,36 @@ class TestVerifyDatasets (unittest.TestCase):
                 title_set.add(title)
 
 
-    def test_id_sequence (self):
+    def test_dataset_id_sequence (self):
         id_list = []
 
         for dataset in self.datasets:
-            m = self.PAT_ID_FORMAT.match(dataset["id"])
+            m = self.DATA_PAT_ID_FORMAT.match(dataset["id"])
 
             if not m:
-                raise Exception("badly formed ID |{}|".format(dataset["id"]))
+                raise Exception("badly formed dataset ID |{}|".format(dataset["id"]))
             else:
                 id = int(m.group(1))
 
                 if id in id_list:
-                    raise Exception("duplicate ID |{}|".format(dataset["id"]))
+                    raise Exception("duplicate dataset ID |{}|".format(dataset["id"]))
+                else:
+                    id_list.append(id)
+
+
+    def test_provider_id_sequence (self):
+        id_list = []
+
+        for prov_id, provider in self.providers.items():
+            m = self.PROV_PAT_ID_FORMAT.match(provider["id"])
+
+            if not m:
+                raise Exception("badly formed provider ID |{}|".format(provider["id"]))
+            else:
+                id = int(m.group(1))
+
+                if id in id_list:
+                    raise Exception("duplicate provider ID |{}|".format(provider["id"]))
                 else:
                     id_list.append(id)
 
@@ -119,8 +137,11 @@ class TestVerifyDatasets (unittest.TestCase):
         provider_set = set([])
 
         for dataset in self.datasets:
-            provider_set.add(dataset["provider"])
+            if dataset["provider"] not in self.providers:
+                print("\nERROR: |{}| is an unknown data provider".format(dataset["provider"]))
+
             self.assertTrue(dataset["provider"] in self.providers)
+            provider_set.add(dataset["provider"])
 
         self.assertTrue(len(provider_set) > 0)
 
