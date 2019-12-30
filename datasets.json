@@ -6997,8 +6997,9 @@
 	{
 	"id": "dataset-627",
 	"provider": "provider-233",
-	"title": "Climiate Resilience Screening Index and Domain Scores",
+	"title": "Climate Resilience Screening Index and Domain Scores",
 	"alt_title": [
+    "Climate Resilience Screening Index",
 		"CRSI",
 		"CRSI Scores"
 	],
