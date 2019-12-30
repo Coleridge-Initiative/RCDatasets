@@ -45,13 +45,13 @@ class TestVerifyDatasets (unittest.TestCase):
 
         filename = "datasets.json"
 
-        with open(filename, "r") as f:
-            self.datasets = json.load(f)
+        with open(filename, "r", encoding='utf-8') as f:
+            self.datasets = json.load(f, encoding='utf-8')
 
         filename = "providers.json"
 
-        with open(filename, "r") as f:
-            for p in json.load(f):
+        with open(filename, "r", encoding='utf-8') as f:
+            for p in json.load(f, encoding='utf-8'):
                 self.providers[p["id"]] = p
 
 
