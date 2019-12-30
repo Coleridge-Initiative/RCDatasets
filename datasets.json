@@ -6982,8 +6982,8 @@
     ],
     "url": "http://www.fao.org/faostat/en/#home",
     "description": "FAOSTAT provides free access to food and agriculture data for over 245 countries and territories and covers all FAO regional groupings from 1961 to the most recent year available."
-},
-{
+	},
+	{
     "id": "dataset-626",
     "provider": "provider-139",
     "title": "China Health and Nutrition Survey",
@@ -6993,58 +6993,45 @@
     ],
     "url": "https://www.cpc.unc.edu/projects/china",
     "description" : "The China Health and Nutrition Survey (CHNS), an ongoing open cohort, international collaborative project between the Carolina Population Center at the University of North Carolina at Chapel Hill and the National Institute for Nutrition and Health (NINH, former National Institute of Nutrition and Food Safety) at the Chinese Center for Disease Control and Prevention (CCDC), was designed to examine the effects of the health, nutrition, and family planning policies and programs implemented by national and local governments and to see how the social and economic transformation of Chinese society is affecting the health and nutritional status of its population. The impact on nutrition and health behaviors and outcomes is gauged by changes in community organizations and programs as well as by changes in sets of household and individual economic, demographic, and social factors."
-},
-{
-  "id": "dataset-627",
-    "provider": "provider-274",
-    "title": "Channel Surveys",
-    "alt_title": [
-        "USACE Channel Surveys",
-        "USACE"
-    ],
-    "url": "https://www.mvn.usace.army.mil/Missions/Navigation/Channel-Surveys/",
-    "description" : "The New Orleans District, Operations Division performs routine hydrographic surveys to monitor local river and waterway navigation conditions. This information is used as a decision making tool for channel maintenance operations. These products can also be used to supplement existing published navigation charts with more recent shoaling activity."
-},
-{
-  "id": "dataset-628",
-    "provider": "provider-275",
-    "title": "National Elevation Dataset",
-    "alt_title": [
-        "NES",
-        "USGS",
-        "NES Data",
-        "USGS National Elevation Dataset"
-    ],
-    "url": "https://www.usgs.gov/core-science-systems/national-geospatial-program/data-tools",
-    "description" : "The 3DEP products and services available through The National Map consist of lidar point clouds (LPC), standard digital elevation models (DEMs) at various horizontal resolutions, elevation source and associated datasets, an elevation point query service and bulk point query service. All 3DEP products are available, free of charge and without use restrictions."
-},
-{
-  "id": "dataset-629",
-    "provider": "provider-222",
-    "title": "Personal Income Data",
-    "alt_title": [
-        "BEA Personal Income"
-    ],
-    "url": "https://www.bea.gov/data/income-saving/personal-income"
-},
-{
-  "id": "dataset-630",
-    "provider": "provider-276",
-    "title": "Pension Database",
-    "alt_title": [
-        "PPD"
-    ],
-    "url": "https://publicplansdata.org/public-plans-database/",
-    "description": "The Public Plans Data (PPD) contains detailed annual data on the largest state/local pension in the US. The sample spans fiscal years 2001 to 2019 and includes 190 plans (114 state-run and 76 locally-run) which account for 95 percent of state/local pension assets and members in the US."
-},
-{
-  "id": "dataset-631",
-    "provider": "provider-277",
-    "title": "TRACE database",
-    "alt_title": [
-        "Finra TRACE database"
-    ],
-    "url": "https://www.finra.org/filing-reporting/trace/trace-data-licensing",
-    "description": "FINRA provides real-time and historic data for most TRACE-eligible securities to members and any others that choose to subscribe for a fee."
-}
+	},
+	{
+	"id": "dataset-627",
+	"provider": "provider-233",
+	"title": "Climate Resilience Screening Index and Domain Scores",
+	"alt_title": [
+    "Climate Resilience Screening Index",
+		"CRSI",
+		"CRSI Scores"
+	],
+	"url": "https://catalog.data.gov/dataset/climiate-resilience-screening-index-and-domain-scores",
+	"description": "CRSI has been used to develop an index score for climate resilience at the county level (scalable both upward and downward spatially) the represents both the vulnerability of the entity to multiple climate events and the potential recoverability of these entities from climate events. The approach uses five domains (natural environment, built environment, governance, social structures and risk) and 20 indicators related to the domains. CRSI characterizes holistic climate resilience throughout the US at the county level (2000-2015); ascertains the relationships among those domains and indicators; and, provide information regarding how that resilience score is constructed and the actions a community/county can take to improve their climate resilience."
+	},
+	{
+	"id": "dataset-628",
+	"provider": "provider-222",
+	"title": "Employment by County, Metro and Other Areas",
+	"url": "https://www.bea.gov/data/employment/employment-county-metro-and-other-areas",
+	"description": "BEA produces job counts for local areas, with breakdowns by industry. The employment estimates include data for: counties, metropolitan statistical areas, micropolitan statistical areas, combined statistical areas, and metropolitan divisions. Data is also presented for each state's metropolitan portion (the counties that belong to MSAs) and nonmetropolitan portion (the remaining counties)."
+	},
+	{
+	"id": "dataset-629",
+	"provider": "provider-279",
+	"title": "IMPLAN: Economic Impact Analysis for Planning",
+	"alt_title": [
+		"IMPLAN"
+	],
+	"url": "https://implan.com/data/",
+	"description": "Browse and analyze with the most extensive economic database out there. Thousands of data points from more than 90 sources make up the most transparent and relied-upon portrait of your economy."
+	},
+	{
+	"id": "dataset-630",
+	"provider": "provider-280",
+	"title": "National Ocean Economics Program Data",
+	"alt_title": [
+		"NOEP",
+		"National Ocean Economics Program"
+	],
+	"url": "https://www.oceaneconomics.org/",
+	"description": "The National Ocean Economics Program (NOEP) provides a full range of the most current policy-relevant economic and demographic information available on changes and trends along the U.S. coast, Great Lakes, and coastal waters. NOEP will soon expand to international datasets to support the broader mission of its new host, the Center for the Blue Economy(CBE) to promote ocean and coastal sustainability."
+	}
 ]
