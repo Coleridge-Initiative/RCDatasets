@@ -6982,8 +6982,8 @@
     ],
     "url": "http://www.fao.org/faostat/en/#home",
     "description": "FAOSTAT provides free access to food and agriculture data for over 245 countries and territories and covers all FAO regional groupings from 1961 to the most recent year available."
-},
-{
+	},
+	{
     "id": "dataset-626",
     "provider": "provider-139",
     "title": "China Health and Nutrition Survey",
@@ -6993,5 +6993,16 @@
     ],
     "url": "https://www.cpc.unc.edu/projects/china",
     "description" : "The China Health and Nutrition Survey (CHNS), an ongoing open cohort, international collaborative project between the Carolina Population Center at the University of North Carolina at Chapel Hill and the National Institute for Nutrition and Health (NINH, former National Institute of Nutrition and Food Safety) at the Chinese Center for Disease Control and Prevention (CCDC), was designed to examine the effects of the health, nutrition, and family planning policies and programs implemented by national and local governments and to see how the social and economic transformation of Chinese society is affecting the health and nutritional status of its population. The impact on nutrition and health behaviors and outcomes is gauged by changes in community organizations and programs as well as by changes in sets of household and individual economic, demographic, and social factors."
-}
+	},
+	{
+	"id": "dataset-627",
+	"provider": "provider-233",
+	"title": "Climiate Resilience Screening Index and Domain Scores",
+	"alt_title": [
+		"CRSI",
+		"CRSI Scores"
+	],
+	"url": "https://catalog.data.gov/dataset/climiate-resilience-screening-index-and-domain-scores",
+	"description": "CRSI has been used to develop an index score for climate resilience at the county level (scalable both upward and downward spatially) the represents both the vulnerability of the entity to multiple climate events and the potential recoverability of these entities from climate events. The approach uses five domains (natural environment, built environment, governance, social structures and risk) and 20 indicators related to the domains. CRSI characterizes holistic climate resilience throughout the US at the county level (2000-2015); ascertains the relationships among those domains and indicators; and, provide information regarding how that resilience score is constructed and the actions a community/county can take to improve their climate resilience."
+	}
 ]
