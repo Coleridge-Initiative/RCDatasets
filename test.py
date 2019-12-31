@@ -120,9 +120,18 @@ class TestVerifyDatasets (unittest.TestCase):
 
         for dataset in self.datasets:
             provider_set.add(dataset["provider"])
-            self.assertTrue(dataset["provider"] in self.providers)
+
+        if (len(provider_set) < 1):
+            print("no providers get referenced")
 
         self.assertTrue(len(provider_set) > 0)
+        
+        unknowns = provider_set - set(self.providers.keys())
+
+        if (len(unknowns) > 0):
+            print("unknown providers: {}".format(sorted(unknowns)))
+
+        self.assertTrue(len(unknowns) < 1)
 
 
     def has_clean_name (self, dataset, field):
