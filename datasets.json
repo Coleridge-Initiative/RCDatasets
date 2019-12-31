@@ -7045,7 +7045,15 @@
     ],
     "url":"https://catalog.data.gov/dataset/digital-elevation-models-from-noaa-ngdc",
     "description": "Digital elevation models (DEMs) of U.S. and other coasts that typically integrate ocean bathymetry and land topography. The DEMs support NOAA's mission to understand and predict changes in Earth's environment, and conserve and manage coastal and marine resources to meet our Nation's economic, social, and environmental needs."
-  }
-  
-            
+  },
+  {
+	"id": "dataset-632",
+	"provider": "provider-281",
+	"title": "The Adopt-a-Beach™ program",
+	"alt_title": [
+		"AAB"
+	],
+	"url": "http://www.greatlakesadopt.org/Home/HistoricalData",
+	"description": "The Adopt-a-Beach™ (AAB) program, administered by the Alliance for the Great Lakes, organizes volunteers to act as citizen scientists, contributing to ecological research by collecting and maintaining data on AL abundance on Great Lakes beaches. Initial assessments of data from the AAB records quantified sources and abundance of AL on Lake Michigan beaches."
+  }          
 ]
