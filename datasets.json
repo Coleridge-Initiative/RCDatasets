@@ -3814,7 +3814,8 @@
   },
   {
     "alt_title": [
-      "QCEW"
+      "QCEW",
+      "ES-202"
     ],
     "description": "The Quarterly Census of Employment and Wages (QCEW) program publishes a quarterly count of employment and wages reported by employers covering more than 95 percent of U.S. jobs, available at the county, MSA, state and national levels by industry.",
     "id": "dataset-328",
@@ -7057,5 +7058,190 @@
 	],
 	"url": "http://www.greatlakesadopt.org/Home/HistoricalData",
 	"description": "The Adopt-a-Beach (AAB) program, administered by the Alliance for the Great Lakes, organizes volunteers to act as citizen scientists, contributing to ecological research by collecting and maintaining data on AL abundance on Great Lakes beaches. Initial assessments of data from the AAB records quantified sources and abundance of AL on Lake Michigan beaches."
-  }          
+  },
+  {
+    "id":"dataset-641",
+    "title":"Total Economy of Coastal Areas",
+    "provider":"provider-150",
+    "url":"https://coast.noaa.gov/digitalcoast/data/coastaleconomy.html",
+    "description":"These data include employment (establishments, employment, and wages) and gross domestic product statistics for all economic activity occurring in coastal areas.",
+    "original":{
+      "documentation_url":"https://coast.noaa.gov/data/digitalcoast/pdf/qrt-coastal-economy-description.pdf"
+    }
+  },
+  {
+    "id":"dataset-633",
+    "title":"National Elevation Dataset",
+    "provider":"provider-236",
+    "alt_title":[
+      "NEDS",
+      "NED"
+    ],    
+    "url":"https://catalog.data.gov/dataset/usgs-national-elevation-dataset-ned",
+    "description":"The National Elevation Dataset (NED) is a seamless raster product primarily derived from USGS 10- and 30-meter Digital Elevation Models (DEMs).",
+    "original":{
+      "related_dataset":"dataset-631"
+    }
+  },
+  {
+    "id":"dataset-634",
+    "title": "Automated Tropical Cyclone Forecasting System",
+    "provider":"provider-282",
+    "alt_title":[
+      "ATCF TROPICAL CYCLONE DATABASE",
+      "ATCF",
+      "ATCF data"
+    ],
+    "description": "The Automated Tropical Cyclone Forecasting System (ATCF), developed by NRL Monterey, is a computer based application designed to automate and optimize the forecasting process at operational U.S. Navy tropical cyclone warning centers.",
+    "url":"https://www.nrlmry.navy.mil/atcf_web/docs/database/new/database.html"
+  },
+  {
+    "id":"dataset-635",
+    "title":"Billion-Dollar Weather and Climate Disasters",
+    "provider":"provider-150",
+    "url":"https://www.ncdc.noaa.gov/billions/events",
+    "description":"U.S. Billion-dollar disaster events, summaries, report links and statistics for the 1980–2019 period of record. In 2019 (as of October 8), there have been 10 weather and climate disaster events with losses exceeding $1 billion each across the United States."
+  },
+  {
+    "id":"dataset-636",
+    "title":"emPOWER Map",
+    "alt_title":[
+      "emPOWER Map data",
+      "emPOWER map layers",
+      "emPOWER map API"
+    ],
+    "provider":"provider-229",
+    "url":"https://geohealth.hhs.gov/dataaccess/rest/services/HHS_emPOWER_REST_Service_Public/MapServer",
+    "description":"ASPR, in partnership with the Centers for Medicare and Medicaid Services (CMS), provide de-identified and aggregated Medicare beneficiary claims data at the state/territory, county, and ZIP code levels in the HHS emPOWER Map and this public HHS emPOWER REST Service."
+  },
+  {
+    "id":"dataset-637",
+    "title":"Local Climate Analysis Tool Data",
+    "alt_title":[
+      "LCAT data",
+      "LCAT"
+    ],
+    "provider":"provider-150",
+    "description":"NOAA’s NWS implemented the new Local Climate Analysis Tool (LCAT) on 1 July 2013. The tool supports the delivery of climate services by quickly providing information to help with climate-sensitive decisions and to facilitate the development of local climate studies and assessments.",
+    "url":"https://nws.weather.gov/lcat/home",
+    "original":{
+      "related_dataset":[
+        "dataset-638",
+        "dataset-639",
+        "dataset-640",
+        "dataset-642"
+      ],
+      "documentation_url":"https://journals.ametsoc.org/doi/full/10.1175/BAMS-D-13-00187.1"
+    }
+  },
+  {
+    "id":"dataset-638",
+    "title":"Global Historical Climatology Network",
+    "provider":"provider-150",
+    "alt_title":[
+      "GHCN",
+      "HCN"
+    ],
+    "url":"https://www.ncdc.noaa.gov/data-access/land-based-station-data/land-based-datasets/global-historical-climatology-network-ghcn",
+    "description":"The Global Historical Climatology Network (GHCN) is an integrated database of climate summaries from land surface stations across the globe that have been subjected to a common suite of quality assurance reviews.",
+    "original":{
+      "documentation_url":"https://journals.ametsoc.org/doi/full/10.1175/BAMS-D-13-00187.1"
+    }
+  },
+  {
+    "id":"dataset-639",
+    "title":"Long Range Forecasts",
+    "alt_title":[
+      "LRF data",
+      "Long Range outlooks"
+    ],
+    "provider":"provider-150",
+    "url":"https://www.cpc.ncep.noaa.gov/products/forecasts/",
+    "description":"The Climate Prediction Center (CPC) is responsible for issuing seasonal climate outlook maps for one to thirteen months in the future."
+  },
+  {
+    "id":"dataset-640",
+    "title":"U.S. Climate Divisions",
+    "provider":"provider-150",
+    "alt_title":[
+      "nClimDiv",
+      "CONUS nClimDiv data"
+    ],
+    "url":"https://www.ncdc.noaa.gov/monitoring-references/maps/us-climate-divisions.php",
+    "description":"For many years the Climate Divisional Dataset was the only long-term temporally and spatially complete dataset from which to generate historical climate analyses (1895-2013) for the contiguous United States (CONUS).",
+    "original":{
+      "documentation_url":"https://journals.ametsoc.org/doi/abs/10.1175/1520-0477%281996%29077%3C0293%3AAHPOUC%3E2.0.CO%3B2"
+    }
+  },
+  {
+    "id":"dataset-642",
+    "title":"Applied Climate Information System",
+    "provider":"provider-150",
+    "alt_title":[
+      "ACIS"
+  
+    ],
+    "url":"https://www.ncdc.noaa.gov/monitoring-references/maps/us-climate-divisions.php",
+    "description":"For many years the Climate Divisional Dataset was the only long-term temporally and spatially complete dataset from which to generate historical climate analyses (1895-2013) for the contiguous United States (CONUS)."
+  },
+  {
+    "id":"dataset-643",
+    "title":"Digital Forecast Database",
+    "provider":"provider-150",
+    "alt_title":[
+      "NDFD"
+    ],
+    "url":"https://www.weather.gov/mdl/ndfd_home",
+    "description":"The National Digital Forecast Database (NDFD) is a suite of gridded forecasts of sensible weather elements (e.g., cloud cover, maximum temperature)."
+  },
+  {
+    "id":"dataset-644",
+    "title":"Maine Sea Level Rise",
+    "provider":"provider-283",
+    "alt_title":[
+      "Maine Storm Surge"
+    ],
+    "url":"https://mgs-maine.opendata.arcgis.com/datasets/maine-sea-level-rise-storm-surge-scenarios-2018",
+    "description":"The sea level rise scenarios were developed by using available long-term sea level rise data from Portland, Bar Harbor, and Eastport tide gauges and the US Army Corps of Engineers Sea-Level Change Curve Calculator (v. 2017.55) and sea level rise scenarios established by NOAA et al. (2017) prepared for the US National Climate Assessment.",
+    "original":{
+      "related_dataset":["dataset-645"],
+      "documentation_url":"https://www.maine.gov/dacf/mgs/hazards/slr_ss/index.shtml"
+    }
+  },
+  {
+    "id":"dataset-645",
+    "title":"Sea-Level Change Curve Calculator",
+    "provider":"provider-284",
+    "url":"http://corpsmapu.usace.army.mil/rccinfo/slc/slcc_calc.html",
+    "description":"ER 1110-2-8162, Incorporating Sea Level Change in Civil Works programs, requires that USACE incorporate the direct and indirect physical effects of projected future sea level change across the project life cycle in managing, planning, engineering, designing, constructing, operating, and maintaining USACE projects and systems of projects.",
+    "original":{
+      "documentation_url":"https://www.usace.army.mil/corpsclimate/Climate_Preparedness_and_Resilience/App_Flood_Risk_Reduct_Sandy_Rebuild/SL_change_curve_calc/"
+    }
+  },
+  {
+    "id":"dataset-646",
+    "title":"Shuttle Radar Topography Mission",
+    "provider":"provider-285",
+    "alt_title":[
+      "SRTM",
+      "SRTM data",
+      "Shuttle Radar Topography Mission digital elevation model",
+      "SRTM DEM"
+    ],
+    "url":"https://www2.jpl.nasa.gov/srtm/dataprod.htm",
+    "description":"The SRTM radar contained two types of antenna panels, C-band and X-band. The near-global topographic maps of Earth called Digital Elevation Models (DEMs) are made from the C-band radar data."
+  },
+  {
+    "id":"dataset-647",
+    "title":"Assessor and Real Estate Database",
+    "alt_title":[
+      "ZTRAX"
+    ],
+    "provider":"provider-286",
+    "url":"https://www.zillow.com/research/ztrax/",
+    "description":"The Zillow Transaction and Assessment Dataset (ZTRAX) is the nation’s largest real estate database made available free of charge to academic, nonprofit and government researchers."
+  }
+  
+
+
 ]
