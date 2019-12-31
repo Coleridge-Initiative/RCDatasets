@@ -7033,5 +7033,19 @@
 	],
 	"url": "https://www.oceaneconomics.org/",
 	"description": "The National Ocean Economics Program (NOEP) provides a full range of the most current policy-relevant economic and demographic information available on changes and trends along the U.S. coast, Great Lakes, and coastal waters. NOEP will soon expand to international datasets to support the broader mission of its new host, the Center for the Blue Economy(CBE) to promote ocean and coastal sustainability."
-	}
+  },
+  {
+    "id":"dataset-631",
+    "provider": "provider-150",
+    "title": "Digital Elevation Model Data",
+    "alt_title": [
+      "DEM",
+      "DEMS",
+      "Digital Elevation Models"
+    ],
+    "url":"https://catalog.data.gov/dataset/digital-elevation-models-from-noaa-ngdc",
+    "description": "Digital elevation models (DEMs) of U.S. and other coasts that typically integrate ocean bathymetry and land topography. The DEMs support NOAA's mission to understand and predict changes in Earth's environment, and conserve and manage coastal and marine resources to meet our Nation's economic, social, and environmental needs."
+  }
+  
+            
 ]
