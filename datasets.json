@@ -7049,11 +7049,13 @@
   {
 	"id": "dataset-632",
 	"provider": "provider-281",
-	"title": "The Adopt-a-Beach™ program",
+	"title": "Adopt-a-Beach program data",
 	"alt_title": [
-		"AAB"
+    "AAB",
+    "Adopt-a-Beach data",
+    "Litter Monitoring and Routine Visit Data"
 	],
 	"url": "http://www.greatlakesadopt.org/Home/HistoricalData",
-	"description": "The Adopt-a-Beach™ (AAB) program, administered by the Alliance for the Great Lakes, organizes volunteers to act as citizen scientists, contributing to ecological research by collecting and maintaining data on AL abundance on Great Lakes beaches. Initial assessments of data from the AAB records quantified sources and abundance of AL on Lake Michigan beaches."
+	"description": "The Adopt-a-Beach (AAB) program, administered by the Alliance for the Great Lakes, organizes volunteers to act as citizen scientists, contributing to ecological research by collecting and maintaining data on AL abundance on Great Lakes beaches. Initial assessments of data from the AAB records quantified sources and abundance of AL on Lake Michigan beaches."
   }          
 ]
