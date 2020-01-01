@@ -7242,7 +7242,7 @@
         "url": "https://www.zillow.com/research/ztrax/",
         "description": "The Zillow Transaction and Assessment Dataset (ZTRAX) is the nation\u2019s largest real estate database made available free of charge to academic, nonprofit and government researchers."
     },
-	{
+    {
         "id": "dataset-648",
         "title": "Sea Level Rise Analysis for Boston, Massachusetts",
         "alt_title": [
@@ -7251,19 +7251,19 @@
         "provider": "provider-287",
         "url": "http://ssrf.climatecentral.org/#location=MA_County_25025&state=Massachusetts&level=5&folder=All&geo=County&pt=t&target=&p=L&protection=",
         "description": "2010 U.S. Census data from Climate Central (2014) for the City of Boston were used to identify the land, population, housing, schools, transportation infrastructure, and hazardous waste sites that could potentially be impacted by tidal flooding reaching minor, moderate, and major flood stage levels. These categories of assets were chosen because impacts to them can have deep and lasting effects on society."
-	},
-	{
+    },
+    {
         "id": "dataset-649",
         "title": "The North Carolina road data",
         "provider": "provider-288",
         "url": "https://connect.ncdot.gov/resources/gis/Pages/GIS-Data-Layers.aspx",
-        "description": "The NCDOT GIS Unit is pleased to announce release of the GIS Data layers on the GIS unit webpage specified below for Fourth Quarter 2019.  Future Quarter releases​ are tentatively scheduled for the following months:  February , May, August​ and November 2020."
-	},
-	{
+        "description": "The NCDOT GIS Unit is pleased to announce release of the GIS Data layers on the GIS unit webpage specified below for Fourth Quarter 2019.  Future Quarter releases\u200b are tentatively scheduled for the following months:  February , May, August\u200b and November 2020."
+    },
+    {
         "id": "dataset-650",
         "title": "The South Carolina road data",
         "provider": "provider-289",
         "url": "https://www.scdot.org/travel/travel-mappinggis.aspx?MapType=Shape",
         "description": "Here you can find GIS data; interactive and digital maps for viewing and download; you can browse and order hard copies of our maps. Our KML web services are available for download; the Street Finder application identifies SCDOT maintained roads."
-	}
+    }
 ]
