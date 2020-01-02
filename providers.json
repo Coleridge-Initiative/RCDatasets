@@ -1188,5 +1188,21 @@
     {
         "id": "provider-289",
         "title": "South Carolina Department of Transportation"
+    },
+    {
+      "id": "provider-290",
+      "title": "Federal Reserve Bank of New York"
+    },
+    {
+      "id": "provider-291",
+      "title": "National Assocation of Insurance Commissioners"
+    },
+    {
+      "id" : "provider-292",
+      "title" : "California Partnership for Long-Term Care"
+    },
+    {
+      "id" : "provider-293",
+      "title" : "Indiana Long Term Care Insurance Program"
     }
 ]

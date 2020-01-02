@@ -7334,5 +7334,64 @@
         ],
         "url": "https://dataverse.ada.edu.au/dataverse/ncld",
         "description": "The regional economic accounts tell us about the geographic distribution of U.S. economic activity and growth. The estimates of gross domestic product by state and state and local area personal income, and the accompanying detail, provide a consistent framework for analyzing and comparing individual state and local area economies."
+    },
+    {
+        "id": "dataset-658",
+        "provider": "provider-290",
+        "title": "Household debt information",
+        "url": "https://www.newyorkfed.org/microeconomics/hhdc/background.html",
+        "description": "The large increases in consumer debt and defaults—of mortgage debt in particular—during the Great Recession highlighted the importance of understanding the liabilities reflected on household balance sheets. To that end, one of the CMD’s large data collection projects is the New York Fed Consumer Credit Panel, which is constructed from a nationally representative random sample of Equifax credit report data."
+    },
+    {
+        "id": "dataset-659",
+        "provider": "provider-150",
+        "title": "Local Climatological Data",
+        "alt_title" : [
+            "LCD",
+            "LCD Data"
+        ],
+        "url": "https://www.ncdc.noaa.gov/data-access/land-based-station-data/land-based-datasets",
+        "description": "Hourly, daily, and monthly summaries for approximately 1,600 U.S. locations, including Automated Surface Observing System (ASOS) and Automated Weather Observing System (AWOS) stations."
+    },
+    {
+        "id": "dataset-660",
+        "provider": "provider-225",
+        "title": "Quarterly Summary of State & Local Tax Revenue",
+        "alt_title" : [
+            "QTAX",
+            "QTAX Data"
+        ],
+        "url": "https://www.census.gov/programs-surveys/qtax.html",
+        "description": "The Quarterly Summary of State and Local Government Tax Revenue provides quarterly estimates of state and local government tax revenue at a national level, as well as detailed tax revenue data for individual states."
+    },
+    {
+        "id": "dataset-661",
+        "provider": "provider-291",
+        "title": "National Association of Insurance Commissioners Insurance Data",
+        "alt_title" : [
+            "NAICS",
+            "NAICS Data"
+        ],
+        "url": "https://www.naic.org/insdata_home.htm"
+    },
+    {
+        "id": "dataset-662",
+        "provider": "provider-292",
+        "title": "California Partnership for long-term care quarterly reports",
+        "alt_title" : [
+            "CPLTC Quarterly reports",
+            "CPLTC"
+        ],
+        "url": "http://eprints.lse.ac.uk/60757/1/Bergquist_CostaFont_Swartz_Long-term-care-partnerships_2015.pdf"
+    },
+    {
+        "id": "dataset-663",
+        "provider": "provider-293",
+        "title": "Indiana Long Term Care Insurance Program Quarterly Statistics Report",
+        "alt_title" : [
+            "ILTCP quarterly statistics report",
+            "ILTCP"
+        ],
+        "url": "https://www.in.gov/iltcp/2335.htm"
     }
 ]
