@@ -7268,71 +7268,71 @@
     },
     {
         "id": "dataset-651",
-          "provider": "provider-274",
-          "title": "Channel Surveys",
-          "alt_title": [
-              "USACE Channel Surveys",
-              "USACE"
-          ],
-          "url": "https://www.mvn.usace.army.mil/Missions/Navigation/Channel-Surveys/",
-          "description" : "The New Orleans District, Operations Division performs routine hydrographic surveys to monitor local river and waterway navigation conditions. This information is used as a decision making tool for channel maintenance operations. These products can also be used to supplement existing published navigation charts with more recent shoaling activity."
-      },
-      {
+        "provider": "provider-274",
+        "title": "Channel Surveys",
+        "alt_title": [
+            "USACE Channel Surveys",
+            "USACE"
+        ],
+        "url": "https://www.mvn.usace.army.mil/Missions/Navigation/Channel-Surveys/",
+        "description": "The New Orleans District, Operations Division performs routine hydrographic surveys to monitor local river and waterway navigation conditions. This information is used as a decision making tool for channel maintenance operations. These products can also be used to supplement existing published navigation charts with more recent shoaling activity."
+    },
+    {
         "id": "dataset-652",
-          "provider": "provider-222",
-          "title": "Personal Income Data",
-          "alt_title": [
-              "BEA Personal Income"
-          ],
-          "url": "https://www.bea.gov/data/income-saving/personal-income"
-      },
-      {
+        "provider": "provider-222",
+        "title": "Personal Income Data",
+        "alt_title": [
+            "BEA Personal Income"
+        ],
+        "url": "https://www.bea.gov/data/income-saving/personal-income"
+    },
+    {
         "id": "dataset-653",
-          "provider": "provider-275",
-          "title": "Pension Database",
-          "alt_title": [
-              "PPD"
-          ],
-          "url": "https://publicplansdata.org/public-plans-database/",
-          "description": "The Public Plans Data (PPD) contains detailed annual data on the largest state/local pension in the US. The sample spans fiscal years 2001 to 2019 and includes 190 plans (114 state-run and 76 locally-run) which account for 95 percent of state/local pension assets and members in the US."
-      },
-      {
+        "provider": "provider-275",
+        "title": "Pension Database",
+        "alt_title": [
+            "PPD"
+        ],
+        "url": "https://publicplansdata.org/public-plans-database/",
+        "description": "The Public Plans Data (PPD) contains detailed annual data on the largest state/local pension in the US. The sample spans fiscal years 2001 to 2019 and includes 190 plans (114 state-run and 76 locally-run) which account for 95 percent of state/local pension assets and members in the US."
+    },
+    {
         "id": "dataset-654",
-          "provider": "provider-276",
-          "title": "TRACE database",
-          "alt_title": [
-              "Finra TRACE database"
-          ],
-          "url": "https://www.finra.org/filing-reporting/trace/trace-data-licensing",
-          "description": "FINRA provides real-time and historic data for most TRACE-eligible securities to members and any others that choose to subscribe for a fee."
-      },
-      {
+        "provider": "provider-276",
+        "title": "TRACE database",
+        "alt_title": [
+            "Finra TRACE database"
+        ],
+        "url": "https://www.finra.org/filing-reporting/trace/trace-data-licensing",
+        "description": "FINRA provides real-time and historic data for most TRACE-eligible securities to members and any others that choose to subscribe for a fee."
+    },
+    {
         "id": "dataset-655",
-          "provider": "provider-277",
-          "title": "1033 Excess Equipment program data",
-          "url": "https://www.themarshallproject.org/mp-graphics/201412-dod/embed.html",
-          "description": "What military equipment has your local police, sheriff or game warden received from the Pentagon? Click the dropdown to select your state and start sifting through the newly released data from the U.S. Department of Defense’s 1033 program."
-      },
-      {
+        "provider": "provider-277",
+        "title": "1033 Excess Equipment program data",
+        "url": "https://www.themarshallproject.org/mp-graphics/201412-dod/embed.html",
+        "description": "What military equipment has your local police, sheriff or game warden received from the Pentagon? Click the dropdown to select your state and start sifting through the newly released data from the U.S. Department of Defense\u2019s 1033 program."
+    },
+    {
         "id": "dataset-656",
-          "provider": "provider-278",
-          "title": "Household Income and Labor Dynamics in Austrailia",
-          "alt_title":[
+        "provider": "provider-278",
+        "title": "Household Income and Labor Dynamics in Australia",
+        "alt_title": [
             "HILDA",
             "HILDA Data"
-          ],
-          "url": "https://dataverse.ada.edu.au/dataverse/ncld",
-          "description": "The Household, Income and Labour Dynamics in Australia (HILDA) Survey is a nationally representative longitudinal study of Australian households which commenced in 2001. Funded by the Australian Government Department of Social Services (DSS), the HILDA Survey is managed by the Melbourne Institute of Applied Economic and Social Research at the University of Melbourne. The HILDA Survey provides longitudinal data on the lives of Australian residents. Its primary objective is to support research questions falling within three broad and inter-related areas of income, labour market and family dynamics. The HILDA Survey is a household-based panel study of Australian households and, as such, it interviews all household members (15 years and over) of the selected households and then re-interviews the same people in subsequent years. This dataset is the 18th release of the HILDA data, incorporating data collected from 2001 through 2018 (Waves 1-18). The special topic module in Wave 18 is wealth, and includes questions on employment-related discrimination, updates to citizenship and permanent residency and material deprivation."
-        },
-        {
-            "id": "dataset-657",
-            "provider": "provider-222",
-            "title": "Regional Economic Accounts",
-            "alt_title":[
-              "REA",
-              "REA Data"
-            ],
-            "url": "https://dataverse.ada.edu.au/dataverse/ncld",
-            "description": "The regional economic accounts tell us about the geographic distribution of U.S. economic activity and growth. The estimates of gross domestic product by state and state and local area personal income, and the accompanying detail, provide a consistent framework for analyzing and comparing individual state and local area economies."
-        } 
+        ],
+        "url": "https://dataverse.ada.edu.au/dataverse/ncld",
+        "description": "The Household, Income and Labour Dynamics in Australia (HILDA) Survey is a nationally representative longitudinal study of Australian households which commenced in 2001. Funded by the Australian Government Department of Social Services (DSS), the HILDA Survey is managed by the Melbourne Institute of Applied Economic and Social Research at the University of Melbourne. The HILDA Survey provides longitudinal data on the lives of Australian residents. Its primary objective is to support research questions falling within three broad and inter-related areas of income, labour market and family dynamics. The HILDA Survey is a household-based panel study of Australian households and, as such, it interviews all household members (15 years and over) of the selected households and then re-interviews the same people in subsequent years. This dataset is the 18th release of the HILDA data, incorporating data collected from 2001 through 2018 (Waves 1-18). The special topic module in Wave 18 is wealth, and includes questions on employment-related discrimination, updates to citizenship and permanent residency and material deprivation."
+    },
+    {
+        "id": "dataset-657",
+        "provider": "provider-222",
+        "title": "Regional Economic Accounts",
+        "alt_title": [
+            "REA",
+            "REA Data"
+        ],
+        "url": "https://dataverse.ada.edu.au/dataverse/ncld",
+        "description": "The regional economic accounts tell us about the geographic distribution of U.S. economic activity and growth. The estimates of gross domestic product by state and state and local area personal income, and the accompanying detail, provide a consistent framework for analyzing and comparing individual state and local area economies."
+    }
 ]
