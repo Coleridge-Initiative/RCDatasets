@@ -7455,7 +7455,7 @@
 	{
         "id": "dataset-670",
         "provider": "provider-296",
-        "title": " European radar network (OPERA)",
+        "title": "European radar network",
         "alt_title": [
             "OPERA"  
         ],
@@ -7465,7 +7465,7 @@
 	{
         "id": "dataset-671",
         "provider": "provider-150",
-        "title": " Rapid Refresh",
+        "title": "Rapid Refresh",
         "alt_title": [
             "RAP"  
         ],
