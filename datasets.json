@@ -7340,13 +7340,13 @@
         "provider": "provider-290",
         "title": "Household debt information",
         "url": "https://www.newyorkfed.org/microeconomics/hhdc/background.html",
-        "description": "The large increases in consumer debt and defaults—of mortgage debt in particular—during the Great Recession highlighted the importance of understanding the liabilities reflected on household balance sheets. To that end, one of the CMD’s large data collection projects is the New York Fed Consumer Credit Panel, which is constructed from a nationally representative random sample of Equifax credit report data."
+        "description": "The large increases in consumer debt and defaults\u2014of mortgage debt in particular\u2014during the Great Recession highlighted the importance of understanding the liabilities reflected on household balance sheets. To that end, one of the CMD\u2019s large data collection projects is the New York Fed Consumer Credit Panel, which is constructed from a nationally representative random sample of Equifax credit report data."
     },
     {
         "id": "dataset-659",
         "provider": "provider-150",
         "title": "Local Climatological Data",
-        "alt_title" : [
+        "alt_title": [
             "LCD",
             "LCD Data"
         ],
@@ -7357,7 +7357,7 @@
         "id": "dataset-660",
         "provider": "provider-225",
         "title": "Quarterly Summary of State & Local Tax Revenue",
-        "alt_title" : [
+        "alt_title": [
             "QTAX",
             "QTAX Data"
         ],
@@ -7368,7 +7368,7 @@
         "id": "dataset-661",
         "provider": "provider-291",
         "title": "National Association of Insurance Commissioners Insurance Data",
-        "alt_title" : [
+        "alt_title": [
             "NAICS",
             "NAICS Data"
         ],
@@ -7378,7 +7378,7 @@
         "id": "dataset-662",
         "provider": "provider-292",
         "title": "California Partnership for long-term care quarterly reports",
-        "alt_title" : [
+        "alt_title": [
             "CPLTC Quarterly reports",
             "CPLTC"
         ],
@@ -7388,88 +7388,88 @@
         "id": "dataset-663",
         "provider": "provider-293",
         "title": "Indiana Long Term Care Insurance Program Quarterly Statistics Report",
-        "alt_title" : [
+        "alt_title": [
             "ILTCP quarterly statistics report",
             "ILTCP"
         ],
         "url": "https://www.in.gov/iltcp/2335.htm"
     },
-	{
+    {
         "id": "dataset-664",
         "provider": "provider-150",
         "title": "North American Regional Reanalysis",
         "alt_title": [
-            "NARR"  
+            "NARR"
         ],
         "url": "https://www.ncdc.noaa.gov/data-access/model-data/model-datasets/north-american-regional-reanalysis-narr",
-		"description": "The North American Regional Reanalysis (NARR) is a regional reanalysis of North America containing temperatures, winds, moisture, soil data, and dozens of other parameters. Produced by the National Centers for Environmental Prediction (NCEP), the NARR model takes in, or assimilates, a great amount of observational data to produce a long-term picture of weather over North America. The data that are assimilated in order to initialize the model to real-world conditions are temperatures, winds, and moisture from radiosondes as well as pressure data from surface observations. Also included in this dataset are dropsondes, pibals, aircraft temperatures and winds, satellite radiance (a measure of heat) from polar (orbiting Earth) satellites, and cloud drift winds from geostationary (fixed at one location viewing Earth) satellites."
+        "description": "The North American Regional Reanalysis (NARR) is a regional reanalysis of North America containing temperatures, winds, moisture, soil data, and dozens of other parameters. Produced by the National Centers for Environmental Prediction (NCEP), the NARR model takes in, or assimilates, a great amount of observational data to produce a long-term picture of weather over North America. The data that are assimilated in order to initialize the model to real-world conditions are temperatures, winds, and moisture from radiosondes as well as pressure data from surface observations. Also included in this dataset are dropsondes, pibals, aircraft temperatures and winds, satellite radiance (a measure of heat) from polar (orbiting Earth) satellites, and cloud drift winds from geostationary (fixed at one location viewing Earth) satellites."
     },
-	{
+    {
         "id": "dataset-665",
         "provider": "provider-294",
         "title": "Atmospheric Radiation Measurement",
         "alt_title": [
-            "ARM"  
+            "ARM"
         ],
         "url": "https://www.arm.gov/data",
-		"description": "ARM focuses on obtaining continuous measurements—supplemented by field campaigns—and providing data products that promote the advancement of climate models. Serving users worldwide, the ARM Data Center collects and archives approximately 20 terabytes of data per month. Datastreams are generally available for download within 48 hours."
-	},
-	{
+        "description": "ARM focuses on obtaining continuous measurements\u2014supplemented by field campaigns\u2014and providing data products that promote the advancement of climate models. Serving users worldwide, the ARM Data Center collects and archives approximately 20 terabytes of data per month. Datastreams are generally available for download within 48 hours."
+    },
+    {
         "id": "dataset-666",
         "provider": "provider-295",
         "title": "ERA5 Reanalysis",
         "alt_title": [
-            "ERA5"  
+            "ERA5"
         ],
         "url": "https://www.ecmwf.int/en/forecasts/datasets/reanalysis-datasets/era5",
-		"description": "ERA5 provides hourly estimates of a large number of atmospheric, land and oceanic climate variables. The data cover the Earth on a 30km grid and resolve the atmosphere using 137 levels from the surface up to a height of 80km. ERA5 includes information about uncertainties for all variables at reduced spatial and temporal resolutions."
-	},
-	{
+        "description": "ERA5 provides hourly estimates of a large number of atmospheric, land and oceanic climate variables. The data cover the Earth on a 30km grid and resolve the atmosphere using 137 levels from the surface up to a height of 80km. ERA5 includes information about uncertainties for all variables at reduced spatial and temporal resolutions."
+    },
+    {
         "id": "dataset-667",
         "provider": "provider-285",
         "title": "Global Precipitation Measurement",
         "alt_title": [
-            "GRM"  
+            "GRM"
         ],
         "url": "https://pmm.nasa.gov/data-access/downloads/gpm"
-	},
-	{
+    },
+    {
         "id": "dataset-668",
         "provider": "provider-150",
         "title": "National Data Buoy Center",
         "alt_title": [
-            "NDBC"  
+            "NDBC"
         ],
         "url": "https://www.ndbc.noaa.gov/",
-		"description": "This dataset is to provide quality observations in the marine environment in a safe and sustainable manner to support the understanding of and predictions to changes in weather, climate, oceans and coast."
-	},
-	{
+        "description": "This dataset is to provide quality observations in the marine environment in a safe and sustainable manner to support the understanding of and predictions to changes in weather, climate, oceans and coast."
+    },
+    {
         "id": "dataset-669",
         "provider": "provider-285",
         "title": "North American Land Data Assimilation System",
         "alt_title": [
-            "NLDAS"  
+            "NLDAS"
         ],
         "url": "https://disc.gsfc.nasa.gov/datasets?keywords=NLDAS"
-	},
-	{
+    },
+    {
         "id": "dataset-670",
         "provider": "provider-296",
         "title": "European radar network",
         "alt_title": [
-            "OPERA"  
+            "OPERA"
         ],
         "url": "https://www.eumetnet.eu/wp-content/themes/aeron-child/observations-programme/current-activities/opera/database/OPERA_Database/",
-		"description": "The objectives of OPERA is to provide a European platform wherein expertise on operationally-oriented weather radar issues is exchanged and to develop, generate and distribute high-quality pan-European weather radar composite products  on an operational basis."
-	},
-	{
+        "description": "The objectives of OPERA is to provide a European platform wherein expertise on operationally-oriented weather radar issues is exchanged and to develop, generate and distribute high-quality pan-European weather radar composite products  on an operational basis."
+    },
+    {
         "id": "dataset-671",
         "provider": "provider-150",
         "title": "Rapid Refresh",
         "alt_title": [
-            "RAP"  
+            "RAP"
         ],
         "url": "https://rapidrefresh.noaa.gov/",
-		"description": "The Rapid Refresh is the continental-scale NOAA hourly-updated assimilation/modeling system operational at NCEP. RAP covers North America and is comprised primarily of a numerical forecast model and an analysis/assimilation system to initialize that model. RAP is complemented by the higher-resolution 3km High-Resolution Rapid Refresh (HRRR) model, which is also updated hourly and covering a smaller geographic domain."
-	}
+        "description": "The Rapid Refresh is the continental-scale NOAA hourly-updated assimilation/modeling system operational at NCEP. RAP covers North America and is comprised primarily of a numerical forecast model and an analysis/assimilation system to initialize that model. RAP is complemented by the higher-resolution 3km High-Resolution Rapid Refresh (HRRR) model, which is also updated hourly and covering a smaller geographic domain."
+    }
 ]

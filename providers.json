@@ -1198,25 +1198,25 @@
         "title": "National Assocation of Insurance Commissioners"
     },
     {
-        "id" : "provider-292",
-        "title" : "California Partnership for Long-Term Care"
+        "id": "provider-292",
+        "title": "California Partnership for Long-Term Care"
     },
     {
-        "id" : "provider-293",
-        "title" : "Indiana Long Term Care Insurance Program"
+        "id": "provider-293",
+        "title": "Indiana Long Term Care Insurance Program"
     },
-	{
-	    "id" : "provider-294",
-        "title" : "United States Department of Energy",
-		"ror" : "01bj3aw27"
-	},
-	{
-	    "id" : "provider-295",
-        "title" : "European Centre for Medium-Range Weather Forecasts (ECMWF)",
-		"ror" : "014w0fd65"
-	},
-	{
-	    "id" : "provider-296",
-        "title" : "EUMETNET"
-	}
+    {
+        "id": "provider-294",
+        "title": "US Department of Energy",
+        "ror": "01bj3aw27"
+    },
+    {
+        "id": "provider-295",
+        "title": "European Centre for Medium-Range Weather Forecasts (ECMWF)",
+        "ror": "014w0fd65"
+    },
+    {
+        "id": "provider-296",
+        "title": "EUMETNET"
+    }
 ]
