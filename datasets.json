@@ -7482,34 +7482,34 @@
         "id": "dataset-673",
         "provider": "provider-226",
         "title": "National Agriculture Imagery Program images",
-        "alt_title" : [
+        "alt_title": [
             "NAIP",
             "NAIP data"
         ],
         "url": "https://www.fsa.usda.gov/programs-and-services/aerial-photography/imagery-programs/naip-imagery/",
-        "description" : "The National Agriculture Imagery Program (NAIP) acquires aerial imagery during the agricultural growing seasons in the continental U.S. A primary goal of the NAIP program is to make digital ortho photography available to governmental agencies and the public within a year of acquisition. "
+        "description": "The National Agriculture Imagery Program (NAIP) acquires aerial imagery during the agricultural growing seasons in the continental U.S. A primary goal of the NAIP program is to make digital ortho photography available to governmental agencies and the public within a year of acquisition. "
     },
     {
         "id": "dataset-674",
         "provider": "provider-236",
         "title": "National Hydrography Dataset",
-        "alt_title" : [
+        "alt_title": [
             "NHD",
             "NHD data"
         ],
         "url": "https://www.usgs.gov/core-science-systems/ngp/national-hydrography/national-hydrography-dataset?qt-science_support_page_related_con=0#qt-science_support_page_related_con",
-        "description" : "The National Hydrography Dataset (NHD) represents the water drainage network of the United States with features such as rivers, streams, canals, lakes, ponds, coastline, dams, and streamgages."
+        "description": "The National Hydrography Dataset (NHD) represents the water drainage network of the United States with features such as rivers, streams, canals, lakes, ponds, coastline, dams, and streamgages."
     },
     {
         "id": "dataset-675",
         "provider": "provider-285",
         "title": "Moderate Resolution Imaging Spectroradiometer Vegetation Indices",
-        "alt_title" : [
+        "alt_title": [
             "MODIS",
             "MODIS Vegetation Indices"
         ],
         "url": "https://modis.gsfc.nasa.gov/data/dataprod/mod13.php",
-        "description" : "MODIS vegetation indices, produced on 16-day intervals and at multiple spatial resolutions, provide consistent spatial and temporal comparisons of vegetation canopy greenness, a composite property of leaf area, chlorophyll and canopy structure. Two vegetation indices are derived from atmospherically-corrected reflectance in the red, near-infrared, and blue wavebands; the normalized difference vegetation index (NDVI), which provides continuity with NOAA's AVHRR NDVI time series record for historical and climate applications, and the enhanced vegetation index (EVI), which minimizes canopy-soil variations and improves sensitivity over dense vegetation conditions. The two products more effectively characterize the global range of vegetation states and processes."
+        "description": "MODIS vegetation indices, produced on 16-day intervals and at multiple spatial resolutions, provide consistent spatial and temporal comparisons of vegetation canopy greenness, a composite property of leaf area, chlorophyll and canopy structure. Two vegetation indices are derived from atmospherically-corrected reflectance in the red, near-infrared, and blue wavebands; the normalized difference vegetation index (NDVI), which provides continuity with NOAA's AVHRR NDVI time series record for historical and climate applications, and the enhanced vegetation index (EVI), which minimizes canopy-soil variations and improves sensitivity over dense vegetation conditions. The two products more effectively characterize the global range of vegetation states and processes."
     },
     {
         "id": "dataset-676",
@@ -7538,11 +7538,11 @@
         "url": "https://earthexplorer.usgs.gov/"
     },
     {
-        "id" : "dataset-679",
-        "provider" : "provider-236",
-        "title" : "Protected Areas Database of the United States",
-        "url" : "https://www.sciencebase.gov/catalog/item/4fe49a8ae4b08f25bd501aa9",
-        "description" : "The Protected Areas Database of the United States (PAD-US) is a geodatabase that illustrates and describes public land ownership, management and conservation lands nationally, including voluntarily provided privately protected areas. The lands included in PAD-US are assigned conservation measures that qualify their intent to manage lands for the preservation of biological diversity and to other natural, recreational and cultural uses; managed for these purposes through legal or other effective means"
+        "id": "dataset-679",
+        "provider": "provider-236",
+        "title": "Protected Areas Database of the United States",
+        "url": "https://www.sciencebase.gov/catalog/item/4fe49a8ae4b08f25bd501aa9",
+        "description": "The Protected Areas Database of the United States (PAD-US) is a geodatabase that illustrates and describes public land ownership, management and conservation lands nationally, including voluntarily provided privately protected areas. The lands included in PAD-US are assigned conservation measures that qualify their intent to manage lands for the preservation of biological diversity and to other natural, recreational and cultural uses; managed for these purposes through legal or other effective means"
     },
     {
         "id": "dataset-680",
@@ -7603,7 +7603,7 @@
         "id": "dataset-687",
         "provider": "provider-300",
         "title": "Regridded Harmonized World Soil Database",
-        "url": "https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=1247",
+        "url": "https://daac.ornl.gov/cgi-bin/dsvi  ewer.pl?ds_id=1247",
         "description": "This data set describes select global soil parameters from the Harmonized World Soil Database (HWSD) v1.2, including additional calculated parameters such as area weighted soil organic carbon (kg C per m2), as high resolution NetCDF files. These data were regridded and upscaled from the Harmonized World Soil Database v1.2 The HWSD provides information for addressing emerging problems of land competition for food production, bio-energy demand and threats to biodiversity and can be used as input to model global carbon cycles. The data are presented as a series of 27 NetCDF v3/v4 (*.nc4) files at 0.05-degree spatial resolution, and one NetCDF file regridded to the Community Land Model (CLM) grid cell resolution (0.9 degree x 1.25 degree) for the nominal year of 2000."
     },
     {
