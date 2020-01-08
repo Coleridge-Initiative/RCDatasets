@@ -7471,5 +7471,80 @@
         ],
         "url": "https://rapidrefresh.noaa.gov/",
         "description": "The Rapid Refresh is the continental-scale NOAA hourly-updated assimilation/modeling system operational at NCEP. RAP covers North America and is comprised primarily of a numerical forecast model and an analysis/assimilation system to initialize that model. RAP is complemented by the higher-resolution 3km High-Resolution Rapid Refresh (HRRR) model, which is also updated hourly and covering a smaller geographic domain."
+    },
+    {
+        "id": "dataset-672",
+        "provider": "provider-297",
+        "title": "Medicaid Expendeture Data",
+        "url": "https://dnav.cms.gov/Views/Search.aspx"
+    },
+    {
+        "id": "dataset-673",
+        "provider": "provider-226",
+        "title": "National Agriculture Imagery Program images",
+        "alt_title": [
+            "NAIP",
+            "NAIP data"
+        ],
+        "url": "https://www.fsa.usda.gov/programs-and-services/aerial-photography/imagery-programs/naip-imagery/",
+        "description": "The National Agriculture Imagery Program (NAIP) acquires aerial imagery during the agricultural growing seasons in the continental U.S. A primary goal of the NAIP program is to make digital ortho photography available to governmental agencies and the public within a year of acquisition. "
+    },
+    {
+        "id": "dataset-674",
+        "provider": "provider-236",
+        "title": "National Hydrography Dataset",
+        "alt_title": [
+            "NHD",
+            "NHD data"
+        ],
+        "url": "https://www.usgs.gov/core-science-systems/ngp/national-hydrography/national-hydrography-dataset?qt-science_support_page_related_con=0#qt-science_support_page_related_con",
+        "description": "The National Hydrography Dataset (NHD) represents the water drainage network of the United States with features such as rivers, streams, canals, lakes, ponds, coastline, dams, and streamgages."
+    },
+    {
+        "id": "dataset-675",
+        "provider": "provider-285",
+        "title": "Moderate Resolution Imaging Spectroradiometer Vegetation Indices",
+        "alt_title": [
+            "MODIS",
+            "MODIS Vegetation Indices"
+        ],
+        "url": "https://modis.gsfc.nasa.gov/data/dataprod/mod13.php",
+        "description": "MODIS vegetation indices, produced on 16-day intervals and at multiple spatial resolutions, provide consistent spatial and temporal comparisons of vegetation canopy greenness, a composite property of leaf area, chlorophyll and canopy structure. Two vegetation indices are derived from atmospherically-corrected reflectance in the red, near-infrared, and blue wavebands; the normalized difference vegetation index (NDVI), which provides continuity with NOAA's AVHRR NDVI time series record for historical and climate applications, and the enhanced vegetation index (EVI), which minimizes canopy-soil variations and improves sensitivity over dense vegetation conditions. The two products more effectively characterize the global range of vegetation states and processes."
+    },
+    {
+        "id": "dataset-676",
+        "provider": "provider-298",
+        "title": "Maryland Public Schools Report Card",
+        "url": "https://reportcard.msde.maryland.gov/"
+    },
+    {
+        "id": "dataset-677",
+        "provider": "provider-226",
+        "title": "Forest Inventory and Analysis program field data",
+        "alt_title": [
+            "FIA",
+            "FIA program",
+            "FIA data"
+        ],
+        "url": "https://apps.fs.usda.gov/fia/datamart/datamart.html"
+    },
+    {
+        "id": "dataset-678",
+        "provider": "provider-067",
+        "title": "Landsat data",
+        "url": "https://earthexplorer.usgs.gov/"
+    },
+    {
+        "id": "dataset-679",
+        "provider": "provider-236",
+        "title": "Protected Areas Database of the United States",
+        "url": "https://www.sciencebase.gov/catalog/item/4fe49a8ae4b08f25bd501aa9",
+        "description": "The Protected Areas Database of the United States (PAD-US) is a geodatabase that illustrates and describes public land ownership, management and conservation lands nationally, including voluntarily provided privately protected areas. The lands included in PAD-US are assigned conservation measures that qualify their intent to manage lands for the preservation of biological diversity and to other natural, recreational and cultural uses; managed for these purposes through legal or other effective means"
+    },
+    {
+        "id": "dataset-680",
+        "provider": "provider-226",
+        "title": "Cropland Data Layer",
+        "url": "https://www.nass.usda.gov/Research_and_Science/Cropland/SARS1a.php"
     }
 ]
