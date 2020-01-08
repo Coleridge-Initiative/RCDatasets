@@ -7122,7 +7122,7 @@
             "LCAT"
         ],
         "provider": "provider-150",
-        "description": "NOAA's NWS implemented the new Local Climate Analysis Tool (LCAT) on 1 July 2013. The tool supports the delivery of climate services by quickly providing information to help with climate-sensitive decisions and to facilitate the development of local climate studies and assessments.",
+        "description": "NOAA\u2019s NWS implemented the new Local Climate Analysis Tool (LCAT) on 1 July 2013. The tool supports the delivery of climate services by quickly providing information to help with climate-sensitive decisions and to facilitate the development of local climate studies and assessments.",
         "url": "https://nws.weather.gov/lcat/home",
         "original": {
             "related_dataset": [
@@ -7532,9 +7532,6 @@
         "id": "dataset-678",
         "provider": "provider-067",
         "title": "Landsat data",
-        "alt_title": [
-            "earth explorer"
-        ],
         "url": "https://earthexplorer.usgs.gov/"
     },
     {
@@ -7621,6 +7618,6 @@
             "HYDRO1K data"
         ],
         "url": "https://www.usgs.gov/centers/eros/science/usgs-eros-archive-digital-elevation-hydro1k?qt-science_center_objects=0#qt-science_center_objects",
-        "description": "HYDRO1k is a geographic database developed to provide comprehensive and consistent global coverage of topographically derived data sets, including streams, drainage basins and ancillary layers derived from the USGS' 30 arc-second digital elevation model of the world (GTOPO30). HYDRO1k provides a suite of geo-referenced data sets, both raster and vector, which will be of value for all users who need to organize, evaluate, or process hydrologic information on a continental scale."
+        "description" : "HYDRO1k is a geographic database developed to provide comprehensive and consistent global coverage of topographically derived data sets, including streams, drainage basins and ancillary layers derived from the USGS' 30 arc-second digital elevation model of the world (GTOPO30). HYDRO1k provides a suite of geo-referenced data sets, both raster and vector, which will be of value for all users who need to organize, evaluate, or process hydrologic information on a continental scale."
     }
 ]
