@@ -1190,19 +1190,43 @@
         "title": "South Carolina Department of Transportation"
     },
     {
-      "id": "provider-290",
-      "title": "Federal Reserve Bank of New York"
+        "id": "provider-290",
+        "title": "Federal Reserve Bank of New York"
     },
     {
-      "id": "provider-291",
-      "title": "National Assocation of Insurance Commissioners"
+        "id": "provider-291",
+        "title": "National Assocation of Insurance Commissioners"
     },
     {
-      "id" : "provider-292",
-      "title" : "California Partnership for Long-Term Care"
+        "id": "provider-292",
+        "title": "California Partnership for Long-Term Care"
     },
     {
-      "id" : "provider-293",
-      "title" : "Indiana Long Term Care Insurance Program"
+        "id": "provider-293",
+        "title": "Indiana Long Term Care Insurance Program"
+    },
+    {
+        "id": "provider-294",
+        "title": "US Department of Energy",
+        "ror": "01bj3aw27"
+    },
+    {
+        "id": "provider-295",
+        "title": "European Centre for Medium-Range Weather Forecasts (ECMWF)",
+        "ror": "014w0fd65"
+    },
+    {
+        "id": "provider-296",
+        "title": "EUMETNET"
+    },
+    {
+        "id" : "provider-297",
+        "title" : "Centers for Medicare & Medicaid Services",
+        "ror" : "02g02rq35"
+    },
+    {
+        "id": "provider-298",
+        "title" : "Maryland State Department of Education",
+        "ror" : "00vtxwn66"
     }
 ]
