@@ -1226,7 +1226,21 @@
     },
     {
         "id": "provider-298",
-        "title" : "Maryland State Department of Education",
+        "title": "Maryland State Department of Education",
         "ror" : "00vtxwn66"
+    },
+    {
+        "id": "provider-299",
+        "title": "US Energy Information Administration",
+        "ror": "01h04ms65"
+    },
+    {
+        "id": "provider-300",
+        "title": "Oak Ridge National Laboratory",
+        "ror": "01qz5mb56"
+    },
+    {
+        "id": "provider-301",
+        "title": "worldclim.org"
     }
 ]
