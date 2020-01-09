@@ -7559,7 +7559,7 @@
         "provider": "provider-222",
         "title": "GDP by Industry",
         "url": "https://www.bea.gov/data/gdp/gdp-industry",
-        "description": "An industry-by-industry breakdown of gross domestic product. In addition to showing each industry\u2019s contribution to the U.S. economy, known as its value added, these statistics include industries\u2019 compensation of employees, gross operating surplus, and taxes."
+        "description": "An industry-by-industry breakdown of gross domestic product. In addition to showing each industry’s contribution to the U.S. economy, known as its value added, these statistics include industries’ compensation of employees, gross operating surplus, and taxes."
     },
     {
         "id": "dataset-683",
