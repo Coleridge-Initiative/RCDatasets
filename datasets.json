@@ -7122,7 +7122,7 @@
             "LCAT"
         ],
         "provider": "provider-150",
-        "description": "NOAA\u2019s NWS implemented the new Local Climate Analysis Tool (LCAT) on 1 July 2013. The tool supports the delivery of climate services by quickly providing information to help with climate-sensitive decisions and to facilitate the development of local climate studies and assessments.",
+        "description": "NOAA's NWS implemented the new Local Climate Analysis Tool (LCAT) on 1 July 2013. The tool supports the delivery of climate services by quickly providing information to help with climate-sensitive decisions and to facilitate the development of local climate studies and assessments.",
         "url": "https://nws.weather.gov/lcat/home",
         "original": {
             "related_dataset": [
@@ -7532,6 +7532,9 @@
         "id": "dataset-678",
         "provider": "provider-067",
         "title": "Landsat data",
+        "alt_title": [
+            "earth explorer"
+        ],
         "url": "https://earthexplorer.usgs.gov/"
     },
     {
@@ -7546,5 +7549,78 @@
         "provider": "provider-226",
         "title": "Cropland Data Layer",
         "url": "https://www.nass.usda.gov/Research_and_Science/Cropland/SARS1a.php"
+    },
+    {
+        "id": "dataset-681",
+        "provider": "provider-150",
+        "title": "National Temperature and Precipitation Maps",
+        "url": "https://glovis.usgs.gov/",
+        "description": "Since 2001, the USGS Global Visualization Viewer (GloVis) has been available to users for accessing remote sensing data. In 2017, it was redesigned to address changing internet technologies. With easy-to- use navigation tools, users can instantly view and download scenes."
+    },
+    {
+        "id": "dataset-682",
+        "provider": "provider-222",
+        "title": "GDP by Industry",
+        "url": "https://www.bea.gov/data/gdp/gdp-industry",
+        "description": "An industry-by-industry breakdown of gross domestic product. In addition to showing each industry\u2019s contribution to the U.S. economy, known as its value added, these statistics include industries\u2019 compensation of employees, gross operating surplus, and taxes."
+    },
+    {
+        "id": "dataset-683",
+        "provider": "provider-222",
+        "title": "Gross Domestic Product",
+        "alt_title": [
+            "GDP",
+            "GDP data"
+        ],
+        "url": "https://www.bea.gov/data/gdp/gross-domestic-product",
+        "description": "A comprehensive measure of U.S. economic activity. GDP is the value of the goods and services produced in the United States. The growth rate of GDP is the most popular indicator of the nation's overall economic health."
+    },
+    {
+        "id": "dataset-684",
+        "provider": "provider-299",
+        "title": "Annual Energy Review",
+        "alt_title": [
+            "AER",
+            "AER data"
+        ],
+        "url": "https://www.eia.gov/totalenergy/data/annual/index.php"
+    },
+    {
+        "id": "dataset-685",
+        "provider": "provider-236",
+        "title": "Water Use Data for the Nation",
+        "url": "https://waterdata.usgs.gov/nwis/wu",
+        "description": "National water-use data are reported by source (surface water or groundwater, fresh and saline, and total), and category for the United States as a whole. The water-use data presented here are the current best estimates, and may have been revised from previous publications."
+    },
+    {
+        "id": "dataset-686",
+        "provider": "provider-233",
+        "title": "Road Density",
+        "url": "https://catalog.data.gov/dataset/road-density",
+        "description": "Road density is generally highly correlated with amount of developed land cover. High road densities usually indicate high levels of ecological disturbance. More information about these resources, including the variables used in this study, may be found here: https://edg.epa.gov/data/Public/ORD/NERL/ReVA/ReVA_Data.zip "
+    },
+    {
+        "id": "dataset-687",
+        "provider": "provider-300",
+        "title": "Regridded Harmonized World Soil Database",
+        "url": "https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=1247",
+        "description": "This data set describes select global soil parameters from the Harmonized World Soil Database (HWSD) v1.2, including additional calculated parameters such as area weighted soil organic carbon (kg C per m2), as high resolution NetCDF files. These data were regridded and upscaled from the Harmonized World Soil Database v1.2 The HWSD provides information for addressing emerging problems of land competition for food production, bio-energy demand and threats to biodiversity and can be used as input to model global carbon cycles. The data are presented as a series of 27 NetCDF v3/v4 (*.nc4) files at 0.05-degree spatial resolution, and one NetCDF file regridded to the Community Land Model (CLM) grid cell resolution (0.9 degree x 1.25 degree) for the nominal year of 2000."
+    },
+    {
+        "id": "dataset-688",
+        "provider": "provider-301",
+        "title": "WorldClim Version 2 dataset",
+        "url": "http://worldclim.org/version2",
+        "description": "WorldClim version 2 has average monthly climate data for minimum, mean, and maximum temperature and for precipitation for 1970-2000."
+    },
+    {
+        "id": "dataset-689",
+        "provider": "provider-236",
+        "title": "HYDRO1K",
+        "alt_title": [
+            "HYDRO1K data"
+        ],
+        "url": "https://www.usgs.gov/centers/eros/science/usgs-eros-archive-digital-elevation-hydro1k?qt-science_center_objects=0#qt-science_center_objects",
+        "description": "HYDRO1k is a geographic database developed to provide comprehensive and consistent global coverage of topographically derived data sets, including streams, drainage basins and ancillary layers derived from the USGS' 30 arc-second digital elevation model of the world (GTOPO30). HYDRO1k provides a suite of geo-referenced data sets, both raster and vector, which will be of value for all users who need to organize, evaluate, or process hydrologic information on a continental scale."
     }
 ]
