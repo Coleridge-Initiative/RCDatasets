@@ -7618,6 +7618,80 @@
             "HYDRO1K data"
         ],
         "url": "https://www.usgs.gov/centers/eros/science/usgs-eros-archive-digital-elevation-hydro1k?qt-science_center_objects=0#qt-science_center_objects",
-        "description" : "HYDRO1k is a geographic database developed to provide comprehensive and consistent global coverage of topographically derived data sets, including streams, drainage basins and ancillary layers derived from the USGS' 30 arc-second digital elevation model of the world (GTOPO30). HYDRO1k provides a suite of geo-referenced data sets, both raster and vector, which will be of value for all users who need to organize, evaluate, or process hydrologic information on a continental scale."
+        "description": "HYDRO1k is a geographic database developed to provide comprehensive and consistent global coverage of topographically derived data sets, including streams, drainage basins and ancillary layers derived from the USGS' 30 arc-second digital elevation model of the world (GTOPO30). HYDRO1k provides a suite of geo-referenced data sets, both raster and vector, which will be of value for all users who need to organize, evaluate, or process hydrologic information on a continental scale."
+    },
+	{
+        "id": "dataset-690",
+        "provider": "provider-150",
+        "title": "Sea, Lake, and Overland Surges from Hurricanes",
+        "alt_title": [
+            "SLOTH",
+			"SLOTH Data"
+        ],
+        "url": "https://www.nhc.noaa.gov/surge/slosh.php",
+        "description": "The Sea, Lake and Overland Surges from Hurricanes (SLOSH) model is a computerized numerical model developed by the National Weather Service (NWS) to estimate storm surge heights resulting from historical, hypothetical, or predicted hurricanes by taking into account the atmospheric pressure, size, forward speed, and track data. These parameters are used to create a model of the wind field which drives the storm surge."
+	},
+	{
+        "id": "dataset-691",
+        "provider": "provider-150",
+        "title": "Storm Events Database",
+        "url": "https://www.ncdc.noaa.gov/stormevents/",
+        "description": "The database currently contains data from January 1950 to September 2019, as entered by NOAA's National Weather Service (NWS). Due to changes in the data collection and processing procedures over time, there are unique periods of record available depending on the event type. NCEI has performed data reformatting and standardization of event types but has not changed any data values for locations, fatalities, injuries, damage, narratives and any other event specific information."
+	},
+	{
+        "id": "dataset-692",
+        "provider": "provider-302",
+        "title": "TCEQ GIS Data",
+        "url": "https://www.tceq.texas.gov/gis/download-tceq-gis-data/"
+	},
+	{
+        "id": "dataset-693",
+        "provider": "provider-285",
+        "title": "SMAP surface soil moisture",
+        "url": "https://smap.jpl.nasa.gov/data/",
+        "description": "The SMAP baseline science data products are shown in the table below. These data products are made available publicly through two NASA-designated data centers, Alaska Satellite Facility (ASF) and National Snow and Ice Data Center (NSIDC). ASF specializes in SAR data, and NISDC specializes in cryospheric science and land microwave data. You can also browse SMAP data in Worldview."
+	},
+	{
+        "id": "dataset-694",
+        "provider": "provider-226",
+        "title": "Soil Survey Geographic Database",
+        "alt_title": [
+            "SSURGO",
+			"SSURGO Data"
+        ],
+        "url": "https://catalog.data.gov/dataset/soil-survey-geographic-ssurgo-database-for-various-soil-survey-areas-in-the-united-states-",
+        "description": "This dataset is a digital soil survey and generally is the most detailed level of soil geographic data developed by the National Cooperative Soil Survey. The information was prepared by digitizing maps, by compiling information onto a planimetric correct base and digitizing, or by revising digitized maps using remotely sensed and other information."
+	},
+	{
+        "id": "dataset-695",
+        "provider": "provider-150",
+        "title": "Land Based Station Data",
+        "url": "https://www.ncdc.noaa.gov/data-access/land-based-station-data",
+        "description": "Land-based observations are collected from instruments sited at locations on every continent. They include temperature, dew point, relative humidity, precipitation, wind speed and direction, visibility, atmospheric pressure, and types of weather occurrences such as hail, fog, and thunder. NCEI provides a broad level of service associated with land-based observations. These include data collection, quality control, archive, and removal of biases associated with factors such as urbanization and changes in instrumentation through time. Data on sub-hourly, hourly, daily, monthly, annual, and multiyear timescales are available."
+    },
+    {
+        "id": "dataset-696",
+        "provider": "provider-150",
+        "title": "Inundation Analysis Tool",
+        "url": "https://tidesandcurrents.noaa.gov/inundation/StationsListing"
+    },
+    {
+        "id": "dataset-697",
+        "provider": "provider-303",
+        "title": "VTEC Browser",
+        "url": "https://mesonet.agron.iastate.edu/vtec/#2012-O-NEW-KBMX-TO-W-0001/USCOMP-N0Q-201201230805"
+    },
+    {
+        "id": "dataset-698",
+        "provider": "provider-150",
+        "title": "Advanced Hydrologic Prediction Service",
+        "url": "https://water.weather.gov/ahps2/index.php?wfo=OKX"
+    },
+    {
+        "id": "dataset-699",
+        "provider": "provider-067",
+        "title": "Google Earth",
+        "url": "https://www.google.com/earth/",
+        "description": "Google Earth is a computer program that renders a 3D representation of Earth based primarily on satellite imagery. The program maps the Earth by superimposing satellite images, aerial photography, and GIS data onto a 3D globe, allowing users to see cities and landscapes from various angles."
     }
 ]
