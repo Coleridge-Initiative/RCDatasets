@@ -7668,6 +7668,27 @@
         "title": "Land Based Station Data",
         "url": "https://www.ncdc.noaa.gov/data-access/land-based-station-data",
         "description": "Land-based observations are collected from instruments sited at locations on every continent. They include temperature, dew point, relative humidity, precipitation, wind speed and direction, visibility, atmospheric pressure, and types of weather occurrences such as hail, fog, and thunder. NCEI provides a broad level of service associated with land-based observations. These include data collection, quality control, archive, and removal of biases associated with factors such as urbanization and changes in instrumentation through time. Data on sub-hourly, hourly, daily, monthly, annual, and multiyear timescales are available."
+	},
+	{
+        "id": "dataset-701",
+        "provider": "provider-302",
+        "title": "Water District Database",
+        "alt_title": [
+            "WDD"
+        ],
+        "url": "https://www.tceq.texas.gov/waterdistricts/iwdd.html",
+        "description": "The Water District Database (WDD) is a collection of data from water districts and public drinking water systems that submit information to the TCEQ. Use the WDD to search for the names of districts, their addresses, the counties in which they are located, status of their applications, or maps of their service areas. The WDD also provides a report showing the status of TCEQ reviews of engineering plans and exceptions for public water systems."
+	},
+	{
+        "id": "dataset-702",
+        "provider": "provider-304",
+        "title": "National Wetlands Inventory",
+        "alt_title": [
+            "NWI"
+        ],
+        "url": "https://fwsprimary.wim.usgs.gov/wetlands/apps/wetlands-mapper/",
+        "description": "Wetlands provide a multitude of ecological, economic and social benefits. They provide habitat for fish, wildlife and plants - many of which have a commercial or recreational value - recharge groundwater, reduce flooding, provide clean drinking water, offer food and fiber, and support cultural and recreational activities. Unfortunately, over half of America’s wetlands have been lost since 1780, and wetland losses continue today. This highlights the urgent need for geospatial information on wetland extent, type, and change."
+	}
     },
     {
         "id": "dataset-703",
@@ -7713,4 +7734,5 @@
         "url": "https://cida.usgs.gov/sediment/",
         "description": "The USGS sediment data portal is designed to help users identify, access, and interpret U.S. Geological Survey suspended-sediment and related data. The portal allows users to view the location of sediment sites in the context of various geospatial data layers and provides tools to allow users to select sites of interest. Daily and/or discrete suspended sediment, streamflow, and related data can then be downloaded for the entire country or for user-selected sites."
     }
+
 ]
