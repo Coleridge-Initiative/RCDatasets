@@ -7668,5 +7668,49 @@
         "title": "Land Based Station Data",
         "url": "https://www.ncdc.noaa.gov/data-access/land-based-station-data",
         "description": "Land-based observations are collected from instruments sited at locations on every continent. They include temperature, dew point, relative humidity, precipitation, wind speed and direction, visibility, atmospheric pressure, and types of weather occurrences such as hail, fog, and thunder. NCEI provides a broad level of service associated with land-based observations. These include data collection, quality control, archive, and removal of biases associated with factors such as urbanization and changes in instrumentation through time. Data on sub-hourly, hourly, daily, monthly, annual, and multiyear timescales are available."
-	}
+    },
+    {
+        "id": "dataset-703",
+        "provider": "provider-150",
+        "title": "Sea Level Trends",
+        "alt_title": [
+            "SLT"
+        ],
+        "url": "https://tidesandcurrents.noaa.gov/sltrends/sltrends.html",
+        "description": "The sea level trends measured by tide gauges that are presented here are local relative sea level (RSL) trends as opposed to the global sea level trend. Tide gauge measurements are made with respect to a local fixed reference on land. RSL is a combination of the sea level rise and the local vertical land motion."
+    },
+    {
+        "id": "dataset-704",
+        "provider": "provider-150",
+        "title": "Deep-ocean Assessment and Reporting of Tsunamis",
+        "alt_title": [
+            "DART"
+        ],
+        "url": "https://www.ndbc.noaa.gov/dart.shtml",
+        "description": "DART systems consist of an anchored seafloor bottom pressure recorder (BPR) and a companion moored surface buoy for real-time communications."
+    },
+    {
+        "id": "dataset-705",
+        "provider": "provider-150",
+        "title": "Integrated Ocean Observing System",
+        "alt_title": [
+            "IOOS"
+        ],
+        "url": "https://ioos.noaa.gov/data/access-ioos-data/",
+        "description": "The Integrated Ocean Observing System (IOOS) is a national-regional partnership working to provide new tools and forecasts to improve safety, enhance the economy, and protect our environment. Integrated ocean information is available in near real time, as well as retrospectively. Easier and better access to this information is improving our ability to understand and predict coastal events - such as storms, wave heights, and sea level change."
+    },
+    {
+        "id": "dataset-706",
+        "provider": "provider-150",
+        "title": "2013 NOAA Coastal California TopoBathy Merge Project",
+        "url": "https://ca.water.usgs.gov/projects/sandiego/data/gis/dem/topobath_2013/2013_CA_TopoBathy_metadata.html",
+        "description": "The primary purpose is to merge recently collected topographic, bathymetric, and acoustic data along the entire California coastline from approximately the 10 meter elevation contour out to California's 3 mile state water's boundary."
+    },
+    {
+        "id": "dataset-707",
+        "provider": "provider-236",
+        "title": "USGS Sediment Data",
+        "url": "https://cida.usgs.gov/sediment/",
+        "description": "The USGS sediment data portal is designed to help users identify, access, and interpret U.S. Geological Survey suspended-sediment and related data. The portal allows users to view the location of sediment sites in the context of various geospatial data layers and provides tools to allow users to select sites of interest. Daily and/or discrete suspended sediment, streamflow, and related data can then be downloaded for the entire country or for user-selected sites."
+    }
 ]
