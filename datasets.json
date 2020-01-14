@@ -7713,8 +7713,7 @@
         ],
         "url": "https://fwsprimary.wim.usgs.gov/wetlands/apps/wetlands-mapper/",
         "description": "Wetlands provide a multitude of ecological, economic and social benefits. They provide habitat for fish, wildlife and plants - many of which have a commercial or recreational value - recharge groundwater, reduce flooding, provide clean drinking water, offer food and fiber, and support cultural and recreational activities. Unfortunately, over half of America’s wetlands have been lost since 1780, and wetland losses continue today. This highlights the urgent need for geospatial information on wetland extent, type, and change."
-	}
-    },
+	},
     {
         "id": "dataset-703",
         "provider": "provider-150",
@@ -7758,6 +7757,60 @@
         "title": "USGS Sediment Data",
         "url": "https://cida.usgs.gov/sediment/",
         "description": "The USGS sediment data portal is designed to help users identify, access, and interpret U.S. Geological Survey suspended-sediment and related data. The portal allows users to view the location of sediment sites in the context of various geospatial data layers and provides tools to allow users to select sites of interest. Daily and/or discrete suspended sediment, streamflow, and related data can then be downloaded for the entire country or for user-selected sites."
+    },
+    {
+        "id": "dataset-708",
+        "provider": "provider-306",
+        "title": "TPXO8-atlas",
+        "url": "https://www.tpxo.net/global/tpxo8-atlas",
+        "description": "TPXO8-atlas was first from new generation of atlas solutions. Like older ATLAS solutions new generation solutions combine a basic global solution (i.e. TPXO8, obtained at 1/6 resolution) and high resolution (HR) local solutions. These HR solutions are of various resolution better than 1/6 degree, they were obtained over many years, thus we call them historical. Many of historical TPXO8-atlas single patches are available here. Unlike all preceding ATLAS solutions, TPXO8-atlas kept higher resolution of most HR solutions rather then averaging them on coarser grid. This provided dramatic improvement in tidal predictions for coastal areas compared to TPXO8-atlas predecessors."
+    },
+    {
+        "id": "dataset-709",
+        "provider": "provider-307",
+        "title": "Forecast charts and data",
+        "url": "https://www.ecmwf.int/en/forecasts",
+        "description": "We provide global forecasts, climate reanalyses and specific datasets, designed to meet different user requirements. These are available via the web, point-to-point dissemination, data servers and broadcasting. ECMWF’s operational forecasts aim to show how the weather is most likely to evolve. To do this, the Centre produces an ensemble of predictions. Individually they are full descriptions of the evolution of the weather. Collectively they indicate the likelihood of a range of future weather scenarios."
+    },
+    {
+        "id": "dataset-710",
+        "provider": "provider-306",
+        "title": "OTIS Regional Tide Solutions",
+        "url": "http://volkov.oce.orst.edu/tides/PO.html"
+    },
+    {
+        "id": "dataset-711",
+        "provider": "provider-308",
+        "title": "Tidal Plane Data",
+        "url": "http://new.mhl.nsw.gov.au/services/publications/oehreport"
+    },
+    {
+        "id": "dataset-712",
+        "provider": "provider-309",
+        "title": "Sacramento-San Joaquin Delta Region LiDAR data",
+        "url": "https://data.cnra.ca.gov/dataset/san-francisco-bay-and-sacramento-san-joaquin-delta-dem-v3",
+        "description": "The product is a set of mutually consistent 10m and 2m integrated elevation maps (DEM) in standard ascii format.There are few missing data where there is water or at land-water interfaces. However, our map does have gaps at some inland and island sites. We have opted not to fill these because there is an ongoing project at DWR to re-analyze LiDAR returns and improve the terrestrial map. The CSTARS project at UC Davis is doing this as well."
+    },
+    {
+        "id": "dataset-713",
+        "provider": "provider-310",
+        "title": "Napa Watershed LiDAR",
+        "url": "http://opentopo.sdsc.edu/lidarDataset?opentopoID=OTLAS.052010.26910.1",
+        "description": "These data were acquired by the National Center for Airborne Laser Mapping (NCALM) in 2003. They have kindly agreed to make these data available to the research community through OpenTopography."
+    },
+    {
+        "id": "dataset-714",
+        "provider": "provider-150",
+        "title": "NOAA National Shoreline",
+        "url": "https://shoreline.noaa.gov/data/datasheets/",
+        "description": "This shoreline was originally intended to support NOAA nautical chart production. Other applications include shoreline change analysis, boundary determination, and cartographic representation."
+    },
+    {
+        "id": "dataset-715",
+        "provider": "provider-311",
+        "title": "EcoAtlas",
+        "url": "https://www.ecoatlas.org/",
+        "description": "California EcoAtlas provides access to information for effective wetland management. The maps and tools can be used to create a complete picture of aquatic resources in the landscape by integrating stream and wetland maps, restoration information, and monitoring results with land use, transportation, and other information important to the state’s wetlands."
     }
 
 ]
