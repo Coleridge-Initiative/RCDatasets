@@ -7688,8 +7688,7 @@
         ],
         "url": "https://fwsprimary.wim.usgs.gov/wetlands/apps/wetlands-mapper/",
         "description": "Wetlands provide a multitude of ecological, economic and social benefits. They provide habitat for fish, wildlife and plants - many of which have a commercial or recreational value - recharge groundwater, reduce flooding, provide clean drinking water, offer food and fiber, and support cultural and recreational activities. Unfortunately, over half of America’s wetlands have been lost since 1780, and wetland losses continue today. This highlights the urgent need for geospatial information on wetland extent, type, and change."
-	}
-    },
+	},
     {
         "id": "dataset-703",
         "provider": "provider-150",
