@@ -7693,5 +7693,71 @@
         "title": "Google Earth",
         "url": "https://www.google.com/earth/",
         "description": "Google Earth is a computer program that renders a 3D representation of Earth based primarily on satellite imagery. The program maps the Earth by superimposing satellite images, aerial photography, and GIS data onto a 3D globe, allowing users to see cities and landscapes from various angles."
+	},
+	{
+        "id": "dataset-701",
+        "provider": "provider-302",
+        "title": "Water District Database",
+        "alt_title": [
+            "WDD"
+        ],
+        "url": "https://www.tceq.texas.gov/waterdistricts/iwdd.html",
+        "description": "The Water District Database (WDD) is a collection of data from water districts and public drinking water systems that submit information to the TCEQ. Use the WDD to search for the names of districts, their addresses, the counties in which they are located, status of their applications, or maps of their service areas. The WDD also provides a report showing the status of TCEQ reviews of engineering plans and exceptions for public water systems."
+	},
+	{
+        "id": "dataset-702",
+        "provider": "provider-304",
+        "title": "National Wetlands Inventory",
+        "alt_title": [
+            "NWI"
+        ],
+        "url": "https://fwsprimary.wim.usgs.gov/wetlands/apps/wetlands-mapper/",
+        "description": "Wetlands provide a multitude of ecological, economic and social benefits. They provide habitat for fish, wildlife and plants - many of which have a commercial or recreational value - recharge groundwater, reduce flooding, provide clean drinking water, offer food and fiber, and support cultural and recreational activities. Unfortunately, over half of America’s wetlands have been lost since 1780, and wetland losses continue today. This highlights the urgent need for geospatial information on wetland extent, type, and change."
+	}
+    },
+    {
+        "id": "dataset-703",
+        "provider": "provider-150",
+        "title": "Sea Level Trends",
+        "alt_title": [
+            "SLT"
+        ],
+        "url": "https://tidesandcurrents.noaa.gov/sltrends/sltrends.html",
+        "description": "The sea level trends measured by tide gauges that are presented here are local relative sea level (RSL) trends as opposed to the global sea level trend. Tide gauge measurements are made with respect to a local fixed reference on land. RSL is a combination of the sea level rise and the local vertical land motion."
+    },
+    {
+        "id": "dataset-704",
+        "provider": "provider-150",
+        "title": "Deep-ocean Assessment and Reporting of Tsunamis",
+        "alt_title": [
+            "DART"
+        ],
+        "url": "https://www.ndbc.noaa.gov/dart.shtml",
+        "description": "DART systems consist of an anchored seafloor bottom pressure recorder (BPR) and a companion moored surface buoy for real-time communications."
+    },
+    {
+        "id": "dataset-705",
+        "provider": "provider-150",
+        "title": "Integrated Ocean Observing System",
+        "alt_title": [
+            "IOOS"
+        ],
+        "url": "https://ioos.noaa.gov/data/access-ioos-data/",
+        "description": "The Integrated Ocean Observing System (IOOS) is a national-regional partnership working to provide new tools and forecasts to improve safety, enhance the economy, and protect our environment. Integrated ocean information is available in near real time, as well as retrospectively. Easier and better access to this information is improving our ability to understand and predict coastal events - such as storms, wave heights, and sea level change."
+    },
+    {
+        "id": "dataset-706",
+        "provider": "provider-150",
+        "title": "2013 NOAA Coastal California TopoBathy Merge Project",
+        "url": "https://ca.water.usgs.gov/projects/sandiego/data/gis/dem/topobath_2013/2013_CA_TopoBathy_metadata.html",
+        "description": "The primary purpose is to merge recently collected topographic, bathymetric, and acoustic data along the entire California coastline from approximately the 10 meter elevation contour out to California's 3 mile state water's boundary."
+    },
+    {
+        "id": "dataset-707",
+        "provider": "provider-236",
+        "title": "USGS Sediment Data",
+        "url": "https://cida.usgs.gov/sediment/",
+        "description": "The USGS sediment data portal is designed to help users identify, access, and interpret U.S. Geological Survey suspended-sediment and related data. The portal allows users to view the location of sediment sites in the context of various geospatial data layers and provides tools to allow users to select sites of interest. Daily and/or discrete suspended sediment, streamflow, and related data can then be downloaded for the entire country or for user-selected sites."
     }
+
 ]
