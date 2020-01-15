@@ -7815,7 +7815,7 @@
     {
         "id": "dataset-716",
         "provider": "provider-305",
-        "title": "Global Monthly EASE-Grid Snow Water Equivalent Climatology"
+        "title": "Global Monthly EASE-Grid Snow Water Equivalent Climatology",
         "url": "https://nsidc.org/data/NSIDC-0271/versions/1",
         "description": "This data set is comprised of global, monthly satellite-derived Snow Water Equivalent (SWE) climatologies from November 1978 through May 2007, with periodic updates released as resources permit. Global data are gridded to the Northern and Southern 25 km Equal-Area Scalable Earth Grids (EASE-Grids). Global snow water equivalent is derived from Scanning Multichannel Microwave Radiometer (SMMR) and selected Special Sensor Microwave/Imagers (SSM/I)."
     },
