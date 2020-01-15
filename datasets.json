@@ -7559,7 +7559,7 @@
         "provider": "provider-222",
         "title": "GDP by Industry",
         "url": "https://www.bea.gov/data/gdp/gdp-industry",
-        "description": "An industry-by-industry breakdown of gross domestic product. In addition to showing each industry’s contribution to the U.S. economy, known as its value added, these statistics include industries’ compensation of employees, gross operating surplus, and taxes."
+        "description": "An industry-by-industry breakdown of gross domestic product. In addition to showing each industry\u2019s contribution to the U.S. economy, known as its value added, these statistics include industries\u2019 compensation of employees, gross operating surplus, and taxes."
     },
     {
         "id": "dataset-683",
@@ -7620,49 +7620,49 @@
         "url": "https://www.usgs.gov/centers/eros/science/usgs-eros-archive-digital-elevation-hydro1k?qt-science_center_objects=0#qt-science_center_objects",
         "description": "HYDRO1k is a geographic database developed to provide comprehensive and consistent global coverage of topographically derived data sets, including streams, drainage basins and ancillary layers derived from the USGS' 30 arc-second digital elevation model of the world (GTOPO30). HYDRO1k provides a suite of geo-referenced data sets, both raster and vector, which will be of value for all users who need to organize, evaluate, or process hydrologic information on a continental scale."
     },
-	{
+    {
         "id": "dataset-690",
         "provider": "provider-150",
         "title": "Sea, Lake, and Overland Surges from Hurricanes",
         "alt_title": [
             "SLOTH",
-			"SLOTH Data"
+            "SLOTH Data"
         ],
         "url": "https://www.nhc.noaa.gov/surge/slosh.php",
         "description": "The Sea, Lake and Overland Surges from Hurricanes (SLOSH) model is a computerized numerical model developed by the National Weather Service (NWS) to estimate storm surge heights resulting from historical, hypothetical, or predicted hurricanes by taking into account the atmospheric pressure, size, forward speed, and track data. These parameters are used to create a model of the wind field which drives the storm surge."
-	},
-	{
+    },
+    {
         "id": "dataset-691",
         "provider": "provider-150",
         "title": "Storm Events Database",
         "url": "https://www.ncdc.noaa.gov/stormevents/",
         "description": "The database currently contains data from January 1950 to September 2019, as entered by NOAA's National Weather Service (NWS). Due to changes in the data collection and processing procedures over time, there are unique periods of record available depending on the event type. NCEI has performed data reformatting and standardization of event types but has not changed any data values for locations, fatalities, injuries, damage, narratives and any other event specific information."
-	},
-	{
+    },
+    {
         "id": "dataset-692",
         "provider": "provider-302",
         "title": "TCEQ GIS Data",
         "url": "https://www.tceq.texas.gov/gis/download-tceq-gis-data/"
-	},
-	{
+    },
+    {
         "id": "dataset-693",
         "provider": "provider-285",
         "title": "SMAP surface soil moisture",
         "url": "https://smap.jpl.nasa.gov/data/",
         "description": "The SMAP baseline science data products are shown in the table below. These data products are made available publicly through two NASA-designated data centers, Alaska Satellite Facility (ASF) and National Snow and Ice Data Center (NSIDC). ASF specializes in SAR data, and NISDC specializes in cryospheric science and land microwave data. You can also browse SMAP data in Worldview."
-	},
-	{
+    },
+    {
         "id": "dataset-694",
         "provider": "provider-226",
         "title": "Soil Survey Geographic Database",
         "alt_title": [
             "SSURGO",
-			"SSURGO Data"
+            "SSURGO Data"
         ],
         "url": "https://catalog.data.gov/dataset/soil-survey-geographic-ssurgo-database-for-various-soil-survey-areas-in-the-united-states-",
         "description": "This dataset is a digital soil survey and generally is the most detailed level of soil geographic data developed by the National Cooperative Soil Survey. The information was prepared by digitizing maps, by compiling information onto a planimetric correct base and digitizing, or by revising digitized maps using remotely sensed and other information."
-	},
-	{
+    },
+    {
         "id": "dataset-695",
         "provider": "provider-150",
         "title": "Land Based Station Data",
@@ -7693,8 +7693,8 @@
         "title": "Google Earth",
         "url": "https://www.google.com/earth/",
         "description": "Google Earth is a computer program that renders a 3D representation of Earth based primarily on satellite imagery. The program maps the Earth by superimposing satellite images, aerial photography, and GIS data onto a 3D globe, allowing users to see cities and landscapes from various angles."
-	},
-	{
+    },
+    {
         "id": "dataset-701",
         "provider": "provider-302",
         "title": "Water District Database",
@@ -7703,8 +7703,8 @@
         ],
         "url": "https://www.tceq.texas.gov/waterdistricts/iwdd.html",
         "description": "The Water District Database (WDD) is a collection of data from water districts and public drinking water systems that submit information to the TCEQ. Use the WDD to search for the names of districts, their addresses, the counties in which they are located, status of their applications, or maps of their service areas. The WDD also provides a report showing the status of TCEQ reviews of engineering plans and exceptions for public water systems."
-	},
-	{
+    },
+    {
         "id": "dataset-702",
         "provider": "provider-304",
         "title": "National Wetlands Inventory",
@@ -7712,8 +7712,8 @@
             "NWI"
         ],
         "url": "https://fwsprimary.wim.usgs.gov/wetlands/apps/wetlands-mapper/",
-        "description": "Wetlands provide a multitude of ecological, economic and social benefits. They provide habitat for fish, wildlife and plants - many of which have a commercial or recreational value - recharge groundwater, reduce flooding, provide clean drinking water, offer food and fiber, and support cultural and recreational activities. Unfortunately, over half of America’s wetlands have been lost since 1780, and wetland losses continue today. This highlights the urgent need for geospatial information on wetland extent, type, and change."
-	},
+        "description": "Wetlands provide a multitude of ecological, economic and social benefits. They provide habitat for fish, wildlife and plants - many of which have a commercial or recreational value - recharge groundwater, reduce flooding, provide clean drinking water, offer food and fiber, and support cultural and recreational activities. Unfortunately, over half of America\u2019s wetlands have been lost since 1780, and wetland losses continue today. This highlights the urgent need for geospatial information on wetland extent, type, and change."
+    },
     {
         "id": "dataset-703",
         "provider": "provider-150",
@@ -7770,7 +7770,7 @@
         "provider": "provider-307",
         "title": "Forecast charts and data",
         "url": "https://www.ecmwf.int/en/forecasts",
-        "description": "We provide global forecasts, climate reanalyses and specific datasets, designed to meet different user requirements. These are available via the web, point-to-point dissemination, data servers and broadcasting. ECMWF’s operational forecasts aim to show how the weather is most likely to evolve. To do this, the Centre produces an ensemble of predictions. Individually they are full descriptions of the evolution of the weather. Collectively they indicate the likelihood of a range of future weather scenarios."
+        "description": "We provide global forecasts, climate reanalyses and specific datasets, designed to meet different user requirements. These are available via the web, point-to-point dissemination, data servers and broadcasting. ECMWF\u2019s operational forecasts aim to show how the weather is most likely to evolve. To do this, the Centre produces an ensemble of predictions. Individually they are full descriptions of the evolution of the weather. Collectively they indicate the likelihood of a range of future weather scenarios."
     },
     {
         "id": "dataset-710",
@@ -7810,29 +7810,16 @@
         "provider": "provider-311",
         "title": "EcoAtlas",
         "url": "https://www.ecoatlas.org/",
-        "description": "California EcoAtlas provides access to information for effective wetland management. The maps and tools can be used to create a complete picture of aquatic resources in the landscape by integrating stream and wetland maps, restoration information, and monitoring results with land use, transportation, and other information important to the state’s wetlands."
-    }
-    ,
+        "description": "California EcoAtlas provides access to information for effective wetland management. The maps and tools can be used to create a complete picture of aquatic resources in the landscape by integrating stream and wetland maps, restoration information, and monitoring results with land use, transportation, and other information important to the state\u2019s wetlands."
+    },
     {
         "id": "dataset-721",
         "provider": "provider-020",
         "title": "Pregnancy Risk Assessment Monitoring System",
-        "alt_title":[
+        "alt_title": [
             "PRAMS"
         ],
         "url": "https://www.cdc.gov/prams/index.htm",
         "description": "Developed in 1987, PRAMS collects state-specific, population-based data on maternal attitudes and experiences before, during, and shortly after pregnancy. PRAMS surveillance currently covers about 83% of all U.S. births."
     }
-    ,
-    {
-        "id": "dataset-721",
-        "provider": "provider-020",
-        "title": "Pregnancy Risk Assessment Monitoring System",
-        "alt_title":[
-            "PRAMS"
-        ],
-        "url": "https://www.cdc.gov/prams/index.htm",
-        "description": "Developed in 1987, PRAMS collects state-specific, population-based data on maternal attitudes and experiences before, during, and shortly after pregnancy. PRAMS surveillance currently covers about 83% of all U.S. births."
-    }
-
 ]
