@@ -7842,5 +7842,12 @@
         "title": "NOS Hydrographic Survey Data",
         "url": "https://www.ngdc.noaa.gov/mgg/bathymetry/hydro.html",
         "description": "NCEI maintains the National Ocean Service Hydrographic Data Base (NOSHDB) and Hydrographic Survey Meta Data Base (HSMDB). Both are populated by the Office of Coast Survey and National Geodetic Service, and provide coverage of coastal waters and the U.S. exclusive economic zone and its territories."
+    },
+	{
+        "id": "dataset-726",
+        "provider": "provider-150",
+        "title": "Recreational Fishing Data",
+        "url": "https://www.st.nmfs.noaa.gov/recreational-fisheries/data-and-documentation/queries/index",
+        "description": "Through the Marine Recreational Information Program (MRIP), NOAA Fisheries and its state, regional, and federal partners use in-person, telephone, and mail fishing surveys to measure the number of trips saltwater anglers take and the number of fish they catch. When combined with commercial catch data, biological research, and direct observation of a fishery, these recreational catch and effort estimates help scientists and managers assess and maintain sustainable U.S. fish stocks."
     }
 ]
