@@ -7813,6 +7813,40 @@
         "description": "California EcoAtlas provides access to information for effective wetland management. The maps and tools can be used to create a complete picture of aquatic resources in the landscape by integrating stream and wetland maps, restoration information, and monitoring results with land use, transportation, and other information important to the state\u2019s wetlands."
     },
     {
+        "id": "dataset-716",
+        "provider": "provider-305",
+        "title": "Global Monthly EASE-Grid Snow Water Equivalent Climatology"
+        "url": "https://nsidc.org/data/NSIDC-0271/versions/1",
+        "description": "This data set is comprised of global, monthly satellite-derived Snow Water Equivalent (SWE) climatologies from November 1978 through May 2007, with periodic updates released as resources permit. Global data are gridded to the Northern and Southern 25 km Equal-Area Scalable Earth Grids (EASE-Grids). Global snow water equivalent is derived from Scanning Multichannel Microwave Radiometer (SMMR) and selected Special Sensor Microwave/Imagers (SSM/I)."
+    },
+    {
+        "id": "dataset-717",
+        "title": "8-14 Day Forecasts",
+        "provider": "provider-150",
+        "url": "https://www.cpc.ncep.noaa.gov/products/predictions/814day/interactive/index.php",
+        "description": "8-14 day climatological forecasts are produced by the Climate Prediction Center (CPC), a branch of the National Weather Service."
+    },
+    {
+        "id": "dataset-718",
+        "title": "Climate Forecast System",
+        "alt_title": [
+            "CFS"
+        ],
+        "provider": "provider-150",
+        "url": "https://www.ncdc.noaa.gov/data-access/model-data/model-datasets/climate-forecast-system-version2-cfsv2#CFS",
+        "description": "The Climate Forecast System (CFS) is a model representing the global interaction between Earth's oceans, land, and atmosphere. Produced by several dozen scientists under guidance from the National Centers for Environmental Prediction (NCEP), this model offers hourly data with a horizontal resolution down to one-half of a degree (approximately 56 km) around Earth for many variables."
+    },
+    {
+        "id": "dataset-719",
+        "title": "Dengue Forecasting Data",
+        "alt_title": [
+            "Dengue"
+        ],
+        "provider": "provider-150",
+        "url": "https://dengueforecasting.noaa.gov/",
+        "description": "The Predict the Next Pandemic (PtNP) Initiative was designed to anticipate disease emergence, identify early indications of disease emergence, determine the pandemic potential of a disease, and forecast impacts and effects of mitigation on disease progression."
+    },
+    {
         "id": "dataset-721",
         "provider": "provider-020",
         "title": "Pregnancy Risk Assessment Monitoring System",
