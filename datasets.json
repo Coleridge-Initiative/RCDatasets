@@ -7832,14 +7832,24 @@
 	{
         "id": "dataset-724",
         "provider": "provider-150",
-        "title": "WORLD OCEAN ATLAS 2013 version 2",
-        "url": "https://www.nodc.noaa.gov/OC5/woa13/",
+        "title": "World Ocean Atlas",
+	"alt_title":[
+		"WOA",
+		"WOA13 V2",
+		"WOA13"
+	],
+        "url": "https://www.nodc.noaa.gov/OC5/indprod.html",
         "description": "World Ocean Atlas 2013 version 2 (WOA13 V2) is a set of objectively analyzed (1° grid) climatological fields of in situ temperature, salinity, dissolved oxygen, Apparent Oxygen Utilization (AOU), percent oxygen saturation, phosphate, silicate, and nitrate at standard depth levels for annual, seasonal, and monthly compositing periods for the World Ocean. It also includes associated statistical fields of observed oceanographic profile data interpolated to standard depth levels on 5°, 1°, and 0.25° grids."
     },
 	{
         "id": "dataset-725",
         "provider": "provider-150",
-        "title": "NOS Hydrographic Survey Data",
+        "title": "National Ocean Service Hydrographic Data",
+	"alt_title":[
+		"NOS Hydrographic Survey Data",
+		 "National Ocean Service Hydrographic Data Base",
+		"NOSHDB"
+		],
         "url": "https://www.ngdc.noaa.gov/mgg/bathymetry/hydro.html",
         "description": "NCEI maintains the National Ocean Service Hydrographic Data Base (NOSHDB) and Hydrographic Survey Meta Data Base (HSMDB). Both are populated by the Office of Coast Survey and National Geodetic Service, and provide coverage of coastal waters and the U.S. exclusive economic zone and its territories."
     },
@@ -7847,6 +7857,9 @@
         "id": "dataset-726",
         "provider": "provider-150",
         "title": "Recreational Fishing Data",
+	"alt_title":[
+			"Recreational Fisheries Statistics"
+			],
         "url": "https://www.st.nmfs.noaa.gov/recreational-fisheries/data-and-documentation/queries/index",
         "description": "Through the Marine Recreational Information Program (MRIP), NOAA Fisheries and its state, regional, and federal partners use in-person, telephone, and mail fishing surveys to measure the number of trips saltwater anglers take and the number of fish they catch. When combined with commercial catch data, biological research, and direct observation of a fishery, these recreational catch and effort estimates help scientists and managers assess and maintain sustainable U.S. fish stocks."
     }
