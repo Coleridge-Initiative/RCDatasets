@@ -7821,5 +7821,12 @@
         ],
         "url": "https://www.cdc.gov/prams/index.htm",
         "description": "Developed in 1987, PRAMS collects state-specific, population-based data on maternal attitudes and experiences before, during, and shortly after pregnancy. PRAMS surveillance currently covers about 83% of all U.S. births."
+    },
+	{
+        "id": "dataset-723",
+        "provider": "provider-150",
+        "title": "Historical Hurricane Tracks",
+        "url": "https://coast.noaa.gov/digitalcoast/data/hurricanes.html",
+        "description": "Storm track data from the NOAA National Climatic Data Center's International Best Track Archive for Climate Stewardship (IBTrACS) data set and the NOAA National Weather Service HURDAT2 data set are provided. Storms from 1842 and up are available. Storms from the current year are added the following year."
     }
 ]
