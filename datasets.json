@@ -7847,6 +7847,16 @@
         "description": "The Predict the Next Pandemic (PtNP) Initiative was designed to anticipate disease emergence, identify early indications of disease emergence, determine the pandemic potential of a disease, and forecast impacts and effects of mitigation on disease progression."
     },
     {
+        "id": "dataset-720",
+        "title": "North American Drought Monitor",
+        "alt_title": [
+            "Drought"
+        ],
+        "provider": "provider-150",
+        "url": "https://www.ncdc.noaa.gov/temp-and-precip/drought/nadm/indices",
+        "description": "The North American continental drought indicators are provided here to show how drought conditions change across the international boundaries as an aid in the production of the North American Drought Monitor (NADM). Includes data from Standardized Precipitation Index and Palmer Drought Index."
+    },
+    {
         "id": "dataset-721",
         "provider": "provider-020",
         "title": "Pregnancy Risk Assessment Monitoring System",
