@@ -6885,7 +6885,7 @@
         "description": "In general, a datum is a base elevation used as a reference from which to reckon heights or depths. A tidal datum is a standard elevation defined by a certain phase of the tide. Tidal datums are used as references to measure local water levels and should not be extended into areas having differing oceanographic characteristics without substantiating measurements.",
         "id": "dataset-614",
         "provider": "provider-150",
-        "title": "Tidal Datums",
+        "title": "Tidal Datum",
         "url": "https://tidesandcurrents.noaa.gov/api/"
     },
     {
