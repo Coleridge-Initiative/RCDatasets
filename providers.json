@@ -1255,7 +1255,11 @@
 	{
         "id": "provider-304",
         "title": "US Fish and Wildlife Service",
-	"ror": "04k7dar27"
+	    "ror": "04k7dar27"
+    },
+    {
+        "id": "provider-305",
+        "title": "NASA National Snow and Ice Data Center"
     },
     {
         "id": "provider-306",
@@ -1287,5 +1291,19 @@
     {
         "id" : "provider-312",
         "title": "Florida Natural Area Inventory"
+    },
+    {
+        "id": "provider-314",
+        "title": "Floridadisaster.org"
+    },
+    {
+        "id": "provider-316",
+        "title": "University of Rhode Island",
+        "roc": "013ckk937"
+    },
+    {
+        "id": "provider-317",
+        "title": "University of Rhode Island",
+        "roc": "013ckk937"
     }
 ]

@@ -6885,7 +6885,7 @@
         "description": "In general, a datum is a base elevation used as a reference from which to reckon heights or depths. A tidal datum is a standard elevation defined by a certain phase of the tide. Tidal datums are used as references to measure local water levels and should not be extended into areas having differing oceanographic characteristics without substantiating measurements.",
         "id": "dataset-614",
         "provider": "provider-150",
-        "title": "Tidal Datums",
+        "title": "Tidal Datum",
         "url": "https://tidesandcurrents.noaa.gov/api/"
     },
     {
@@ -7122,7 +7122,7 @@
             "LCAT"
         ],
         "provider": "provider-150",
-        "description": "NOAA\u2019s NWS implemented the new Local Climate Analysis Tool (LCAT) on 1 July 2013. The tool supports the delivery of climate services by quickly providing information to help with climate-sensitive decisions and to facilitate the development of local climate studies and assessments.",
+        "description": "NOAA's NWS implemented the new Local Climate Analysis Tool (LCAT) on 1 July 2013. The tool supports the delivery of climate services by quickly providing information to help with climate-sensitive decisions and to facilitate the development of local climate studies and assessments.",
         "url": "https://nws.weather.gov/lcat/home",
         "original": {
             "related_dataset": [
@@ -7559,7 +7559,7 @@
         "provider": "provider-222",
         "title": "GDP by Industry",
         "url": "https://www.bea.gov/data/gdp/gdp-industry",
-        "description": "An industry-by-industry breakdown of gross domestic product. In addition to showing each industry’s contribution to the U.S. economy, known as its value added, these statistics include industries’ compensation of employees, gross operating surplus, and taxes."
+        "description": "An industry-by-industry breakdown of gross domestic product. In addition to showing each industry\u2019s contribution to the U.S. economy, known as its value added, these statistics include industries\u2019 compensation of employees, gross operating surplus, and taxes."
     },
     {
         "id": "dataset-683",
@@ -7620,49 +7620,49 @@
         "url": "https://www.usgs.gov/centers/eros/science/usgs-eros-archive-digital-elevation-hydro1k?qt-science_center_objects=0#qt-science_center_objects",
         "description": "HYDRO1k is a geographic database developed to provide comprehensive and consistent global coverage of topographically derived data sets, including streams, drainage basins and ancillary layers derived from the USGS' 30 arc-second digital elevation model of the world (GTOPO30). HYDRO1k provides a suite of geo-referenced data sets, both raster and vector, which will be of value for all users who need to organize, evaluate, or process hydrologic information on a continental scale."
     },
-	{
+    {
         "id": "dataset-690",
         "provider": "provider-150",
         "title": "Sea, Lake, and Overland Surges from Hurricanes",
         "alt_title": [
             "SLOTH",
-			"SLOTH Data"
+            "SLOTH Data"
         ],
         "url": "https://www.nhc.noaa.gov/surge/slosh.php",
         "description": "The Sea, Lake and Overland Surges from Hurricanes (SLOSH) model is a computerized numerical model developed by the National Weather Service (NWS) to estimate storm surge heights resulting from historical, hypothetical, or predicted hurricanes by taking into account the atmospheric pressure, size, forward speed, and track data. These parameters are used to create a model of the wind field which drives the storm surge."
-	},
-	{
+    },
+    {
         "id": "dataset-691",
         "provider": "provider-150",
         "title": "Storm Events Database",
         "url": "https://www.ncdc.noaa.gov/stormevents/",
         "description": "The database currently contains data from January 1950 to September 2019, as entered by NOAA's National Weather Service (NWS). Due to changes in the data collection and processing procedures over time, there are unique periods of record available depending on the event type. NCEI has performed data reformatting and standardization of event types but has not changed any data values for locations, fatalities, injuries, damage, narratives and any other event specific information."
-	},
-	{
+    },
+    {
         "id": "dataset-692",
         "provider": "provider-302",
         "title": "TCEQ GIS Data",
         "url": "https://www.tceq.texas.gov/gis/download-tceq-gis-data/"
-	},
-	{
+    },
+    {
         "id": "dataset-693",
         "provider": "provider-285",
         "title": "SMAP surface soil moisture",
         "url": "https://smap.jpl.nasa.gov/data/",
         "description": "The SMAP baseline science data products are shown in the table below. These data products are made available publicly through two NASA-designated data centers, Alaska Satellite Facility (ASF) and National Snow and Ice Data Center (NSIDC). ASF specializes in SAR data, and NISDC specializes in cryospheric science and land microwave data. You can also browse SMAP data in Worldview."
-	},
-	{
+    },
+    {
         "id": "dataset-694",
         "provider": "provider-226",
         "title": "Soil Survey Geographic Database",
         "alt_title": [
             "SSURGO",
-			"SSURGO Data"
+            "SSURGO Data"
         ],
         "url": "https://catalog.data.gov/dataset/soil-survey-geographic-ssurgo-database-for-various-soil-survey-areas-in-the-united-states-",
         "description": "This dataset is a digital soil survey and generally is the most detailed level of soil geographic data developed by the National Cooperative Soil Survey. The information was prepared by digitizing maps, by compiling information onto a planimetric correct base and digitizing, or by revising digitized maps using remotely sensed and other information."
-	},
-	{
+    },
+    {
         "id": "dataset-695",
         "provider": "provider-150",
         "title": "Land Based Station Data",
@@ -7693,8 +7693,8 @@
         "title": "Google Earth",
         "url": "https://www.google.com/earth/",
         "description": "Google Earth is a computer program that renders a 3D representation of Earth based primarily on satellite imagery. The program maps the Earth by superimposing satellite images, aerial photography, and GIS data onto a 3D globe, allowing users to see cities and landscapes from various angles."
-	},
-	{
+    },
+    {
         "id": "dataset-701",
         "provider": "provider-302",
         "title": "Water District Database",
@@ -7703,8 +7703,8 @@
         ],
         "url": "https://www.tceq.texas.gov/waterdistricts/iwdd.html",
         "description": "The Water District Database (WDD) is a collection of data from water districts and public drinking water systems that submit information to the TCEQ. Use the WDD to search for the names of districts, their addresses, the counties in which they are located, status of their applications, or maps of their service areas. The WDD also provides a report showing the status of TCEQ reviews of engineering plans and exceptions for public water systems."
-	},
-	{
+    },
+    {
         "id": "dataset-702",
         "provider": "provider-304",
         "title": "National Wetlands Inventory",
@@ -7712,8 +7712,8 @@
             "NWI"
         ],
         "url": "https://fwsprimary.wim.usgs.gov/wetlands/apps/wetlands-mapper/",
-        "description": "Wetlands provide a multitude of ecological, economic and social benefits. They provide habitat for fish, wildlife and plants - many of which have a commercial or recreational value - recharge groundwater, reduce flooding, provide clean drinking water, offer food and fiber, and support cultural and recreational activities. Unfortunately, over half of America’s wetlands have been lost since 1780, and wetland losses continue today. This highlights the urgent need for geospatial information on wetland extent, type, and change."
-	},
+        "description": "Wetlands provide a multitude of ecological, economic and social benefits. They provide habitat for fish, wildlife and plants - many of which have a commercial or recreational value - recharge groundwater, reduce flooding, provide clean drinking water, offer food and fiber, and support cultural and recreational activities. Unfortunately, over half of America\u2019s wetlands have been lost since 1780, and wetland losses continue today. This highlights the urgent need for geospatial information on wetland extent, type, and change."
+    },
     {
         "id": "dataset-703",
         "provider": "provider-150",
@@ -7770,7 +7770,7 @@
         "provider": "provider-307",
         "title": "Forecast charts and data",
         "url": "https://www.ecmwf.int/en/forecasts",
-        "description": "We provide global forecasts, climate reanalyses and specific datasets, designed to meet different user requirements. These are available via the web, point-to-point dissemination, data servers and broadcasting. ECMWF’s operational forecasts aim to show how the weather is most likely to evolve. To do this, the Centre produces an ensemble of predictions. Individually they are full descriptions of the evolution of the weather. Collectively they indicate the likelihood of a range of future weather scenarios."
+        "description": "We provide global forecasts, climate reanalyses and specific datasets, designed to meet different user requirements. These are available via the web, point-to-point dissemination, data servers and broadcasting. ECMWF\u2019s operational forecasts aim to show how the weather is most likely to evolve. To do this, the Centre produces an ensemble of predictions. Individually they are full descriptions of the evolution of the weather. Collectively they indicate the likelihood of a range of future weather scenarios."
     },
     {
         "id": "dataset-710",
@@ -7810,7 +7810,149 @@
         "provider": "provider-311",
         "title": "EcoAtlas",
         "url": "https://www.ecoatlas.org/",
-        "description": "California EcoAtlas provides access to information for effective wetland management. The maps and tools can be used to create a complete picture of aquatic resources in the landscape by integrating stream and wetland maps, restoration information, and monitoring results with land use, transportation, and other information important to the state’s wetlands."
+        "description": "California EcoAtlas provides access to information for effective wetland management. The maps and tools can be used to create a complete picture of aquatic resources in the landscape by integrating stream and wetland maps, restoration information, and monitoring results with land use, transportation, and other information important to the state\u2019s wetlands."
+    },
+    {
+        "id": "dataset-716",
+        "provider": "provider-305",
+        "title": "Global Monthly EASE-Grid Snow Water Equivalent Climatology",
+        "url": "https://nsidc.org/data/NSIDC-0271/versions/1",
+        "description": "This data set is comprised of global, monthly satellite-derived Snow Water Equivalent (SWE) climatologies from November 1978 through May 2007, with periodic updates released as resources permit. Global data are gridded to the Northern and Southern 25 km Equal-Area Scalable Earth Grids (EASE-Grids). Global snow water equivalent is derived from Scanning Multichannel Microwave Radiometer (SMMR) and selected Special Sensor Microwave/Imagers (SSM/I)."
+    },
+    {
+        "id": "dataset-717",
+        "title": "8-14 Day Forecasts",
+        "provider": "provider-150",
+        "url": "https://www.cpc.ncep.noaa.gov/products/predictions/814day/interactive/index.php",
+        "description": "8-14 day climatological forecasts are produced by the Climate Prediction Center (CPC), a branch of the National Weather Service."
+    },
+    {
+        "id": "dataset-718",
+        "title": "Climate Forecast System",
+        "alt_title": [
+            "CFS"
+        ],
+        "provider": "provider-150",
+        "url": "https://www.ncdc.noaa.gov/data-access/model-data/model-datasets/climate-forecast-system-version2-cfsv2#CFS",
+        "description": "The Climate Forecast System (CFS) is a model representing the global interaction between Earth's oceans, land, and atmosphere. Produced by several dozen scientists under guidance from the National Centers for Environmental Prediction (NCEP), this model offers hourly data with a horizontal resolution down to one-half of a degree (approximately 56 km) around Earth for many variables."
+    },
+    {
+        "id": "dataset-719",
+        "title": "Dengue Forecasting Data",
+        "alt_title": [
+            "Dengue"
+        ],
+        "provider": "provider-150",
+        "url": "https://dengueforecasting.noaa.gov/",
+        "description": "The Predict the Next Pandemic (PtNP) Initiative was designed to anticipate disease emergence, identify early indications of disease emergence, determine the pandemic potential of a disease, and forecast impacts and effects of mitigation on disease progression."
+    },
+    {
+        "id": "dataset-720",
+        "title": "North American Drought Monitor",
+        "alt_title": [
+            "Drought"
+        ],
+        "provider": "provider-150",
+        "url": "https://www.ncdc.noaa.gov/temp-and-precip/drought/nadm/indices",
+        "description": "The North American continental drought indicators are provided here to show how drought conditions change across the international boundaries as an aid in the production of the North American Drought Monitor (NADM). Includes data from Standardized Precipitation Index and Palmer Drought Index."
+    },
+    {
+        "id": "dataset-721",
+        "provider": "provider-020",
+        "title": "Pregnancy Risk Assessment Monitoring System",
+        "alt_title": [
+            "PRAMS"
+        ],
+        "url": "https://www.cdc.gov/prams/index.htm",
+        "description": "Developed in 1987, PRAMS collects state-specific, population-based data on maternal attitudes and experiences before, during, and shortly after pregnancy. PRAMS surveillance currently covers about 83% of all U.S. births."
+    },
+    {
+        "id": "dataset-722",
+        "provider": "provider-285",
+        "title": "Fluxnet Data",
+        "url": "https://daac.ornl.gov/cgi-bin/dataset_lister.pl?p=9",
+        "description": "FLUXNET is a global network of micrometeorological tower sites that use eddy covariance methods to measure the exchanges of carbon dioxide, water vapor, and energy between terrestrial ecosystems and the atmosphere. More than 500 tower sites around the world are operating on a long-term basis. The overarching goal of the FLUXNET data collection at ORNL DAAC is to provide information for validating remote sensing products for net primary productivity (npp), evaporation, and energy absorption."
+    },
+    {
+        "id": "dataset-723",
+        "provider": "provider-150",
+        "title": "Historical Hurricane Tracks",
+        "url": "https://coast.noaa.gov/digitalcoast/data/hurricanes.html",
+        "description": "Storm track data from the NOAA National Climatic Data Center's International Best Track Archive for Climate Stewardship (IBTrACS) data set and the NOAA National Weather Service HURDAT2 data set are provided. Storms from 1842 and up are available. Storms from the current year are added the following year."
+    },
+    {
+        "id": "dataset-724",
+        "provider": "provider-150",
+        "title": "World Ocean Atlas",
+        "alt_title": [
+            "WOA",
+            "WOA13 V2",
+            "WOA13"
+        ],
+        "url": "https://www.nodc.noaa.gov/OC5/indprod.html",
+        "description": "World Ocean Atlas 2013 version 2 (WOA13 V2) is a set of objectively analyzed (1\u00b0 grid) climatological fields of in situ temperature, salinity, dissolved oxygen, Apparent Oxygen Utilization (AOU), percent oxygen saturation, phosphate, silicate, and nitrate at standard depth levels for annual, seasonal, and monthly compositing periods for the World Ocean. It also includes associated statistical fields of observed oceanographic profile data interpolated to standard depth levels on 5\u00b0, 1\u00b0, and 0.25\u00b0 grids."
+    },
+    {
+        "id": "dataset-725",
+        "provider": "provider-150",
+        "title": "National Ocean Service Hydrographic Data",
+        "alt_title": [
+            "NOS Hydrographic Survey Data",
+            "National Ocean Service Hydrographic Data Base",
+            "NOSHDB"
+        ],
+        "url": "https://www.ngdc.noaa.gov/mgg/bathymetry/hydro.html",
+        "description": "NCEI maintains the National Ocean Service Hydrographic Data Base (NOSHDB) and Hydrographic Survey Meta Data Base (HSMDB). Both are populated by the Office of Coast Survey and National Geodetic Service, and provide coverage of coastal waters and the U.S. exclusive economic zone and its territories."
+    },
+    {
+        "id": "dataset-726",
+        "provider": "provider-150",
+        "title": "Recreational Fishing Data",
+        "alt_title": [
+            "Recreational Fisheries Statistics"
+        ],
+        "url": "https://www.st.nmfs.noaa.gov/recreational-fisheries/data-and-documentation/queries/index",
+        "description": "Through the Marine Recreational Information Program (MRIP), NOAA Fisheries and its state, regional, and federal partners use in-person, telephone, and mail fishing surveys to measure the number of trips saltwater anglers take and the number of fish they catch. When combined with commercial catch data, biological research, and direct observation of a fishery, these recreational catch and effort estimates help scientists and managers assess and maintain sustainable U.S. fish stocks."
+    },
+    {
+        "id": "dataset-730",
+        "provider": "provider-312",
+        "title": "Cooperative Land Cover Map",
+        "url": "https://www.fnai.org/LandCover.cfm",
+        "description": "The Florida Cooperative Land Cover Map (CLC) is a partnership between the Florida Fish and Wildlife Conservation Commission (FWC) and Florida Natural Areas Inventory (FNAI) to develop ecologically-based statewide land cover from existing sources and expert review of aerial photography."
+    },
+    {
+        "id": "dataset-731",
+        "provider": "provider-314",
+        "title": "Florida LiDAR and Digital Elevation Data",
+        "url": "https://www.floridadisaster.org/gis/lidar/"
+    },
+    {
+        "id": "dataset-732",
+        "provider": "provider-316",
+        "title": "Rhode Island Geographic Information System",
+        "alt_title": [
+            "RIGIS",
+            "RIGIS data"
+        ],
+        "url": "http://www.rigis.org/",
+        "description": "The Rhode Island Geographic Information System (RIGIS) is a consortium of government and private organizations employing computer and communications technology to manage and use a collective database of comprehensive geographically related information. The mission of the RIGIS is to monitor, coordinate, and provide leadership for activities related to the use of GIS technology within Rhode Island, to support initiatives to implement or use the technology, and to manage and provide access to a common database of geographically referenced information."
+    },
+    {
+        "id": "dataset-733",
+        "provider": "provider-317",
+        "title": "University of Florida GeoPlan Center Digital Elevation Model",
+        "alt_title": [
+            "ufl dem"
+        ],
+        "url": "https://sls.geoplan.ufl.edu/download-data/",
+        "description": "The SLR inundation surfaces available for download on this page were created by the University of Florida GeoPlan Center using the United States Army Corps of Engineers (USACE) Sea-Level Change Curve Calculator (2015.46), USACE SLR projections (2013), National Oceanic and Atmospheric Administration (NOAA) SLR projections (2012), NOAA tide gauge data, NOAA tidal surfaces, and a 5-meter horizontal resolution Digital Elevation Model (DEM).  SLR scenarios were mapped by county using local tide gauge data and sea level trends."
+    },
+    {
+        "id": "dataset-734",
+        "provider": "provider-150",
+        "title": "Sea Level Change Curve Calculator",
+        "url": "https://coast.noaa.gov/digitalcoast/tools/curve.html",
+        "description": "This web-based tool calculates projected rates of sea level change for any location along the U.S. coast. The tool can be used to assess vulnerability to future sea level change and to compare several published sea level rise scenarios."
     }
-
 ]
