@@ -7917,9 +7917,10 @@
     {
         "id": "dataset-727",
         "provider": "provider-313",
-        "title": "Sentinel-3A/3B SAR Radar Altimeter Level 2 Non-Time-Critical (NTC)",
+        "title": "SRAL Level 2 Altimetry Global in NTC - Sentinel-3",
+
         "alt_title": [
-            "SRAL Level 2 Altimetry Global in NTC - Sentinel-3"
+            "Sentinel-3A/3B SAR Radar Altimeter Level 2 Non-Time-Critical (NTC)"
         ],
         "url": "https://navigator.eumetsat.int/product/EO:EUM:DAT:SENTINEL-3:SR_2_WAT___NTC",
         "description": "Sentinel-3 is a dedicated Copernicus satellite mission delivering a variety of high-quality ocean measurements. The mission's main objective in support to the Marine Environment is to determine parameters such as sea-surface topography, sea-surface temperature and ocean-surface colour. It provides two day global coverage optical data (with two satellites), as well as altimetry measurements, for sea and land applications with real-time products delivered in less than three hours. The satellites are operationally managed from the EUMETSAT Sentinel-3 Marine Centre."
@@ -7927,9 +7928,9 @@
     {
         "id": "dataset-729",
         "provider": "provider-150",
-        "title": "Jason-3 Geophysical Data Records",
+        "title": "Jason-3 Level-2 X-GDR",
         "alt_title": [
-            "Jason-3 Level-2 X-GDR"
+            "Jason-3 Geophysical Data Records"
         ],
         "url": "http://data.nodc.noaa.gov/jason3/",
         "description": "Jason-3 is the follow-on altimetry mission of Jason-2 / OSTM (launch June 20, 2008) led by the operational agencies: NOAA, EUMETSAT, and CNES. The objective of the Jason-3 Mission is to provide continuity to the unique accuracy and coverage of the TOPEX/Poseidon, Jason-1 and OSTM/Jason-2 missions in support of operational applications related to extreme weather events and operational oceanography and climate applications and forecasting."
