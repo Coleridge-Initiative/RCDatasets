@@ -7122,7 +7122,7 @@
             "LCAT"
         ],
         "provider": "provider-150",
-        "description": "NOAA\u2019s NWS implemented the new Local Climate Analysis Tool (LCAT) on 1 July 2013. The tool supports the delivery of climate services by quickly providing information to help with climate-sensitive decisions and to facilitate the development of local climate studies and assessments.",
+        "description": "NOAA's NWS implemented the new Local Climate Analysis Tool (LCAT) on 1 July 2013. The tool supports the delivery of climate services by quickly providing information to help with climate-sensitive decisions and to facilitate the development of local climate studies and assessments.",
         "url": "https://nws.weather.gov/lcat/home",
         "original": {
             "related_dataset": [
@@ -7918,7 +7918,6 @@
         "id": "dataset-727",
         "provider": "provider-313",
         "title": "SRAL Level 2 Altimetry Global in NTC - Sentinel-3",
-
         "alt_title": [
             "Sentinel-3A/3B SAR Radar Altimeter Level 2 Non-Time-Critical (NTC)"
         ],
@@ -7934,6 +7933,47 @@
         ],
         "url": "http://data.nodc.noaa.gov/jason3/",
         "description": "Jason-3 is the follow-on altimetry mission of Jason-2 / OSTM (launch June 20, 2008) led by the operational agencies: NOAA, EUMETSAT, and CNES. The objective of the Jason-3 Mission is to provide continuity to the unique accuracy and coverage of the TOPEX/Poseidon, Jason-1 and OSTM/Jason-2 missions in support of operational applications related to extreme weather events and operational oceanography and climate applications and forecasting."
+    },
+    {
+        "id": "dataset-730",
+        "provider": "provider-312",
+        "title": "Cooperative Land Cover Map",
+        "url": "https://www.fnai.org/LandCover.cfm",
+        "description": "The Florida Cooperative Land Cover Map (CLC) is a partnership between the Florida Fish and Wildlife Conservation Commission (FWC) and Florida Natural Areas Inventory (FNAI) to develop ecologically-based statewide land cover from existing sources and expert review of aerial photography."
+    },
+    {
+        "id": "dataset-731",
+        "provider": "provider-314",
+        "title": "Florida LiDAR and Digital Elevation Data",
+        "url": "https://www.floridadisaster.org/gis/lidar/"
+    },
+    {
+        "id": "dataset-732",
+        "provider": "provider-316",
+        "title": "Rhode Island Geographic Information System",
+        "alt_title": [
+            "RIGIS",
+            "RIGIS data"
+        ],
+        "url": "http://www.rigis.org/",
+        "description": "The Rhode Island Geographic Information System (RIGIS) is a consortium of government and private organizations employing computer and communications technology to manage and use a collective database of comprehensive geographically related information. The mission of the RIGIS is to monitor, coordinate, and provide leadership for activities related to the use of GIS technology within Rhode Island, to support initiatives to implement or use the technology, and to manage and provide access to a common database of geographically referenced information."
+    },
+    {
+        "id": "dataset-733",
+        "provider": "provider-317",
+        "title": "University of Florida GeoPlan Center Digital Elevation Model",
+        "alt_title": [
+            "ufl dem"
+        ],
+        "url": "https://sls.geoplan.ufl.edu/download-data/",
+        "description": "The SLR inundation surfaces available for download on this page were created by the University of Florida GeoPlan Center using the United States Army Corps of Engineers (USACE) Sea-Level Change Curve Calculator (2015.46), USACE SLR projections (2013), National Oceanic and Atmospheric Administration (NOAA) SLR projections (2012), NOAA tide gauge data, NOAA tidal surfaces, and a 5-meter horizontal resolution Digital Elevation Model (DEM).  SLR scenarios were mapped by county using local tide gauge data and sea level trends."
+    },
+    {
+        "id": "dataset-734",
+        "provider": "provider-150",
+        "title": "Sea Level Change Curve Calculator",
+        "url": "https://coast.noaa.gov/digitalcoast/tools/curve.html",
+        "description": "This web-based tool calculates projected rates of sea level change for any location along the U.S. coast. The tool can be used to assess vulnerability to future sea level change and to compare several published sea level rise scenarios."
     },
     {
         "id": "dataset-736",
