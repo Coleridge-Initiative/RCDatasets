@@ -7913,5 +7913,37 @@
         ],
         "url": "https://www.st.nmfs.noaa.gov/recreational-fisheries/data-and-documentation/queries/index",
         "description": "Through the Marine Recreational Information Program (MRIP), NOAA Fisheries and its state, regional, and federal partners use in-person, telephone, and mail fishing surveys to measure the number of trips saltwater anglers take and the number of fish they catch. When combined with commercial catch data, biological research, and direct observation of a fishery, these recreational catch and effort estimates help scientists and managers assess and maintain sustainable U.S. fish stocks."
+    },
+    {
+        "id": "dataset-727",
+        "provider": "provider-313",
+        "title": "SRAL Level 2 Altimetry Global in NTC - Sentinel-3",
+
+        "alt_title": [
+            "Sentinel-3A/3B SAR Radar Altimeter Level 2 Non-Time-Critical (NTC)"
+        ],
+        "url": "https://navigator.eumetsat.int/product/EO:EUM:DAT:SENTINEL-3:SR_2_WAT___NTC",
+        "description": "Sentinel-3 is a dedicated Copernicus satellite mission delivering a variety of high-quality ocean measurements. The mission's main objective in support to the Marine Environment is to determine parameters such as sea-surface topography, sea-surface temperature and ocean-surface colour. It provides two day global coverage optical data (with two satellites), as well as altimetry measurements, for sea and land applications with real-time products delivered in less than three hours. The satellites are operationally managed from the EUMETSAT Sentinel-3 Marine Centre."
+    },
+    {
+        "id": "dataset-729",
+        "provider": "provider-150",
+        "title": "Jason-3 Level-2 X-GDR",
+        "alt_title": [
+            "Jason-3 Geophysical Data Records"
+        ],
+        "url": "http://data.nodc.noaa.gov/jason3/",
+        "description": "Jason-3 is the follow-on altimetry mission of Jason-2 / OSTM (launch June 20, 2008) led by the operational agencies: NOAA, EUMETSAT, and CNES. The objective of the Jason-3 Mission is to provide continuity to the unique accuracy and coverage of the TOPEX/Poseidon, Jason-1 and OSTM/Jason-2 missions in support of operational applications related to extreme weather events and operational oceanography and climate applications and forecasting."
+    },
+    {
+        "id": "dataset-736",
+        "provider": "provider-315",
+        "title": "IMOS - SRS Surface Waves Sub-Facility - altimeter wave/wind",
+        "alt_title": [
+            "Surface Waves - altimeter wave/wind",
+            "Surface Waves Sub-Facility Altimeter Wave/Wind"
+        ],
+        "url": "https://catalogue-imos.aodn.org.au/geonetwork/srv/eng/metadata.show?uuid=91ae1b2f-39e4-4d30-a853-5deb774614ca",
+        "description": "This database contains global data of wind speed and wave height obtained from all the altimeter missions which have flown since 1985. The data has been calibrated against NDBC buoy data and validated with independent buoy measurements and at cross-over points with other altimeter missions. The long term stability of the data has been assessed against buoy data and any discontinuities which may occur due to changes in the processing techniques or instrumentation has been removed in the calibration process."
     }
 ]

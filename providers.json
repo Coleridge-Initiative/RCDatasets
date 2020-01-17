@@ -1291,5 +1291,13 @@
     {
         "id" : "provider-312",
         "title": "Florida Natural Area Inventory"
+    },
+    {
+        "id" : "provider-313",
+        "title": "European Organization for the Exploitation of Meteorological Satellites"
+    },
+    {
+        "id" : "provider-315",
+        "title": "Integrated Marine Observing System"
     }
 ]
