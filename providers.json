@@ -1243,7 +1243,7 @@
         "id": "provider-301",
         "title": "worldclim.org"
     },
-	{
+    {
         "id": "provider-302",
         "title": "Texas Commission on Environmental Quality"
     },
@@ -1252,10 +1252,10 @@
         "title": "Iowa State University",
         "ror": "04rswrd78"
     },
-	{
+    {
         "id": "provider-304",
         "title": "US Fish and Wildlife Service",
-	    "ror": "04k7dar27"
+        "ror": "04k7dar27"
     },
     {
         "id": "provider-305",
@@ -1269,32 +1269,40 @@
     {
         "id": "provider-307",
         "title": "European Centre for Medium-Range Weather Forecasts",
-        "ror": "014w0fd65" 
+        "ror": "014w0fd65"
     },
     {
         "id": "provider-308",
-        "title": "Manly Hydraulics Laboratory" 
+        "title": "Manly Hydraulics Laboratory"
     },
     {
         "id": "provider-309",
         "title": "California Natural Resources Agency",
-        "ror": "0115n5160" 
+        "ror": "0115n5160"
     },
     {
         "id": "provider-310",
         "title": "The National Center for Airborne Laser Mapping"
     },
     {
-        "id" : "provider-311",
+        "id": "provider-311",
         "title": "San Francisco Estuary Institute"
     },
     {
-        "id" : "provider-312",
+        "id": "provider-312",
         "title": "Florida Natural Area Inventory"
+    },
+    {
+        "id": "provider-313",
+        "title": "European Organization for the Exploitation of Meteorological Satellites"
     },
     {
         "id": "provider-314",
         "title": "Floridadisaster.org"
+    },
+    {
+        "id": "provider-315",
+        "title": "Integrated Marine Observing System"
     },
     {
         "id": "provider-316",
