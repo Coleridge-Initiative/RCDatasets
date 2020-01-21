@@ -18,7 +18,14 @@ def url_validator (url):
 
 
 class TestVerifyDatasets (unittest.TestCase):
-    ALLOWED_FIELDS = set([
+    PROVIDERS_ALLOWED_FIELDS = set([
+            "id",
+            "title",
+            "ror",
+            "url"
+            ])
+
+    DATASETS_ALLOWED_FIELDS = set([
             "alt_ids",
             "alt_title",
             "date",
@@ -31,7 +38,8 @@ class TestVerifyDatasets (unittest.TestCase):
             "original"
             ])
 
-    PAT_ID_FORMAT = re.compile(r"^dataset\-(\d+)$")
+    PAT_DATASET_ID_FORMAT = re.compile(r"^dataset\-(\d+)$")
+    PAT_PROVIDER_ID_FORMAT = re.compile(r"^provider\-(\d+)$")
 
     PAT_LEADING_SPACE = re.compile(r"^\s.*")
     PAT_TRAILING_SPACE = re.compile(r".*\s$")
@@ -50,8 +58,7 @@ class TestVerifyDatasets (unittest.TestCase):
         filename = "providers.json"
 
         with open(filename, "r") as f:
-            for p in json.load(f):
-                self.providers[p["id"]] = p
+            self.providers = json.load(f)
 
 
     def test_file_loaded (self):
@@ -66,6 +73,10 @@ class TestVerifyDatasets (unittest.TestCase):
         for dataset in self.datasets:
             if not set(["id", "title", "provider"]).issubset(dataset.keys()):
                 raise Exception("{}: missing required fields".format(dataset["id"]))
+
+        for provider in self.providers:
+            if not set(["id", "title"]).issubset(provider.keys()):
+                raise Exception("{}: missing required fields".format(provider["id"]))
 
 
     def test_has_valid_url (self):
@@ -82,11 +93,16 @@ class TestVerifyDatasets (unittest.TestCase):
     def test_each_field (self):
         for dataset in self.datasets:
             for key in dataset.keys():
-                if key not in self.ALLOWED_FIELDS:
+                if key not in self.DATASETS_ALLOWED_FIELDS:
                     raise Exception("{}: unknown field name {}".format(dataset["id"], key))
 
+        for provider in self.providers:
+            for key in provider.keys():
+                if key not in self.PROVIDERS_ALLOWED_FIELDS:
+                    raise Exception("{}: unknown field name {}".format(provider["id"], key))
 
-    def test_unique_titles (self):
+
+    def test_dataset_unique_titles (self):
         title_set = set([])
 
         for dataset in self.datasets:
@@ -98,11 +114,23 @@ class TestVerifyDatasets (unittest.TestCase):
                 title_set.add(title)
 
 
-    def test_id_sequence (self):
+    def test_provider_unique_titles (self):
+        title_set = set([])
+
+        for provider in self.providers:
+            title = provider["title"]
+
+            if title in title_set:
+                raise Exception("{}: duplicate title {}".format(provider["id"], title))
+            else:
+                title_set.add(title)
+
+
+    def test_dataset_id_sequence (self):
         id_list = []
 
         for dataset in self.datasets:
-            m = self.PAT_ID_FORMAT.match(dataset["id"])
+            m = self.PAT_DATASET_ID_FORMAT.match(dataset["id"])
 
             if not m:
                 raise Exception("badly formed ID |{}|".format(dataset["id"]))
@@ -115,18 +143,36 @@ class TestVerifyDatasets (unittest.TestCase):
                     id_list.append(id)
 
 
-    def test_enum_providers (self):
-        provider_set = set([])
+    def test_provider_id_sequence (self):
+        id_list = []
+
+        for provider in self.providers:
+            m = self.PAT_PROVIDER_ID_FORMAT.match(provider["id"])
+
+            if not m:
+                raise Exception("badly formed ID |{}|".format(provider["id"]))
+            else:
+                id = int(m.group(1))
+
+                if id in id_list:
+                    raise Exception("duplicate ID |{}|".format(provider["id"]))
+                else:
+                    id_list.append(id)
+
+
+    def test_dataset_enum_providers (self):
+        refenced_providers = set([])
 
         for dataset in self.datasets:
-            provider_set.add(dataset["provider"])
+            refenced_providers.add(dataset["provider"])
 
-        if (len(provider_set) < 1):
+        if (len(refenced_providers) < 1):
             print("no providers get referenced")
 
-        self.assertTrue(len(provider_set) > 0)
+        self.assertTrue(len(refenced_providers) > 0)
         
-        unknowns = provider_set - set(self.providers.keys())
+        known_providers = set([ p["id"] for p in self.providers ])
+        unknowns = refenced_providers - known_providers
 
         if (len(unknowns) > 0):
             print("unknown providers: {}".format(sorted(unknowns)))
@@ -143,23 +189,14 @@ class TestVerifyDatasets (unittest.TestCase):
             raise Exception("{}: trailing space in {} |{}|".format(dataset["id"], field, val))
 
 
-    def test_clean_names (self):
+    def test_dataset_clean_names (self):
         for dataset in self.datasets:
             self.has_clean_name(dataset, "title")
-            self.has_clean_name(dataset, "provider")
 
 
-    ## TODO: this belongs at a different point in the workflow
-    def test_related_datasets (self):
-        # if a dataset has an 'original' subdict that includes a `joins_to` field, check that the
-        # dataset exists in datasets.json
-        for dataset in self.datasets:
-            if 'original' in dataset.keys():
-                if 'joins_to' in dataset['original'].keys():
-                    for ds in dataset['original']['joins_to']:
-                        if ds not in list(set([f['id'] for f in self.datasets])):
-                            raise Exception("Metadata for {} indicates that the dataset can be joined to {}, but {} is not in datasets.json. Please update datasets.json or fix the metadata field joins_to".format(dataset['id'], ds,ds))
-                
+    def test_provider_clean_names (self):
+        for provider in self.providers:
+            self.has_clean_name(provider, "title")
 
 
 if __name__ == "__main__":

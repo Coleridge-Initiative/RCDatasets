@@ -6841,7 +6841,7 @@
         "provider": "provider-150",
         "title": "Sea Level Rise Inundation",
         "url": "https://coast.noaa.gov/digitalcoast/data/slr.html",
-        "description":"These data illustrate potential flooding from future sea level rise—from current mean higher high water to a six-foot rise. Mapping confidence layers highlight errors related to elevation and water height data. All data are based on the best available elevation data."
+        "description": "These data illustrate potential flooding from future sea level rise\u2014from current mean higher high water to a six-foot rise. Mapping confidence layers highlight errors related to elevation and water height data. All data are based on the best available elevation data."
     },
     {
         "alt_title": [
@@ -7969,15 +7969,14 @@
         ],
         "url": "https://sls.geoplan.ufl.edu/download-data/",
         "description": "The SLR inundation surfaces available for download on this page were created by the University of Florida GeoPlan Center using the United States Army Corps of Engineers (USACE) Sea-Level Change Curve Calculator (2015.46), USACE SLR projections (2013), National Oceanic and Atmospheric Administration (NOAA) SLR projections (2012), NOAA tide gauge data, NOAA tidal surfaces, and a 5-meter horizontal resolution Digital Elevation Model (DEM).  SLR scenarios were mapped by county using local tide gauge data and sea level trends.",
-        "original":{
-            "related_to":[
+        "original": {
+            "related_to": [
                 "dataset-645",
                 "dataset-610",
                 "dataset-614",
                 "dataset-631"
-                ]
+            ]
         }
-
     },
     {
         "id": "dataset-734",
@@ -8078,6 +8077,7 @@
         "url": "https://www.bls.gov/lau/#tables",
         "description": "The Local Area Unemployment Statistics (LAUS) program produces monthly and annual employment, unemployment, and labor force data for Census regions and divisions, States, counties, metropolitan areas, and many cities, by place of residence."
     },
+    {
         "id": "dataset-737",
         "provider": "provider-285",
         "title": "QuikSCAT",
@@ -8087,5 +8087,4 @@
         "url": "https://podaac.jpl.nasa.gov/datasetlist?search=QUIKSCAT",
         "description": "The SeaWinds instrument on the QuikSCAT satellite was a specialized microwave radar that measured near-surface wind speed and direction under all weather and cloud conditions over Earth's oceans. The SeaWinds on QuikSCAT mission was a 'quick recovery' mission to fill the gap created by the loss of data from the NASA Scatterometer (NSCAT) in 1997."
     }
-
 ]
