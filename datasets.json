@@ -8067,4 +8067,14 @@
         "url": "https://www.bls.gov/lau/#tables",
         "description": "The Local Area Unemployment Statistics (LAUS) program produces monthly and annual employment, unemployment, and labor force data for Census regions and divisions, States, counties, metropolitan areas, and many cities, by place of residence."
     },
+        "id": "dataset-737",
+        "provider": "provider-285",
+        "title": "QuikSCAT",
+        "alt_title": [
+            "Quick Scatterometer (QuikSCAT) satellite"
+        ],
+        "url": "https://podaac.jpl.nasa.gov/datasetlist?search=QUIKSCAT",
+        "description": "The SeaWinds instrument on the QuikSCAT satellite was a specialized microwave radar that measured near-surface wind speed and direction under all weather and cloud conditions over Earth's oceans. The SeaWinds on QuikSCAT mission was a 'quick recovery' mission to fill the gap created by the loss of data from the NASA Scatterometer (NSCAT) in 1997."
+    }
+
 ]
