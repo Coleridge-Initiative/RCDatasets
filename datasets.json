@@ -7849,5 +7849,16 @@
         "title": "Recreational Fishing Data",
         "url": "https://www.st.nmfs.noaa.gov/recreational-fisheries/data-and-documentation/queries/index",
         "description": "Through the Marine Recreational Information Program (MRIP), NOAA Fisheries and its state, regional, and federal partners use in-person, telephone, and mail fishing surveys to measure the number of trips saltwater anglers take and the number of fish they catch. When combined with commercial catch data, biological research, and direct observation of a fishery, these recreational catch and effort estimates help scientists and managers assess and maintain sustainable U.S. fish stocks."
+    },
+	{
+        "id": "dataset-728",
+        "provider": "provider-150",
+        "title": "Earth System Research Laboratory",
+		"alt_title": [
+            "Global Monitoring Division",
+			"ESRL"
+        ],
+        "url": "https://www.esrl.noaa.gov/gmd/dv/data/",
+        "description": "NOAA/ESRL's Global Monitoring Division (GMD) of the National Oceanic and Atmospheric Administration conducts research that addresses three major challenges; greenhouse gas and carbon cycle feedbacks, changes in clouds, aerosols, and surface radiation, and recovery of stratospheric ozone."
     }
 ]
