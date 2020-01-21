@@ -7931,7 +7931,13 @@
     {
         "id": "dataset-728",
         "provider": "provider-150",
-        "title": "mistakes were made circa mid-Jan 2020"
+        "title": "Earth System Research Laboratory",
+        "alt_title": [
+            "Global Monitoring Division",
+            "ESRL"
+        ],
+        "url": "https://www.esrl.noaa.gov/gmd/dv/data/",
+        "description": "NOAA/ESRL's Global Monitoring Division (GMD) of the National Oceanic and Atmospheric Administration conducts research that addresses three major challenges; greenhouse gas and carbon cycle feedbacks, changes in clouds, aerosols, and surface radiation, and recovery of stratospheric ozone."
     },
     {
         "id": "dataset-729",
@@ -8095,7 +8101,7 @@
             "TIGER data"
         ],
         "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-geodatabase-file.html",
-        "description": "TIGER Geodatabases are spatial extracts from the Census Bureau’s MAF/TIGER database for use with Esri’s ArcGIS. The geodatabases contain national coverage (for geographic boundaries or features) or state coverage (boundaries within state)."
+        "description": "TIGER Geodatabases are spatial extracts from the Census Bureau\u2019s MAF/TIGER database for use with Esri\u2019s ArcGIS. The geodatabases contain national coverage (for geographic boundaries or features) or state coverage (boundaries within state)."
     },
     {
         "id": "dataset-740",
@@ -8107,7 +8113,7 @@
             "HRSL Data"
         ],
         "url": "https://www.ciesin.columbia.edu/data/hrsl/#data",
-        "description": "The High Resolution Settlement Layer (HRSL) provides estimates of human population distribution at a resolution of 1 arc-second (approximately 30m) for the year 2015. The population estimates are based on recent census data and high-resolution (0.5m) satellite imagery from DigitalGlobe. The population grids provide detailed delineation of settlements in both urban and rural areas, which is useful for many research areas—from disaster response and humanitarian planning to the development of communications infrastructure. The settlement extent data were developed by the Connectivity Lab at Facebook using computer vision techniques to classify blocks of optical satellite data as settled (containing buildings) or not. CIESIN used proportional allocation to distribute population data from subnational census data to the settlement extents."
+        "description": "The High Resolution Settlement Layer (HRSL) provides estimates of human population distribution at a resolution of 1 arc-second (approximately 30m) for the year 2015. The population estimates are based on recent census data and high-resolution (0.5m) satellite imagery from DigitalGlobe. The population grids provide detailed delineation of settlements in both urban and rural areas, which is useful for many research areas\u2014from disaster response and humanitarian planning to the development of communications infrastructure. The settlement extent data were developed by the Connectivity Lab at Facebook using computer vision techniques to classify blocks of optical satellite data as settled (containing buildings) or not. CIESIN used proportional allocation to distribute population data from subnational census data to the settlement extents."
     },
     {
         "id": "dataset-741",
