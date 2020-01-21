@@ -1313,5 +1313,22 @@
         "id": "provider-317",
         "title": "University of Florida",
         "ror": "02y3ad647"
+    },
+    {
+        "id": "provider-318",
+        "title": "Columbia University",
+        "ror": "00hj8s172"
+    },
+    {
+        "id": "provider-319",
+        "title": "Permanent Service for Mean Sea Level"
+    },
+    {
+        "id": "provider-320",
+        "title": "University of Hawaii"
+    },
+    {
+        "id": "provider-321",
+        "title": "gesla.org"
     }
 ]
