@@ -3691,7 +3691,7 @@
         "id": "dataset-314",
         "provider": "provider-248",
         "title": "Seattle Obesity Study",
-        "url": "https://depts.washington.edu/uwcphn/work/cor/diet_disparities.shtml"
+        "url": "https://nutr.uw.edu/cphn_project/seattle-obesity-study-iii-the-food-fitness-environment-study/"
     },
     {
         "alt_title": [
@@ -4436,7 +4436,7 @@
     },
     {
         "alt_title": [
-            "IN CHH Enrollment Data"
+            "IN CHE Enrollment Data"
         ],
         "id": "dataset-376",
         "provider": "provider-083",
@@ -4445,7 +4445,7 @@
     },
     {
         "alt_title": [
-            "IN CHH Completion Data"
+            "IN CHE Completion Data"
         ],
         "id": "dataset-377",
         "provider": "provider-083",
@@ -5926,7 +5926,7 @@
             ]
         },
         "provider": "provider-085",
-        "title": "State of Indiana Unemployment Insurance"
+        "title": "Indiana Unemployment Insurance"
     },
     {
         "alt_title": [
@@ -6834,12 +6834,14 @@
         "alt_title": [
             "SLR",
             "SLR Data",
-            "Sea Level Rise Data"
+            "Sea Level Rise Data",
+            "SLR Projections"
         ],
         "id": "dataset-610",
         "provider": "provider-150",
         "title": "Sea Level Rise Inundation",
-        "url": "https://coast.noaa.gov/digitalcoast/data/slr.html"
+        "url": "https://coast.noaa.gov/digitalcoast/data/slr.html",
+        "description":"These data illustrate potential flooding from future sea level rise—from current mean higher high water to a six-foot rise. Mapping confidence layers highlight errors related to elevation and water height data. All data are based on the best available elevation data."
     },
     {
         "alt_title": [
@@ -7966,7 +7968,16 @@
             "ufl dem"
         ],
         "url": "https://sls.geoplan.ufl.edu/download-data/",
-        "description": "The SLR inundation surfaces available for download on this page were created by the University of Florida GeoPlan Center using the United States Army Corps of Engineers (USACE) Sea-Level Change Curve Calculator (2015.46), USACE SLR projections (2013), National Oceanic and Atmospheric Administration (NOAA) SLR projections (2012), NOAA tide gauge data, NOAA tidal surfaces, and a 5-meter horizontal resolution Digital Elevation Model (DEM).  SLR scenarios were mapped by county using local tide gauge data and sea level trends."
+        "description": "The SLR inundation surfaces available for download on this page were created by the University of Florida GeoPlan Center using the United States Army Corps of Engineers (USACE) Sea-Level Change Curve Calculator (2015.46), USACE SLR projections (2013), National Oceanic and Atmospheric Administration (NOAA) SLR projections (2012), NOAA tide gauge data, NOAA tidal surfaces, and a 5-meter horizontal resolution Digital Elevation Model (DEM).  SLR scenarios were mapped by county using local tide gauge data and sea level trends.",
+        "original":{
+            "related_to":[
+                "dataset-645",
+                "dataset-610",
+                "dataset-614",
+                "dataset-631"
+                ]
+        }
+
     },
     {
         "id": "dataset-734",
