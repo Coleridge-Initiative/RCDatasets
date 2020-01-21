@@ -6885,7 +6885,7 @@
         "description": "In general, a datum is a base elevation used as a reference from which to reckon heights or depths. A tidal datum is a standard elevation defined by a certain phase of the tide. Tidal datums are used as references to measure local water levels and should not be extended into areas having differing oceanographic characteristics without substantiating measurements.",
         "id": "dataset-614",
         "provider": "provider-150",
-        "title": "Tidal Datums",
+        "title": "Tidal Datum",
         "url": "https://tidesandcurrents.noaa.gov/api/"
     },
     {
@@ -7122,7 +7122,7 @@
             "LCAT"
         ],
         "provider": "provider-150",
-        "description": "NOAA\u2019s NWS implemented the new Local Climate Analysis Tool (LCAT) on 1 July 2013. The tool supports the delivery of climate services by quickly providing information to help with climate-sensitive decisions and to facilitate the development of local climate studies and assessments.",
+        "description": "NOAA's NWS implemented the new Local Climate Analysis Tool (LCAT) on 1 July 2013. The tool supports the delivery of climate services by quickly providing information to help with climate-sensitive decisions and to facilitate the development of local climate studies and assessments.",
         "url": "https://nws.weather.gov/lcat/home",
         "original": {
             "related_dataset": [
@@ -7813,6 +7813,50 @@
         "description": "California EcoAtlas provides access to information for effective wetland management. The maps and tools can be used to create a complete picture of aquatic resources in the landscape by integrating stream and wetland maps, restoration information, and monitoring results with land use, transportation, and other information important to the state\u2019s wetlands."
     },
     {
+        "id": "dataset-716",
+        "provider": "provider-305",
+        "title": "Global Monthly EASE-Grid Snow Water Equivalent Climatology",
+        "url": "https://nsidc.org/data/NSIDC-0271/versions/1",
+        "description": "This data set is comprised of global, monthly satellite-derived Snow Water Equivalent (SWE) climatologies from November 1978 through May 2007, with periodic updates released as resources permit. Global data are gridded to the Northern and Southern 25 km Equal-Area Scalable Earth Grids (EASE-Grids). Global snow water equivalent is derived from Scanning Multichannel Microwave Radiometer (SMMR) and selected Special Sensor Microwave/Imagers (SSM/I)."
+    },
+    {
+        "id": "dataset-717",
+        "title": "8-14 Day Forecasts",
+        "provider": "provider-150",
+        "url": "https://www.cpc.ncep.noaa.gov/products/predictions/814day/interactive/index.php",
+        "description": "8-14 day climatological forecasts are produced by the Climate Prediction Center (CPC), a branch of the National Weather Service."
+    },
+    {
+        "id": "dataset-718",
+        "title": "Climate Forecast System",
+        "alt_title": [
+            "CFS"
+        ],
+        "provider": "provider-150",
+        "url": "https://www.ncdc.noaa.gov/data-access/model-data/model-datasets/climate-forecast-system-version2-cfsv2#CFS",
+        "description": "The Climate Forecast System (CFS) is a model representing the global interaction between Earth's oceans, land, and atmosphere. Produced by several dozen scientists under guidance from the National Centers for Environmental Prediction (NCEP), this model offers hourly data with a horizontal resolution down to one-half of a degree (approximately 56 km) around Earth for many variables."
+    },
+    {
+        "id": "dataset-719",
+        "title": "Dengue Forecasting Data",
+        "alt_title": [
+            "Dengue"
+        ],
+        "provider": "provider-150",
+        "url": "https://dengueforecasting.noaa.gov/",
+        "description": "The Predict the Next Pandemic (PtNP) Initiative was designed to anticipate disease emergence, identify early indications of disease emergence, determine the pandemic potential of a disease, and forecast impacts and effects of mitigation on disease progression."
+    },
+    {
+        "id": "dataset-720",
+        "title": "North American Drought Monitor",
+        "alt_title": [
+            "Drought"
+        ],
+        "provider": "provider-150",
+        "url": "https://www.ncdc.noaa.gov/temp-and-precip/drought/nadm/indices",
+        "description": "The North American continental drought indicators are provided here to show how drought conditions change across the international boundaries as an aid in the production of the North American Drought Monitor (NADM). Includes data from Standardized Precipitation Index and Palmer Drought Index."
+    },
+    {
         "id": "dataset-721",
         "provider": "provider-020",
         "title": "Pregnancy Risk Assessment Monitoring System",
@@ -7822,33 +7866,63 @@
         "url": "https://www.cdc.gov/prams/index.htm",
         "description": "Developed in 1987, PRAMS collects state-specific, population-based data on maternal attitudes and experiences before, during, and shortly after pregnancy. PRAMS surveillance currently covers about 83% of all U.S. births."
     },
-	{
+    {
+        "id": "dataset-722",
+        "provider": "provider-285",
+        "title": "Fluxnet Data",
+        "url": "https://daac.ornl.gov/cgi-bin/dataset_lister.pl?p=9",
+        "description": "FLUXNET is a global network of micrometeorological tower sites that use eddy covariance methods to measure the exchanges of carbon dioxide, water vapor, and energy between terrestrial ecosystems and the atmosphere. More than 500 tower sites around the world are operating on a long-term basis. The overarching goal of the FLUXNET data collection at ORNL DAAC is to provide information for validating remote sensing products for net primary productivity (npp), evaporation, and energy absorption."
+    },
+    {
         "id": "dataset-723",
         "provider": "provider-150",
         "title": "Historical Hurricane Tracks",
         "url": "https://coast.noaa.gov/digitalcoast/data/hurricanes.html",
         "description": "Storm track data from the NOAA National Climatic Data Center's International Best Track Archive for Climate Stewardship (IBTrACS) data set and the NOAA National Weather Service HURDAT2 data set are provided. Storms from 1842 and up are available. Storms from the current year are added the following year."
     },
-	{
+    {
         "id": "dataset-724",
         "provider": "provider-150",
-        "title": "WORLD OCEAN ATLAS 2013 version 2",
-        "url": "https://www.nodc.noaa.gov/OC5/woa13/",
-        "description": "World Ocean Atlas 2013 version 2 (WOA13 V2) is a set of objectively analyzed (1° grid) climatological fields of in situ temperature, salinity, dissolved oxygen, Apparent Oxygen Utilization (AOU), percent oxygen saturation, phosphate, silicate, and nitrate at standard depth levels for annual, seasonal, and monthly compositing periods for the World Ocean. It also includes associated statistical fields of observed oceanographic profile data interpolated to standard depth levels on 5°, 1°, and 0.25° grids."
+        "title": "World Ocean Atlas",
+        "alt_title": [
+            "WOA",
+            "WOA13 V2",
+            "WOA13"
+        ],
+        "url": "https://www.nodc.noaa.gov/OC5/indprod.html",
+        "description": "World Ocean Atlas 2013 version 2 (WOA13 V2) is a set of objectively analyzed (1\u00b0 grid) climatological fields of in situ temperature, salinity, dissolved oxygen, Apparent Oxygen Utilization (AOU), percent oxygen saturation, phosphate, silicate, and nitrate at standard depth levels for annual, seasonal, and monthly compositing periods for the World Ocean. It also includes associated statistical fields of observed oceanographic profile data interpolated to standard depth levels on 5\u00b0, 1\u00b0, and 0.25\u00b0 grids."
     },
-	{
+    {
         "id": "dataset-725",
         "provider": "provider-150",
-        "title": "NOS Hydrographic Survey Data",
+        "title": "National Ocean Service Hydrographic Data",
+        "alt_title": [
+            "NOS Hydrographic Survey Data",
+            "National Ocean Service Hydrographic Data Base",
+            "NOSHDB"
+        ],
         "url": "https://www.ngdc.noaa.gov/mgg/bathymetry/hydro.html",
         "description": "NCEI maintains the National Ocean Service Hydrographic Data Base (NOSHDB) and Hydrographic Survey Meta Data Base (HSMDB). Both are populated by the Office of Coast Survey and National Geodetic Service, and provide coverage of coastal waters and the U.S. exclusive economic zone and its territories."
     },
-	{
+    {
         "id": "dataset-726",
         "provider": "provider-150",
         "title": "Recreational Fishing Data",
+        "alt_title": [
+            "Recreational Fisheries Statistics"
+        ],
         "url": "https://www.st.nmfs.noaa.gov/recreational-fisheries/data-and-documentation/queries/index",
         "description": "Through the Marine Recreational Information Program (MRIP), NOAA Fisheries and its state, regional, and federal partners use in-person, telephone, and mail fishing surveys to measure the number of trips saltwater anglers take and the number of fish they catch. When combined with commercial catch data, biological research, and direct observation of a fishery, these recreational catch and effort estimates help scientists and managers assess and maintain sustainable U.S. fish stocks."
+    },
+	{
+        "id": "dataset-727",
+        "provider": "provider-313",
+        "title": "SRAL Level 2 Altimetry Global in NTC - Sentinel-3",
+        "alt_title": [
+            "Sentinel-3A/3B SAR Radar Altimeter Level 2 Non-Time-Critical (NTC)"
+        ],
+        "url": "https://navigator.eumetsat.int/product/EO:EUM:DAT:SENTINEL-3:SR_2_WAT___NTC",
+        "description": "Sentinel-3 is a dedicated Copernicus satellite mission delivering a variety of high-quality ocean measurements. The mission's main objective in support to the Marine Environment is to determine parameters such as sea-surface topography, sea-surface temperature and ocean-surface colour. It provides two day global coverage optical data (with two satellites), as well as altimetry measurements, for sea and land applications with real-time products delivered in less than three hours. The satellites are operationally managed from the EUMETSAT Sentinel-3 Marine Centre."
     },
 	{
         "id": "dataset-728",
@@ -7860,5 +7934,77 @@
         ],
         "url": "https://www.esrl.noaa.gov/gmd/dv/data/",
         "description": "NOAA/ESRL's Global Monitoring Division (GMD) of the National Oceanic and Atmospheric Administration conducts research that addresses three major challenges; greenhouse gas and carbon cycle feedbacks, changes in clouds, aerosols, and surface radiation, and recovery of stratospheric ozone."
+	},
+    {
+        "id": "dataset-729",
+        "provider": "provider-150",
+        "title": "Jason-3 Level-2 X-GDR",
+        "alt_title": [
+            "Jason-3 Geophysical Data Records"
+        ],
+        "url": "http://data.nodc.noaa.gov/jason3/",
+        "description": "Jason-3 is the follow-on altimetry mission of Jason-2 / OSTM (launch June 20, 2008) led by the operational agencies: NOAA, EUMETSAT, and CNES. The objective of the Jason-3 Mission is to provide continuity to the unique accuracy and coverage of the TOPEX/Poseidon, Jason-1 and OSTM/Jason-2 missions in support of operational applications related to extreme weather events and operational oceanography and climate applications and forecasting."
+    },
+    {
+        "id": "dataset-730",
+        "provider": "provider-312",
+        "title": "Cooperative Land Cover Map",
+        "url": "https://www.fnai.org/LandCover.cfm",
+        "description": "The Florida Cooperative Land Cover Map (CLC) is a partnership between the Florida Fish and Wildlife Conservation Commission (FWC) and Florida Natural Areas Inventory (FNAI) to develop ecologically-based statewide land cover from existing sources and expert review of aerial photography."
+    },
+    {
+        "id": "dataset-731",
+        "provider": "provider-314",
+        "title": "Florida LiDAR and Digital Elevation Data",
+        "url": "https://www.floridadisaster.org/gis/lidar/"
+    },
+    {
+        "id": "dataset-732",
+        "provider": "provider-316",
+        "title": "Rhode Island Geographic Information System",
+        "alt_title": [
+            "RIGIS",
+            "RIGIS data"
+        ],
+        "url": "http://www.rigis.org/",
+        "description": "The Rhode Island Geographic Information System (RIGIS) is a consortium of government and private organizations employing computer and communications technology to manage and use a collective database of comprehensive geographically related information. The mission of the RIGIS is to monitor, coordinate, and provide leadership for activities related to the use of GIS technology within Rhode Island, to support initiatives to implement or use the technology, and to manage and provide access to a common database of geographically referenced information."
+    },
+    {
+        "id": "dataset-733",
+        "provider": "provider-317",
+        "title": "University of Florida GeoPlan Center Digital Elevation Model",
+        "alt_title": [
+            "ufl dem"
+        ],
+        "url": "https://sls.geoplan.ufl.edu/download-data/",
+        "description": "The SLR inundation surfaces available for download on this page were created by the University of Florida GeoPlan Center using the United States Army Corps of Engineers (USACE) Sea-Level Change Curve Calculator (2015.46), USACE SLR projections (2013), National Oceanic and Atmospheric Administration (NOAA) SLR projections (2012), NOAA tide gauge data, NOAA tidal surfaces, and a 5-meter horizontal resolution Digital Elevation Model (DEM).  SLR scenarios were mapped by county using local tide gauge data and sea level trends."
+    },
+    {
+        "id": "dataset-734",
+        "provider": "provider-150",
+        "title": "Sea Level Change Curve Calculator",
+        "url": "https://coast.noaa.gov/digitalcoast/tools/curve.html",
+        "description": "This web-based tool calculates projected rates of sea level change for any location along the U.S. coast. The tool can be used to assess vulnerability to future sea level change and to compare several published sea level rise scenarios."
+    },
+    {
+        "id": "dataset-736",
+        "provider": "provider-315",
+        "title": "IMOS - SRS Surface Waves Sub-Facility - altimeter wave/wind",
+        "alt_title": [
+            "Surface Waves - altimeter wave/wind",
+            "Surface Waves Sub-Facility Altimeter Wave/Wind"
+        ],
+        "url": "https://catalogue-imos.aodn.org.au/geonetwork/srv/eng/metadata.show?uuid=91ae1b2f-39e4-4d30-a853-5deb774614ca",
+        "description": "This database contains global data of wind speed and wave height obtained from all the altimeter missions which have flown since 1985. The data has been calibrated against NDBC buoy data and validated with independent buoy measurements and at cross-over points with other altimeter missions. The long term stability of the data has been assessed against buoy data and any discontinuities which may occur due to changes in the processing techniques or instrumentation has been removed in the calibration process."
+    },
+    {
+        "id": "dataset-737",
+        "provider": "provider-285",
+        "title": "QuikSCAT",
+        "alt_title": [
+            "Quick Scatterometer (QuikSCAT) satellite"
+        ],
+        "url": "https://podaac.jpl.nasa.gov/datasetlist?search=QUIKSCAT",
+        "description": "The SeaWinds instrument on the QuikSCAT satellite was a specialized microwave radar that measured near-surface wind speed and direction under all weather and cloud conditions over Earth's oceans. The SeaWinds on QuikSCAT mission was a 'quick recovery' mission to fill the gap created by the loss of data from the NASA Scatterometer (NSCAT) in 1997."
     }
 ]
