@@ -4436,7 +4436,8 @@
     },
     {
         "alt_title": [
-            "IN CHE Enrollment Data"
+            "IN CHE Enrollment Data",
+            "Post-Secondary Education Enrollment Data"
         ],
         "id": "dataset-376",
         "provider": "provider-083",
@@ -4445,7 +4446,8 @@
     },
     {
         "alt_title": [
-            "IN CHE Completion Data"
+            "IN CHE Completion Data",
+            "Post-Secondary Education Completion Data"
         ],
         "id": "dataset-377",
         "provider": "provider-083",
