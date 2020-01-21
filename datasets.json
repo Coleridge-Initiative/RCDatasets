@@ -3691,7 +3691,7 @@
         "id": "dataset-314",
         "provider": "provider-248",
         "title": "Seattle Obesity Study",
-        "url": "https://depts.washington.edu/uwcphn/work/cor/diet_disparities.shtml"
+        "url": "https://nutr.uw.edu/cphn_project/seattle-obesity-study-iii-the-food-fitness-environment-study/"
     },
     {
         "alt_title": [
@@ -4436,7 +4436,7 @@
     },
     {
         "alt_title": [
-            "IN CHH Enrollment Data"
+            "IN CHE Enrollment Data"
         ],
         "id": "dataset-376",
         "provider": "provider-083",
@@ -4445,7 +4445,7 @@
     },
     {
         "alt_title": [
-            "IN CHH Completion Data"
+            "IN CHE Completion Data"
         ],
         "id": "dataset-377",
         "provider": "provider-083",
@@ -5926,7 +5926,7 @@
             ]
         },
         "provider": "provider-085",
-        "title": "State of Indiana Unemployment Insurance"
+        "title": "Indiana Unemployment Insurance"
     },
     {
         "alt_title": [
@@ -6834,12 +6834,14 @@
         "alt_title": [
             "SLR",
             "SLR Data",
-            "Sea Level Rise Data"
+            "Sea Level Rise Data",
+            "SLR Projections"
         ],
         "id": "dataset-610",
         "provider": "provider-150",
         "title": "Sea Level Rise Inundation",
-        "url": "https://coast.noaa.gov/digitalcoast/data/slr.html"
+        "url": "https://coast.noaa.gov/digitalcoast/data/slr.html",
+        "description":"These data illustrate potential flooding from future sea level rise—from current mean higher high water to a six-foot rise. Mapping confidence layers highlight errors related to elevation and water height data. All data are based on the best available elevation data."
     },
     {
         "alt_title": [
@@ -7977,7 +7979,16 @@
             "ufl dem"
         ],
         "url": "https://sls.geoplan.ufl.edu/download-data/",
-        "description": "The SLR inundation surfaces available for download on this page were created by the University of Florida GeoPlan Center using the United States Army Corps of Engineers (USACE) Sea-Level Change Curve Calculator (2015.46), USACE SLR projections (2013), National Oceanic and Atmospheric Administration (NOAA) SLR projections (2012), NOAA tide gauge data, NOAA tidal surfaces, and a 5-meter horizontal resolution Digital Elevation Model (DEM).  SLR scenarios were mapped by county using local tide gauge data and sea level trends."
+        "description": "The SLR inundation surfaces available for download on this page were created by the University of Florida GeoPlan Center using the United States Army Corps of Engineers (USACE) Sea-Level Change Curve Calculator (2015.46), USACE SLR projections (2013), National Oceanic and Atmospheric Administration (NOAA) SLR projections (2012), NOAA tide gauge data, NOAA tidal surfaces, and a 5-meter horizontal resolution Digital Elevation Model (DEM).  SLR scenarios were mapped by county using local tide gauge data and sea level trends.",
+        "original":{
+            "related_to":[
+                "dataset-645",
+                "dataset-610",
+                "dataset-614",
+                "dataset-631"
+                ]
+        }
+
     },
     {
         "id": "dataset-734",
@@ -7998,6 +8009,86 @@
         "description": "This database contains global data of wind speed and wave height obtained from all the altimeter missions which have flown since 1985. The data has been calibrated against NDBC buoy data and validated with independent buoy measurements and at cross-over points with other altimeter missions. The long term stability of the data has been assessed against buoy data and any discontinuities which may occur due to changes in the processing techniques or instrumentation has been removed in the calibration process."
     },
     {
+        "id": "dataset-744",
+        "provider": "provider-229",
+        "title": "Annual TANF Work Participation Rates",
+        "alt_title": [
+            "TANF",
+            "Work Participation",
+            "Temporary Assistance for Needy Families"
+        ],
+        "url": "https://www.acf.hhs.gov/ofa/resource-library/search?area%5B2377%5D=2377&topic%5B2357%5D=2357&type%5B3084%5D=3084",
+        "description": "Work participation data by fiscal year for Temporary Assistance for Needy Families (TANF) and Separate State Programs - Maintenance of Effort (SSP-MOE) Work Participation Rates and Engagement in Work Activities."
+    },
+    {
+        "id": "dataset-745",
+        "provider": "provider-229",
+        "title": "Annual TANF Caseload Data",
+        "alt_title": [
+            "TANF",
+            "Temporary Assistance for Needy Families"
+        ],
+        "url": "https://www.acf.hhs.gov/ofa/resource-library/search?area%5B2377%5D=2377&topic%5B2351%5D=2351&type%5B3084%5D=3084",
+        "description": "Annual caseload data for Temporary Assistance for Needy Families (TANF) and Separate State Programs."
+    },
+    {
+        "id": "dataset-746",
+        "provider": "provider-229",
+        "title": "Annual TANF Expenditure Data",
+        "alt_title": [
+            "TANF",
+            "Temporary Assistance for Needy Families"
+        ],
+        "url": "https://www.acf.hhs.gov/ofa/resource-library/search?area%5B2377%5D=2377&topic%5B5530%5D=5530&type%5B3084%5D=3084",
+        "description": "Annual expenditure and financial data for Temporary Assistance for Needy Families (TANF) and Separate State Programs."
+    },
+    {
+        "id": "dataset-747",
+        "provider": "provider-016",
+        "title": "CalWORKs Cash Grant Caseload",
+        "alt_title": [
+            "CalWORKs",
+            "Temporary Assistance for Needy Families",
+            "CA 237 CW"
+        ],
+        "url": "https://www.cdss.ca.gov/inforesources/research-and-data/calworks-data-tables/ca-237-cw",
+        "description": "Includes data on CalWORKs caseload movement for Two Parent Families, Zero Parent Families, All Other Families, TANF Timed-Out, Safety Net, Fleeing Felon and Long Term Sanction cases. This report includes data on applications requested or restored, the number of cases added during the month, the number of cases exiting during the month, and the number of cases transferred from other counties during the month."
+    },
+    {
+        "id": "dataset-748",
+        "provider": "provider-016",
+        "title": "CalWORKs Cash Grant Discontinuances",
+        "alt_title": [
+            "CalWORKs",
+            "Temporary Assistance for Needy Families",
+            "CA 253 CW"
+        ],
+        "url": "https://www.cdss.ca.gov/inforesources/research-and-data/calworks-data-tables/ca-253-cw",
+        "description": "Includes data on the number of CalWORKs cases discontinued from the cash grant program for Two Parent Families, Zero Parent Families, All Other Families, TANF Timed-Out, Safety Net, Fleeing Felon and Long-Term Sanction cases. The report includes reasons for discontinuance of these cases, and data on the movement of cases within the specific family segments in the CalWORKs program."
+    },
+    {
+        "id": "dataset-749",
+        "provider": "provider-016",
+        "title": "CalWORKs Cash Grant Denials",
+        "alt_title": [
+            "CalWORKs",
+            "Temporary Assistance for Needy Families",
+            "CA 255 CW"
+        ],
+        "url": "https://www.cdss.ca.gov/inforesources/research-and-data/calworks-data-tables/ca-255-cw",
+        "description": "Includes data on the number of CalWORKs cases denied and the reasons for denial for Two Parent Families, Zero Parent Families, All Other Families, TANF Timed-Out, Safety Net, Fleeing Felon and Long-Term Sanction cases during the month. This report also includes the number of applications canceled or withdrawn, and the number of non-approvals because the client could not be located or had moved."
+    },
+    {
+        "id": "dataset-750",
+        "provider": "provider-224",
+        "title": "Local Area Unemployment Statistics",
+        "alt_title": [
+            "LAUS",
+            "Unemployment"
+        ],
+        "url": "https://www.bls.gov/lau/#tables",
+        "description": "The Local Area Unemployment Statistics (LAUS) program produces monthly and annual employment, unemployment, and labor force data for Census regions and divisions, States, counties, metropolitan areas, and many cities, by place of residence."
+    },
         "id": "dataset-737",
         "provider": "provider-285",
         "title": "QuikSCAT",
@@ -8007,4 +8098,5 @@
         "url": "https://podaac.jpl.nasa.gov/datasetlist?search=QUIKSCAT",
         "description": "The SeaWinds instrument on the QuikSCAT satellite was a specialized microwave radar that measured near-surface wind speed and direction under all weather and cloud conditions over Earth's oceans. The SeaWinds on QuikSCAT mission was a 'quick recovery' mission to fill the gap created by the loss of data from the NASA Scatterometer (NSCAT) in 1997."
     }
+
 ]
