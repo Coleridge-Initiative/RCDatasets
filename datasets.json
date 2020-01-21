@@ -3691,7 +3691,7 @@
         "id": "dataset-314",
         "provider": "provider-248",
         "title": "Seattle Obesity Study",
-        "url": "https://depts.washington.edu/uwcphn/work/cor/diet_disparities.shtml"
+        "url": "https://nutr.uw.edu/cphn_project/seattle-obesity-study-iii-the-food-fitness-environment-study/"
     },
     {
         "alt_title": [
@@ -4436,7 +4436,7 @@
     },
     {
         "alt_title": [
-            "IN CHH Enrollment Data"
+            "IN CHE Enrollment Data"
         ],
         "id": "dataset-376",
         "provider": "provider-083",
@@ -4445,7 +4445,7 @@
     },
     {
         "alt_title": [
-            "IN CHH Completion Data"
+            "IN CHE Completion Data"
         ],
         "id": "dataset-377",
         "provider": "provider-083",
@@ -5926,7 +5926,7 @@
             ]
         },
         "provider": "provider-085",
-        "title": "State of Indiana Unemployment Insurance"
+        "title": "Indiana Unemployment Insurance"
     },
     {
         "alt_title": [
