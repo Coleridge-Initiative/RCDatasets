@@ -7989,6 +7989,17 @@
     },
     {
         "alt_title": [
+            "CloudSat",
+            "CloudSat Data"
+        ],
+        "description": "CloudSat is a satellite mission designed to measure the vertical structure of clouds from space. The radar data produces detailed images of cloud structures. CloudSat is one of a constellation of satellites known as the A-Train (Cloudsat, CALIPSO, PARASOL, Aqua, Aura, GCOM-W1). The satellites fly in a nearly circular orbit with an equatorial altitude of approximately 705 km. The orbit is sun-synchronous, maintaining a roughly fixed angle between the orbital plane and the mean solar meridian. CloudSat maintains a close formation with Aqua and a particularly close formation with CALIPSO, providing near-simultaneous and collocated observations with the instruments on these two platforms.",
+        "id": "dataset-735",
+        "provider": "provider-285",
+        "title": "CloudSat Standard Data",
+        "url": "https://cloudsat.atmos.colostate.edu/data"
+    },
+    {
+        "alt_title": [
             "Surface Waves - altimeter wave/wind",
             "Surface Waves Sub-Facility Altimeter Wave/Wind"
         ],
@@ -8193,6 +8204,83 @@
         "url": "http://www.argo.ucsd.edu/Gridded_fields.html"
     },
     {
+        "alt_title": [
+            "COSMO-REA6",
+            "COSMO-REA6 Data"
+        ],
+        "description": "The high-resolution reanalysis system COSMO-REA6 has been developed based on the NWP model COSMO. The regional reanalysis system for Continental Europe matches the domain of the CORDEX EURO-11 specifications, albeit at a higher spatial resolution, i.e., 0.055° (6 km) instead of 0.11° (12 km). It comprises the assimilation of observational data using the existing nudging scheme of COSMO complemented by snow, SST and soil moisture analysis modules and uses ERA‐Interim data as lateral boundary conditions. The reanalysis data set currently covers the period 1995-2017 and is continuously extended by DWD.",
+        "id": "dataset-760",
+        "provider": "provider-325",
+        "title": "COSMO Regional Reanalysis 6",
+        "url": "https://reanalysis.meteo.uni-bonn.de/?Download_Data___COSMO-REA6"
+    },
+    {
+        "alt_title": [
+            "MERRA-2",
+            "MERRA-2 Data"
+        ],
+        "description": "The Modern-Era Retrospective analysis for Research and Applications, Version 2 (MERRA-2) provides data beginning in 1980. It was introduced to replace the original MERRA dataset because of the advances made in the assimilation system that enable assimilation of modern hyperspectral radiance and microwave observations, along with GPS-Radio Occultation datasets. It also uses NASA's ozone profile observations that began in late 2004. Additional advances in both the GEOS model and the GSI assimilation system are included in MERRA-2. Spatial resolution remains about the same (about 50 km in the latitudinal direction) as in MERRA.",
+        "id": "dataset-761",
+        "provider": "provider-285",
+        "title": "Modern-Era Retrospective analysis for Research and Applications, Version 2",
+        "url": "https://gmao.gsfc.nasa.gov/reanalysis/MERRA-2/data_access/"
+    },
+    {
+        "alt_title": [
+            "ASR",
+            "ASR Data"
+        ],
+        "description": "The Arctic System Reanalysis (ASR) is produced using a high-resolution version of the Polar Weather Research and Forecasting Model (PWRF) and High Resolution Land Data Assimilation (HRLDAS) systems that have been optimized for the Arctic. The final version of 15 km horizontal resolution data set which spans 2000-2016 is available on line through the NCAR's RDA. Similar to ASR version 1, ASR version 2 has 34 pressure levels (71 model levels), 31 surface (including 3 soil variables) and 11 upper air analysis variables, 71 surface (including 3 soil variables) and 17 upper air forecast variables. Both the u- and v- winds relative to grid and relative to earth are present in the final version. The wind speed is also added.ASR version 2 will be updated through 2019, then reran (2000-2019) using the most recent version of Polar WRF and WRFDA plus many other enhancements. This newer version, ASR version 2.5, should be available starting in mid-2020 and will be kept up-to-date through 2020 with a delay of about 3 months.",
+        "id": "dataset-762",
+        "provider": "provider-326",
+        "title": "Arctic System Reanalysis version 2",
+        "url": "https://rda.ucar.edu/datasets/ds631.1/"
+    },
+    {
+        "alt_title": [
+            "ISF",
+            "ISF Data"
+        ],
+        "description": "The hydrostatic version of the IFS is the operational model at ECMWF. IFS has a spectral, semi-implicit, 2 time-level semi-Lagrangian dynamical core. Non-linear processes, physics parametrizations and evolutions of water species and tracers are computed on a reduced Gaussian grid in grid point space. The vertical coordinate is an hybrid pressure coordinate (Simmons and Burridge, 1981) and the operational model uses a finite element discretization in the vertical.",
+        "id": "dataset-763",
+        "provider": "provider-295",
+        "title": "Integrated Forecasting System",
+        "url": "https://www.earthsystemcog.org/projects/dcmip-2012/ifs"
+    },
+    {
+        "alt_title": [
+            "JRA-55",
+            "JRA-55 Data"
+        ],
+        "description": "JMA carried out the second reanalysis project (known as the Japanese 55-year Reanalysis, or JRA-55) using a more sophisticated DA system based on the operational system as of December 2009, and newly prepared dataset of past observations. The analysis period covers the 55 years from 1958, when regular radiosonde observation began on a global basis. Many of the deficiencies of JRA-25 are alleviated in JRA-55 because the DA system used for the project featured a variety of improvements introduced after JRA-25. As a result, the JRA-55 project produced a high-quality homogeneous climate dataset covering the last half century.",
+        "id": "dataset-764",
+        "provider": "provider-327",
+        "title": "the Japanese 55-year Reanalysis",
+        "url": "https://jra.kishou.go.jp/JRA-55/index_en.html"
+    },
+    {
+        "alt_title": [
+            "CERES",
+            "CERES Data"
+        ],
+        "description": "The Clouds and the Earth’s Radiant Energy System (CERES) instrument is one of five instruments that is being flown aboard the Tropical Rainfall Measuring Mission (TRMM) observatory. The data from the CERES instrument was used to study the energy exchanged between the Sun; the Earth’s atmosphere, surface and clouds; and space. However, it only operated during January - August of 1998, and March 2000, so the available data record is quite brief.",
+        "id": "dataset-765",
+        "provider": "provider-285",
+        "title": "Cloud and Earth's Radiant Energy System",
+        "url": "https://ceres.larc.nasa.gov/order_data.php"
+    },
+    {
+        "alt_title": [
+            "GNSS",
+            "GNSS Data"
+        ],
+        "description": "This dataset consists of ground-based Global Navigation Satellite System (GNSS) Observation Data (1-second sampling, sub-hourly files) from the NASA Crustal Dynamics Data Information System (CDDIS). GNSS provide autonomous geo-spatial positioning with global coverage. GNSS data sets from ground receivers at the CDDIS consist primarily of the data from the U.S. Global Positioning System (GPS) and the Russian GLObal NAvigation Satellite System (GLONASS).",
+        "id": "dataset-766",
+        "provider": "provider-285",
+        "title": "Ground-Based Global Navigation Satellite System",
+        "url": "https://catalog.data.gov/dataset/ground-based-global-navigation-satellite-system-gnss-compact-observation-data-1-second-sam"
+    },
+    {
         "description": "This repository contains the Holocene database for SE Asia, Maldives, India and Sri Lanka and GIA models (ICE5G), and scripts to plot data and models",
         "id": "dataset-767",
         "provider": "provider-330",
@@ -8209,5 +8297,15 @@
         "provider": "provider-323",
         "title": "Sea Level Anomoly Time Series",
         "url": "https://aviso-data-center.cnes.fr/"
+    },
+    {
+        "alt_title": [
+            "SM",
+            "ESA CCI SM"
+        ],
+        "id": "dataset-769",
+        "provider": "provider-332",
+        "title": "microwave satellite soil moisture dataset",
+        "url": "https://www.esa-soilmoisture-cci.org/"
     }
 ]
