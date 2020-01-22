@@ -1330,5 +1330,10 @@
     {
         "id": "provider-321",
         "title": "gesla.org"
+    },
+	{
+        "id": "provider-329",
+        "title": "Oregon Department of Geology and Mineral Industries",
+		"ror": "02ddvb580"
     }
 ]
