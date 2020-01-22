@@ -8138,11 +8138,11 @@
         "id": "dataset-751",
         "provider": "provider-081",
         "title": "Illinois Child Care Assistance Program",
-        "alt_title":[
+        "alt_title": [
             "Illinois CCAP",
             "IL CCAP"
         ],
         "url": "https://iecam.illinois.edu/data-definitions/ccap/",
-        "description": "IDHS’s Child Care Assistance Program (CCAP) provides low-income, working families with access to quality, affordable child care that allows them to continue working and contributes to the healthy, emotional and social development of the child."
+        "description": "IDHS\u2019s Child Care Assistance Program (CCAP) provides low-income, working families with access to quality, affordable child care that allows them to continue working and contributes to the healthy, emotional and social development of the child."
     }
 ]
