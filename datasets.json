@@ -8150,5 +8150,19 @@
         "title": "Making Connections data",
         "url": "http://mcstudy.norc.org/data-access/",
         "description": "The Making Connections survey includes questions about the following broad topics: Neighborhood connections, Neighborhood actions, Services and amenities, Organizations and volunteerism, Family hardship, Income and assets."
+    },
+    {
+        "id": "dataset-753",
+        "provider": "provider-328",
+        "title": "Virginia Temporary Assistance for Needy Families Reports",
+        "alt_title": [
+            "TANF",
+            "Virginia TANF",
+            "Temporary Assistance for Needy Families",
+            "Aid to Dependent Families with Children",
+            "Virginia Aid to Dependent Families with Children"
+        ],
+        "url": "https://www.dss.virginia.gov/geninfo/reports/financial_assistance/tanf.cgi",
+        "description": "Virginia Independence Program (VIP) was established to enable welfare (i.e. TANF) recipients to leave the rolls and become self-reliant."
     }
 ]
