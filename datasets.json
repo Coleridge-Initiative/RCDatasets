@@ -498,11 +498,11 @@
             "CPS",
             "ASEC"
         ],
-        "description": "The Current Population Survey Food Security Supplement (CPS-FSS) is the source of national and State-level statistics on food insecurity used in USDA's annual reports on household food security.",
+        "description": "A national survey conducted to produce annual income and migration statistics, including official poverty figures. The ASEC also produces work experience, noncash benefits and health insurance data.",
         "id": "dataset-047",
         "provider": "provider-225",
         "title": "Current Population Survey Annual Social and Economic Supplement",
-        "url": "https://www.ers.usda.gov/data-products/food-security-in-the-united-states/documentation.aspx#cps"
+        "url": "https://catalog.data.gov/dataset/current-population-survey-annual-social-and-economic-supplement"
     },
     {
         "alt_title": [
@@ -2591,7 +2591,7 @@
         "id": "dataset-223",
         "provider": "provider-081",
         "title": "Child Care Resource Service data",
-        "url": "https://www.mass.gov/find-unemployment-rates"
+        "url": "http://ccrs.illinois.edu/"
     },
     {
         "alt_title": [
@@ -3931,14 +3931,13 @@
     {
         "alt_title": [
             "KIDS COUNT",
-            "Annie E. Casey Foundation",
-            "Colorado Kids Count"
+            "Annie E. Casey Foundation"
         ],
-        "description": "Data initiative to assess and share information about the well-being of Colorado's children and trends.",
+        "description": "Data initiative to assess and share information about the well-being of children, and trends. Data available on national-, state-, and city-level.",
         "id": "dataset-334",
         "provider": "provider-025",
         "title": "Kids Count Data Center",
-        "url": "https://datacenter.kidscount.org/data#CO/2/0/char/0"
+        "url": "https://datacenter.kidscount.org/"
     },
     {
         "alt_title": [
@@ -5916,9 +5915,11 @@
     },
     {
         "alt_title": [
-            "UI",
             "Indiana UI",
-            "Indiana Unemployment Insurance"
+            "IN UI",
+            "IN Wage Records",
+            "Indiana Unemployment Insurance",
+            "Indiana wage records"
         ],
         "description": "UI-related data on employment and unemployment.",
         "id": "dataset-521",
@@ -8145,6 +8146,65 @@
     },
     {
         "alt_title": [
+            "Illinois CCAP",
+            "IL CCAP"
+        ],
+        "description": "IDHS’s Child Care Assistance Program (CCAP) provides low-income, working families with access to quality, affordable child care that allows them to continue working and contributes to the healthy, emotional and social development of the child.",
+        "id": "dataset-751",
+        "provider": "provider-081",
+        "title": "Illinois Child Care Assistance Program",
+        "url": "https://iecam.illinois.edu/data-definitions/ccap/"
+    },
+    {
+        "description": "The Making Connections survey includes questions about the following broad topics: Neighborhood connections, Neighborhood actions, Services and amenities, Organizations and volunteerism, Family hardship, Income and assets.",
+        "id": "dataset-752",
+        "provider": "provider-151",
+        "title": "Making Connections data",
+        "url": "http://mcstudy.norc.org/data-access/"
+    },
+    {
+        "alt_title": [
+            "TANF",
+            "Virginia TANF",
+            "Temporary Assistance for Needy Families",
+            "Aid to Dependent Families with Children",
+            "Virginia Aid to Dependent Families with Children"
+        ],
+        "description": "Virginia Independence Program (VIP) was established to enable welfare (i.e. TANF) recipients to leave the rolls and become self-reliant.",
+        "id": "dataset-753",
+        "provider": "provider-328",
+        "title": "Virginia Temporary Assistance for Needy Families Reports",
+        "url": "https://www.dss.virginia.gov/geninfo/reports/financial_assistance/tanf.cgi"
+    },
+    {
+        "alt_title": [
+            "CU sea level data"
+        ],
+        "description": "Since 1993, measurements from the TOPEX and Jason series of satellite radar altimeters have allowed estimates of global mean sea level. These measurements are continuously monitored against a network of tide gauges. When seasonal variations are subtracted, they allow estimation of the global mean sea level rate. As new data, models and corrections become available, we continuously revise these estimates (about every two months) to improve their quality.",
+        "id": "dataset-757",
+        "provider": "provider-322",
+        "title": "Colorado University Sea Level Data",
+        "url": "http://sealevel.colorado.edu/"
+    },
+    {
+        "description": "With the satellite altimetry missions, the global mean sea level (GMSL) has been calculated on a continual basis since January 1993. 'Verification' phases, during which the satellites follow each other in close succession (Topex/Poseidon--Jason-1, Jason-1--Jason-2, then Jason-3--Jason-2), help to link up these different missions by precisely determining any bias between them. Saral, Envisat, ERS-1 and ERS-2 are also used, after being adjusted on these reference missions, in order to compute Mean Sea Level at high latitudes (higher than 66°N and S), and also to improve spatial resolution by combining all these missions together. In addition, permanent monitoring of quality during the missions (Calval) and studies of the necessary corrections of altimetry data regularly add to our understanding and knowledge (see the Processing and corrections applied to each mission to obtain the reference mean sea level).",
+        "id": "dataset-758",
+        "provider": "provider-323",
+        "title": "AVISO+ Sea Level Data",
+        "url": "https://www.aviso.altimetry.fr/en/data/products/ocean-indicators-products/mean-sea-level.html"
+    },
+    {
+        "alt_title": [
+            "UCSD Gridded fields"
+        ],
+        "description": "Argo's more than 3000 floats provide 100,000 plus temperature and salinity profiles each year, but often it is necessary to combine the profiles into a grid to look at different water properties. Argo floats also sample at different pressure levels during ascent and one of the intermediate steps to gridding is to interpolate the Argo profiles all to the same pressure level. This set of standard depth level (sdl) profiles is available for some of the gridded fields. Additionally, trajectories from Argo floats drifting at depth can be used to calculate velocities which may or may not be gridded to examine the currents at 1000 dbars.",
+        "id": "dataset-759",
+        "provider": "provider-324",
+        "title": "Argo Gridded Fields",
+        "url": "http://www.argo.ucsd.edu/Gridded_fields.html"
+    },
+    {
+        "alt_title": [
             "COSMO-REA6",
             "COSMO-REA6 Data"
         ],
@@ -8221,11 +8281,29 @@
         "url": "https://catalog.data.gov/dataset/ground-based-global-navigation-satellite-system-gnss-compact-observation-data-1-second-sam"
     },
     {
+        "description": "This repository contains the Holocene database for SE Asia, Maldives, India and Sri Lanka and GIA models (ICE5G), and scripts to plot data and models",
+        "id": "dataset-767",
+        "provider": "provider-330",
+        "title": "SEAMIS database",
+        "url": "https://github.com/Alerovere/SEAMIS"
+    },
+    {
+        "alt_title": [
+            "SLA Time Series",
+            "SLA",
+            "SLA Data"
+        ],
+        "id": "dataset-768",
+        "provider": "provider-323",
+        "title": "Sea Level Anomoly Time Series",
+        "url": "https://aviso-data-center.cnes.fr/"
+    },
+    {
         "alt_title": [
             "SM",
             "ESA CCI SM"
         ],
-        "id": "dataset-768",
+        "id": "dataset-769",
         "provider": "provider-332",
         "title": "microwave satellite soil moisture dataset",
         "url": "https://www.esa-soilmoisture-cci.org/"

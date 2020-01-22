@@ -328,6 +328,7 @@
     },
     {
         "id": "provider-081",
+        "ror": "03gzw3461",
         "title": "Illinois Department of Human Services"
     },
     {
@@ -1332,6 +1333,20 @@
         "title": "gesla.org"
     },
     {
+        "id": "provider-322",
+        "ror": "00jc20583",
+        "title": "University of Colorado"
+    },
+    {
+        "id": "provider-323",
+        "title": "AVISO+"
+    },
+    {
+        "id": "provider-324",
+        "ror": "0168r3w48",
+        "title": "University of California, San Diego"
+    },
+    {
         "id": "provider-325",
         "ror": "02nrqs528",
         "title": "German Meteorological Service"
@@ -1345,6 +1360,15 @@
         "id": "provider-327",
         "ror": "02772kk97",
         "title": "Japan Meteorological Agency"
+    },
+    {
+        "id": "provider-328",
+        "ror": "03dv5mp96",
+        "title": "Virginia Department of Social Services"
+    },
+    {
+        "id": "provider-330",
+        "title": "Alerovere"
     },
     {
         "id": "provider-332",
