@@ -6871,11 +6871,6 @@
         ],
         "description": "Social vulnerability refers to the resilience of communities when confronted by external stresses on human health, stresses such as natural or human-caused disasters, or disease outbreaks.",
         "id": "dataset-613",
-        "original": {
-            "related_dataset": [
-                "dataset-613"
-            ]
-        },
         "provider": "provider-020",
         "title": "Social Vulnerability Index",
         "url": "https://toolkit.climate.gov/tool/social-vulnerability-index"
