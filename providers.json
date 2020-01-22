@@ -1331,5 +1331,10 @@
     {
         "id": "provider-321",
         "title": "gesla.org"
+    },
+    {
+        "id": "provider-328",
+        "title": "Virginia Department of Social Services",
+        "ror": "03dv5mp96"
     }
 ]
