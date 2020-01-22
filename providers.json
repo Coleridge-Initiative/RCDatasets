@@ -1330,5 +1330,10 @@
     {
         "id": "provider-321",
         "title": "gesla.org"
+    },
+    {
+        "id": "provider-322",
+        "title": "Illinois Department of Human Services",
+        "ror":"03gzw3461"
     }
 ]
