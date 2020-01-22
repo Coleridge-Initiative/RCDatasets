@@ -1,10 +1,13 @@
 #!/usr/bin/env python
 #encoding: utf-8
 
+from pathlib import Path
 from urllib.parse import urlparse
+import codecs
 import json
 import re
 import sys
+import traceback
 import unittest
 
 
@@ -46,19 +49,24 @@ class TestVerifyDatasets (unittest.TestCase):
 
 
     def setUp (self):
-        """load the dataset list"""
+        """load the dataset list
+        """
         self.datasets = []
         self.providers = {}
 
-        filename = "datasets.json"
+        with codecs.open(Path("datasets.json"), "r", encoding="utf8") as f:
+            try:
+                self.datasets = json.load(f)
+            except Exception:
+                traceback.print_exc()
+                self.fail("datasets.json could not be read")
 
-        with open(filename, "r") as f:
-            self.datasets = json.load(f)
-
-        filename = "providers.json"
-
-        with open(filename, "r") as f:
-            self.providers = json.load(f)
+        with codecs.open(Path("providers.json"), "r", encoding="utf8") as f:
+            try:
+                self.providers = json.load(f)
+            except Exception:
+                traceback.print_exc()
+                self.fail("providers.json could not be read")
 
 
     def test_file_loaded (self):

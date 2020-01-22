@@ -21,13 +21,13 @@
     },
     {
         "id": "provider-005",
-        "title": "Amazon",
-        "ror": "04mv4n011"
+        "ror": "04mv4n011",
+        "title": "Amazon"
     },
     {
         "id": "provider-006",
-        "title": "American Hospital Association",
-        "ror": "04z9zma62"
+        "ror": "04z9zma62",
+        "title": "American Hospital Association"
     },
     {
         "id": "provider-007",
@@ -83,8 +83,8 @@
     },
     {
         "id": "provider-020",
-        "title": "Centers for Disease Control and Prevention",
-        "ror": "042twtr12"
+        "ror": "042twtr12",
+        "title": "Centers for Disease Control and Prevention"
     },
     {
         "id": "provider-021",
@@ -148,7 +148,7 @@
     },
     {
         "id": "provider-036",
-        "title": "Departamento Administrativo Nacional de Estadi\u0301stica"
+        "title": "Departamento Administrativo Nacional de Estadística"
     },
     {
         "id": "provider-039",
@@ -156,8 +156,8 @@
     },
     {
         "id": "provider-040",
-        "title": "Deutsche Bundesbank",
-        "ror": "03jvfq589"
+        "ror": "03jvfq589",
+        "title": "Deutsche Bundesbank"
     },
     {
         "id": "provider-041",
@@ -177,13 +177,13 @@
     },
     {
         "id": "provider-045",
-        "title": "European Central Bank",
-        "ror": "00ajckn66"
+        "ror": "00ajckn66",
+        "title": "European Central Bank"
     },
     {
         "id": "provider-046",
-        "title": "European Commission Eurostat",
-        "ror": "033d3q980"
+        "ror": "033d3q980",
+        "title": "European Commission Eurostat"
     },
     {
         "id": "provider-047",
@@ -191,8 +191,8 @@
     },
     {
         "id": "provider-048",
-        "title": "Federal Emergency Management Agency",
-        "ror": "01g9x3v85"
+        "ror": "01g9x3v85",
+        "title": "Federal Emergency Management Agency"
     },
     {
         "id": "provider-049",
@@ -204,8 +204,8 @@
     },
     {
         "id": "provider-051",
-        "title": "Federal Bureau of Investigation",
-        "ror": "00ta5r839"
+        "ror": "00ta5r839",
+        "title": "Federal Bureau of Investigation"
     },
     {
         "id": "provider-052",
@@ -221,13 +221,13 @@
     },
     {
         "id": "provider-055",
-        "title": "Federal Reserve Bank of St. Louis",
-        "ror": "02skhjj30"
+        "ror": "02skhjj30",
+        "title": "Federal Reserve Bank of St. Louis"
     },
     {
         "id": "provider-056",
-        "title": "Federal Reserve System",
-        "ror": "05fk5tr28"
+        "ror": "05fk5tr28",
+        "title": "Federal Reserve System"
     },
     {
         "id": "provider-057",
@@ -271,8 +271,8 @@
     },
     {
         "id": "provider-067",
-        "title": "Google",
-        "ror": "00njsd438"
+        "ror": "00njsd438",
+        "title": "Google"
     },
     {
         "id": "provider-068",
@@ -328,8 +328,8 @@
     },
     {
         "id": "provider-081",
-        "title": "Illinois Department of Human Services",
-        "ror": "03gzw3461"
+        "ror": "03gzw3461",
+        "title": "Illinois Department of Human Services"
     },
     {
         "id": "provider-082",
@@ -369,15 +369,15 @@
     },
     {
         "id": "provider-091",
-        "title": "Instituto Brasileiro de Geografia e Estati\u0301stica"
+        "title": "Instituto Brasileiro de Geografia e Estatística"
     },
     {
         "id": "provider-092",
-        "title": "Instituto Nacional de Estadi\u0301stica Guatemala"
+        "title": "Instituto Nacional de Estadística Guatemala"
     },
     {
         "id": "provider-093",
-        "title": "Instituto Nacional de Estadi\u0301stica y Geografi\u0301a"
+        "title": "Instituto Nacional de Estadística y Geografía"
     },
     {
         "id": "provider-094",
@@ -385,8 +385,8 @@
     },
     {
         "id": "provider-095",
-        "title": "International Monetary Fund",
-        "ror": "05m4rmw09"
+        "ror": "05m4rmw09",
+        "title": "International Monetary Fund"
     },
     {
         "id": "provider-096",
@@ -434,8 +434,8 @@
     },
     {
         "id": "provider-107",
-        "title": "Leibniz Institute for the Social Sciences",
-        "ror": "018afyw53"
+        "ror": "018afyw53",
+        "title": "Leibniz Institute for the Social Sciences"
     },
     {
         "id": "provider-108",
@@ -451,8 +451,8 @@
     },
     {
         "id": "provider-111",
-        "title": "MDRC",
-        "ror": "035kd4890"
+        "ror": "035kd4890",
+        "title": "MDRC"
     },
     {
         "id": "provider-112",
@@ -608,8 +608,8 @@
     },
     {
         "id": "provider-150",
-        "title": "NOAA",
-        "ror": "02z5nhe81"
+        "ror": "02z5nhe81",
+        "title": "NOAA"
     },
     {
         "id": "provider-151",
@@ -649,8 +649,8 @@
     },
     {
         "id": "provider-160",
-        "title": "National Institutes of Health",
-        "ror": "01cwqze88"
+        "ror": "01cwqze88",
+        "title": "National Institutes of Health"
     },
     {
         "id": "provider-161",
@@ -658,13 +658,13 @@
     },
     {
         "id": "provider-162",
-        "title": "National Science Foundation",
-        "ror": "021nxhr62"
+        "ror": "021nxhr62",
+        "title": "National Science Foundation"
     },
     {
         "id": "provider-163",
-        "title": "National Student Clearinghouse Research Center",
-        "ror": "05ppfa149"
+        "ror": "05ppfa149",
+        "title": "National Student Clearinghouse Research Center"
     },
     {
         "id": "provider-164",
@@ -764,8 +764,8 @@
     },
     {
         "id": "provider-188",
-        "title": "Organisation for Economic Co-operation and Development",
-        "ror": "0438wbg98"
+        "ror": "0438wbg98",
+        "title": "Organisation for Economic Co-operation and Development"
     },
     {
         "id": "provider-189",
@@ -781,8 +781,8 @@
     },
     {
         "id": "provider-192",
-        "title": "Pew Research Center",
-        "ror": "02tvvdy44"
+        "ror": "02tvvdy44",
+        "title": "Pew Research Center"
     },
     {
         "id": "provider-193",
@@ -798,8 +798,8 @@
     },
     {
         "id": "provider-196",
-        "title": "US Social Security Administration",
-        "ror": "04b7xxn32"
+        "ror": "04b7xxn32",
+        "title": "US Social Security Administration"
     },
     {
         "id": "provider-197",
@@ -855,8 +855,8 @@
     },
     {
         "id": "provider-210",
-        "title": "Statistics Canada",
-        "ror": "05k71ja87"
+        "ror": "05k71ja87",
+        "title": "Statistics Canada"
     },
     {
         "id": "provider-211",
@@ -880,13 +880,13 @@
     },
     {
         "id": "provider-216",
-        "title": "Rockefeller Foundation",
-        "ror": "03sfkwk85"
+        "ror": "03sfkwk85",
+        "title": "Rockefeller Foundation"
     },
     {
         "id": "provider-217",
-        "title": "World Bank",
-        "ror": "00ae7jd04"
+        "ror": "00ae7jd04",
+        "title": "World Bank"
     },
     {
         "id": "provider-218",
@@ -902,13 +902,13 @@
     },
     {
         "id": "provider-221",
-        "title": "US Agency for International Development",
-        "ror": "01n6e6j62"
+        "ror": "01n6e6j62",
+        "title": "US Agency for International Development"
     },
     {
         "id": "provider-222",
-        "title": "US Bureau of Economic Analysis",
-        "ror": "03b17a012"
+        "ror": "03b17a012",
+        "title": "US Bureau of Economic Analysis"
     },
     {
         "id": "provider-223",
@@ -916,18 +916,18 @@
     },
     {
         "id": "provider-224",
-        "title": "US Bureau of Labor Statistics",
-        "ror": "03z2d7y96"
+        "ror": "03z2d7y96",
+        "title": "US Bureau of Labor Statistics"
     },
     {
         "id": "provider-225",
-        "title": "US Census Bureau",
-        "ror": "01qn7cs15"
+        "ror": "01qn7cs15",
+        "title": "US Census Bureau"
     },
     {
         "id": "provider-226",
-        "title": "US Department of Agriculture",
-        "ror": "01na82s61"
+        "ror": "01na82s61",
+        "title": "US Department of Agriculture"
     },
     {
         "id": "provider-227",
@@ -935,13 +935,13 @@
     },
     {
         "id": "provider-229",
-        "title": "US Department of Health and Human Services",
-        "ror": "033jnv181"
+        "ror": "033jnv181",
+        "title": "US Department of Health and Human Services"
     },
     {
         "id": "provider-230",
-        "title": "US Department of Homeland Security",
-        "ror": "00jyr0d86"
+        "ror": "00jyr0d86",
+        "title": "US Department of Homeland Security"
     },
     {
         "id": "provider-231",
@@ -949,28 +949,28 @@
     },
     {
         "id": "provider-232",
-        "title": "US Department of Labor",
-        "ror": "05mbkbj54"
+        "ror": "05mbkbj54",
+        "title": "US Department of Labor"
     },
     {
         "id": "provider-233",
-        "title": "US Environmental Protection Agency",
-        "ror": "03tns0030"
+        "ror": "03tns0030",
+        "title": "US Environmental Protection Agency"
     },
     {
         "id": "provider-234",
-        "title": "US Equal Employment Opportunity Commission",
-        "ror": "035skgh09"
+        "ror": "035skgh09",
+        "title": "US Equal Employment Opportunity Commission"
     },
     {
         "id": "provider-235",
-        "title": "US Food and Drug Administration",
-        "ror": "034xvzb47"
+        "ror": "034xvzb47",
+        "title": "US Food and Drug Administration"
     },
     {
         "id": "provider-236",
-        "title": "US Geological Survey",
-        "ror": "035a68863"
+        "ror": "035a68863",
+        "title": "US Geological Survey"
     },
     {
         "id": "provider-237",
@@ -978,13 +978,13 @@
     },
     {
         "id": "provider-238",
-        "title": "US Patent and Trademark Office",
-        "ror": "0114yjq47"
+        "ror": "0114yjq47",
+        "title": "US Patent and Trademark Office"
     },
     {
         "id": "provider-239",
-        "title": "United Nations Economic Commission for Europe",
-        "ror": "038dn8481"
+        "ror": "038dn8481",
+        "title": "United Nations Economic Commission for Europe"
     },
     {
         "id": "provider-240",
@@ -1036,7 +1036,7 @@
     },
     {
         "id": "provider-252",
-        "title": "Uruguay Instituto Nacional de Estadi\u0301stica"
+        "title": "Uruguay Instituto Nacional de Estadística"
     },
     {
         "id": "provider-253",
@@ -1164,23 +1164,23 @@
     },
     {
         "id": "provider-284",
-        "title": "US Army Corps of Engineers",
-        "ror": "05w4e8v21"
+        "ror": "05w4e8v21",
+        "title": "US Army Corps of Engineers"
     },
     {
         "id": "provider-285",
-        "title": "NASA",
-        "ror": "027ka1x80"
+        "ror": "027ka1x80",
+        "title": "NASA"
     },
     {
         "id": "provider-286",
-        "title": "Zillow",
-        "ror": "03n86v874"
+        "ror": "03n86v874",
+        "title": "Zillow"
     },
     {
         "id": "provider-287",
-        "title": "Climate Central",
-        "ror": "01ge84v72"
+        "ror": "01ge84v72",
+        "title": "Climate Central"
     },
     {
         "id": "provider-288",
@@ -1208,13 +1208,13 @@
     },
     {
         "id": "provider-294",
-        "title": "US Department of Energy",
-        "ror": "01bj3aw27"
+        "ror": "01bj3aw27",
+        "title": "US Department of Energy"
     },
     {
         "id": "provider-295",
-        "title": "European Centre for Medium-Range Weather Forecasts (ECMWF)",
-        "ror": "014w0fd65"
+        "ror": "014w0fd65",
+        "title": "European Centre for Medium-Range Weather Forecasts (ECMWF)"
     },
     {
         "id": "provider-296",
@@ -1222,23 +1222,23 @@
     },
     {
         "id": "provider-297",
-        "title": "Centers for Medicare & Medicaid Services",
-        "ror": "02g02rq35"
+        "ror": "02g02rq35",
+        "title": "Centers for Medicare & Medicaid Services"
     },
     {
         "id": "provider-298",
-        "title": "Maryland State Department of Education",
-        "ror": "00vtxwn66"
+        "ror": "00vtxwn66",
+        "title": "Maryland State Department of Education"
     },
     {
         "id": "provider-299",
-        "title": "US Energy Information Administration",
-        "ror": "01h04ms65"
+        "ror": "01h04ms65",
+        "title": "US Energy Information Administration"
     },
     {
         "id": "provider-300",
-        "title": "Oak Ridge National Laboratory",
-        "ror": "01qz5mb56"
+        "ror": "01qz5mb56",
+        "title": "Oak Ridge National Laboratory"
     },
     {
         "id": "provider-301",
@@ -1250,13 +1250,13 @@
     },
     {
         "id": "provider-303",
-        "title": "Iowa State University",
-        "ror": "04rswrd78"
+        "ror": "04rswrd78",
+        "title": "Iowa State University"
     },
     {
         "id": "provider-304",
-        "title": "US Fish and Wildlife Service",
-        "ror": "04k7dar27"
+        "ror": "04k7dar27",
+        "title": "US Fish and Wildlife Service"
     },
     {
         "id": "provider-305",
@@ -1264,13 +1264,13 @@
     },
     {
         "id": "provider-306",
-        "title": "Oregon State University",
-        "ror": "00ysfqy60"
+        "ror": "00ysfqy60",
+        "title": "Oregon State University"
     },
     {
         "id": "provider-307",
-        "title": "European Centre for Medium-Range Weather Forecasts",
-        "ror": "014w0fd65"
+        "ror": "014w0fd65",
+        "title": "European Centre for Medium-Range Weather Forecasts"
     },
     {
         "id": "provider-308",
@@ -1278,8 +1278,8 @@
     },
     {
         "id": "provider-309",
-        "title": "California Natural Resources Agency",
-        "ror": "0115n5160"
+        "ror": "0115n5160",
+        "title": "California Natural Resources Agency"
     },
     {
         "id": "provider-310",
@@ -1307,18 +1307,18 @@
     },
     {
         "id": "provider-316",
-        "title": "University of Rhode Island",
-        "ror": "013ckk937"
+        "ror": "013ckk937",
+        "title": "University of Rhode Island"
     },
     {
         "id": "provider-317",
-        "title": "University of Florida",
-        "ror": "02y3ad647"
+        "ror": "02y3ad647",
+        "title": "University of Florida"
     },
     {
         "id": "provider-318",
-        "title": "Columbia University",
-        "ror": "00hj8s172"
+        "ror": "00hj8s172",
+        "title": "Columbia University"
     },
     {
         "id": "provider-319",
@@ -1333,8 +1333,26 @@
         "title": "gesla.org"
     },
     {
+        "id": "provider-322",
+        "ror": "00jc20583",
+        "title": "University of Colorado"
+    },
+    {
+        "id": "provider-323",
+        "title": "AVISO+"
+    },
+    {
+        "id": "provider-324",
+        "ror": "0168r3w48",
+        "title": "University of California, San Diego"
+    },
+    {
         "id": "provider-328",
-        "title": "Virginia Department of Social Services",
-        "ror": "03dv5mp96"
+        "ror": "03dv5mp96",
+        "title": "Virginia Department of Social Services"
+    },
+    {
+        "id": "provider-330",
+        "title": "Alerovere"
     }
 ]
