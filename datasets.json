@@ -4436,7 +4436,8 @@
     },
     {
         "alt_title": [
-            "IN CHE Enrollment Data"
+            "IN CHE Enrollment Data",
+            "Post-Secondary Education Enrollment Data"
         ],
         "id": "dataset-376",
         "provider": "provider-083",
@@ -4445,7 +4446,8 @@
     },
     {
         "alt_title": [
-            "IN CHE Completion Data"
+            "IN CHE Completion Data",
+            "Post-Secondary Education Completion Data"
         ],
         "id": "dataset-377",
         "provider": "provider-083",
@@ -6841,7 +6843,7 @@
         "provider": "provider-150",
         "title": "Sea Level Rise Inundation",
         "url": "https://coast.noaa.gov/digitalcoast/data/slr.html",
-        "description":"These data illustrate potential flooding from future sea level rise—from current mean higher high water to a six-foot rise. Mapping confidence layers highlight errors related to elevation and water height data. All data are based on the best available elevation data."
+        "description": "These data illustrate potential flooding from future sea level rise\u2014from current mean higher high water to a six-foot rise. Mapping confidence layers highlight errors related to elevation and water height data. All data are based on the best available elevation data."
     },
     {
         "alt_title": [
@@ -7213,9 +7215,9 @@
     },
     {
         "id": "dataset-645",
-        "title": "Sea-Level Change Curve Calculator",
+        "title": "Sea Level Change Curve Calculator",
         "provider": "provider-284",
-        "url": "http://corpsmapu.usace.army.mil/rccinfo/slc/slcc_calc.html",
+        "url": "https://coast.noaa.gov/digitalcoast/tools/curve.html",
         "description": "ER 1110-2-8162, Incorporating Sea Level Change in Civil Works programs, requires that USACE incorporate the direct and indirect physical effects of projected future sea level change across the project life cycle in managing, planning, engineering, designing, constructing, operating, and maintaining USACE projects and systems of projects.",
         "original": {
             "documentation_url": "https://www.usace.army.mil/corpsclimate/Climate_Preparedness_and_Resilience/App_Flood_Risk_Reduct_Sandy_Rebuild/SL_change_curve_calc/"
@@ -7980,22 +7982,14 @@
         ],
         "url": "https://sls.geoplan.ufl.edu/download-data/",
         "description": "The SLR inundation surfaces available for download on this page were created by the University of Florida GeoPlan Center using the United States Army Corps of Engineers (USACE) Sea-Level Change Curve Calculator (2015.46), USACE SLR projections (2013), National Oceanic and Atmospheric Administration (NOAA) SLR projections (2012), NOAA tide gauge data, NOAA tidal surfaces, and a 5-meter horizontal resolution Digital Elevation Model (DEM).  SLR scenarios were mapped by county using local tide gauge data and sea level trends.",
-        "original":{
-            "related_to":[
+        "original": {
+            "related_to": [
                 "dataset-645",
                 "dataset-610",
                 "dataset-614",
                 "dataset-631"
-                ]
+            ]
         }
-
-    },
-    {
-        "id": "dataset-734",
-        "provider": "provider-150",
-        "title": "Sea Level Change Curve Calculator",
-        "url": "https://coast.noaa.gov/digitalcoast/tools/curve.html",
-        "description": "This web-based tool calculates projected rates of sea level change for any location along the U.S. coast. The tool can be used to assess vulnerability to future sea level change and to compare several published sea level rise scenarios."
     },
     {
         "id": "dataset-736",
@@ -8089,6 +8083,7 @@
         "url": "https://www.bls.gov/lau/#tables",
         "description": "The Local Area Unemployment Statistics (LAUS) program produces monthly and annual employment, unemployment, and labor force data for Census regions and divisions, States, counties, metropolitan areas, and many cities, by place of residence."
     },
+    {
         "id": "dataset-737",
         "provider": "provider-285",
         "title": "QuikSCAT",
@@ -8097,6 +8092,49 @@
         ],
         "url": "https://podaac.jpl.nasa.gov/datasetlist?search=QUIKSCAT",
         "description": "The SeaWinds instrument on the QuikSCAT satellite was a specialized microwave radar that measured near-surface wind speed and direction under all weather and cloud conditions over Earth's oceans. The SeaWinds on QuikSCAT mission was a 'quick recovery' mission to fill the gap created by the loss of data from the NASA Scatterometer (NSCAT) in 1997."
+    },
+    {
+        "id": "dataset-739",
+        "provider": "provider-225",
+        "title": "TIGER / Line Geodatabases",
+        "alt_title": [
+            "TIGER data"
+        ],
+        "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-geodatabase-file.html",
+        "description": "TIGER Geodatabases are spatial extracts from the Census Bureau’s MAF/TIGER database for use with Esri’s ArcGIS. The geodatabases contain national coverage (for geographic boundaries or features) or state coverage (boundaries within state)."
+    },
+    {
+        "id": "dataset-740",
+        "provider": "provider-318",
+        "title": "Population Density Data",
+        "alt_title": [
+            "High Resolution Settlement Layer",
+            "HRSL",
+            "HRSL Data"
+        ],
+        "url": "https://www.ciesin.columbia.edu/data/hrsl/#data",
+        "description": "The High Resolution Settlement Layer (HRSL) provides estimates of human population distribution at a resolution of 1 arc-second (approximately 30m) for the year 2015. The population estimates are based on recent census data and high-resolution (0.5m) satellite imagery from DigitalGlobe. The population grids provide detailed delineation of settlements in both urban and rural areas, which is useful for many research areas—from disaster response and humanitarian planning to the development of communications infrastructure. The settlement extent data were developed by the Connectivity Lab at Facebook using computer vision techniques to classify blocks of optical satellite data as settled (containing buildings) or not. CIESIN used proportional allocation to distribute population data from subnational census data to the settlement extents."
+    },
+    {
+        "id": "dataset-741",
+        "provider": "provider-319",
+        "title": "Sea level records",
+        "alt_title": [
+            "PSMSL",
+            "PSMSL Data"
+        ],
+        "url": "https://www.psmsl.org/data/"
+    },
+    {
+        "id": "dataset-742",
+        "provider": "provider-320",
+        "title": "Hourly Sea Level data",
+        "url": "http://uhslc.soest.hawaii.edu/data/?rq"
+    },
+    {
+        "id": "dataset-743",
+        "provider": "provider-321",
+        "title": "Global Extreme Sea Level Analysis",
+        "url": "https://gesla.org/"
     }
-
 ]
