@@ -5916,9 +5916,11 @@
     },
     {
         "alt_title": [
-            "UI",
             "Indiana UI",
-            "Indiana Unemployment Insurance"
+            "IN UI",
+            "IN Wage Records",
+            "Indiana Unemployment Insurance",
+            "Indiana wage records"
         ],
         "description": "UI-related data on employment and unemployment.",
         "id": "dataset-521",
@@ -8133,8 +8135,8 @@
         "url": "https://gesla.org/"
     },
     {
-        "id": "dataset-744",
-        "provider": "provider-322",
+        "id": "dataset-751",
+        "provider": "provider-081",
         "title": "Illinois Child Care Assistance Program",
         "alt_title":[
             "Illinois CCAP",
