@@ -8338,6 +8338,59 @@
     },
     {
         "alt_title": [
+            "Enrollment data from the Higher Education Information dataset",
+            "OHIO HEI",
+            "HEI Enrollment data"
+        ],
+        "description": "The Higher Education Information (HEI) system is a comprehensive relational database that includes student enrollment, course, financial aid, personnel, facilities, and finance data submitted by Ohio's colleges and universities.",
+        "id": "dataset-771",
+        "provider": "provider-333",
+        "title": "Ohio Higher Education Information System",
+        "url": "https://www.ohiohighered.org/hei"
+    },
+    {
+        "alt_title": [
+            "Wage Data by Area and Occupation",
+            "Median and annual average income by state"
+        ],
+        "description": "Wage data for the 50 states plus District of Columbia, Guam, Puerto Rico, and Virgin Islands.",
+        "id": "dataset-772",
+        "provider": "provider-224",
+        "title": "State Occupational Employment and Wage Estimates",
+        "url": "https://www.bls.gov/oes/current/oessrcst.htm"
+    },
+    {
+        "alt_title": [
+            "Missouri Department of Higher Education Term Data",
+            "EMSAS"
+        ],
+        "description": "Since the fall of 1987, the Missouri Department of Higher Education & Workforce Development has annually collected student unit-record information from public institutions across the state. Now known collectively as the Enhanced Missouri Student Achievement Study (EMSAS), these collections have proven invaluable in the ongoing analysis and evaluation of postsecondary education in Missouri.",
+        "id": "dataset-773",
+        "provider": "provider-143",
+        "title": "Enhanced Missouri Student Achievement Study",
+        "url": "https://dhewd.mo.gov/data/emsas/"
+    },
+    {
+        "description": "Rural-Urban Continuum Codes form a classification scheme that distinguishes metropolitan counties by the population size of their metro area, and nonmetropolitan counties by degree of urbanization and adjacency to a metro area.",
+        "id": "dataset-774",
+        "provider": "provider-226",
+        "title": "Rural-Urban Continuum Codes",
+        "url": "https://www.ers.usda.gov/data-products/rural-urban-continuum-codes.aspx"
+    },
+    {
+        "description": "Record level data of Missouri Department of Corrections inmates participation in training programs and classes while incarcerated. Information on inmate class participation includes program name and type, when it started and when it ended, type and reason for exit from the class or program and a unique ID to link to the individual.",
+        "id": "dataset-775",
+        "original": {
+            "related_to": [
+                "dataset-197"
+            ]
+        },
+        "provider": "provider-142",
+        "title": "Missouri Department of Corrections release data",
+        "url": "https://web.mo.gov/doc/offSearchWeb/"
+    },
+    {
+        "alt_title": [
             "Aid to Dependent Families with Children Caseload Data 1960 – 1995",
             "Historical TANF Data",
             "ADFC Data"
