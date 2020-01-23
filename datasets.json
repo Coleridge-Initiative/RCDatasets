@@ -4515,7 +4515,7 @@
         "alt_title": [
             "OECD"
         ],
-        "description": "The survey collects relevant information about respondents' financial literacy, financial inclusion and socio-demographics. Of particular interest are the financial knowledge, behaviour and attitudes as well as awareness and holding of financial products of adults in Germany. The questionnaire consists of 40 questions and covers e.g. topics such as keeping track of finances, making-ends-meet and longer-term financial planning. Furthermore, numeracy skills within a financial context and basic knowledge of financial concepts (e.g. time-value of money, compound interest or diversification) are tested.",
+        "description": "The survey collects relevant information about respondents' financial literacy, financial inclusion and socio-demographics. Of particular interest are the financial knowledge, behaviour and attitudes as well as awareness and holding of financial products of adults in Germany. The questionnaire consists of 40 questions and covers e.g. topics such as keeping track of finances, making-ends-meet and longer-term financial planning. Furthermore, numeracy skills within a financial context and basic knowledge of financial concepts (e.g. time-value of money, compound interest or diversification) are tested.",
         "id": "dataset-384",
         "provider": "provider-040",
         "title": "Survey on Adult Financial Literacy in Germany",
@@ -4545,7 +4545,7 @@
         "alt_title": [
             "BLS"
         ],
-        "description": "Since January 2003, the Eurosystem has carried out a quarterly bank lending survey (BLS) to expand its knowledge about the role of lending in the monetary transmission mechanism and thus to obtain additional information for monetary policy analysis. The questionnaire comprises 23 qualitative questions on past and expected future lending policies by participating institutions to the private non-financial sector as well as on credit demand. Ad hoc questions on particularly topical issues may be added if necessary.",
+        "description": "Since January 2003, the Eurosystem has carried out a quarterly bank lending survey (BLS) to expand its knowledge about the role of lending in the monetary transmission mechanism and thus to obtain additional information for monetary policy analysis. The questionnaire comprises 23 qualitative questions on past and expected future lending policies by participating institutions to the private non-financial sector as well as on credit demand. Ad hoc questions on particularly topical issues may be added if necessary.",
         "id": "dataset-387",
         "provider": "provider-040",
         "title": "Bank Lending Survey for Germany",
@@ -8338,6 +8338,16 @@
     },
     {
         "alt_title": [
+            "PFDS"
+        ],
+        "description": "The Precipitation Frequency Data Server (PFDS) is a point-and-click interface developed to deliver NOAA Atlas 14 precipitation frequency estimates and associated information.",
+        "id": "dataset-770",
+        "provider": "provider-150",
+        "title": "Precipitation Frequency Data Server",
+        "url": "https://hdsc.nws.noaa.gov/hdsc/pfds/"
+    },
+    {
+        "alt_title": [
             "Enrollment data from the Higher Education Information dataset",
             "OHIO HEI",
             "HEI Enrollment data"
@@ -8388,6 +8398,27 @@
         "provider": "provider-142",
         "title": "Missouri Department of Corrections release data",
         "url": "https://web.mo.gov/doc/offSearchWeb/"
+    },
+    {
+        "alt_title": [
+            "California Nevada River Forecast Center River and Reservoir Data",
+            "CNRFC River and Reservoir Data"
+        ],
+        "description": "The California Nevada River Forecast Center (CNRFC) is a field office of the National Weather Service (NWS) located in Sacramento, California. The CNRFC is co-located with the Sacramento NWS Forecast Office, California Department of Water Resources, and United States Bureau of Reclamation. The NWS is an agency of the National Oceanic Atmospheric and Administration (NOAA) under the United States Department of Commerce.",
+        "id": "dataset-778",
+        "provider": "provider-150",
+        "title": "River and Reservoir Data",
+        "url": "https://www.cnrfc.noaa.gov/river_data.php"
+    },
+    {
+        "alt_title": [
+            "NAO"
+        ],
+        "description": "A coordinated program to monitor, assess and predict climate phenomena and their linkage to weather events.",
+        "id": "dataset-779",
+        "provider": "provider-150",
+        "title": "North Atlantic Oscillation",
+        "url": "https://www.cpc.ncep.noaa.gov/products/precip/CWlink/pna/nao.shtml"
     },
     {
         "alt_title": [
