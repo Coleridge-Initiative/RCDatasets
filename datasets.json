@@ -8324,5 +8324,36 @@
         "provider": "provider-332",
         "title": "microwave satellite soil moisture dataset",
         "url": "https://www.esa-soilmoisture-cci.org/"
+    },
+    {
+        "id": "dataset-780",
+        "provider": "provider-226",
+        "title": "NRCS-SCAN",
+        "alt_title": [
+            "Soil Climate Analysis Network",
+            "SCAN"
+        ],
+        "url": "https://www.wcc.nrcs.usda.gov/scan/",
+        "description": "The National Water and Climate Center administers a soil climate monitoring program consisting of automated data collection sites across the U.S. The Soil Climate Analysis Network (SCAN) began as a soil moisture/soil temperature pilot project of the Natural Resources Conservation Service in 1991. The system is designed to provide data to support natural resource assessments and conservation activities. The SCAN system focuses on agricultural areas of the U.S. and is composed of over 200 stations. A typical SCAN site monitors soil moisture content at several depths, air temperature, relative humidity, solar radiation, wind speed and direction, liquid precipitation, and barometric pressure."
+    },
+    {
+        "id": "dataset-784",
+        "provider": "provider-226",
+        "title": "NASS Quick Stats",
+        "alt_title": [
+            "Quick Stats"
+        ],
+        "url": "https://quickstats.nass.usda.gov/",
+        "description": "The Quick Stats Database is the most comprehensive tool for accessing agricultural data published by NASS. It allows you to customize your query by commodity, location, or time period. You can then visualize the data on a map, manipulate and export the results, or save a link for future use."
+    },
+    {
+        "id": "dataset-785",
+        "provider": "provider-226",
+        "title": "Crop Progress and Condition",
+        "alt_title": [
+            "NASS Crop Progress and Condition"
+        ],
+        "url": "https://www.nass.usda.gov/Charts_and_Maps/Crop_Progress_&_Condition/index.php",
+        "description": "Crop progress and condition estimates are based on survey data that are collected each week from early April to the end of November. The Crop progress and condition surveys are non-probability surveys that include a sample of more than 5,000 reporters whose occupations provide them opportunities to make visual observations and frequently bring them in contact with farmers in their counties. Based on standard definitions, these reporters subjectively estimate progress of farmers’ activities and progress of crops through their stages of development. They also provide subjective evaluations of crop conditions. "
     }
 ]
