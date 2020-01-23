@@ -8335,5 +8335,17 @@
         "provider": "provider-332",
         "title": "microwave satellite soil moisture dataset",
         "url": "https://www.esa-soilmoisture-cci.org/"
+    },
+    {
+        "alt_title": [
+            "Aid to Dependent Families with Children Caseload Data 1960 – 1995",
+            "Historical TANF Data",
+            "ADFC Data"
+        ],
+        "description": "AFDC/TANF historical caseload data from 1960-1995. Data provided annually on the national level.",
+        "id": "dataset-781",
+        "provider": "provider-229",
+        "title": "Aid to Dependent Families with Children Caseload Data",
+        "url": "https://www.acf.hhs.gov/ofa/resource/tanf-and-afdc-historical-case-data-pre-2012"
     }
 ]
