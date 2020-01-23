@@ -1347,6 +1347,21 @@
         "title": "University of California, San Diego"
     },
     {
+        "id": "provider-325",
+        "ror": "02nrqs528",
+        "title": "German Meteorological Service"
+    },
+    {
+        "id": "provider-326",
+        "ror": "05cvfcr44",
+        "title": "National Center for Atmospheric Research"
+    },
+    {
+        "id": "provider-327",
+        "ror": "02772kk97",
+        "title": "Japan Meteorological Agency"
+    },
+    {
         "id": "provider-328",
         "ror": "03dv5mp96",
         "title": "Virginia Department of Social Services"
@@ -1359,5 +1374,20 @@
     {
         "id": "provider-330",
         "title": "Alerovere"
+    },
+    {
+        "id": "provider-331",
+        "ror": "055agmx53",
+        "title": "Michigan Department of Education"
+    },
+    {
+        "id": "provider-332",
+        "ror": "03wd9za21",
+        "title": "European Space Agency"
+    },
+    {
+        "id": "provider-333",
+        "ror": "00gj19047",
+        "title": "Ohio Department of Higher Education"
     }
 ]
