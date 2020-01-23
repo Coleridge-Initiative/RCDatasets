@@ -4925,8 +4925,7 @@
     {
         "alt_title": [
             "HERD",
-            "Federal RePORTER",
-            "Public University Research & Development funding by state"
+            "Federal RePORTER"
         ],
         "description": "The survey collects information on R&D expenditures by field of research and source of funds and also gathers information on types of research, expenses, and headcounts of R&D personnel.",
         "id": "dataset-428",
@@ -8389,5 +8388,17 @@
         "provider": "provider-142",
         "title": "Missouri Department of Corrections release data",
         "url": "https://web.mo.gov/doc/offSearchWeb/"
+    },
+    {
+        "alt_title": [
+            "Aid to Dependent Families with Children Caseload Data 1960 – 1995",
+            "Historical TANF Data",
+            "ADFC Data"
+        ],
+        "description": "AFDC/TANF historical caseload data from 1960-1995. Data provided annually on the national level.",
+        "id": "dataset-781",
+        "provider": "provider-229",
+        "title": "Aid to Dependent Families with Children Caseload Data",
+        "url": "https://www.acf.hhs.gov/ofa/resource/tanf-and-afdc-historical-case-data-pre-2012"
     }
 ]
