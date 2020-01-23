@@ -8205,13 +8205,6 @@
         "url": "https://www.oregongeology.org/lidar/index.htm"
     },
     {
-        "description": "The Lidar Data Viewer interactive map shows the current extent of lidar data for the state of Oregon, including downloadable data by 7.5 minute USGS quadrangle. The data are maintained by the Oregon Department of Geology and Mineral Industries (DOGAMI).",
-        "id": "dataset-756",
-        "provider": "provider-329",
-        "title": "Lidar",
-        "url": "https://www.oregongeology.org/lidar/index.htm"
-    },
-    {
         "alt_title": [
             "CU sea level data"
         ],
