@@ -8216,5 +8216,36 @@
         "provider": "provider-323",
         "title": "Sea Level Anomoly Time Series",
         "url": "https://aviso-data-center.cnes.fr/"
+    },
+	{
+        "alt_title": [
+            "PFDS"
+        ],
+        "id": "dataset-770",
+        "description": "The Precipitation Frequency Data Server (PFDS) is a point-and-click interface developed to deliver NOAA Atlas 14 precipitation frequency estimates and associated information.",
+        "provider": "provider-150",
+        "title": "Precipitation Frequency Data Server",
+        "url": "https://hdsc.nws.noaa.gov/hdsc/pfds/"
+    },
+	{
+        "alt_title": [
+            "California Nevada River Forecast Center River and Reservoir Data",
+			"CNRFC River and Reservoir Data"
+        ],
+        "id": "dataset-778",
+        "description": "The California Nevada River Forecast Center (CNRFC) is a field office of the National Weather Service (NWS) located in Sacramento, California. The CNRFC is co-located with the Sacramento NWS Forecast Office, California Department of Water Resources, and United States Bureau of Reclamation. The NWS is an agency of the National Oceanic Atmospheric and Administration (NOAA) under the United States Department of Commerce.",
+        "provider": "provider-150",
+        "title": "River and Reservoir Data",
+        "url": "https://www.cnrfc.noaa.gov/river_data.php"
+    },
+	{
+        "alt_title": [
+			"NAO"
+        ],
+        "id": "dataset-779",
+        "description": "A coordinated program to monitor, assess and predict climate phenomena and their linkage to weather events.",
+        "provider": "provider-150",
+        "title": "North Atlantic Oscillation",
+        "url": "https://www.cpc.ncep.noaa.gov/products/precip/CWlink/pna/nao.shtml"
     }
 ]
