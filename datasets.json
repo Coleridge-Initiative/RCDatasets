@@ -8431,5 +8431,20 @@
         "provider": "provider-229",
         "title": "Aid to Dependent Families with Children Caseload Data",
         "url": "https://www.acf.hhs.gov/ofa/resource/tanf-and-afdc-historical-case-data-pre-2012"
+    },
+    {
+        "alt_title": [
+            "SNAP",
+            "Wisconsin SNAP",
+            "Wisconsin Supplemental Nutrition Assistance Program",
+            "Supplemental Nutrition Assistance Program",
+            "FoodShare",
+            "Wisconsin FoodShare"
+        ],
+        "description": "Wisconsin FoodShare program (SNAP) offers food benefits to eligible, low-income individuals and families.",
+        "id": "dataset-782",
+        "provider": "provider-267",
+        "title": "Wisconsin FoodShare Data",
+        "url": "https://www.dhs.wisconsin.gov/foodshare/rsdata.htm"
     }
 ]
