@@ -8497,8 +8497,8 @@
         "provider": "provider-226",
         "title": "USDA-ARS National Soil Erosion Research Laboratory",
         "url": "https://www.ars.usda.gov/midwest-area/west-lafayette-in/national-soil-erosion-research/"
-    }
-	{
+    },
+    {
         "alt_title": [
             "MERRA",
             "MERRA Data"
@@ -8509,21 +8509,21 @@
         "title": "Modern-Era Retrospective analysis for Research and Applications",
         "url": "https://gmao.gsfc.nasa.gov/reanalysis/MERRA/data_access/"
     },
-	{
+    {
         "description": "The Sentinel-1 mission comprises a constellation of two polar-orbiting satellites, operating day and night performing C-band synthetic aperture radar imaging, enabling them to acquire imagery regardless of the weather.",
         "id": "dataset-801",
         "provider": "provider-332",
         "title": "Sentinel-1",
         "url": "https://sentinels.copernicus.eu/web/sentinel/missions/sentinel-1"
     },
-	{
+    {
         "alt_title": [
-			"Defense Meteorological Program Operational Linescan System night-time lights"
+            "Defense Meteorological Program Operational Linescan System night-time lights"
         ],
         "description": "The files are cloud-free composites made using all the available archived DMSP-OLS smooth resolution data for calendar years. In cases where two satellites were collecting data - two composites were produced. The products are 30 arc second grids, spanning -180 to 180 degrees longitude and -65 to 75 degrees latitude.",
         "id": "dataset-802",
         "provider": "provider-150",
         "title": "DMSP-OLS Nighttime Lights Time Series",
         "url": "https://ngdc.noaa.gov/eog/dmsp/downloadV4composites.html"
-	}
+    }
 ]
