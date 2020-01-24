@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 #encoding: utf-8
 
+from git import Repo
 from pathlib import Path
 from urllib.parse import urlparse
 import codecs
@@ -52,7 +53,7 @@ class TestVerifyDatasets (unittest.TestCase):
         """load the dataset list
         """
         self.datasets = []
-        self.providers = {}
+        self.providers = []
 
         with codecs.open(Path("datasets.json"), "r", encoding="utf8") as f:
             try:
@@ -67,6 +68,17 @@ class TestVerifyDatasets (unittest.TestCase):
             except Exception:
                 traceback.print_exc()
                 self.fail("providers.json could not be read")
+
+
+        with open(Path("trace.json"), "w") as f:
+            repo = Repo(".")
+            trace = {
+                "branch": repo.active_branch.name,
+                "commit": repo.head.object.hexsha,
+                "datasets": sorted([ d["id"] for d in self.datasets ]),
+                "providers": sorted([ p["id"] for p in self.providers ])
+                }
+            json.dump(trace, f, indent=4, sort_keys=True)
 
 
     def test_file_loaded (self):
