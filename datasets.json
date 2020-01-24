@@ -7545,7 +7545,10 @@
         "id": "dataset-680",
         "provider": "provider-226",
         "title": "Cropland Data Layer",
-        "url": "https://www.nass.usda.gov/Research_and_Science/Cropland/SARS1a.php"
+        "url": "https://www.nass.usda.gov/Research_and_Science/Cropland/SARS1a.php",
+        "alt_title": [
+            "CDL"
+        ]
     },
     {
         "description": "Since 2001, the USGS Global Visualization Viewer (GloVis) has been available to users for accessing remote sensing data. In 2017, it was redesigned to address changing internet technologies. With easy-to- use navigation tools, users can instantly view and download scenes.",
@@ -8355,5 +8358,12 @@
         ],
         "url": "https://www.nass.usda.gov/Charts_and_Maps/Crop_Progress_&_Condition/index.php",
         "description": "Crop progress and condition estimates are based on survey data that are collected each week from early April to the end of November. The Crop progress and condition surveys are non-probability surveys that include a sample of more than 5,000 reporters whose occupations provide them opportunities to make visual observations and frequently bring them in contact with farmers in their counties. Based on standard definitions, these reporters subjectively estimate progress of farmers’ activities and progress of crops through their stages of development. They also provide subjective evaluations of crop conditions. "
+    },
+    {
+        "id": "dataset-788",
+        "provider": "provider-226",
+        "title": "USDA-ARS National Soil Erosion Research Laboratory",
+        "url": "https://www.ars.usda.gov/midwest-area/west-lafayette-in/national-soil-erosion-research/",
+        "description": "The mission of the National Soil Erosion Research Laboratory is to develop the knowledge and technology needed by land users to conserve natural resources for future generations."
     }
 ]
