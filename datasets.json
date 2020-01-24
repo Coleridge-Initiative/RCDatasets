@@ -4515,7 +4515,7 @@
         "alt_title": [
             "OECD"
         ],
-        "description": "The survey collects relevant information about respondents' financial literacy, financial inclusion and socio-demographics. Of particular interest are the financial knowledge, behaviour and attitudes as well as awareness and holding of financial products of adults in Germany. The questionnaire consists of 40 questions and covers e.g. topics such as keeping track of finances, making-ends-meet and longer-term financial planning. Furthermore, numeracy skills within a financial context and basic knowledge of financial concepts (e.g. time-value of money, compound interest or diversification) are tested.",
+        "description": "The survey collects relevant information about respondents' financial literacy, financial inclusion and socio-demographics. Of particular interest are the financial knowledge, behaviour and attitudes as well as awareness and holding of financial products of adults in Germany. The questionnaire consists of 40 questions and covers e.g. topics such as keeping track of finances, making-ends-meet and longer-term financial planning. Furthermore, numeracy skills within a financial context and basic knowledge of financial concepts (e.g. time-value of money, compound interest or diversification) are tested.",
         "id": "dataset-384",
         "provider": "provider-040",
         "title": "Survey on Adult Financial Literacy in Germany",
@@ -4545,7 +4545,7 @@
         "alt_title": [
             "BLS"
         ],
-        "description": "Since January 2003, the Eurosystem has carried out a quarterly bank lending survey (BLS) to expand its knowledge about the role of lending in the monetary transmission mechanism and thus to obtain additional information for monetary policy analysis. The questionnaire comprises 23 qualitative questions on past and expected future lending policies by participating institutions to the private non-financial sector as well as on credit demand. Ad hoc questions on particularly topical issues may be added if necessary.",
+        "description": "Since January 2003, the Eurosystem has carried out a quarterly bank lending survey (BLS) to expand its knowledge about the role of lending in the monetary transmission mechanism and thus to obtain additional information for monetary policy analysis. The questionnaire comprises 23 qualitative questions on past and expected future lending policies by participating institutions to the private non-financial sector as well as on credit demand. Ad hoc questions on particularly topical issues may be added if necessary.",
         "id": "dataset-387",
         "provider": "provider-040",
         "title": "Bank Lending Survey for Germany",
@@ -8190,6 +8190,27 @@
         "url": "https://www.dss.virginia.gov/geninfo/reports/financial_assistance/tanf.cgi"
     },
     {
+        "alt_title": [
+            "Caseload Analysis and Reporting Database",
+            "CARD",
+            "TANF",
+            "TANF leavers",
+            "TANF caseload"
+        ],
+        "description": "Caseload Analysis and Reporting Database includes administrative and survey data on TANF leavers, TANF applicants, and the current TANF caseload for a number of states and large counties.",
+        "id": "dataset-754",
+        "provider": "provider-229",
+        "title": "TANF Caseload Analysis and Reporting Database",
+        "url": "https://aspe.hhs.gov/tanf-leavers-applicants-and-caseload-studies-data-files"
+    },
+    {
+        "description": "MI School Data is the State of Michigan's official public portal for education data to help citizens, educators and policy makers make informed decisions that can lead to improved success for our students.",
+        "id": "dataset-755",
+        "provider": "provider-331",
+        "title": "Michigan School Data",
+        "url": "https://www.mischooldata.org/"
+    },
+    {
         "description": "The Lidar Data Viewer interactive map shows the current extent of lidar data for the state of Oregon, including downloadable data by 7.5 minute USGS quadrangle. The data are maintained by the Oregon Department of Geology and Mineral Industries (DOGAMI).",
         "id": "dataset-756",
         "provider": "provider-329",
@@ -8330,6 +8351,90 @@
     },
     {
         "alt_title": [
+            "PFDS"
+        ],
+        "description": "The Precipitation Frequency Data Server (PFDS) is a point-and-click interface developed to deliver NOAA Atlas 14 precipitation frequency estimates and associated information.",
+        "id": "dataset-770",
+        "provider": "provider-150",
+        "title": "Precipitation Frequency Data Server",
+        "url": "https://hdsc.nws.noaa.gov/hdsc/pfds/"
+    },
+    {
+        "alt_title": [
+            "Enrollment data from the Higher Education Information dataset",
+            "OHIO HEI",
+            "HEI Enrollment data"
+        ],
+        "description": "The Higher Education Information (HEI) system is a comprehensive relational database that includes student enrollment, course, financial aid, personnel, facilities, and finance data submitted by Ohio's colleges and universities.",
+        "id": "dataset-771",
+        "provider": "provider-333",
+        "title": "Ohio Higher Education Information System",
+        "url": "https://www.ohiohighered.org/hei"
+    },
+    {
+        "alt_title": [
+            "Wage Data by Area and Occupation",
+            "Median and annual average income by state"
+        ],
+        "description": "Wage data for the 50 states plus District of Columbia, Guam, Puerto Rico, and Virgin Islands.",
+        "id": "dataset-772",
+        "provider": "provider-224",
+        "title": "State Occupational Employment and Wage Estimates",
+        "url": "https://www.bls.gov/oes/current/oessrcst.htm"
+    },
+    {
+        "alt_title": [
+            "Missouri Department of Higher Education Term Data",
+            "EMSAS"
+        ],
+        "description": "Since the fall of 1987, the Missouri Department of Higher Education & Workforce Development has annually collected student unit-record information from public institutions across the state. Now known collectively as the Enhanced Missouri Student Achievement Study (EMSAS), these collections have proven invaluable in the ongoing analysis and evaluation of postsecondary education in Missouri.",
+        "id": "dataset-773",
+        "provider": "provider-143",
+        "title": "Enhanced Missouri Student Achievement Study",
+        "url": "https://dhewd.mo.gov/data/emsas/"
+    },
+    {
+        "description": "Rural-Urban Continuum Codes form a classification scheme that distinguishes metropolitan counties by the population size of their metro area, and nonmetropolitan counties by degree of urbanization and adjacency to a metro area.",
+        "id": "dataset-774",
+        "provider": "provider-226",
+        "title": "Rural-Urban Continuum Codes",
+        "url": "https://www.ers.usda.gov/data-products/rural-urban-continuum-codes.aspx"
+    },
+    {
+        "description": "Record level data of Missouri Department of Corrections inmates participation in training programs and classes while incarcerated. Information on inmate class participation includes program name and type, when it started and when it ended, type and reason for exit from the class or program and a unique ID to link to the individual.",
+        "id": "dataset-775",
+        "original": {
+            "related_to": [
+                "dataset-197"
+            ]
+        },
+        "provider": "provider-142",
+        "title": "Missouri Department of Corrections release data",
+        "url": "https://web.mo.gov/doc/offSearchWeb/"
+    },
+    {
+        "alt_title": [
+            "California Nevada River Forecast Center River and Reservoir Data",
+            "CNRFC River and Reservoir Data"
+        ],
+        "description": "The California Nevada River Forecast Center (CNRFC) is a field office of the National Weather Service (NWS) located in Sacramento, California. The CNRFC is co-located with the Sacramento NWS Forecast Office, California Department of Water Resources, and United States Bureau of Reclamation. The NWS is an agency of the National Oceanic Atmospheric and Administration (NOAA) under the United States Department of Commerce.",
+        "id": "dataset-778",
+        "provider": "provider-150",
+        "title": "River and Reservoir Data",
+        "url": "https://www.cnrfc.noaa.gov/river_data.php"
+    },
+    {
+        "alt_title": [
+            "NAO"
+        ],
+        "description": "A coordinated program to monitor, assess and predict climate phenomena and their linkage to weather events.",
+        "id": "dataset-779",
+        "provider": "provider-150",
+        "title": "North Atlantic Oscillation",
+        "url": "https://www.cpc.ncep.noaa.gov/products/precip/CWlink/pna/nao.shtml"
+    },
+    {
+        "alt_title": [
             "Soil Climate Analysis Network",
             "SCAN"
         ],
@@ -8338,6 +8443,33 @@
         "provider": "provider-226",
         "title": "NRCS-SCAN",
         "url": "https://www.wcc.nrcs.usda.gov/scan/"
+    },
+    {
+        "alt_title": [
+            "Aid to Dependent Families with Children Caseload Data 1960 – 1995",
+            "Historical TANF Data",
+            "ADFC Data"
+        ],
+        "description": "AFDC/TANF historical caseload data from 1960-1995. Data provided annually on the national level.",
+        "id": "dataset-781",
+        "provider": "provider-229",
+        "title": "Aid to Dependent Families with Children Caseload Data",
+        "url": "https://www.acf.hhs.gov/ofa/resource/tanf-and-afdc-historical-case-data-pre-2012"
+    },
+    {
+        "alt_title": [
+            "SNAP",
+            "Wisconsin SNAP",
+            "Wisconsin Supplemental Nutrition Assistance Program",
+            "Supplemental Nutrition Assistance Program",
+            "FoodShare",
+            "Wisconsin FoodShare"
+        ],
+        "description": "Wisconsin FoodShare program (SNAP) offers food benefits to eligible, low-income individuals and families.",
+        "id": "dataset-782",
+        "provider": "provider-267",
+        "title": "Wisconsin FoodShare Data",
+        "url": "https://www.dhs.wisconsin.gov/foodshare/rsdata.htm"
     },
     {
         "alt_title": [

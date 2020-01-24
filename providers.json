@@ -1376,8 +1376,18 @@
         "title": "Alerovere"
     },
     {
+        "id": "provider-331",
+        "ror": "055agmx53",
+        "title": "Michigan Department of Education"
+    },
+    {
         "id": "provider-332",
         "ror": "03wd9za21",
         "title": "European Space Agency"
+    },
+    {
+        "id": "provider-333",
+        "ror": "00gj19047",
+        "title": "Ohio Department of Higher Education"
     }
 ]
