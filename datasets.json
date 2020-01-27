@@ -8473,6 +8473,20 @@
     },
     {
         "alt_title": [
+            "CHRI",
+            "North Carolina CHRI",
+            "North Carolina SBI",
+            "North Carolina State Bureau of Investigation",
+            "NC Criminal Information and Identification"
+        ],
+        "description": "North Carolina's central repository for criminal history record information.",
+        "id": "dataset-783",
+        "provider": "provider-335",
+        "title": "North Carolina Criminal History Record Information",
+        "url": "https://www.ncsbi.gov/Divisions/Support-Services/Criminal-Information-and-Identification"
+    },
+    {
+        "alt_title": [
             "Quick Stats"
         ],
         "description": "The Quick Stats Database is the most comprehensive tool for accessing agricultural data published by NASS. It allows you to customize your query by commodity, location, or time period. You can then visualize the data on a map, manipulate and export the results, or save a link for future use.",
@@ -8600,6 +8614,13 @@
         "provider": "provider-342",
         "title": "Oregon Continually Updated Shoreline Product",
         "url": "https://spatialdata.oregonexplorer.info/geoportal/details;id=e53a8aa7db51458fae9524bbfc503ffc"
+    },
+    {
+        "description": "Summary statistics and reports of administrative data on North Carolina child welfare services, provided by North Carolina Division of Social Services.",
+        "id": "dataset-808",
+        "provider": "provider-177",
+        "title": "North Carolina Child Welfare Services Statistics",
+        "url": "https://www.ncdhhs.gov/divisions/social-services/program-statistics-and-reviews/child-welfare-statistics"
     },
     {
         "description": "Estuaries are some of the most productive ecosystems on the planet. This inventory classifies more than 600 coastal confluences on the West Coast of the United States. Each estuary was classified using the federal Coastal and Marine Ecological Classification Standard (CMECS). A spatial database of the inventory will inform research, conservation, and management of these important ecosystems and is maintained by the Conervancy's partner at the Pacific States Marine Fisheries Commission.",
