@@ -7530,7 +7530,7 @@
     },
     {
         "id": "dataset-678",
-        "provider": "provider-067",
+        "provider": "provider-236",
         "title": "Landsat data",
         "url": "https://earthexplorer.usgs.gov/"
     },
@@ -8473,6 +8473,20 @@
     },
     {
         "alt_title": [
+            "CHRI",
+            "North Carolina CHRI",
+            "North Carolina SBI",
+            "North Carolina State Bureau of Investigation",
+            "NC Criminal Information and Identification"
+        ],
+        "description": "North Carolina's central repository for criminal history record information.",
+        "id": "dataset-783",
+        "provider": "provider-335",
+        "title": "North Carolina Criminal History Record Information",
+        "url": "https://www.ncsbi.gov/Divisions/Support-Services/Criminal-Information-and-Identification"
+    },
+    {
+        "alt_title": [
             "Quick Stats"
         ],
         "description": "The Quick Stats Database is the most comprehensive tool for accessing agricultural data published by NASS. It allows you to customize your query by commodity, location, or time period. You can then visualize the data on a map, manipulate and export the results, or save a link for future use.",
@@ -8492,11 +8506,44 @@
         "url": "https://www.nass.usda.gov/Charts_and_Maps/Crop_Progress_&_Condition/index.php"
     },
     {
+        "description": "The data consist of 15 annual extreme indices on the entire world and given in a geo-tiff raster datasets. These jndices depend on daily precipitation or daily temperature simulated by the Global Circulation Model (GCM) IPSL-CM5A-LR used in the Coupled Model Intercomparison Project Phase 5 (CMIP5). A historical run and seven different climatic scenarios are simulated between 1951 and 2006 (historical) and between 2006 and 2099 (climatic scenarios).",
+        "id": "dataset-786",
+        "provider": "provider-336",
+        "title": "ETCCDI Metric",
+        "url": "https://data.mendeley.com/datasets/fbsdj87gjg/1"
+    },
+    {
+        "id": "dataset-787",
+        "provider": "provider-337",
+        "title": "IceBridge AR Data",
+        "url": "https://data.cresis.ku.edu/#ARDP"
+    },
+    {
         "description": "The mission of the National Soil Erosion Research Laboratory is to develop the knowledge and technology needed by land users to conserve natural resources for future generations.",
         "id": "dataset-788",
         "provider": "provider-226",
         "title": "USDA-ARS National Soil Erosion Research Laboratory",
         "url": "https://www.ars.usda.gov/midwest-area/west-lafayette-in/national-soil-erosion-research/"
+    },
+    {
+        "description": "This Digital Elevation Model (DEM) of the Vietnamese part of the Mekong delta was interpolated using almost 20.000 elevation points derived from a national topographical map of 2014 (scale 1:200,000). The elevation data is vertically referenced to the Vietnam's geodetic Hon Dau datum, which has its elevation origin at mean sea level (MSL) of the Hon Dau tide gauge. The DEM was interpolated from the topographical elevation points using empirical Bayesian kriging employing empirical data transformation and an exponential model.",
+        "id": "dataset-789",
+        "provider": "provider-338",
+        "title": "Mekong delta Digital Elevation Model",
+        "url": "https://doi.pangaea.de/10.1594/PANGAEA.902136"
+    },
+    {
+        "id": "dataset-790",
+        "provider": "provider-339",
+        "title": "Puget Sound Lidar Constortium data",
+        "url": "https://pugetsoundlidar.ess.washington.edu/lidardata/"
+    },
+    {
+        "description": "The Lidar Data Viewer interactive map shows the current extent of lidar data for the state of Oregon, including downloadable data by 7.5 minute USGS quadrangle. The data are maintained by the Oregon Department of Geology and Mineral Industries (DOGAMI).",
+        "id": "dataset-791",
+        "provider": "provider-340",
+        "title": "Oregon Coast Lidar Data",
+        "url": "https://www.oregongeology.org/lidar/"
     },
     {
         "alt_title": [
@@ -8525,13 +8572,6 @@
         "provider": "provider-150",
         "title": "DMSP-OLS Nighttime Lights Time Series",
         "url": "https://ngdc.noaa.gov/eog/dmsp/downloadV4composites.html"
-    },
-    {
-        "description": "NGS is building a database of its digital shoreline holdings. Functions accessible through this location will support geographic browsing of the data base, selection of projects of interest by location or other attributes, viewing of selected projects, and downloading of selected projects to the user's computer.",
-        "id": "dataset-813",
-        "provider": "provider-150",
-        "title": "Vector Shoreline Data",
-        "url": "https://geodesy.noaa.gov/RSD/shoredata/NGS_Shoreline_Products.htm"
     },
     {
         "alt_title": [
@@ -8577,5 +8617,68 @@
         "provider": "provider-150",
         "title": "Automated Surface Observing System",
         "url": "https://www.ncdc.noaa.gov/data-access/land-based-station-data/land-based-datasets/automated-surface-observing-system-asos"
+    },
+	{
+        "description": "NGS is building a database of its digital shoreline holdings. Functions accessible through this location will support geographic browsing of the data base, selection of projects of interest by location or other attributes, viewing of selected projects, and downloading of selected projects to the user's computer.",
+        "id": "dataset-819",
+        "provider": "provider-150",
+        "title": "Vector Shoreline Data",
+        "url": "https://geodesy.noaa.gov/RSD/shoredata/NGS_Shoreline_Products.htm"
+    },
+	{
+        "id": "dataset-803",
+        "provider": "provider-341",
+        "title": "Combined Bathymetry and Topography of the Puget Lowland, Washington State",
+        "url": "http://gis.ess.washington.edu/data/raster/psdem_2005_best300.pdf"
+    },
+    {
+        "alt_title": [
+            "CA Coastal TopoBathy Merged DEM"
+        ],
+        "description": "This project merged recently collected topographic, bathymetric, and acoustic elevation data along the entire California coastline from approximately the 10 meter elevation contour out to California's 3 mile state water's boundary. This metadata record describes the Digital Elevation Model (DEM) created from the lidar and multibeam data. The DEM has a 1m cell size. This dataset is has gaps filled by interpolation. See the associated datasets for the version with voids.",
+        "id": "dataset-804",
+        "provider": "provider-150",
+        "title": "California Coastal TopoBathy Merged Digital Elevation Model",
+        "url": "https://coast.noaa.gov/dataviewer/#/lidar/search/where:ID=2616"
+    },
+    {
+        "description": "To improve hydrodynamic models of the complex mixing processes, which occur at the confluence of the Sacramento River, San Joaquin River, and the San Francisco Bay Estuary, the Inter-agency Ecological Program (IEP) and the US Geological Survey have sponsored the development of a 10 m horizontal resolution grid of bathymetry. This grid is based on nearly one million depth soundings augmented by contours and recent aerial photography. It is the first comprehensive model of bathymetry for this intricate labyrinthine of natural and modified tidal channels. The total area covered by the grid is 9x10 km or nearly 100 million cells.",
+        "id": "dataset-805",
+        "provider": "provider-236",
+        "title": "Suisun Bay and Delta Bathymetry",
+        "url": "https://archive.usgs.gov/archive/sites/sfbay.wr.usgs.gov/sediment/delta/index.html"
+    },
+    {
+        "alt_title": [
+            "CUSP",
+            "NOAA CUSP",
+            "NOAA CUSP Data"
+        ],
+        "description": "This product provides the most up-to-date shoreline of the United States and its territories. Shoreline is delineated and attributed through the combination of current shoreline surveys and emerging technology. This mean high-water proxy shoreline is based on vertical modeling or image interpretation using water-level stations or shoreline indicators. It has less stringent data acquisition requirements and quality control measures than other methods and does not include many alongshore features, such as piers.",
+        "id": "dataset-806",
+        "provider": "provider-150",
+        "title": "Continually Updated Shoreline Product",
+        "url": "https://coast.noaa.gov/digitalcoast/data/cusp.html"
+    },
+    {
+        "description": "This data layer is an element of the Oregon GIS Framework. The Oregon CUSP shoreline represents a 'best of' attempt to create a continuous Mean High Water Shoreline for use in GIS analysis and inventory work. Whenever possible the Oregon CUSP shoreline references a mean-high water shoreline based upon vertical modelling or image interpretation, using both water level stations and/or shoreline indicators. CUSP is primarily built from LiDAR NGS National Shoreline data for the outer Pacific ocean coast and Oregon Lidar Consortium data for the inner estuarine coast.",
+        "id": "dataset-807",
+        "provider": "provider-342",
+        "title": "Oregon Continually Updated Shoreline Product",
+        "url": "https://spatialdata.oregonexplorer.info/geoportal/details;id=e53a8aa7db51458fae9524bbfc503ffc"
+    },
+    {
+        "description": "Summary statistics and reports of administrative data on North Carolina child welfare services, provided by North Carolina Division of Social Services.",
+        "id": "dataset-808",
+        "provider": "provider-177",
+        "title": "North Carolina Child Welfare Services Statistics",
+        "url": "https://www.ncdhhs.gov/divisions/social-services/program-statistics-and-reviews/child-welfare-statistics"
+    },
+    {
+        "description": "Estuaries are some of the most productive ecosystems on the planet. This inventory classifies more than 600 coastal confluences on the West Coast of the United States. Each estuary was classified using the federal Coastal and Marine Ecological Classification Standard (CMECS). A spatial database of the inventory will inform research, conservation, and management of these important ecosystems and is maintained by the Conervancy's partner at the Pacific States Marine Fisheries Commission.",
+        "id": "dataset-813",
+        "provider": "provider-344",
+        "title": "An Inventory and Classification of U.S. West Coast Estuaries",
+        "url": "https://www.scienceforconservation.org/assets/downloads/West-Coast-Estuary-Inventory-2014.pdf"
     }
 ]
