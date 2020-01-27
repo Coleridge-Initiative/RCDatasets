@@ -1389,5 +1389,42 @@
         "id": "provider-333",
         "ror": "00gj19047",
         "title": "Ohio Department of Higher Education"
+    },
+    {
+        "id": "provider-336",
+        "ror": "01t2a8a42",
+        "title": "Mendeley"
+    },
+    {
+        "id": "provider-337",
+        "ror": "04t2m2598",
+        "title": "Center for Remote Sensing of Ice Sheets"
+    },
+    {
+        "id": "provider-338",
+        "title": "Pangaea"
+    },
+    {
+        "id": "provider-339",
+        "title": "Puget Sound Lidar Consortium"
+    },
+    {
+        "id": "provider-340",
+        "ror": "02ddvb580",
+        "title": "State of Oregon Department of Geology and Mineral Industries"
+    },
+    {
+        "id": "provider-341",
+        "ror": "00cvxb145",
+        "title": "University of Washington"
+    },
+    {
+        "id": "provider-342",
+        "title": "Oregon Spatial Data Library"
+    },
+    {
+        "id": "provider-344",
+        "ror": "00gcd8h55",
+        "title": "The Nature Conservancy"
     }
 ]

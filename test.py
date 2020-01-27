@@ -69,11 +69,17 @@ class TestVerifyDatasets (unittest.TestCase):
                 traceback.print_exc()
                 self.fail("providers.json could not be read")
 
+        ## trace the entities in this branch
+
+        try:
+            repo = Repo(".")
+            active_branch = repo.active_branch.name
+        except:
+            active_branch = "DETACHED_" + repo.head.object.hexsha
 
         with open(Path("trace.json"), "w") as f:
-            repo = Repo(".")
             trace = {
-                "branch": repo.active_branch.name,
+                "branch": active_branch,
                 "commit": repo.head.object.hexsha,
                 "datasets": sorted([ d["id"] for d in self.datasets ]),
                 "providers": sorted([ p["id"] for p in self.providers ])
