@@ -8623,25 +8623,25 @@
         "url": "https://www.ncdhhs.gov/divisions/social-services/program-statistics-and-reviews/child-welfare-statistics"
     },
     {
+        "alt_title": [
+            "Child support"
+        ],
         "description": "The Minnesota Department of Human Services’ Child Support Division and county child support agencies work with parents, employers, government agencies, other states and community partners to help children receive the financial, medical and child care support they deserve.",
         "id": "dataset-809",
         "provider": "provider-137",
         "title": "Minnesota Child Support",
-        "alt_title": [
-            "Child support"
-        ],
         "url": "https://mn.gov/dhs/partners-and-providers/program-overviews/child-support/"
     },
     {
-        "description": "Workforce One (WF1) is a web-based client management application used by nearly 2,000 state, city, county, and non-profit employment and training providers to track employment and training services to more than 100,000 customers across Minnesota's One Stop network.",
-        "id": "dataset-810",
-        "provider": "provider-135",
-        "title": "Minnesota Workforce One",
         "alt_title": [
             "WF1",
             "WF 1",
             "Minnesota case management system"
         ],
+        "description": "Workforce One (WF1) is a web-based client management application used by nearly 2,000 state, city, county, and non-profit employment and training providers to track employment and training services to more than 100,000 customers across Minnesota's One Stop network.",
+        "id": "dataset-810",
+        "provider": "provider-135",
+        "title": "Minnesota Workforce One",
         "url": "https://www.mnworkforceone.com/FormsLetters/FormSummary.aspx?nc=1089ac76&"
     },
     {
