@@ -8623,6 +8623,28 @@
         "url": "https://www.ncdhhs.gov/divisions/social-services/program-statistics-and-reviews/child-welfare-statistics"
     },
     {
+        "description": "The Minnesota Department of Human Services’ Child Support Division and county child support agencies work with parents, employers, government agencies, other states and community partners to help children receive the financial, medical and child care support they deserve.",
+        "id": "dataset-809",
+        "provider": "provider-137",
+        "title": "Minnesota Child Support",
+        "alt_title": [
+            "Child support"
+        ],
+        "url": "https://mn.gov/dhs/partners-and-providers/program-overviews/child-support/"
+    },
+    {
+        "description": "Workforce One (WF1) is a web-based client management application used by nearly 2,000 state, city, county, and non-profit employment and training providers to track employment and training services to more than 100,000 customers across Minnesota's One Stop network.",
+        "id": "dataset-810",
+        "provider": "provider-135",
+        "title": "Minnesota Workforce One",
+        "alt_title": [
+            "WF1",
+            "WF 1",
+            "Minnesota case management system"
+        ],
+        "url": "https://www.mnworkforceone.com/FormsLetters/FormSummary.aspx?nc=1089ac76&"
+    },
+    {
         "description": "Estuaries are some of the most productive ecosystems on the planet. This inventory classifies more than 600 coastal confluences on the West Coast of the United States. Each estuary was classified using the federal Coastal and Marine Ecological Classification Standard (CMECS). A spatial database of the inventory will inform research, conservation, and management of these important ecosystems and is maintained by the Conervancy's partner at the Pacific States Marine Fisheries Commission.",
         "id": "dataset-813",
         "provider": "provider-344",
