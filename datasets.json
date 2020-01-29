@@ -8712,5 +8712,76 @@
         "provider": "provider-150",
         "title": "Vector Shoreline Data",
         "url": "https://geodesy.noaa.gov/RSD/shoredata/NGS_Shoreline_Products.htm"
+    },
+    {
+        "alt_title": [
+            "MMIS",
+            "Minnesota MMIS",
+            "Minnesota Medicaid"
+        ],
+        "description": "The Medicaid Management Information System is a database that stores information for Minnesota Health Care Programs. DHS uses data stored in MMIS to help eligible individuals access needed medical services. MHCP providers submit claims for payment of services to the MMIS system.",
+        "id": "dataset-820",
+        "provider": "provider-137",
+        "title": "Minnesota Medicaid Management Information System",
+        "url": "https://www.dhs.state.mn.us/main/idcplg?IdcService=GET_DYNAMIC_CONVERSION&RevisionSelectionMethod=LatestReleased&dDocName=DHS16_161788"
+    },
+    {
+        "alt_title": [
+            "New Jersey SMART",
+            "SMART"
+        ],
+        "description": "The NJ SMART Resources & Trainings website links users to important information occurring within NJ SMART, including downloadable resources and webinar and on demand trainings available to assist you throughout the data submission process.",
+        "id": "dataset-821",
+        "provider": "provider-343",
+        "title": "New Jersey SMART Resources and Trainings",
+        "url": "https://www.njsmart.org/njr/index"
+    },
+    {
+        "alt_title": [
+            "New Jersey Education to Earnings",
+            "Education to Earnings",
+            "NJEEDS",
+            "EEDS"
+        ],
+        "description": "The New Jersey Education to Earnings Data System (NJEEDS) is the State of New Jersey’s centralized longitudinal data system and was developed in 2012 through a grant from the U.S. Department of Education. Its core mission is to create a single place where state education, postsecondary education, employment, and workforce longitudinal data are securely stored and information made available to education and training stakeholders and the public for analysis in order to improve governance efforts, policymaking, and the performance of education and workforce initiatives.",
+        "id": "dataset-822",
+        "provider": "provider-343",
+        "title": "New Jersey Education to Earnings Data System",
+        "url": "http://njed2earndata.org/"
+    },
+    {
+        "alt_title": [
+            "Minnesota PRISM",
+            "PRISM"
+        ],
+        "description": "PRISM is a federally mandated computer system that supports Minnesota’s Child Support Enforcement program in efforts to: Locate missing non-custodial parents; Implement automatic withholding with employers for support; Enforce child support orders; Centralize receipt and disbursement of child support payments as required by federal law.",
+        "id": "dataset-823",
+        "provider": "provider-137",
+        "title": "Providing Resources to Improve Support in Minnesota (PRISM) Computer System",
+        "url": "https://www.dhs.state.mn.us/main/idcplg?IdcService=GET_DYNAMIC_CONVERSION&RevisionSelectionMethod=LatestReleased&dDocName=id_000403"
+    },
+    {
+        "alt_title": [
+            "Minnesota PSOP",
+            "PSOP"
+        ],
+        "description": "The Minnesota Parent Support Outreach Program is a voluntary program that provides short-term help to parents to access resources and provide education about such things as housing, transportation, parent education, child development, activities, child care, safety planning, employment and other services.",
+        "id": "dataset-824",
+        "provider": "provider-137",
+        "title": "Parent Support Outreach Program",
+        "url": "https://mn.gov/dhs/people-we-serve/children-and-families/services/child-protection/programs-services/parent-support-outreach.jsp"
+    },
+    {
+        "alt_title": [
+            "Minnesota SSIS",
+            "SSIS",
+            "Minnesota child welfare",
+            "SACWIS"
+        ],
+        "description": "SSIS is Minnesota’s Statewide Automated Child Welfare Information System (SACWIS system) that collects federally mandated child welfare data and provides support for the delivery and management of child welfare services.",
+        "id": "dataset-825",
+        "provider": "provider-137",
+        "title": "Minnesota Social Services Information System",
+        "url": "https://www.dhs.state.mn.us/main/idcplg?IdcService=GET_DYNAMIC_CONVERSION&RevisionSelectionMethod=LatestReleased&dDocName=id_000404"
     }
 ]
