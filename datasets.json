@@ -8783,5 +8783,64 @@
         "provider": "provider-137",
         "title": "Minnesota Social Services Information System",
         "url": "https://www.dhs.state.mn.us/main/idcplg?IdcService=GET_DYNAMIC_CONVERSION&RevisionSelectionMethod=LatestReleased&dDocName=id_000404"
+    },
+    {
+        "alt_title": [
+            "SAIPE",
+            "Small area",
+            "Income estimates",
+            "Poverty estimates"
+        ],
+        "description": "The U.S. Census Bureau’s Small Area Income and Poverty Estimates program produces single-year estimates of income and poverty for all U.S. states and counties as well as estimates of school-age children in poverty for all 13,000+ school districts.",
+        "id": "dataset-826",
+        "provider": "provider-225",
+        "title": "Small Area Income and Poverty Estimates",
+        "url": "https://www.census.gov/programs-surveys/saipe/data.html"
+    },
+    {
+        "description": "The repository is managed by CHRR for several State of Ohio agencies and offers researchers a unique opportunity to analyze the education, work, and training experiences of Ohioans over time. Data access is allowed under restricted conditions to protect the privacy of the records contained in the repository.",
+        "id": "dataset-827",
+        "provider": "provider-345",
+        "title": "Ohio Longitudinal Data Archive",
+        "url": "https://chrr.osu.edu/projects/ohio-longitudinal-data-archive"
+    },
+    {
+        "alt_title": [
+            "Workforce Information Database",
+            "Minnesota WIA",
+            "WIA",
+            "Minnesota WIOA",
+            "WIOA",
+            "Minnesota Workforce Investment Act",
+            "Workforce Investment Act",
+            "Workforce Innovation and Opportunity Act"
+        ],
+        "description": "Workforce Innovation and Opportunity Act gives government, nonprofit, education, and industry partners greater flexibility to work together. The result is career training programs that give workers the skills they need to get good jobs at family-sustaining wages and give employers the qualified workers they need to stay competitive.",
+        "id": "dataset-828",
+        "provider": "provider-135",
+        "title": "Minnesota Workforce Innovation and Opportunity Act",
+        "url": "https://mn.gov/deed/about/what-we-do/objectives-plans/wioa.jsp"
+    },
+    {
+        "alt_title": [
+            "MinnesotaWorks",
+            "Minnesota jobs"
+        ],
+        "description": "MinnesotaWorks.net is Minnesota’s labor exchange system, administered by the Minnesota Department of Employment and Economic Development.",
+        "id": "dataset-829",
+        "provider": "provider-135",
+        "title": "Minnesota Works",
+        "url": "https://www.minnesotaworks.net/"
+    },
+    {
+        "alt_title": [
+            "DWP",
+            "Minnesota DWP"
+        ],
+        "description": "The Diversionary Work Program (DWP) is a four-month program that helps Minnesota parents find jobs. The goal is to help parents quickly find work so that they do not need to go on the Minnesota Family Investment Program (MFIP). When families first apply for cash assistance, most will be enrolled in this program.",
+        "id": "dataset-830",
+        "provider": "provider-137",
+        "title": "Minnesota Diversionary Work Program",
+        "url": "https://mn.gov/dhs/people-we-serve/children-and-families/economic-assistance/income/programs-and-services/diversionary-work-program.jsp"
     }
 ]
