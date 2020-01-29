@@ -8645,6 +8645,26 @@
         "url": "https://www.mnworkforceone.com/FormsLetters/FormSummary.aspx?nc=1089ac76&"
     },
     {
+        "alt_title": [
+            "Head Start"
+        ],
+        "description": "The Office of Head Start (OHS) offers current and historical information about the funding, location, and services of Head Start programs and centers. The resources include Head Start-related research, program monitoring review reports, and access to Program Information Report (PIR) data.",
+        "id": "dataset-811",
+        "provider": "provider-229",
+        "title": "Office of Head Start Data and Reports",
+        "url": "https://www.acf.hhs.gov/ohs/reports"
+    },
+    {
+        "alt_title": [
+            "Minnesota MAXIS"
+        ],
+        "description": "MAXIS is a computer system used by state and county workers to determine eligibility for public assistance and health care. For cash assistance and food support programs, MAXIS also determines the appropriate benefit level and issues benefits.",
+        "id": "dataset-812",
+        "provider": "provider-137",
+        "title": "MAXIS",
+        "url": "https://www.dhs.state.mn.us/main/idcplg?IdcService=GET_DYNAMIC_CONVERSION&RevisionSelectionMethod=LatestReleased&dDocName=id_000398"
+    },
+    {
         "description": "Estuaries are some of the most productive ecosystems on the planet. This inventory classifies more than 600 coastal confluences on the West Coast of the United States. Each estuary was classified using the federal Coastal and Marine Ecological Classification Standard (CMECS). A spatial database of the inventory will inform research, conservation, and management of these important ecosystems and is maintained by the Conervancy's partner at the Pacific States Marine Fisheries Commission.",
         "id": "dataset-813",
         "provider": "provider-344",
