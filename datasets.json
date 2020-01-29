@@ -8798,11 +8798,11 @@
         "url": "https://www.census.gov/programs-surveys/saipe/data.html"
     },
     {
+        "description": "The repository is managed by CHRR for several State of Ohio agencies and offers researchers a unique opportunity to analyze the education, work, and training experiences of Ohioans over time. Data access is allowed under restricted conditions to protect the privacy of the records contained in the repository.",
         "id": "dataset-827",
-        "title":"Ohio Longitudinal Data Archive",
-        "url":"https://chrr.osu.edu/projects/ohio-longitudinal-data-archive",
-        "provider":"provider-345",
-        "description":"The repository is managed by CHRR for several State of Ohio agencies and offers researchers a unique opportunity to analyze the education, work, and training experiences of Ohioans over time. Data access is allowed under restricted conditions to protect the privacy of the records contained in the repository."
+        "provider": "provider-345",
+        "title": "Ohio Longitudinal Data Archive",
+        "url": "https://chrr.osu.edu/projects/ohio-longitudinal-data-archive"
     },
     {
         "alt_title": [
@@ -8822,7 +8822,7 @@
         "url": "https://mn.gov/deed/about/what-we-do/objectives-plans/wioa.jsp"
     },
     {
-        "alt_title": [,
+        "alt_title": [
             "MinnesotaWorks",
             "Minnesota jobs"
         ],
@@ -8833,7 +8833,7 @@
         "url": "https://www.minnesotaworks.net/"
     },
     {
-        "alt_title": [,
+        "alt_title": [
             "DWP",
             "Minnesota DWP"
         ],
