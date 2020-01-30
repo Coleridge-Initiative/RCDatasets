@@ -8977,4 +8977,28 @@
         "title": "New York City Crime and Enforcement Activity Reports",
         "url": "https://www1.nyc.gov/site/nypd/stats/reports-analysis/crime-enf.page"
     },
+    {
+        "alt_title": [
+            "New York State education outcomes",
+            "New York education"
+        ],
+        "description": "The New York State Education Department (NYSED) is committed to making data available and easy to use. This site provides a first step in publicly reporting educational data so all interested parties can be better informed as they work to advance student achievement.",
+        "id": "dataset-842",
+        "provider": "provider-352",
+        "title": "New York State Education Department Open Data",
+        "url": "https://data.nysed.gov/"
+    },
+    {
+        "alt_title": [
+            "EHS-CC",
+            "New York EHS-CC",
+            "Child Care Assistance Program",
+            "CCAP"
+        ],
+        "description": "The Office of Children and Family Services is committed to providing assistance with child care costs to eligible families through the Child Care Subsidy Program. Child care subsidies can help parents/caretakers pay for some or all of the cost of child care services.",
+        "id": "dataset-843",
+        "provider": "provider-353",
+        "title": "New York State Child Care Subsidy Program Data",
+        "url": "https://data.nysed.gov/"
+    }
 ]

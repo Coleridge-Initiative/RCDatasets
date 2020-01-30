@@ -1467,5 +1467,15 @@
         "id": "provider-351",
         "ror": "01gst4g14",
         "title": "New York City Department of Health and Mental Hygiene"
+    },
+    {
+        "id": "provider-352",
+        "ror": "00h4kdn81",
+        "title": "New York State Education Department"
+    },
+    {
+        "id": "provider-353",
+        "ror": "02tsp7733",
+        "title": "New York State Office of Children and Family Services"
     }
 ]
