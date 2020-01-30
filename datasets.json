@@ -8842,5 +8842,139 @@
         "provider": "provider-137",
         "title": "Minnesota Diversionary Work Program",
         "url": "https://mn.gov/dhs/people-we-serve/children-and-families/economic-assistance/income/programs-and-services/diversionary-work-program.jsp"
-    }
+    },
+    {
+        "alt_title": [
+            "AHC",
+            "New York AHC",
+            "New York low-income housing",
+            "New York low income housing"
+        ],
+        "description": "The New York State Affordable Housing Corporation (AHC) creates homeownership opportunities for low- and moderate-income families by providing grants to governmental, not-for-profit and charitable organizations to help subsidize the cost of newly constructed houses and the renovation of existing housing.",
+        "id": "dataset-831",
+        "provider": "provider-134",
+        "title": "New York State Affordable Housing Corporation",
+        "url": "https://hcr.ny.gov/affordable-housing-corporation-0"
+    },
+    {
+        "alt_title": [
+            "SNAP",
+            "New York SNAP",
+            "SNAP Caseload",
+            "SNAP Expenditures"
+        ],
+        "description": "These data are monthly listings of households, recipients and expenditures for the Supplemental Nutrition Assistance Program in New York State beginning in 2002.",
+        "id": "dataset-832",
+        "provider": "provider-173",
+        "title": "New York Supplemental Nutrition Assistance Program Caseloads and Expenditures: Beginning 2002",
+        "url": "https://data.ny.gov/Human-Services/Supplemental-Nutrition-Assistance-Program-SNAP-Cas/dq6j-8u8z"
+    },
+    {
+        "alt_title": [
+            "SNAP",
+            "New York SNAP",
+            "SNAP Caseload",
+            "SNAP Expenditures"
+        ],
+        "description": "These data are monthly listings of households, recipients and expenditures for the Supplemental Nutrition Assistance Program in New York State beginning in 2002.",
+        "id": "dataset-833",
+        "provider": "provider-173",
+        "title": "New York Supplemental Nutrition Assistance Program Caseloads and Expenditures: Beginning 2002",
+        "url": "https://data.ny.gov/Human-Services/Supplemental-Nutrition-Assistance-Program-SNAP-Cas/dq6j-8u8z"
+    },
+    {
+        "alt_title": [
+            "NYC HPD",
+            "HPD",
+            "New York City HPD",
+            "New York City housing"
+        ],
+        "description": "New York City Department of Housing Preservation and Development (HPD) collects data on the delivery of its core services -- enforcing the Housing Maintenance Code, preservation and creative quality affordable housing, and effectively managing HPD housing assets.",
+        "id": "dataset-834",
+        "provider": "provider-346",
+        "title": "New York City Department of Housing Preservation and Development Open Data",
+        "url": "https://www1.nyc.gov/site/hpd/about/open-data.page"
+    },
+    {
+        "alt_title": [
+            "NYCHA",
+            "NYC Housing Authority",
+            "New York City housing"
+        ],
+        "description": "NYCHA is committed to a new level of transparency, public participation, and collaboration with our stakeholders. You can use our data to take a look at the Authority's performance. This information will be updated monthly.",
+        "id": "dataset-835",
+        "provider": "provider-347",
+        "title": "New York City Housing Authority Data and Reports",
+        "url": "https://www1.nyc.gov/site/nycha/about/reports.page"
+    },
+    {
+        "alt_title": [
+            "New York State Medicaid",
+            "Medicaid"
+        ],
+        "description": "New York State reports on medicaid statistics, expenditures, and enrollment.",
+        "id": "dataset-836",
+        "provider": "provider-348",
+        "title": "New York State Medicaid Statistics",
+        "url": "https://www.health.ny.gov/health_care/medicaid/statistics/"
+    },
+    {
+        "alt_title": [
+            "New York State children's health insurance",
+            "Child Health Plus"
+        ],
+        "description": "New York State has a health insurance plan for kids, called Child Health Plus. Both Children's Medicaid and Child Health Plus are available through dozens of providers throughout the state.",
+        "id": "dataset-837",
+        "provider": "provider-348",
+        "title": "New York State Child Health Plus",
+        "url": "https://www.health.ny.gov/health_care/child_health_plus/"
+    },
+    {
+        "alt_title": [
+            "New York Seedco",
+            "Seedco"
+        ],
+        "description": "Seedco serves populations that are disconnected from opportunity and resources, especially low-income communities. Seedco seeks to enhance access to benefits, family supports, and job training, working closely with a network of community-based organizations.",
+        "id": "dataset-838",
+        "provider": "provider-349",
+        "title": "Seedco Programs in New York",
+        "url": "https://www.seedco.org/newyork/"
+    },
+    {
+        "alt_title": [
+            "Crime data",
+            "New York City crime",
+            "New York City police department",
+            "NYCPD"
+        ],
+        "description": "The NYPD maintains statistical data which is used as a management tool in reducing crime, improving procedures and training, and providing transparency to the public and government oversight agencies. The department provides up-to-date crime-related statistics in the seven major crime categories on the citywide, borough, and precinct levels, as well as historical crime data.",
+        "id": "dataset-839",
+        "provider": "provider-350",
+        "title": "New York City Crime Statistics and Data",
+        "url": "https://www1.nyc.gov/site/nypd/stats/crime-statistics/crime-statistics-landing.page"
+    },
+    {
+        "alt_title": [
+            "Police data",
+            "New York City police enforcement",
+            "NYCPD"
+        ],
+        "description": "The reports below present statistics on race and ethnicity compiled from the New York City Police Department's records management system. Crime Complaint Reports contain information on the crime victims' race and ethnicity. The race and ethnicity of New York City Police Department officers and recent Census Bureau statistics on citywide race and ethnicity is also presented in appendices to the main report.",
+        "id": "dataset-840",
+        "provider": "provider-350",
+        "title": "New York City Crime and Enforcement Activity Reports",
+        "url": "https://www1.nyc.gov/site/nypd/stats/reports-analysis/crime-enf.page"
+    },
+    {
+        "alt_title": [
+            "New York City alcohol abuse",
+            "New York City drug abuse",
+            "alcohol and drug abuse"
+        ],
+        "description": "The New York City Department of Health and Mental Hygiene uses data and statistics from New Yorkers to inform the public and health professionals about the health of the City over time, to establish priorities and to shape health policy at all levels of government.",
+        "id": "dataset-841",
+        "provider": "provider-351",
+        "title": "New York City Crime and Enforcement Activity Reports",
+        "url": "https://www1.nyc.gov/site/nypd/stats/reports-analysis/crime-enf.page"
+    },
 ]
