@@ -2977,7 +2977,7 @@
         ],
         "description": "Dig deep into data on employment, unemployment, wages and occupations, regional and state comparisons and more.",
         "id": "dataset-257",
-        "provider": "provider-134",
+        "provider": "provider-135",
         "title": "Minnesota Department of Employement and Economic Development Data",
         "url": "https://mn.gov/deed/data/data-tools/"
     },
@@ -4038,7 +4038,9 @@
     {
         "alt_title": [
             "WIASRD",
-            "WIASRD Data"
+            "WIASRD Data",
+            "WIOA",
+            "WIOA Data"
         ],
         "id": "dataset-343",
         "provider": "provider-044",
@@ -7273,7 +7275,7 @@
         ],
         "description": "The New Orleans District, Operations Division performs routine hydrographic surveys to monitor local river and waterway navigation conditions. This information is used as a decision making tool for channel maintenance operations. These products can also be used to supplement existing published navigation charts with more recent shoaling activity.",
         "id": "dataset-651",
-        "provider": "provider-274",
+        "provider": "provider-284",
         "title": "Channel Surveys",
         "url": "https://www.mvn.usace.army.mil/Missions/Navigation/Channel-Surveys/"
     },
@@ -8623,10 +8625,248 @@
         "url": "https://www.ncdhhs.gov/divisions/social-services/program-statistics-and-reviews/child-welfare-statistics"
     },
     {
+        "alt_title": [
+            "Child support"
+        ],
+        "description": "The Minnesota Department of Human Services’ Child Support Division and county child support agencies work with parents, employers, government agencies, other states and community partners to help children receive the financial, medical and child care support they deserve.",
+        "id": "dataset-809",
+        "provider": "provider-137",
+        "title": "Minnesota Child Support",
+        "url": "https://mn.gov/dhs/partners-and-providers/program-overviews/child-support/"
+    },
+    {
+        "alt_title": [
+            "WF1",
+            "WF 1",
+            "Minnesota case management system"
+        ],
+        "description": "Workforce One (WF1) is a web-based client management application used by nearly 2,000 state, city, county, and non-profit employment and training providers to track employment and training services to more than 100,000 customers across Minnesota's One Stop network.",
+        "id": "dataset-810",
+        "provider": "provider-135",
+        "title": "Minnesota Workforce One",
+        "url": "https://www.mnworkforceone.com/FormsLetters/FormSummary.aspx?nc=1089ac76&"
+    },
+    {
+        "alt_title": [
+            "Head Start"
+        ],
+        "description": "The Office of Head Start (OHS) offers current and historical information about the funding, location, and services of Head Start programs and centers. The resources include Head Start-related research, program monitoring review reports, and access to Program Information Report (PIR) data.",
+        "id": "dataset-811",
+        "provider": "provider-229",
+        "title": "Office of Head Start Data and Reports",
+        "url": "https://www.acf.hhs.gov/ohs/reports"
+    },
+    {
+        "alt_title": [
+            "Minnesota MAXIS"
+        ],
+        "description": "MAXIS is a computer system used by state and county workers to determine eligibility for public assistance and health care. For cash assistance and food support programs, MAXIS also determines the appropriate benefit level and issues benefits.",
+        "id": "dataset-812",
+        "provider": "provider-137",
+        "title": "MAXIS",
+        "url": "https://www.dhs.state.mn.us/main/idcplg?IdcService=GET_DYNAMIC_CONVERSION&RevisionSelectionMethod=LatestReleased&dDocName=id_000398"
+    },
+    {
         "description": "Estuaries are some of the most productive ecosystems on the planet. This inventory classifies more than 600 coastal confluences on the West Coast of the United States. Each estuary was classified using the federal Coastal and Marine Ecological Classification Standard (CMECS). A spatial database of the inventory will inform research, conservation, and management of these important ecosystems and is maintained by the Conervancy's partner at the Pacific States Marine Fisheries Commission.",
         "id": "dataset-813",
         "provider": "provider-344",
         "title": "An Inventory and Classification of U.S. West Coast Estuaries",
         "url": "https://www.scienceforconservation.org/assets/downloads/West-Coast-Estuary-Inventory-2014.pdf"
+    },
+    {
+        "alt_title": [
+            "USACE Hydrographic Surveys",
+            "USACE"
+        ],
+        "description": "Maps available at the links below are viewable in PDF format using the free Adobe Reader.These maps have been created to provide boaters and other users with general channel condition maps that are easier to read than the standard hydrographic survey maps. These pages are updated periodically with the latest hydrographic survey data for each project. Dates for each survey are noted on the maps.",
+        "id": "dataset-815",
+        "provider": "provider-284",
+        "title": "Hydrographic Surveys",
+        "url": "https://www.saw.usace.army.mil/Missions/Navigation/Hydrographic-Surveys/"
+    },
+    {
+        "description": "usSEABED is the collaborative product of the U.S. Geological Survey, the University of Colorado, and other partners, and provides integrated data from small and large marine research efforts by many entities—federal and state agencies, local authorities, universities, as well as private and public consortiums.",
+        "id": "dataset-816",
+        "provider": "provider-236",
+        "title": "usSEABED",
+        "url": "https://www.usgs.gov/natural-hazards/coastal-marine-hazards-and-resources/science/usseabed?qt-science_center_objects=0#qt-science_center_objects"
+    },
+    {
+        "description": "The core TIGER/Line Files and Shapefiles do not include demographic data, but they do contain geographic entity codes (GEOIDs) that can be linked to the Census Bureau’s demographic data, available on American FactFinder.",
+        "id": "dataset-817",
+        "provider": "provider-225",
+        "title": "TIGER/Line Shapefiles",
+        "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+    },
+    {
+        "alt_title": [
+            "ASOS"
+        ],
+        "description": "Automated Surface Observing System (ASOS) units are automated sensor suites that are designed to serve meteorological and aviation observing needs. There are currently more than 900 ASOS sites in the United States. These systems generally report at hourly intervals, but also report special observations if weather conditions change rapidly and cross aviation operation thresholds.",
+        "id": "dataset-818",
+        "provider": "provider-150",
+        "title": "Automated Surface Observing System",
+        "url": "https://www.ncdc.noaa.gov/data-access/land-based-station-data/land-based-datasets/automated-surface-observing-system-asos"
+    },
+    {
+        "description": "NGS is building a database of its digital shoreline holdings. Functions accessible through this location will support geographic browsing of the data base, selection of projects of interest by location or other attributes, viewing of selected projects, and downloading of selected projects to the user's computer.",
+        "id": "dataset-819",
+        "provider": "provider-150",
+        "title": "Vector Shoreline Data",
+        "url": "https://geodesy.noaa.gov/RSD/shoredata/NGS_Shoreline_Products.htm"
+    },
+    {
+        "alt_title": [
+            "MMIS",
+            "Minnesota MMIS",
+            "Minnesota Medicaid"
+        ],
+        "description": "The Medicaid Management Information System is a database that stores information for Minnesota Health Care Programs. DHS uses data stored in MMIS to help eligible individuals access needed medical services. MHCP providers submit claims for payment of services to the MMIS system.",
+        "id": "dataset-820",
+        "provider": "provider-137",
+        "title": "Minnesota Medicaid Management Information System",
+        "url": "https://www.dhs.state.mn.us/main/idcplg?IdcService=GET_DYNAMIC_CONVERSION&RevisionSelectionMethod=LatestReleased&dDocName=DHS16_161788"
+    },
+    {
+        "alt_title": [
+            "New Jersey SMART",
+            "SMART"
+        ],
+        "description": "The NJ SMART Resources & Trainings website links users to important information occurring within NJ SMART, including downloadable resources and webinar and on demand trainings available to assist you throughout the data submission process.",
+        "id": "dataset-821",
+        "provider": "provider-343",
+        "title": "New Jersey SMART Resources and Trainings",
+        "url": "https://www.njsmart.org/njr/index"
+    },
+    {
+        "alt_title": [
+            "New Jersey Education to Earnings",
+            "Education to Earnings",
+            "NJEEDS",
+            "EEDS"
+        ],
+        "description": "The New Jersey Education to Earnings Data System (NJEEDS) is the State of New Jersey’s centralized longitudinal data system and was developed in 2012 through a grant from the U.S. Department of Education. Its core mission is to create a single place where state education, postsecondary education, employment, and workforce longitudinal data are securely stored and information made available to education and training stakeholders and the public for analysis in order to improve governance efforts, policymaking, and the performance of education and workforce initiatives.",
+        "id": "dataset-822",
+        "provider": "provider-343",
+        "title": "New Jersey Education to Earnings Data System",
+        "url": "http://njed2earndata.org/"
+    },
+    {
+        "alt_title": [
+            "Minnesota PRISM",
+            "PRISM"
+        ],
+        "description": "PRISM is a federally mandated computer system that supports Minnesota’s Child Support Enforcement program in efforts to: Locate missing non-custodial parents; Implement automatic withholding with employers for support; Enforce child support orders; Centralize receipt and disbursement of child support payments as required by federal law.",
+        "id": "dataset-823",
+        "provider": "provider-137",
+        "title": "Providing Resources to Improve Support in Minnesota (PRISM) Computer System",
+        "url": "https://www.dhs.state.mn.us/main/idcplg?IdcService=GET_DYNAMIC_CONVERSION&RevisionSelectionMethod=LatestReleased&dDocName=id_000403"
+    },
+    {
+        "alt_title": [
+            "Minnesota PSOP",
+            "PSOP"
+        ],
+        "description": "The Minnesota Parent Support Outreach Program is a voluntary program that provides short-term help to parents to access resources and provide education about such things as housing, transportation, parent education, child development, activities, child care, safety planning, employment and other services.",
+        "id": "dataset-824",
+        "provider": "provider-137",
+        "title": "Parent Support Outreach Program",
+        "url": "https://mn.gov/dhs/people-we-serve/children-and-families/services/child-protection/programs-services/parent-support-outreach.jsp"
+    },
+    {
+        "alt_title": [
+            "Minnesota SSIS",
+            "SSIS",
+            "Minnesota child welfare",
+            "SACWIS"
+        ],
+        "description": "SSIS is Minnesota’s Statewide Automated Child Welfare Information System (SACWIS system) that collects federally mandated child welfare data and provides support for the delivery and management of child welfare services.",
+        "id": "dataset-825",
+        "provider": "provider-137",
+        "title": "Minnesota Social Services Information System",
+        "url": "https://www.dhs.state.mn.us/main/idcplg?IdcService=GET_DYNAMIC_CONVERSION&RevisionSelectionMethod=LatestReleased&dDocName=id_000404"
+    },
+    {
+        "alt_title": [
+            "SAIPE",
+            "Small area",
+            "Income estimates",
+            "Poverty estimates"
+        ],
+        "description": "The U.S. Census Bureau’s Small Area Income and Poverty Estimates program produces single-year estimates of income and poverty for all U.S. states and counties as well as estimates of school-age children in poverty for all 13,000+ school districts.",
+        "id": "dataset-826",
+        "provider": "provider-225",
+        "title": "Small Area Income and Poverty Estimates",
+        "url": "https://www.census.gov/programs-surveys/saipe/data.html"
+    },
+    {
+        "description": "The repository is managed by CHRR for several State of Ohio agencies and offers researchers a unique opportunity to analyze the education, work, and training experiences of Ohioans over time. Data access is allowed under restricted conditions to protect the privacy of the records contained in the repository.",
+        "id": "dataset-827",
+        "provider": "provider-345",
+        "title": "Ohio Longitudinal Data Archive",
+        "url": "https://chrr.osu.edu/projects/ohio-longitudinal-data-archive"
+    },
+    {
+        "alt_title": [
+            "Workforce Information Database",
+            "Minnesota WIA",
+            "WIA",
+            "Minnesota WIOA",
+            "WIOA",
+            "Minnesota Workforce Investment Act",
+            "Workforce Investment Act",
+            "Workforce Innovation and Opportunity Act"
+        ],
+        "description": "Workforce Innovation and Opportunity Act gives government, nonprofit, education, and industry partners greater flexibility to work together. The result is career training programs that give workers the skills they need to get good jobs at family-sustaining wages and give employers the qualified workers they need to stay competitive.",
+        "id": "dataset-828",
+        "provider": "provider-135",
+        "title": "Minnesota Workforce Innovation and Opportunity Act",
+        "url": "https://mn.gov/deed/about/what-we-do/objectives-plans/wioa.jsp"
+    },
+    {
+        "alt_title": [
+            "MinnesotaWorks",
+            "Minnesota jobs"
+        ],
+        "description": "MinnesotaWorks.net is Minnesota’s labor exchange system, administered by the Minnesota Department of Employment and Economic Development.",
+        "id": "dataset-829",
+        "provider": "provider-135",
+        "title": "Minnesota Works",
+        "url": "https://www.minnesotaworks.net/"
+    },
+    {
+        "alt_title": [
+            "DWP",
+            "Minnesota DWP"
+        ],
+        "description": "The Diversionary Work Program (DWP) is a four-month program that helps Minnesota parents find jobs. The goal is to help parents quickly find work so that they do not need to go on the Minnesota Family Investment Program (MFIP). When families first apply for cash assistance, most will be enrolled in this program.",
+        "id": "dataset-830",
+        "provider": "provider-137",
+        "title": "Minnesota Diversionary Work Program",
+        "url": "https://mn.gov/dhs/people-we-serve/children-and-families/economic-assistance/income/programs-and-services/diversionary-work-program.jsp"
+    },
+    {
+        "description": "IPUMS USA collects, preserves and harmonizes U.S. census microdata and provides easy access to this data with enhanced documentation. Data includes decennial censuses from 1790 to 2010 and American Community Surveys (ACS) from 2000 to the present.",
+        "id": "dataset-849",
+        "original": {
+            "related_to": [
+                "dataset-046",
+                "dataset-118"
+            ]
+        },
+        "provider": "provider-245",
+        "title": "IPUMS USA",
+        "url": "https://usa.ipums.org/usa/index.shtml"
+    },
+    {
+        "alt_title":[
+            "otc performance data",
+            "otc data"
+        ],
+        "description": "OTC performance data and information necessary to implement, report and carry out the federal Carl D. Perkins legislation.",
+        "id": "dataset-850",
+        "provider": "provider-333",
+        "title": "Ohio Technical Centers",
+        "url": "https://www.ohiohighered.org/perkins/performance#perfawe"
     }
 ]

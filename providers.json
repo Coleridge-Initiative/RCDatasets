@@ -543,10 +543,6 @@
         "title": "Minnesota Department of Education"
     },
     {
-        "id": "provider-134",
-        "title": "Minnesota Department of Employement and Economic Development"
-    },
-    {
         "id": "provider-135",
         "title": "Minnesota Department of Employment and Economic Development"
     },
@@ -1156,6 +1152,7 @@
     },
     {
         "id": "provider-282",
+        "ror": "04d23a975",
         "title": "US Naval Research Laboratory"
     },
     {
@@ -1427,8 +1424,17 @@
         "title": "Oregon Spatial Data Library"
     },
     {
+        "id": "provider-343",
+        "ror": "058mdz444",
+        "title": "New Jersey Department of Education"
+    },
+    {
         "id": "provider-344",
         "ror": "00gcd8h55",
         "title": "The Nature Conservancy"
+    },
+    {
+        "id": "provider-345",
+        "title": "Ohio Education Research Center"
     }
 ]
