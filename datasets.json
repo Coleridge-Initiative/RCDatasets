@@ -4038,7 +4038,9 @@
     {
         "alt_title": [
             "WIASRD",
-            "WIASRD Data"
+            "WIASRD Data",
+            "WIOA",
+            "WIOA Data"
         ],
         "id": "dataset-343",
         "provider": "provider-044",
@@ -8844,6 +8846,7 @@
         "url": "https://mn.gov/dhs/people-we-serve/children-and-families/economic-assistance/income/programs-and-services/diversionary-work-program.jsp"
     },
     {
+<<<<<<< HEAD
         "alt_title": [
             "AHC",
             "New York AHC",
@@ -8865,19 +8868,6 @@
         ],
         "description": "These data are monthly listings of households, recipients and expenditures for the Supplemental Nutrition Assistance Program in New York State beginning in 2002.",
         "id": "dataset-832",
-        "provider": "provider-173",
-        "title": "New York Supplemental Nutrition Assistance Program Caseloads and Expenditures: Beginning 2002",
-        "url": "https://data.ny.gov/Human-Services/Supplemental-Nutrition-Assistance-Program-SNAP-Cas/dq6j-8u8z"
-    },
-    {
-        "alt_title": [
-            "SNAP",
-            "New York SNAP",
-            "SNAP Caseload",
-            "SNAP Expenditures"
-        ],
-        "description": "These data are monthly listings of households, recipients and expenditures for the Supplemental Nutrition Assistance Program in New York State beginning in 2002.",
-        "id": "dataset-833",
         "provider": "provider-173",
         "title": "New York Supplemental Nutrition Assistance Program Caseloads and Expenditures: Beginning 2002",
         "url": "https://data.ny.gov/Human-Services/Supplemental-Nutrition-Assistance-Program-SNAP-Cas/dq6j-8u8z"
@@ -9000,5 +8990,29 @@
         "provider": "provider-353",
         "title": "New York State Child Care Subsidy Program Data",
         "url": "https://data.nysed.gov/"
+=======
+        "description": "IPUMS USA collects, preserves and harmonizes U.S. census microdata and provides easy access to this data with enhanced documentation. Data includes decennial censuses from 1790 to 2010 and American Community Surveys (ACS) from 2000 to the present.",
+        "id": "dataset-849",
+        "original": {
+            "related_to": [
+                "dataset-046",
+                "dataset-118"
+            ]
+        },
+        "provider": "provider-245",
+        "title": "IPUMS USA",
+        "url": "https://usa.ipums.org/usa/index.shtml"
+    },
+    {
+        "alt_title": [
+            "otc performance data",
+            "otc data"
+        ],
+        "description": "OTC performance data and information necessary to implement, report and carry out the federal Carl D. Perkins legislation.",
+        "id": "dataset-850",
+        "provider": "provider-333",
+        "title": "Ohio Technical Centers",
+        "url": "https://www.ohiohighered.org/perkins/performance#perfawe"
+>>>>>>> origin/master
     }
 ]
