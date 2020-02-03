@@ -8846,7 +8846,6 @@
         "url": "https://mn.gov/dhs/people-we-serve/children-and-families/economic-assistance/income/programs-and-services/diversionary-work-program.jsp"
     },
     {
-<<<<<<< HEAD
         "alt_title": [
             "AHC",
             "New York AHC",
@@ -8964,7 +8963,7 @@
         "description": "The New York City Department of Health and Mental Hygiene uses data and statistics from New Yorkers to inform the public and health professionals about the health of the City over time, to establish priorities and to shape health policy at all levels of government.",
         "id": "dataset-841",
         "provider": "provider-351",
-        "title": "New York City Crime and Enforcement Activity Reports",
+        "title": "New York City Crime and Enforcement Activity Reports (NYC ALCOHOL ABUSE?)",
         "url": "https://www1.nyc.gov/site/nypd/stats/reports-analysis/crime-enf.page"
     },
     {
@@ -8990,7 +8989,8 @@
         "provider": "provider-353",
         "title": "New York State Child Care Subsidy Program Data",
         "url": "https://data.nysed.gov/"
-=======
+    },
+    {
         "description": "IPUMS USA collects, preserves and harmonizes U.S. census microdata and provides easy access to this data with enhanced documentation. Data includes decennial censuses from 1790 to 2010 and American Community Surveys (ACS) from 2000 to the present.",
         "id": "dataset-849",
         "original": {
@@ -9013,6 +9013,5 @@
         "provider": "provider-333",
         "title": "Ohio Technical Centers",
         "url": "https://www.ohiohighered.org/perkins/performance#perfawe"
->>>>>>> origin/master
     }
 ]
