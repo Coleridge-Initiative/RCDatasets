@@ -1484,12 +1484,12 @@
     },
     {
         "id": "provider-355",
-        "title": "RAND Corporation",
-        "ror":  "00f2z7n96"
+        "ror": "00f2z7n96",
+        "title": "RAND Corporation"
     },
     {
         "id": "provider-356",
-        "title": "Connecticut Department of Children and Families",
-        "ror":  "02qdmsh42"
+        "ror": "02qdmsh42",
+        "title": "Connecticut Department of Children and Families"
     }
 ]
