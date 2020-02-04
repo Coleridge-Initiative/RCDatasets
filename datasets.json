@@ -3396,7 +3396,7 @@
         ],
         "description": "CRIS-E is an automated system used by caseworkers and administrators in support of the Ohio Works First program; Prevention, Retention and Contingency; Food Assistance; and Medicaid benefits to those eligible. Core operations include application intake, eligibility determination, and issuance of benefits to clients.",
         "id": "dataset-289",
-        "provider": "provider-181",
+        "provider": "provider-182",
         "title": "Ohio Client Registry Information System Enhanced",
         "url": "https://jfs.ohio.gov/omis/projects.stm"
     },
@@ -8846,6 +8846,219 @@
         "url": "https://mn.gov/dhs/people-we-serve/children-and-families/economic-assistance/income/programs-and-services/diversionary-work-program.jsp"
     },
     {
+        "alt_title": [
+            "AHC",
+            "New York AHC",
+            "New York low-income housing",
+            "New York low income housing"
+        ],
+        "description": "The New York State Affordable Housing Corporation (AHC) creates homeownership opportunities for low- and moderate-income families by providing grants to governmental, not-for-profit and charitable organizations to help subsidize the cost of newly constructed houses and the renovation of existing housing.",
+        "id": "dataset-831",
+        "provider": "provider-134",
+        "title": "New York State Affordable Housing Corporation",
+        "url": "https://hcr.ny.gov/affordable-housing-corporation-0"
+    },
+    {
+        "alt_title": [
+            "SNAP",
+            "New York SNAP",
+            "SNAP Caseload",
+            "SNAP Expenditures"
+        ],
+        "description": "These data are monthly listings of households, recipients and expenditures for the Supplemental Nutrition Assistance Program in New York State beginning in 2002.",
+        "id": "dataset-832",
+        "provider": "provider-173",
+        "title": "New York Supplemental Nutrition Assistance Program Caseloads and Expenditures: Beginning 2002",
+        "url": "https://data.ny.gov/Human-Services/Supplemental-Nutrition-Assistance-Program-SNAP-Cas/dq6j-8u8z"
+    },
+    {
+        "alt_title": [
+            "CalSES"
+        ],
+        "description": "The purpose of the study is to help us evaluate the CalWORKs program.",
+        "id": "dataset-833",
+        "provider": "provider-355",
+        "title": "California Socioeconomic Survey",
+        "url": "https://www.rand.org/well-being/social-and-behavioral-policy/projects/CalWORKs/CalSES.html"
+    },
+    {
+        "alt_title": [
+            "NYC HPD",
+            "HPD",
+            "New York City HPD",
+            "New York City housing"
+        ],
+        "description": "New York City Department of Housing Preservation and Development (HPD) collects data on the delivery of its core services -- enforcing the Housing Maintenance Code, preservation and creative quality affordable housing, and effectively managing HPD housing assets.",
+        "id": "dataset-834",
+        "provider": "provider-346",
+        "title": "New York City Department of Housing Preservation and Development Open Data",
+        "url": "https://www1.nyc.gov/site/hpd/about/open-data.page"
+    },
+    {
+        "alt_title": [
+            "NYCHA",
+            "NYC Housing Authority",
+            "New York City housing"
+        ],
+        "description": "NYCHA is committed to a new level of transparency, public participation, and collaboration with our stakeholders. You can use our data to take a look at the Authority's performance. This information will be updated monthly.",
+        "id": "dataset-835",
+        "provider": "provider-347",
+        "title": "New York City Housing Authority Data and Reports",
+        "url": "https://www1.nyc.gov/site/nycha/about/reports.page"
+    },
+    {
+        "alt_title": [
+            "New York State Medicaid",
+            "Medicaid"
+        ],
+        "description": "New York State reports on medicaid statistics, expenditures, and enrollment.",
+        "id": "dataset-836",
+        "provider": "provider-348",
+        "title": "New York State Medicaid Statistics",
+        "url": "https://www.health.ny.gov/health_care/medicaid/statistics/"
+    },
+    {
+        "alt_title": [
+            "New York State children's health insurance",
+            "Child Health Plus"
+        ],
+        "description": "New York State has a health insurance plan for kids, called Child Health Plus. Both Children's Medicaid and Child Health Plus are available through dozens of providers throughout the state.",
+        "id": "dataset-837",
+        "provider": "provider-348",
+        "title": "New York State Child Health Plus",
+        "url": "https://www.health.ny.gov/health_care/child_health_plus/"
+    },
+    {
+        "alt_title": [
+            "New York Seedco",
+            "Seedco"
+        ],
+        "description": "Seedco serves populations that are disconnected from opportunity and resources, especially low-income communities. Seedco seeks to enhance access to benefits, family supports, and job training, working closely with a network of community-based organizations.",
+        "id": "dataset-838",
+        "provider": "provider-349",
+        "title": "Seedco Programs in New York",
+        "url": "https://www.seedco.org/newyork/"
+    },
+    {
+        "alt_title": [
+            "Crime data",
+            "New York City crime",
+            "New York City police department",
+            "NYCPD"
+        ],
+        "description": "The NYPD maintains statistical data which is used as a management tool in reducing crime, improving procedures and training, and providing transparency to the public and government oversight agencies. The department provides up-to-date crime-related statistics in the seven major crime categories on the citywide, borough, and precinct levels, as well as historical crime data.",
+        "id": "dataset-839",
+        "provider": "provider-350",
+        "title": "New York City Crime Statistics and Data",
+        "url": "https://www1.nyc.gov/site/nypd/stats/crime-statistics/crime-statistics-landing.page"
+    },
+    {
+        "alt_title": [
+            "Police data",
+            "New York City police enforcement",
+            "NYCPD"
+        ],
+        "description": "The reports below present statistics on race and ethnicity compiled from the New York City Police Department's records management system. Crime Complaint Reports contain information on the crime victims' race and ethnicity. The race and ethnicity of New York City Police Department officers and recent Census Bureau statistics on citywide race and ethnicity is also presented in appendices to the main report.",
+        "id": "dataset-840",
+        "provider": "provider-350",
+        "title": "New York City Crime and Enforcement Activity Reports",
+        "url": "https://www1.nyc.gov/site/nypd/stats/reports-analysis/crime-enf.page"
+    },
+    {
+        "alt_title": [
+            "New York City alcohol abuse",
+            "New York City drug abuse",
+            "alcohol and drug abuse"
+        ],
+        "description": "TWe use data and statistics on drug and alcohol abuse from New Yorkers to inform the public and health professionals about the health of the City over time, to establish priorities and to shape health policy at all levels of government.",
+        "id": "dataset-841",
+        "provider": "provider-351",
+        "title": "New York City Drug and Alcohol Data",
+        "url": "https://www1.nyc.gov/site/doh/health/health-topics/alcohol-and-drug-use-data.page"
+    },
+    {
+        "alt_title": [
+            "New York State education outcomes",
+            "New York education"
+        ],
+        "description": "The New York State Education Department (NYSED) is committed to making data available and easy to use. This site provides a first step in publicly reporting educational data so all interested parties can be better informed as they work to advance student achievement.",
+        "id": "dataset-842",
+        "provider": "provider-352",
+        "title": "New York State Education Department Open Data",
+        "url": "https://data.nysed.gov/"
+    },
+    {
+        "alt_title": [
+            "EHS-CC",
+            "New York EHS-CC",
+            "Child Care Assistance Program",
+            "CCAP"
+        ],
+        "description": "The Office of Children and Family Services is committed to providing assistance with child care costs to eligible families through the Child Care Subsidy Program. Child care subsidies can help parents/caretakers pay for some or all of the cost of child care services.",
+        "id": "dataset-843",
+        "provider": "provider-353",
+        "title": "New York State Child Care Subsidy Program Data",
+        "url": "https://data.nysed.gov/"
+    },
+    {
+        "alt_title": [
+            "CalWORKs",
+            "Los Angeles CalWORKs"
+        ],
+        "description": "The California Work Opportunity and Responsibility to Kids (CalWORKs) program is a time-limited program that provides financial assistance to eligible needy families with (or expecting) children to help pay for housing, food, utilities, clothing, medical care, and other necessary expenses.",
+        "id": "dataset-844",
+        "provider": "provider-109",
+        "title": "Los Angeles County CalWORKs System",
+        "url": "http://dpss.lacounty.gov/wps/portal/dpss/main/programs-and-services/calworks/"
+    },
+    {
+        "alt_title": [
+            "CalWORKs",
+            "CalWORKs Homeless",
+            "Homeless assistance",
+            "CalWORKs HA"
+        ],
+        "description": "The CalWORKs Homeless Assistance (HA) Program was established to help CalWORKs families meet the reasonable costs of securing housing. The CalWORKs HA program serves eligible CalWORKs recipients or apparently eligible CalWORKs applicants, who are homeless or at risk of homelessness.",
+        "id": "dataset-845",
+        "provider": "provider-016",
+        "title": "CalWORKs Homeless Assistance Program",
+        "url": "https://www.cdss.ca.gov/inforesources/cdss-programs/housing-programs/calworks-homeless-assistance"
+    },
+    {
+        "alt_title": [
+            "California IHSS"
+        ],
+        "description": "The IHSS Program will help pay for services provided to you so that you can remain safely in your own home. IHSS is considered an alternative to out-of-home care, such as nursing homes or board and care facilities.",
+        "id": "dataset-846",
+        "provider": "provider-016",
+        "title": "California In-Home Supportive Services Program",
+        "url": "https://www.cdss.ca.gov/in-home-supportive-services"
+    },
+    {
+        "alt_title": [
+            "California EITC",
+            "CalEITC4Me",
+            "CalEITC",
+            "Tax credit"
+        ],
+        "description": "The CalEITC is a cashback tax credit that puts money back into the pockets of California workers.",
+        "id": "dataset-847",
+        "provider": "provider-354",
+        "title": "California Earned Income Tax Credit Resources",
+        "url": "https://www.caleitc4me.org/helpful-materials/"
+    },
+    {
+        "alt_title": [
+            "CPM",
+            "California poverty"
+        ],
+        "description": "The California Poverty Measure is a new index that improves upon conventional poverty measures. The CPM tracks the full range of necessary expenditures, adjusts for geographic differences in housing costs, and includes food stamps and other non-cash benefits as resources available to poor families. The CPM reveals which groups and counties have the highest poverty rates and whether California's safety net is successfully reducing poverty.",
+        "id": "dataset-848",
+        "provider": "provider-354",
+        "title": "California Poverty Measure",
+        "url": "https://www.caleitc4me.org/helpful-materials/"
+    },
+    {
         "description": "IPUMS USA collects, preserves and harmonizes U.S. census microdata and provides easy access to this data with enhanced documentation. Data includes decennial censuses from 1790 to 2010 and American Community Surveys (ACS) from 2000 to the present.",
         "id": "dataset-849",
         "original": {
@@ -8868,5 +9081,40 @@
         "provider": "provider-333",
         "title": "Ohio Technical Centers",
         "url": "https://www.ohiohighered.org/perkins/performance#perfawe"
+    },
+    {
+        "alt_title": [
+            "Connecticut TANF",
+            "TANF",
+            "CT TANF"
+        ],
+        "description": "The purpose of this dataset is to give Providers of DCF contracted services the amounts for which the state of CT has claimed federal reimbursement for under TANF so that they can determine whether or not they will require an audit.",
+        "id": "dataset-851",
+        "provider": "provider-356",
+        "title": "Connecticut Temporary Aid to Needy Families Claimed Funds By Program, Provider and Calendar Quarter",
+        "url": "https://www.rand.org/well-being/social-and-behavioral-policy/projects/CalWORKs/CalSES.html"
+    },
+    {
+        "alt_title": [
+            "Iowa TANF",
+            "TANF",
+            "IA TANF"
+        ],
+        "description": "Temporary Assistance for Needy Families (TANF) provides temporary cash for families in need.",
+        "id": "dataset-852",
+        "provider": "provider-100",
+        "title": "Iowa Temporary Aid to Needy Families",
+        "url": "https://www.rand.org/well-being/social-and-behavioral-policy/projects/CalWORKs/CalSES.html"
+    },
+    {
+        "alt_title": [
+            "Pew Research Center",
+            "Hispanic trends"
+        ],
+        "description": "Data provided by the Pew Research Center on hispanic populations and immigration trends.",
+        "id": "dataset-853",
+        "provider": "provider-192",
+        "title": "Pew Research Center Hispanic Trends Datasets",
+        "url": "https://www.pewresearch.org/hispanic/datasets/"
     }
 ]
