@@ -1477,5 +1477,19 @@
         "id": "provider-353",
         "ror": "02tsp7733",
         "title": "New York State Office of Children and Family Services"
+    },
+    {
+        "id": "provider-354",
+        "title": "State of California Franchise Tax Board"
+    },
+    {
+        "id": "provider-355",
+        "title": "RAND Corporation",
+        "ror":  "00f2z7n96"
+    },
+    {
+        "id": "provider-356",
+        "title": "Connecticut Department of Children and Families",
+        "ror":  "02qdmsh42"
     }
 ]
