@@ -8873,6 +8873,16 @@
     },
     {
         "alt_title": [
+            "CalSES"
+        ],
+        "description": "The purpose of the study is to help us evaluate the CalWORKs program.",
+        "id": "dataset-833",
+        "provider": "provider-355",
+        "title": "California Socioeconomic Survey",
+        "url": "https://www.rand.org/well-being/social-and-behavioral-policy/projects/CalWORKs/CalSES.html"
+    },
+    {
+        "alt_title": [
             "NYC HPD",
             "HPD",
             "New York City HPD",
@@ -8991,10 +9001,62 @@
         "url": "https://data.nysed.gov/"
     },
     {
-        "description": "PLACEHOLDER - TODO",
+        "alt_title": [
+            "CalWORKs",
+            "Los Angeles CalWORKs"
+        ],
+        "description": "The California Work Opportunity and Responsibility to Kids (CalWORKs) program is a time-limited program that provides financial assistance to eligible needy families with (or expecting) children to help pay for housing, food, utilities, clothing, medical care, and other necessary expenses.",
+        "id": "dataset-844",
+        "provider": "provider-109",
+        "title": "Los Angeles County CalWORKs System",
+        "url": "http://dpss.lacounty.gov/wps/portal/dpss/main/programs-and-services/calworks/"
+    },
+    {
+        "alt_title": [
+            "CalWORKs",
+            "CalWORKs Homeless",
+            "Homeless assistance",
+            "CalWORKs HA"
+        ],
+        "description": "The CalWORKs Homeless Assistance (HA) Program was established to help CalWORKs families meet the reasonable costs of securing housing. The CalWORKs HA program serves eligible CalWORKs recipients or apparently eligible CalWORKs applicants, who are homeless or at risk of homelessness.",
         "id": "dataset-845",
-        "provider": "provider-000",
-        "title": "PLACEHOLDER - TODO"
+        "provider": "provider-016",
+        "title": "CalWORKs Homeless Assistance Program",
+        "url": "https://www.cdss.ca.gov/inforesources/cdss-programs/housing-programs/calworks-homeless-assistance"
+    },
+    {
+        "alt_title": [
+            "California IHSS"
+        ],
+        "description": "The IHSS Program will help pay for services provided to you so that you can remain safely in your own home. IHSS is considered an alternative to out-of-home care, such as nursing homes or board and care facilities.",
+        "id": "dataset-846",
+        "provider": "provider-016",
+        "title": "California In-Home Supportive Services Program",
+        "url": "https://www.cdss.ca.gov/in-home-supportive-services"
+    },
+    {
+        "alt_title": [
+            "California EITC",
+            "CalEITC4Me",
+            "CalEITC",
+            "Tax credit"
+        ],
+        "description": "The CalEITC is a cashback tax credit that puts money back into the pockets of California workers.",
+        "id": "dataset-847",
+        "provider": "provider-354",
+        "title": "California Earned Income Tax Credit Resources",
+        "url": "https://www.caleitc4me.org/helpful-materials/"
+    },
+    {
+        "alt_title": [
+            "CPM",
+            "California poverty"
+        ],
+        "description": "The California Poverty Measure is a new index that improves upon conventional poverty measures. The CPM tracks the full range of necessary expenditures, adjusts for geographic differences in housing costs, and includes food stamps and other non-cash benefits as resources available to poor families. The CPM reveals which groups and counties have the highest poverty rates and whether California's safety net is successfully reducing poverty.",
+        "id": "dataset-848",
+        "provider": "provider-354",
+        "title": "California Poverty Measure",
+        "url": "https://www.caleitc4me.org/helpful-materials/"
     },
     {
         "description": "IPUMS USA collects, preserves and harmonizes U.S. census microdata and provides easy access to this data with enhanced documentation. Data includes decennial censuses from 1790 to 2010 and American Community Surveys (ACS) from 2000 to the present.",
@@ -9019,5 +9081,29 @@
         "provider": "provider-333",
         "title": "Ohio Technical Centers",
         "url": "https://www.ohiohighered.org/perkins/performance#perfawe"
+    },
+    {
+        "alt_title": [
+            "Connecticut TANF",
+            "TANF",
+            "CT TANF"
+        ],
+        "description": "The purpose of this dataset is to give Providers of DCF contracted services the amounts for which the state of CT has claimed federal reimbursement for under TANF so that they can determine whether or not they will require an audit.",
+        "id": "dataset-851",
+        "provider": "provider-356",
+        "title": "Connecticut Temporary Aid to Needy Families Claimed Funds By Program, Provider and Calendar Quarter",
+        "url": "https://www.rand.org/well-being/social-and-behavioral-policy/projects/CalWORKs/CalSES.html"
+    },
+    {
+        "alt_title": [
+            "Iowa TANF",
+            "TANF",
+            "IA TANF"
+        ],
+        "description": "Temporary Assistance for Needy Families (TANF) provides temporary cash for families in need.",
+        "id": "dataset-852",
+        "provider": "provider-100",
+        "title": "Iowa Temporary Aid to Needy Families",
+        "url": "https://www.rand.org/well-being/social-and-behavioral-policy/projects/CalWORKs/CalSES.html"
     }
 ]
