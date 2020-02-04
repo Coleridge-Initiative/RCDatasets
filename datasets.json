@@ -9105,5 +9105,16 @@
         "provider": "provider-100",
         "title": "Iowa Temporary Aid to Needy Families",
         "url": "https://www.rand.org/well-being/social-and-behavioral-policy/projects/CalWORKs/CalSES.html"
+    },
+    {
+        "alt_title": [
+            "Pew Research Center",
+            "Hispanic trends"
+        ],
+        "description": "Data provided by the Pew Research Center on hispanic populations and immigration trends.",
+        "id": "dataset-853",
+        "provider": "provider-192",
+        "title": "Pew Research Center Hispanic Trends Datasets",
+        "url": "https://www.pewresearch.org/hispanic/datasets/"
     }
 ]
