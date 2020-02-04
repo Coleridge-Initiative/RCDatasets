@@ -3396,7 +3396,7 @@
         ],
         "description": "CRIS-E is an automated system used by caseworkers and administrators in support of the Ohio Works First program; Prevention, Retention and Contingency; Food Assistance; and Medicaid benefits to those eligible. Core operations include application intake, eligibility determination, and issuance of benefits to clients.",
         "id": "dataset-289",
-        "provider": "provider-181",
+        "provider": "provider-182",
         "title": "Ohio Client Registry Information System Enhanced",
         "url": "https://jfs.ohio.gov/omis/projects.stm"
     },
