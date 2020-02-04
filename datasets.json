@@ -8960,11 +8960,11 @@
             "New York City drug abuse",
             "alcohol and drug abuse"
         ],
-        "description": "The New York City Department of Health and Mental Hygiene uses data and statistics from New Yorkers to inform the public and health professionals about the health of the City over time, to establish priorities and to shape health policy at all levels of government.",
+        "description": "TWe use data and statistics on drug and alcohol abuse from New Yorkers to inform the public and health professionals about the health of the City over time, to establish priorities and to shape health policy at all levels of government.",
         "id": "dataset-841",
         "provider": "provider-351",
-        "title": "New York City Crime and Enforcement Activity Reports (NYC ALCOHOL ABUSE?)",
-        "url": "https://www1.nyc.gov/site/nypd/stats/reports-analysis/crime-enf.page"
+        "title": "New York City Drug and Alcohol Data",
+        "url": "https://www1.nyc.gov/site/doh/health/health-topics/alcohol-and-drug-use-data.page"
     },
     {
         "alt_title": [
