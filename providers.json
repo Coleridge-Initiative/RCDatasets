@@ -543,6 +543,10 @@
         "title": "Minnesota Department of Education"
     },
     {
+        "id": "provider-134",
+        "title": "New York State Homes and Community Renewal"
+    },
+    {
         "id": "provider-135",
         "title": "Minnesota Department of Employment and Economic Development"
     },
@@ -1436,5 +1440,42 @@
     {
         "id": "provider-345",
         "title": "Ohio Education Research Center"
+    },
+    {
+        "id": "provider-346",
+        "title": "New York City Department of Housing Preservation and Development"
+    },
+    {
+        "id": "provider-347",
+        "title": "New York City Housing Authority"
+    },
+    {
+        "id": "provider-348",
+        "ror": "04hf5kq57",
+        "title": "New York State Department of Health"
+    },
+    {
+        "id": "provider-349",
+        "title": "Seedco"
+    },
+    {
+        "id": "provider-350",
+        "ror": "03nkqys97",
+        "title": "New York City Police Department"
+    },
+    {
+        "id": "provider-351",
+        "ror": "01gst4g14",
+        "title": "New York City Department of Health and Mental Hygiene"
+    },
+    {
+        "id": "provider-352",
+        "ror": "00h4kdn81",
+        "title": "New York State Education Department"
+    },
+    {
+        "id": "provider-353",
+        "ror": "02tsp7733",
+        "title": "New York State Office of Children and Family Services"
     }
 ]
