@@ -9108,7 +9108,7 @@
         "url": "https://www.pewresearch.org/hispanic/datasets/"
     },
     {
-        "alt_title":[
+        "alt_title": [
             "CNP16OV data",
             "CNP16OV"
         ],
@@ -9119,7 +9119,7 @@
         "url": "https://fred.stlouisfed.org/series/CNP16OV"
     },
     {
-        "alt_title":[
+        "alt_title": [
             "CLF16OV data",
             "CLF16OV"
         ],
@@ -9130,7 +9130,7 @@
         "url": "https://fred.stlouisfed.org/series/CLF16OV"
     },
     {
-        "alt_title":[
+        "alt_title": [
             "CE16OV data",
             "CE16OV"
         ],
@@ -9148,7 +9148,7 @@
         "url": "https://nces.ed.gov/programs/digest/"
     },
     {
-        "alt_title":[
+        "alt_title": [
             "IDES Employment Projections"
         ],
         "description": "Employment projections are available for both industries and occupations. Short-term projections cover a two year period and long-term projections cover a 10 year period.",
@@ -9158,7 +9158,7 @@
         "url": "https://www2.illinois.gov/ides/lmi/pages/employment_projections.aspx"
     },
     {
-        "alt_title":[
+        "alt_title": [
             "NOAA Daily Climate Data"
         ],
         "id": "dataset-860",
