@@ -9106,5 +9106,71 @@
         "provider": "provider-192",
         "title": "Pew Research Center Hispanic Trends Datasets",
         "url": "https://www.pewresearch.org/hispanic/datasets/"
+    },
+    {
+        "alt_title":[
+            "CNP16OV data",
+            "CNP16OV"
+        ],
+        "description": "Civilian noninstitutional population is defined as persons 16 years of age and older residing in the 50 states and the District of Columbia, who are not inmates of institutions (e.g., penal and mental facilities, homes for the aged), and who are not on active duty in the Armed Forces.",
+        "id": "dataset-855",
+        "provider": "provider-055",
+        "title": "FRED Population level data",
+        "url": "https://fred.stlouisfed.org/series/CNP16OV"
+    },
+    {
+        "alt_title":[
+            "CLF16OV data",
+            "CLF16OV"
+        ],
+        "description": "Persons 16 years of age and older. The series comes from the 'Current Population Survey (Household Survey)'",
+        "id": "dataset-856",
+        "provider": "provider-055",
+        "title": "FRED Civilian Labor Force Level data",
+        "url": "https://fred.stlouisfed.org/series/CLF16OV"
+    },
+    {
+        "alt_title":[
+            "CE16OV data",
+            "CE16OV"
+        ],
+        "description": "The civilian noninstitutional population is defined as: persons 16 years of age and older residing in the 50 states and the District of Columbia, who are not inmates of institutions (e.g., penal and mental facilities, homes for the aged), and who are not on active duty in the Armed Forces. The series comes from the 'Current Population Survey (Household Survey)'",
+        "id": "dataset-857",
+        "provider": "provider-055",
+        "title": "FRED Employment Level data",
+        "url": "https://fred.stlouisfed.org/series/CE16OV"
+    },
+    {
+        "description": "The primary purpose of the Digest of Education Statistics is to provide a compilation of statistical information covering the broad field of American education from prekindergarten through graduate school. The Digest includes a selection of data from many sources, both government and private, and draws especially on the results of surveys and activities carried out by the National Center for Education Statistics (NCES).",
+        "id": "dataset-858",
+        "provider": "provider-155",
+        "title": "Digest of Education Statistics",
+        "url": "https://nces.ed.gov/programs/digest/"
+    },
+    {
+        "alt_title":[
+            "IDES Employment Projections"
+        ],
+        "description": "Employment projections are available for both industries and occupations. Short-term projections cover a two year period and long-term projections cover a 10 year period.",
+        "id": "dataset-859",
+        "provider": "provider-080",
+        "title": "Illinois Department of Job and Employment Security Employment Projections",
+        "url": "https://www2.illinois.gov/ides/lmi/pages/employment_projections.aspx"
+    },
+    {
+        "alt_title":[
+            "NOAA Daily Climate Data"
+        ],
+        "id": "dataset-860",
+        "provider": "provider-150",
+        "title": "Daily Climate Data",
+        "url": "https://www.ncdc.noaa.gov/cdo-web/search?datasetid=GHCND"
+    },
+    {
+        "description": "The Census Bureau’s housing data present a comprehensive picture of housing in America. You’ll find a wide range of data on the size, age and type of American homes; home values, rents and mortgages, the housing and construction industry, and more.",
+        "id": "dataset-861",
+        "provider": "provider-225",
+        "title": "US Census Housing Data",
+        "url": "https://www.census.gov/topics/housing.html"
     }
 ]
