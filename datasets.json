@@ -9172,5 +9172,61 @@
         "provider": "provider-225",
         "title": "US Census Housing Data",
         "url": "https://www.census.gov/topics/housing.html"
+    },
+    {
+        "alt_title": [
+            "Ohio EMIS data",
+            "Ohio EMIS"
+        ],
+        "description": "The Education Management Information System (EMIS) is a statewide data collection system for Ohio's primary and secondary education, including demographic information, attendance, course information, financial data, and test results.",
+        "id": "dataset-862",
+        "provider": "provider-359",
+        "title": "Ohio Education Management Information System",
+        "url": "http://education.ohio.gov/Topics/Data/EMIS"
+    },
+    {
+        "alt_title": [
+            "NSC data",
+            "NSC"
+        ],
+        "id": "dataset-863",
+        "provider": "provider-163",
+        "title": "National Student Clearinghouse data",
+        "url": "https://www.studentclearinghouse.org/"
+    },
+    {
+        "description": "The Workforce Supply tool provides businesses with historical information on graduates from high demand fields in Ohio, and projections for the number of graduates available in 2018 and 2019. The occupation information is available for the State of Ohio as a whole, and for individual JobsOhio Regions. Individual occupations have two types of information, 1) background data on the occupation, with actual earnings and individuals with unemployment claims in specific occupations, and 2) supply of potential workers in specific occupations by educational level.",
+        "id": "dataset-864",
+        "provider": "provider-333",
+        "title": "Ohio Workforce Supply Tool",
+        "url": "https://workforcedatatools.chrr.ohio-state.edu/workforcesupply/"
+    },
+    {
+        "alt_title": [
+            "Ohio LMI"
+        ],
+        "id": "dataset-865",
+        "provider": "provider-182",
+        "title": "Ohio Labor Market Information",
+        "url": "https://ohiolmi.com/?page85481=1&size85481=48"
+    },
+    {
+        "alt_title": [
+            "Ohio WIOA performance data"
+        ],
+        "description": "The goals of the Workforce Innovation and Opportunity Act (WIOA) and Comprehensive Case Management and Employment Program (CCMEP) include: increase employment, retention, and earnings to improve the skills of Ohio's workforce; reduce welfare dependency; enhance the productivity of our workforce; and help businesses compete globally. These goals, and their connected performance outcomes, help local areas shape their programs to place more Ohioans in jobs and prepare our youth for their future careers.",
+        "id": "dataset-866",
+        "provider": "provider-182",
+        "title": "Ohio Workforce Investment Opportunity Act perofrmance data",
+        "url": "http://jfs.ohio.gov/owd/WIOA/Performance/index.stm"
+    },
+    {
+        "alt_title": [
+            "AACC data"
+        ],
+        "id": "dataset-867",
+        "provider": "provider-360",
+        "title": "American Association of Community Colleges Data",
+        "url": "https://www.aacc.nche.edu/research-trends/datapoints/"
     }
 ]
