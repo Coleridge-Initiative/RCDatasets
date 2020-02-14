@@ -9174,7 +9174,7 @@
         "url": "https://www.census.gov/topics/housing.html"
     },
     {
-        "alt_title":[
+        "alt_title": [
             "Ohio EMIS data",
             "Ohio EMIS"
         ],
@@ -9185,7 +9185,7 @@
         "url": "http://education.ohio.gov/Topics/Data/EMIS"
     },
     {
-        "alt_title":[
+        "alt_title": [
             "NSC data",
             "NSC"
         ],
@@ -9202,7 +9202,7 @@
         "url": "https://workforcedatatools.chrr.ohio-state.edu/workforcesupply/"
     },
     {
-        "alt_title":[
+        "alt_title": [
             "Ohio LMI"
         ],
         "id": "dataset-865",
@@ -9211,7 +9211,7 @@
         "url": "https://ohiolmi.com/?page85481=1&size85481=48"
     },
     {
-        "alt_title":[
+        "alt_title": [
             "Ohio WIOA performance data"
         ],
         "description": "The goals of the Workforce Innovation and Opportunity Act (WIOA) and Comprehensive Case Management and Employment Program (CCMEP) include: increase employment, retention, and earnings to improve the skills of Ohio's workforce; reduce welfare dependency; enhance the productivity of our workforce; and help businesses compete globally. These goals, and their connected performance outcomes, help local areas shape their programs to place more Ohioans in jobs and prepare our youth for their future careers.",
@@ -9221,7 +9221,7 @@
         "url": "http://jfs.ohio.gov/owd/WIOA/Performance/index.stm"
     },
     {
-        "alt_title":[
+        "alt_title": [
             "AACC data"
         ],
         "id": "dataset-867",
