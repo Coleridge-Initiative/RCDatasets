@@ -9228,5 +9228,25 @@
         "provider": "provider-360",
         "title": "American Association of Community Colleges Data",
         "url": "https://www.aacc.nche.edu/research-trends/datapoints/"
+    },
+    {
+        "alt_title": [
+            "External Position Reports of German Banks"
+        ],
+        "id": "dataset-868",
+        "provider": "provider-040",
+        "title": "Deutsche Bundesbank's External Position Reports of German Banks",
+        "url": "https://www.bundesbank.de/en/bundesbank/research/rdsc/research-data/external-position-of-banks-austa-auslandsstatus--618018"
+    },
+    {
+        "alt_title": [
+            "Non-financial firms financial statements",
+            "JANIS",
+            "USTAN"
+        ],
+        "id": "dataset-869",
+        "provider": "provider-040",
+        "title": "Annual financial statements of non-financial firms (JANIS and USTAN)",
+        "url": "https://www.bundesbank.de/en/bundesbank/research/rdsc/research-data/annual-financial-statements-of-non-financial-firms-janis-and-ustan--618088"
     }
 ]
