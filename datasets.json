@@ -31,6 +31,11 @@
         "url": "https://www.bundesbank.de/en/bundesbank/research/rdsc/research-data/annual-financial-statements-of-non-financial-firms-janis-and-ustan--618088"
     },
     {
+        "alt_title": [
+            "Bundesbank's Payment Survey",
+            "payment behaviour survey",
+            "payment diary survey data"
+        ],
         "id": "dataset-004",
         "provider": "provider-040",
         "title": "Payment behaviour in Germany",
@@ -48,7 +53,8 @@
     },
     {
         "alt_title": [
-            "BAKIS"
+            "BAKIS",
+            "credit register"
         ],
         "description": "The credit register maintained by the Deutsche Bundesbank records all loans of 1.5 million Euro or more granted to a single borrower during the previous quarter and then notifies the lenders of the overall indebtedness of their borrowers.",
         "id": "dataset-006",
@@ -71,7 +77,9 @@
             "10.12757/Bbk.MiDi.9915.03.09"
         ],
         "alt_title": [
-            "MiDi"
+            "MiDi",
+            "Microdatabase Direct Investment",
+            "Microdatabase Direct Investment (MiDi) of the Deutsche Bundesbank"
         ],
         "description": "The MiDi is a collection of individual (i.e. firm-to-firm or private individuals-to-firms) investment relations originally collected to calculate aggregate measures of German foreign direct investment (FDI).",
         "doi": "10.12757/Bbk.MiDi.9915.03.04",
@@ -89,13 +97,13 @@
     {
         "id": "dataset-010",
         "provider": "provider-040",
-        "title": "Banks' profit and loss accounts",
+        "title": "Bundesbank Banks' profit and loss accounts",
         "url": "https://www.bundesbank.de/en/statistics/banks-and-other-financial-corporations/banks/banks-profit-and-loss-accounts/banks-profit-and-loss-accounts-793892"
     },
     {
         "id": "dataset-011",
         "provider": "provider-040",
-        "title": "Securities holdings statistics",
+        "title": "Bundesbank Securities holdings statistics",
         "url": "https://www.bundesbank.de/en/service/reporting-systems/banking-statistics/securities-holdings-statistics-620174"
     },
     {
@@ -127,7 +135,10 @@
             "10.12757/BBk.BISTA.99Q1-16Q4.01.15"
         ],
         "alt_title": [
-            "BISTA"
+            "BISTA",
+            "Bundesbank database on bank balance sheet information",
+            "monthly bank balance sheet statistics of the Deutsche Bundesbank",
+            "Statistics of Bank Balance Sheet"
         ],
         "doi": "10.12757/BBk.BISTA.99Q1-16Q4.01.12",
         "id": "dataset-013",
@@ -9248,5 +9259,17 @@
         "provider": "provider-040",
         "title": "Annual financial statements of non-financial firms (JANIS and USTAN)",
         "url": "https://www.bundesbank.de/en/bundesbank/research/rdsc/research-data/annual-financial-statements-of-non-financial-firms-janis-and-ustan--618088"
+    },
+    {
+        "alt_title": [
+            "ARMS",
+            "Crop production practices",
+            "Farm finances"
+        ],
+        "description": "The Agricultural Resource Management Survey (ARMS) is the U.S. Department of Agriculture's primary source of information on the production practices, resource use, and economic well-being of America’s farms and ranches. The results of this survey give farmers, ranchers, and many others factual insights into many aspects of farming, ranching, and conditions in agricultural communities.",
+        "id": "dataset-870",
+        "provider": "provider-226",
+        "title": "Agricultural Resource Management Survey Farm Financial and Crop Production Practices",
+        "url": "https://www.ers.usda.gov/data-products/arms-farm-financial-and-crop-production-practices/"
     }
 ]
