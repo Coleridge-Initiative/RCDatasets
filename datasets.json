@@ -9275,6 +9275,32 @@
     },
     {
         "alt_title": [
+            "Life cycle",
+            "LCI",
+            "Life cycle assessment",
+            "LCA"
+        ],
+        "description": "This database provides individual gate-to-gate, cradle-to-gate and cradle-to-grave accounting of the energy and material flows into and out of the environment that are associated with producing a material, component, or assembly in the U.S.",
+        "id": "dataset-871",
+        "provider": "provider-294",
+        "title": "U.S. Life Cycle Inventory Database",
+        "url": "https://www.nrel.gov/lci/"
+    },
+    {
+        "alt_title": [
+            "Fertilizer consumption",
+            "Crop fertilizer application",
+            "USDA fertilizer",
+            "USDA crop pricing"
+        ],
+        "description": "This product summarizes fertilizer consumption in the United States by plant nutrient and major fertilizer products—as well as consumption of mixed fertilizers, secondary nutrients, and micronutrients—for 1960 through the latest year for which statistics are available.",
+        "id": "dataset-872",
+        "provider": "provider-226",
+        "title": "USDA Fertilizer Use and Price",
+        "url": "https://www.ers.usda.gov/data-products/fertilizer-use-and-price.aspx"
+    },
+    {
+        "alt_title": [
             "Palmer Drought Severity & Crop Moisture Indices Data",
             "Drought Monitoring"
         ],
