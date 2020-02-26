@@ -225,9 +225,8 @@ class TestVerifyDatasets (unittest.TestCase):
             self.has_clean_name(provider, "title")
 
 
-    def has_clean_ror(self, provider, field):
+    def has_clean_ror (self, provider, field):
         if field in provider:
-
             val = provider[field]
 
             if len(val) == 0:
