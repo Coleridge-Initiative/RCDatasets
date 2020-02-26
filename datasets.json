@@ -7330,7 +7330,8 @@
     {
         "alt_title": [
             "REA",
-            "REA Data"
+            "REA Data",
+            "Regional Economic Information System"
         ],
         "description": "The regional economic accounts tell us about the geographic distribution of U.S. economic activity and growth. The estimates of gross domestic product by state and state and local area personal income, and the accompanying detail, provide a consistent framework for analyzing and comparing individual state and local area economies.",
         "id": "dataset-657",
@@ -7546,6 +7547,7 @@
     },
     {
         "alt_title": [
+            "Cropland Data Layers",
             "CDL"
         ],
         "id": "dataset-680",
@@ -7694,6 +7696,9 @@
         "url": "https://water.weather.gov/ahps2/index.php?wfo=OKX"
     },
     {
+        "alt_title": [
+            "Google Earth Engine Landsat"
+        ],
         "description": "Google Earth is a computer program that renders a 3D representation of Earth based primarily on satellite imagery. The program maps the Earth by superimposing satellite images, aerial photography, and GIS data onto a 3D globe, allowing users to see cities and landscapes from various angles.",
         "id": "dataset-699",
         "provider": "provider-067",
@@ -9353,5 +9358,50 @@
         "provider": "provider-226",
         "title": "National Survey on Recreation and the Environment",
         "url": "https://www.srs.fs.usda.gov/trends/nsre-directory/"
+    },
+    {
+        "alt_title": [
+            "NWOS",
+            "U.S. Forest Service, National Woodland Owner Survey"
+
+        ],
+        "description": "The National Woodland Owner Survey (NWOS) is aimed at increasing our understanding of private forest owners. Summary information from the NWOS is used by people who provide, design, and implement services and policies that impact private forest owners, including government agencies, landowner organizations and other non-governmental organizations, private service providers, business analysts, forest industry companies, and academic researchers.",
+        "id": "dataset-876",
+        "provider": "provider-363",
+        "title": "National Woodland Owners Survey",
+        "url": "https://www.fia.fs.fed.us/nwos/"
+    },
+    {
+        "alt_title": [
+            "Production, Supply and Distribution Online (PS&D)",
+            "PSD Online, Foreign Agricultural Service, USDA",
+            "PSD Online",
+            "PSD"
+        ],
+        "description": "Data on production, supply and distribution of agricultural commodities for the U.S. and key producing and consuming countries.",
+        "id": "dataset-880",
+        "provider": "provider-226",
+        "title": "Production, Supply and Distribution",
+        "url": "https://apps.fas.usda.gov/psdonline/app/index.html#/app/home"
+    },
+    {
+        "alt_title": [
+            "Ethanol Plant Location"
+        ],
+        "description": "See where ethanol is produced in the U.S. today.",
+        "id": "dataset-884",
+        "provider": "provider-365",
+        "title": "Ethanol Biorefinery Locations",
+        "url": "https://ethanolrfa.org/biorefinery-locations/"
+    },
+    {
+        "alt_title": [
+            "CLU"
+        ],
+        "description": "A Common Land Unit (CLU) is the smallest unit of land that has a permanent, contiguous boundary, a common land cover and land management, a common owner and a common producer in agricultural land associated with USDA farm programs. CLU boundaries are delineated from relatively permanent features such as fence lines, roads, and/or waterways.",
+        "id": "dataset-883",
+        "provider": "provider-226",
+        "title": "Common Land Unit",
+        "url": "https://www.fsa.usda.gov/programs-and-services/aerial-photography/imagery-products/common-land-unit-clu/index"
     }
 ]
