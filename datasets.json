@@ -9303,5 +9303,35 @@
         "provider": "provider-304",
         "title": "National Survey on Fishing, Hunting & Wildlife Associated Recreation",
         "url": "https://www.census.gov/programs-surveys/fhwar/library/publications.html"
+    },
+    {
+        "alt_title": [
+            "ISPAID"
+        ],
+        "description": "The Soil Survey is a comprehensive inventory of the soil resources of an area. The survey includes soil maps and descriptions of each type of soil in each county including interpretations of a soil’s potential for use.",
+        "id": "dataset-877",
+        "provider": "provider-303",
+        "title": "Iowa Soil Properties and Interpretations Database",
+        "url": "https://www.extension.iastate.edu/soils/ispaid"
+    },
+    {
+        "alt_title": [
+            "CRM Survey Data"
+        ],
+        "description": "Since 1982, the Conservation Technology Information Center’s (CTIC) National Crop Residue Management Survey (CRM) is the only survey in the U.S. designed to measure and track the type of tillage used by crop at the county level through personal observation of field conditions at mile or half mile intervals. Funding for the full national survey ended in 2004, though some states have continued to submit their own data since then.",
+        "id": "dataset-878",
+        "provider": "provider-364",
+        "title": "Crop Residue Management Survey",
+        "url": "https://www.ctic.org/CRM"
+    },
+    {
+        "alt_title": [
+            "CEAP"
+        ],
+        "description": "CEAP is a multi-agency effort to quantify the environmental effects of conservation practices and programs and develop the science base for managing the agricultural landscape for environmental quality. Project findings will be used to guide USDA conservation policy and program development and help conservationists, farmers and ranchers make more informed conservation decisions.",
+        "id": "dataset-879",
+        "provider": "provider-226",
+        "title": "Conservation Effects Assessment Project",
+        "url": "https://www.nrcs.usda.gov/wps/portal/nrcs/main/national/technical/nra/ceap/"
     }
 ]
