@@ -9333,5 +9333,25 @@
         "provider": "provider-226",
         "title": "Conservation Effects Assessment Project",
         "url": "https://www.nrcs.usda.gov/wps/portal/nrcs/main/national/technical/nra/ceap/"
+    },
+    {
+        "alt_title": [
+            "AgCensus"
+        ],
+        "description": "The Census of Agriculture is a complete count of U.S. farms and ranches and the people who operate them. Even small plots of land - whether rural or urban - growing fruit, vegetables or some food animals count if $1,000 or more of such products were raised and sold, or normally would have been sold, during the Census year. The Census of Agriculture, taken only once every five years, looks at land use and ownership, operator characteristics, production practices, income and expenditures. For America’s farmers and ranchers, the Census of Agriculture is their voice, their future, and their opportunity.",
+        "id": "dataset-881",
+        "provider": "provider-226",
+        "title": "Census of Agriculture",
+        "url": "https://www.nass.usda.gov/AgCensus/index.php"
+    },
+    {
+        "alt_title": [
+            "NSRE"
+        ],
+        "description": "The National Survey on Recreation and the Environment (NSRE) represents the continuation of the ongoing National Recreation Survey (NRS) series. Begun in 1960 by the congressionally created Outdoor Recreation Resources Review Commission (ORRRC), the first NRS was a four-season, in-the-home survey of outdoor recreation participation in the United States. Since that time, five additional NRSs have been conducted in 1965, 1970, 1972, 1977, and 1982-83, and one NSRE in 1994-95. The latest National Survey on Recreation and the Environment is a telephone survey and has already begun.",
+        "id": "dataset-882",
+        "provider": "provider-226",
+        "title": "National Survey on Recreation and the Environment",
+        "url": "https://www.srs.fs.usda.gov/trends/nsre-directory/"
     }
 ]
