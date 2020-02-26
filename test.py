@@ -225,5 +225,22 @@ class TestVerifyDatasets (unittest.TestCase):
             self.has_clean_name(provider, "title")
 
 
+    def has_clean_ror (self, provider, field):
+        if field in provider:
+            val = provider[field]
+
+            if len(val) == 0:
+                raise Exception("{}: empty value in {} |{}|".format(provider["id"], field, val))
+            elif self.PAT_LEADING_SPACE.match(val):
+                raise Exception("{}: leading space in {} |{}|".format(provider["id"], field, val))
+            elif self.PAT_TRAILING_SPACE.match(val):
+                raise Exception("{}: trailing space in {} |{}|".format(provider["id"], field, val))
+
+
+    def test_provider_clean_ror (self):
+        for provider in self.providers:
+            self.has_clean_ror(provider, "ror")
+
+
 if __name__ == "__main__":
     unittest.main()
