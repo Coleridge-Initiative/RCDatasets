@@ -9428,5 +9428,23 @@
         "provider": "provider-365",
         "title": "Ethanol Biorefinery Locations",
         "url": "https://ethanolrfa.org/biorefinery-locations/"
+    },
+    {
+        "alt_title": [
+            "HPRCC",
+            "HPRCC Data"
+        ],
+        "description": "Providing timely climate data and information to the public for cost effective decision making since 1987",
+        "id": "dataset-885",
+        "provider": "provider-366",
+        "title": "High Plains Regional Climate Center Data",
+        "url": "https://hprcc.unl.edu/"
+    },
+    {
+        "description": "The Livestock Anaerobic Digester Database provides key information on anaerobic digester projects on livestock farms in the United States. AgSTAR publishes updated data on this website periodically (generally, two times per year) to enhance public access to information and support the development of biogas recovery projects. Because the data are compiled from a variety of voluntary sources, AgSTAR cannot guarantee the accuracy of the information in the Anaerobic Digester Database. While the Program strives to keep the information as updated and accurate as possible, the database is not exhaustive and may not include data for every anaerobic digester project on livestock farms in the United States.",
+        "id": "dataset-886",
+        "provider": "provider-233",
+        "title": "Livestock Anaerobic Digester Database",
+        "url": "https://www.epa.gov/agstar/livestock-anaerobic-digester-database"
     }
 ]
