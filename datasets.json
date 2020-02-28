@@ -9494,8 +9494,8 @@
         "alt_title": [
             "NAHMS"
         ],
-        "id": "dataset-891",
         "description": "The USDA initiated the National Animal Health Monitoring System (NAHMS) in 1983 to collect, analyze, and disseminate data on animal health, management, and productivity across the United States. The NAHMS team conducts national studies on the health and health management of United States domestic livestock populations. These studies are designed to meet the information needs of the industries associated with these commodities, as identified by people within those industries.",
+        "id": "dataset-891",
         "provider": "provider-226",
         "title": "National Animal Health Monitoring System",
         "url": "https://www.aphis.usda.gov/aphis/ourfocus/animalhealth/monitoring-and-surveillance/nahms"
@@ -9505,8 +9505,8 @@
             "Hogs and pigs",
             "Hog report"
         ],
-        "id": "dataset-892",
         "description": "The Hog Inventory surveys provide detailed inventory of breeding and marketing hogs and the future supply of market hogs on a quarterly basis. Hog owners, including contractors, are the target population. The sampling universe for the hog estimation program is all hog operations with capacity to raise breeding or market hogs. A sample of hog operations from the list frame maintained by NASS is supplemented by a sample of area tracts to ensure complete coverage.",
+        "id": "dataset-892",
         "provider": "provider-226",
         "title": "Hog Inventory Surveys",
         "url": "https://www.nass.usda.gov/Surveys/Guide_to_NASS_Surveys/Hog_Inventory/index.php"
@@ -9516,8 +9516,8 @@
             "Agriculture irrigation",
             "FRIS"
         ],
-        "id": "dataset-893",
         "description": "This data product summarizes the farm-structural characteristics for irrigated farms in each of the 50 States, the 17 Western States (aggregated) and the Nation as a whole, based on USDA's 2013 Farm and Ranch Irrigation Survey (FRIS).",
+        "id": "dataset-893",
         "provider": "provider-226",
         "title": "Irrigated Agriculture in the United States Data",
         "url": "https://www.ers.usda.gov/data-products/irrigated-agriculture-in-the-united-states/"
@@ -9528,8 +9528,8 @@
             "CCRS",
             "FCRS"
         ],
-        "id": "dataset-894",
         "description": "Cost and return estimates are reported for the United States and major production regions for corn, soybeans, wheat, cotton, grain sorghum, rice, peanuts, oats, barley, milk, hogs, and cow-calf.",
+        "id": "dataset-894",
         "provider": "provider-226",
         "title": "Commodity Costs and Returns Survey",
         "url": "https://www.ers.usda.gov/data-products/commodity-costs-and-returns/"
@@ -9538,8 +9538,8 @@
         "alt_title": [
             "BASINS"
         ],
-        "id": "dataset-895",
         "description": "Better Assessment Science Integrating Point and Nonpoint Sources (BASINS) is a multipurpose environmental analysis system designed to help regional, state, and local agencies perform watershed- and water quality-based studies. It was developed by the U.S. Environmental Protection Agency to assist in watershed management and TMDL development by integrating environmental data, analysis tools, and watershed and water quality models.",
+        "id": "dataset-895",
         "provider": "provider-233",
         "title": "Better Assessment Science Integrating Point and Non-point Sources",
         "url": "https://www.epa.gov/ceam/tools-data-exposure-assessment"
@@ -9548,8 +9548,8 @@
         "alt_title": [
             "Water survey"
         ],
-        "id": "dataset-896",
         "description": "The Water Survey’s scientists conduct state-of-the-art research and collect, analyze, archive, and disseminate high-quality, objective data and technical information. The Water Survey’s data, services, and expertise provide a sound technical basis for the citizens and policymakers of Illinois to make decisions.",
+        "id": "dataset-896",
         "provider": "provider-362",
         "title": "Illinois State Water Survey",
         "url": "https://www.isws.illinois.edu/dat/"
@@ -9559,8 +9559,8 @@
             "English farming practices",
             "DEFRA farming"
         ],
-        "id": "dataset-897",
         "description": "This survey looks at how English farming practices are affected by current agricultural and environmental issues. The content of the survey is agreed each year in consultation with users to ensure the information collected remains relevant. Where there is demand the survey is run more frequently and topics are repeated allowing time series data to be built up and enabling comparisons to be made across different years.",
+        "id": "dataset-897",
         "provider": "provider-367",
         "title": "United Kingdom Farming Practices Survey",
         "url": "https://www.gov.uk/government/collections/farm-practices-survey"

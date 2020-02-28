@@ -2,5 +2,5 @@ trace.json
 .ipynb_checkpoints/*
 .DS_Store
 *~
-
+.idea
 
