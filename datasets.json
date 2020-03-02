@@ -9564,5 +9564,17 @@
         "provider": "provider-367",
         "title": "United Kingdom Farming Practices Survey",
         "url": "https://www.gov.uk/government/collections/farm-practices-survey"
+    },
+    {
+        "alt_title": [
+            "USDA FSA",
+            "Farm Service Agency",
+            "Farm Service Agency Data"
+        ],
+        "description": "Proudly serving America's farmers and ranchers since 1938, the Farm Service Agency's Farm Loan Programs continues its long tradition of providing 'a financial safety net for America's farmers and ranchers to sustain economically viable agricultural production' its top priority.  With USDA farm loan programs, 'we keep America's agriculture growing.'",
+        "id": "dataset-898",
+        "provider": "provider-226",
+        "title": "Farm Service Agency Program Data",
+        "url": "https://www.fsa.usda.gov/programs-and-services/farm-loan-programs/program-data/index"
     }
 ]
