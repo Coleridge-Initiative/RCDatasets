@@ -9578,11 +9578,7 @@
         "url": "https://www.fsa.usda.gov/programs-and-services/farm-loan-programs/program-data/index"
     },
     {
-        "description": "Find statistics on crude oil, gasoline, diesel, propane, jet fuel, ethanol, and other liquid fuels.",
-        "id": "dataset-920",
-        "provider": "provider-299",
-        "title": "PETROLEUM & OTHER LIQUIDS",
-        "url": "https://www.eia.gov/petroleum/"
+        "alt_title": [
             "CEAP",
             "Conservation Effects Assessment Project",
             "NRI",
@@ -9666,9 +9662,9 @@
         "id": "dataset-905",
         "provider": "provider-226",
         "title": "Feed Grains Database",
-        "url": "https://data.ers.usda.gov/FEED-GRAINS-custom-query.aspx"
+        "url": "https://www.ers.usda.gov/data-products/feed-grains-database/"
     },
-      {
+    {
         "alt_title": [
             "NEI"
         ],
@@ -9753,10 +9749,10 @@
         "url": "https://www.nass.usda.gov/Surveys/Guide_to_NASS_Surveys/On-Farm_Energy_Production/"
     },
     {
-        "description": "This database contains statistics on four feed grains (corn, grain sorghum, barley, and oats), foreign coarse grains (feed grains plus rye, millet, and mixed grains), hay, and related items. This includes data published in the monthly Feed Outlook and previously annual Feed Yearbook. Data are monthly, quarterly, and/or annual depending upon the data series.",
-        "id": "dataset-919",
-        "provider": "provider-226",
-        "title": "Feed Grains Database",
-        "url": "https://www.ers.usda.gov/data-products/feed-grains-database/"
+        "description": "Find statistics on crude oil, gasoline, diesel, propane, jet fuel, ethanol, and other liquid fuels.",
+        "id": "dataset-920",
+        "provider": "provider-299",
+        "title": "PETROLEUM & OTHER LIQUIDS",
+        "url": "https://www.eia.gov/petroleum/"
     }
 ]
