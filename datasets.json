@@ -9639,5 +9639,29 @@
         "provider": "provider-226",
         "title": "NASS Agricultural Chemical Use Survey",
         "url": "https://www.nass.usda.gov/Surveys/Guide_to_NASS_Surveys/Chemical_Use/index.php"
+    },
+    {
+        "alt_title": [
+            "State electricity consumption",
+            "Electricity statistics"
+        ],
+        "description": "The U.S. Energy Information Administration (under the U.S. Department of Energy) provides detailed electricity statistics for each state and the District of Columbia, as well as archived electricity profiles dating back to 1996. For each state, data are provided on the following items: NERC region, primary energy source, net summer capacity (megawatts), net generation (megawatthours), emissions, total retail sales (megawatthours), direct use (megawatthours) and average retail price (cents/kWh).",
+        "id": "dataset-904",
+        "provider": "provider-299",
+        "title": "State Electricity Profiles",
+        "url": "https://www.eia.gov/electricity/state/"
+    },
+    {
+        "alt_title": [
+            "Corn production",
+            "Cotton production",
+            "Crop production",
+            "Grains statistics"
+        ],
+        "description": "This database contains statistics on four feed grains (corn, grain sorghum, barley, and oats), foreign coarse grains (feed grains plus rye, millet, and mixed grains), hay, and related items. This includes data published in the monthly Feed Outlook and previously annual Feed Yearbook. Data are monthly, quarterly, and/or annual depending upon the data series.",
+        "id": "dataset-905",
+        "provider": "provider-226",
+        "title": "Feed Grains Database",
+        "url": "https://data.ers.usda.gov/FEED-GRAINS-custom-query.aspx"
     }
 ]
