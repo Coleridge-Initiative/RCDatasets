@@ -9271,7 +9271,8 @@
             "ARMS",
             "Farm finances",
             "Crop production practices",
-            "Agricultural Resource Management Survey Farm Financial and Crop Production Practices"
+            "Agricultural Resource Management Survey Farm Financial and Crop Production Practices",
+            "Farm Costs and Returns Survey"
         ],
         "description": "The Agricultural Resource Management Survey (ARMS) is the U.S. Department of Agriculture's primary source of information on the production practices, resource use, and economic well-being of America’s farms and ranches. The results of this survey give farmers, ranchers, and many others factual insights into many aspects of farming, ranching, and conditions in agricultural communities.",
         "id": "dataset-870",
