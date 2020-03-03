@@ -9577,7 +9577,7 @@
         "title": "Farm Service Agency Program Data",
         "url": "https://www.fsa.usda.gov/programs-and-services/farm-loan-programs/program-data/index"
     },
-	{
+    {
         "alt_title": [
             "NEI"
         ],
@@ -9587,7 +9587,7 @@
         "title": "National Emissions Inventory",
         "url": "https://www.epa.gov/air-emissions-inventories/national-emissions-inventory-nei"
     },
-	{
+    {
         "alt_title": [
             "MLU"
         ],
@@ -9597,7 +9597,7 @@
         "title": "Major Land Uses",
         "url": "https://www.ers.usda.gov/data-products/major-land-uses.aspx"
     },
-	{
+    {
         "alt_title": [
             "NSI"
         ],
@@ -9607,7 +9607,7 @@
         "title": "National Resources Inventory",
         "url": "https://www.nrcs.usda.gov/wps/portal/nrcs/main/national/technical/nra/nri/"
     },
-	{
+    {
         "alt_title": [
             "Agricultural Productivity"
         ],
@@ -9617,7 +9617,7 @@
         "title": "Agricultural Productivity in the U.S.",
         "url": "https://www.ers.usda.gov/data-products/agricultural-productivity-in-the-us/"
     },
-	{
+    {
         "alt_title": [
             "Agricultural Research Funding"
         ],
@@ -9627,14 +9627,14 @@
         "title": "Agricultural Research Funding in the Public and Private Sectors",
         "url": "https://www.ers.usda.gov/data-products/agricultural-research-funding-in-the-public-and-private-sectors/"
     },
-	{
+    {
         "description": "This data product summarizes the adoption of herbicide-tolerant and insect-resistant corn, cotton, and soybeans. The tables below provide data obtained by USDA's National Agricultural Statistics Service (NASS) in the June Agricultural Survey for 2000-19. ERS does not modify the data published in the annual NASS Acreage report.",
         "id": "dataset-915",
         "provider": "provider-226",
         "title": "Adoption of Genetically Engineered Crops in the U.S.",
         "url": "https://www.ers.usda.gov/data-products/adoption-of-genetically-engineered-crops-in-the-us.aspx"
     },
-	{
+    {
         "alt_title": [
             "EQIP"
         ],
@@ -9644,7 +9644,7 @@
         "title": "Environmental Quality Incentives Program",
         "url": "https://www.nrcs.usda.gov/wps/portal/nrcs/main/national/programs/financial/eqip/"
     },
-	{
+    {
         "alt_title": [
             "CSP"
         ],
@@ -9654,23 +9654,23 @@
         "title": "Conservation Stewardship Program",
         "url": "https://www.nrcs.usda.gov/Internet/NRCS_RCA/reports/fb08_cp_cstp.html"
     },
-	{
+    {
         "description": "This is the first survey conducted by USDA's National Agricultural Statistics Service (NASS) to focus on the contribution of America's farms and ranches in the production of renewable energy. The survey expanded upon the energy question asked in the 2007 Census of Agriculture, focusing on energy generated via wind turbines, solar panels and anaerobic digesters.",
         "id": "dataset-918",
         "provider": "provider-226",
         "title": "On-Farm Energy Production Survey",
         "url": "https://www.nass.usda.gov/Surveys/Guide_to_NASS_Surveys/On-Farm_Energy_Production/"
     },
-	{
+    {
         "description": "This database contains statistics on four feed grains (corn, grain sorghum, barley, and oats), foreign coarse grains (feed grains plus rye, millet, and mixed grains), hay, and related items. This includes data published in the monthly Feed Outlook and previously annual Feed Yearbook. Data are monthly, quarterly, and/or annual depending upon the data series.",
-		"id": "dataset-919",
+        "id": "dataset-919",
         "provider": "provider-226",
         "title": "Feed Grains Database",
         "url": "https://www.ers.usda.gov/data-products/feed-grains-database/"
     },
-	{
+    {
         "description": "Find statistics on crude oil, gasoline, diesel, propane, jet fuel, ethanol, and other liquid fuels.",
-		"id": "dataset-920",
+        "id": "dataset-920",
         "provider": "provider-299",
         "title": "PETROLEUM & OTHER LIQUIDS",
         "url": "https://www.eia.gov/petroleum/"
