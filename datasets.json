@@ -9576,5 +9576,103 @@
         "provider": "provider-226",
         "title": "Farm Service Agency Program Data",
         "url": "https://www.fsa.usda.gov/programs-and-services/farm-loan-programs/program-data/index"
+    },
+	{
+        "alt_title": [
+            "NEI"
+        ],
+        "description": "The National Emissions Inventory (NEI) is a comprehensive and detailed estimate of air emissions of criteria pollutants, criteria precursors, and hazardous air pollutants from air emissions sources. The NEI is released every three years based primarily upon data provided by State, Local, and Tribal air agencies for sources in their jurisdictions and supplemented by data developed by the US EPA. The NEI is built using the Emissions Inventory System (EIS) first to collect the data from State, Local, and Tribal air agencies and then to blend that data with other data sources.",
+        "id": "dataset-910",
+        "provider": "provider-233",
+        "title": "National Emissions Inventory",
+        "url": "https://www.epa.gov/air-emissions-inventories/national-emissions-inventory-nei"
+    },
+	{
+        "alt_title": [
+            "MLU"
+        ],
+        "description": "ERS has been a source of major land use estimates in the United States for over 60 years, and the related U.S. cropland used for crops series (Summary table 3 below) dates back to 1910 and is updated annually. The Major Land Uses (MLU) series is the longest running, most comprehensive accounting of all major uses of public and private land in the United States. The series was started in 1945, and has since been published about every 5 years, coinciding with the Census of Agriculture.",
+        "id": "dataset-911",
+        "provider": "provider-226",
+        "title": "Major Land Uses",
+        "url": "https://www.ers.usda.gov/data-products/major-land-uses.aspx"
+    },
+	{
+        "alt_title": [
+            "NSI"
+        ],
+        "description": "The National Resources Inventory (NRI) program collects and produces scientifically credible information on the status, condition, and trends of land, soil, water, and related resources on the Nation’s non-federal lands in support of efforts to protect, restore, and enhance the lands and waters of the United States. It was initially mandated by the Rural Development Act of 1972 (P.L. 92-419) to conduct a “land inventory reflecting soil, water, and related resource conditions.” It requires assessments of resource quantity and quality, as well as change and trends, allowing for regular resource appraisals on the effectiveness of soil and water conservation practices, irrigation techniques, and farming technologies, techniques, and practices.  The NRI is conducted by the U.S. Department of Agriculture’s Natural Resources Conservation Service (NRCS), in cooperation with Iowa State University’s Center for Survey Statistics and Methodology.",
+        "id": "dataset-912",
+        "provider": "provider-226",
+        "title": "National Resources Inventory",
+        "url": "https://www.nrcs.usda.gov/wps/portal/nrcs/main/national/technical/nra/nri/"
+    },
+	{
+        "alt_title": [
+            "Agricultural Productivity"
+        ],
+        "description": "This data product provides estimates of productivity growth in the U.S. farm sector for 1948-2017, and estimates of the growth and relative levels of productivity across U.S. States for 1960-2004.",
+        "id": "dataset-913",
+        "provider": "provider-226",
+        "title": "Agricultural Productivity in the U.S.",
+        "url": "https://www.ers.usda.gov/data-products/agricultural-productivity-in-the-us/"
+    },
+	{
+        "alt_title": [
+            "Agricultural Research Funding"
+        ],
+        "description": "On February 15, 2019, this data product was reposted to correct an issue with how the data series Total private food and agricultural research was adjusted to avoid double counting in combining private agricultural input research data with private food research data.",
+        "id": "dataset-914",
+        "provider": "provider-226",
+        "title": "Agricultural Research Funding in the Public and Private Sectors",
+        "url": "https://www.ers.usda.gov/data-products/agricultural-research-funding-in-the-public-and-private-sectors/"
+    },
+	{
+        "description": "This data product summarizes the adoption of herbicide-tolerant and insect-resistant corn, cotton, and soybeans. The tables below provide data obtained by USDA's National Agricultural Statistics Service (NASS) in the June Agricultural Survey for 2000-19. ERS does not modify the data published in the annual NASS Acreage report.",
+        "id": "dataset-915",
+        "provider": "provider-226",
+        "title": "Adoption of Genetically Engineered Crops in the U.S.",
+        "url": "https://www.ers.usda.gov/data-products/adoption-of-genetically-engineered-crops-in-the-us.aspx"
+    },
+	{
+        "alt_title": [
+            "EQIP"
+        ],
+        "description": "The Environmental Quality Incentives Program (EQIP) provides financial and technical assistance to agricultural producers to address natural resource concerns and deliver environmental benefits such as improved water and air quality, conserved ground and surface water, increased soil health and reduced soil erosion and sedimentation, improved or created wildlife habitat, and mitigation against increasing weather volatility.",
+        "id": "dataset-916",
+        "provider": "provider-226",
+        "title": "Environmental Quality Incentives Program",
+        "url": "https://www.nrcs.usda.gov/wps/portal/nrcs/main/national/programs/financial/eqip/"
+    },
+	{
+        "alt_title": [
+            "CSP"
+        ],
+        "description": "The Conservation Stewardship Program (CSP) is a voluntary conservation program that encourages producers to address resource concerns in a comprehensive manner by undertaking additional conservation activities, and improving, maintaining, and managing existing conservation activities. CSP represents a significant shift in how USDA provides conservation program payments. CSP participants receive an annual land use payment for the operation-level environmental benefits they produce. Participants are paid for conservation performance - the higher the operational performance, the higher the payment. CSP is available on Tribal and private agricultural lands and non-industrial private forest land in all 50 States and the Caribbean and Pacific Islands Areas. The program provides equitable access to all producers, regardless of operation size, crops produced, or geographic location.",
+        "id": "dataset-917",
+        "provider": "provider-226",
+        "title": "Conservation Stewardship Program",
+        "url": "https://www.nrcs.usda.gov/Internet/NRCS_RCA/reports/fb08_cp_cstp.html"
+    },
+	{
+        "description": "This is the first survey conducted by USDA's National Agricultural Statistics Service (NASS) to focus on the contribution of America's farms and ranches in the production of renewable energy. The survey expanded upon the energy question asked in the 2007 Census of Agriculture, focusing on energy generated via wind turbines, solar panels and anaerobic digesters.",
+        "id": "dataset-918",
+        "provider": "provider-226",
+        "title": "On-Farm Energy Production Survey",
+        "url": "https://www.nass.usda.gov/Surveys/Guide_to_NASS_Surveys/On-Farm_Energy_Production/"
+    },
+	{
+        "description": "This database contains statistics on four feed grains (corn, grain sorghum, barley, and oats), foreign coarse grains (feed grains plus rye, millet, and mixed grains), hay, and related items. This includes data published in the monthly Feed Outlook and previously annual Feed Yearbook. Data are monthly, quarterly, and/or annual depending upon the data series.",
+		"id": "dataset-919",
+        "provider": "provider-226",
+        "title": "Feed Grains Database",
+        "url": "https://www.ers.usda.gov/data-products/feed-grains-database/"
+    },
+	{
+        "description": "Find statistics on crude oil, gasoline, diesel, propane, jet fuel, ethanol, and other liquid fuels.",
+		"id": "dataset-920",
+        "provider": "provider-299",
+        "title": "PETROLEUM & OTHER LIQUIDS",
+        "url": "https://www.eia.gov/petroleum/"
     }
 ]
