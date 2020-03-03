@@ -9578,6 +9578,97 @@
         "url": "https://www.fsa.usda.gov/programs-and-services/farm-loan-programs/program-data/index"
     },
     {
+        "description": "Find statistics on crude oil, gasoline, diesel, propane, jet fuel, ethanol, and other liquid fuels.",
+        "id": "dataset-920",
+        "provider": "provider-299",
+        "title": "PETROLEUM & OTHER LIQUIDS",
+        "url": "https://www.eia.gov/petroleum/"
+            "CEAP",
+            "Conservation Effects Assessment Project",
+            "NRI",
+            "National Resources Inventory"
+        ],
+        "description": "In support of the Conservation Effects Assessment Project (CEAP) the National Agricultural Statistics Service (NASS) is conducting surveys with a randomly selected set of farmers nationwide. NASS interviews cooperating farmers to obtain current information on farming practices (e.g., crops grown, tillage practices, nutrient and pesticide application, conservation practices) at National Resources Inventory (NRI) statistical sample points. This farmer survey data is used in field-level physical-process models to assess the effects of conservation practices on cropland.",
+        "id": "dataset-899",
+        "provider": "provider-226",
+        "title": "CEAP-NRI Cropland Farmer Surveys",
+        "url": "https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/technical/nra/ceap/?cid=nrcs143_014163"
+    },
+    {
+        "alt_title": [
+            "Cooperative data",
+            "Farm cooperatives",
+            "Cooperative financial data"
+        ],
+        "description": "USDA Cooperative Programs is the nation’s major source for information about cooperatives. Cooperatives are an essential part of the U.S. economy, especially in rural communities and areas. In addition to helping farmers and ranchers market their products and acquire farm supplies, cooperatives help meet many other needs, such as supplying electricity, telecommunications, credit and financial services, housing, food, hardware and building supplies, among other services. USDA collects financial and other data from the nearly 1,500 farmer, rancher, fishery and bargaining cooperatives annually.",
+        "id": "dataset-900",
+        "provider": "provider-226",
+        "title": "USDA Cooperative Programs Data",
+        "url": "https://www.rd.usda.gov/programs-services/all-programs/cooperative-programs"
+    },
+    {
+        "alt_title": [
+            "STATSGO2",
+            "STATSGO",
+            "Digital General Soil Map",
+            "National Cooperative Soil Survey"
+        ],
+        "description": "The Digital General Soil Map of the United States or STATSGO2 is a broad-based inventory of soils and non-soil areas that occur in a repeatable pattern on the landscape and that can be cartographically shown at the scale mapped of 1:250,000 in the continental U.S., Hawaii, Puerto Rico, and the Virgin Islands and 1:1,000,000 in Alaska. The level of mapping is designed for broad planning and management uses covering state, regional, and multi-state areas. The U.S. General Soil Map is comprised of general soil association units and is maintained and distributed as a spatial and tabular dataset.",
+        "id": "dataset-901",
+        "provider": "provider-226",
+        "title": "United States General Soil Map",
+        "url": "https://data.nal.usda.gov/dataset/united-states-general-soil-map-statsgo2"
+    },
+    {
+        "alt_title": [
+            "PRISM",
+            "Climate patterns data",
+            "Weather patterns data"
+        ],
+        "description": "The PRISM (Parameter-elevation Regressions on Independent Slopes Model) Climate Group gathers climate observations from a wide range of monitoring networks, applies sophisticated quality control measures, and develops spatial climate datasets to reveal short- and long-term climate patterns. The resulting datasets incorporate a variety of modeling techniques and are available at multiple spatial/temporal resolutions, covering the period from 1895 to the present.",
+        "id": "dataset-902",
+        "provider": "provider-226",
+        "title": "PRISM Climate Data",
+        "url": "http://www.prism.oregonstate.edu/"
+    },
+    {
+        "alt_title": [
+            "NASS Agricultural Chemical Use Program",
+            "National Agricultural Statistics Service",
+            "Farm chemical use",
+            "Farm fertilizer"
+        ],
+        "description": "The NASS Agricultural Chemical Use Program is USDA’s official source of statistics about on-farm chemical use and pest management practices. Since 1990, NASS has surveyed U.S. farmers to collect information on the chemical ingredients they apply to agricultural commodities through fertilizers and pesticides. On a rotating basis, the program currently includes fruits; vegetables; major field crops such as cotton, corn, potatoes, soybeans, and wheat; and nursery and floriculture crops.",
+        "id": "dataset-903",
+        "provider": "provider-226",
+        "title": "NASS Agricultural Chemical Use Survey",
+        "url": "https://www.nass.usda.gov/Surveys/Guide_to_NASS_Surveys/Chemical_Use/index.php"
+    },
+    {
+        "alt_title": [
+            "State electricity consumption",
+            "Electricity statistics"
+        ],
+        "description": "The U.S. Energy Information Administration (under the U.S. Department of Energy) provides detailed electricity statistics for each state and the District of Columbia, as well as archived electricity profiles dating back to 1996. For each state, data are provided on the following items: NERC region, primary energy source, net summer capacity (megawatts), net generation (megawatthours), emissions, total retail sales (megawatthours), direct use (megawatthours) and average retail price (cents/kWh).",
+        "id": "dataset-904",
+        "provider": "provider-299",
+        "title": "State Electricity Profiles",
+        "url": "https://www.eia.gov/electricity/state/"
+    },
+    {
+        "alt_title": [
+            "Corn production",
+            "Cotton production",
+            "Crop production",
+            "Grains statistics"
+        ],
+        "description": "This database contains statistics on four feed grains (corn, grain sorghum, barley, and oats), foreign coarse grains (feed grains plus rye, millet, and mixed grains), hay, and related items. This includes data published in the monthly Feed Outlook and previously annual Feed Yearbook. Data are monthly, quarterly, and/or annual depending upon the data series.",
+        "id": "dataset-905",
+        "provider": "provider-226",
+        "title": "Feed Grains Database",
+        "url": "https://data.ers.usda.gov/FEED-GRAINS-custom-query.aspx"
+    },
+      {
         "alt_title": [
             "NEI"
         ],
@@ -9667,12 +9758,5 @@
         "provider": "provider-226",
         "title": "Feed Grains Database",
         "url": "https://www.ers.usda.gov/data-products/feed-grains-database/"
-    },
-    {
-        "description": "Find statistics on crude oil, gasoline, diesel, propane, jet fuel, ethanol, and other liquid fuels.",
-        "id": "dataset-920",
-        "provider": "provider-299",
-        "title": "PETROLEUM & OTHER LIQUIDS",
-        "url": "https://www.eia.gov/petroleum/"
     }
 ]
