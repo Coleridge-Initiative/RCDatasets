@@ -9576,5 +9576,16 @@
         "provider": "provider-226",
         "title": "Farm Service Agency Program Data",
         "url": "https://www.fsa.usda.gov/programs-and-services/farm-loan-programs/program-data/index"
+    },
+    {
+        "alt_title": [
+            "FADN",
+            "Farm Accountacy Data Network"
+        ],
+        "description": "The Farm Accountancy Data Network (FADN) is an instrument for evaluating the income of agricultural holdings and the impacts of the Common Agricultural Policy. The concept of the FADN was launched in 1965, when Council Regulation 79/65 established the legal basis for the organisation of the network. It consists of an annual survey carried out by the Member States of the European Union. The services responsible in the Union for the operation of the FADN collect every year accountancy data from a sample of the agricultural holdings in the European Union.",
+        "id": "dataset-922",
+        "provider": "provider-369",
+        "title": "Farm Accountacy Data Network",
+        "url": "https://ec.europa.eu/agriculture/rica/database/database_en.cfm"
     }
 ]

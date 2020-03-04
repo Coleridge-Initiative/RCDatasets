@@ -1529,5 +1529,10 @@
         "id": "provider-367",
         "ror": "00tnppw48",
         "title": "United Kingdom Department for Environment Food and Rural Affairs"
+    },
+    {
+        "id": "provider-369",
+        "ror": "00k4n6c32",
+        "title": "European Commission"
     }
 ]
