@@ -9766,5 +9766,12 @@
         "provider": "provider-369",
         "title": "Farm Accountacy Data Network",
         "url": "https://ec.europa.eu/agriculture/rica/database/database_en.cfm"
+    },
+    {
+        "description": "Widespread conversion of rural lands to urban uses has drawn attention at all levels of government. To provide information useful for projections of future changes in land use, ERS has created a system to classify remaining farmland into "population-interaction zones for agriculture" (PIZA). These zones represent areas of agricultural land use in which urban-related activities (residential, commercial, and industrial) affect the economic and social environment of agriculture. In these zones, interactions between urban-related population and farm production activities tend to increase the value of farmland, change the production practices and enterprises of farm operators, and elevate the probability that farmland will be converted to urban-related uses.",
+        "id": "dataset-928",
+        "provider": "provider-226",
+        "title": "Population-Interaction Zones for Agriculture (PIZA)",
+        "url": "https://www.ers.usda.gov/data-products/population-interaction-zones-for-agriculture-piza/"
     }
 ]
