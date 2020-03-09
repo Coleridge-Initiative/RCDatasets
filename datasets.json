@@ -5782,7 +5782,8 @@
     },
     {
         "alt_title": [
-            "SCF"
+            "SCF",
+            "Survey of Consumer Finances"
         ],
         "description": "The Survey of Consumer Finances (SCF) is a triennial statistical survey of the balance sheet, pension, income and other demographic characteristics of families in the United States; the survey also gathers information on the use of financial institutions.[",
         "id": "dataset-507",
