@@ -9832,5 +9832,15 @@
         "provider": "provider-226",
         "title": "Population-Interaction Zones for Agriculture (PIZA)",
         "url": "https://www.ers.usda.gov/data-products/population-interaction-zones-for-agriculture-piza/"
+    },
+    {
+        "alt_title": [
+            "AELO"
+        ],
+        "description": "The Agricultural Economics and Land Ownership survey provides detailed estimates of agricultural land ownership, financing, and inputs by farm operators and landlords for each state. The United States Code, Title 13, authorizes this survey and provides for mandatory responses.",
+        "id": "dataset-929",
+        "provider": "provider-226",
+        "title": "Agricultural Economics and Land Ownership",
+        "url": "https://www.nass.usda.gov/Surveys/Guide_to_NASS_Surveys/Agricultural_Economics_and_Land_Ownership/"
     }
 ]
