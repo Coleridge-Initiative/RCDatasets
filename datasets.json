@@ -9865,5 +9865,15 @@
         "provider": "provider-370",
         "title": "Ecoinvent",
         "url": "https://www.ecoinvent.org/database/database.html"
+    },
+    {
+        "alt_title": [
+            "TOTAL"
+        ],
+        "description": "The Tenure, Ownership, and Transition of Agricultural Land (TOTAL) Survey is a comprehensive study of all land rented out for agricultural purposes, including both land rented out by those who are themselves farmers and ranchers (operator landlords) and land rented out by those who do not operate a farm themselves (non-operator landlords). This survey is a follow-on component of the Census of Agriculture program. NASS conducted the TOTAL survey in collaboration with the Economic Research Service (ERS)",
+        "id": "dataset-931",
+        "provider": "provider-226",
+        "title": "Tenure, Ownership, and Transition of Agricultural Land Survey",
+        "url": "https://www.nass.usda.gov/Surveys/Guide_to_NASS_Surveys/TOTAL/"
     }
 ]
