@@ -745,10 +745,17 @@
     },
     {
         "alt_title": [
+            "IPUMS USA",
             "IPUMS"
         ],
         "description": "IPUMS USA collects, preserves and harmonizes U.S. census microdata and provides easy access to this data with enhanced documentation. Data includes decennial censuses from 1790 to 2010 and American Community Surveys (ACS) from 2000 to the present.",
         "id": "dataset-069",
+        "original": {
+            "related_to": [
+                "dataset-046",
+                "dataset-118"
+            ]
+        },
         "provider": "provider-138",
         "title": "Integrated Public Use Microdata Series",
         "url": "https://usa.ipums.org/usa/"
@@ -9067,19 +9074,6 @@
         "url": "https://www.caleitc4me.org/helpful-materials/"
     },
     {
-        "description": "IPUMS USA collects, preserves and harmonizes U.S. census microdata and provides easy access to this data with enhanced documentation. Data includes decennial censuses from 1790 to 2010 and American Community Surveys (ACS) from 2000 to the present.",
-        "id": "dataset-849",
-        "original": {
-            "related_to": [
-                "dataset-046",
-                "dataset-118"
-            ]
-        },
-        "provider": "provider-245",
-        "title": "IPUMS USA",
-        "url": "https://usa.ipums.org/usa/index.shtml"
-    },
-    {
         "alt_title": [
             "otc performance data",
             "otc data"
@@ -9856,7 +9850,7 @@
         "url": "https://www.nass.usda.gov/Surveys/Guide_to_NASS_Surveys/Agricultural_Economics_and_Land_Ownership/"
     },
     {
-        "alt_title": [ 
+        "alt_title": [
             "Ecoinvent v2",
             "Ecoinvent 3"
         ],
