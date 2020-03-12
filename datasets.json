@@ -9923,6 +9923,16 @@
     },
     {
         "alt_title": [
+            "FAMOUS"
+        ],
+        "description": "AAMC initiated the Faculty Roster in 1966 to support national policy studies by collecting comprehensive information on the characteristics of faculty members at accredited U.S. MD-granting medical schools.",
+        "id": "dataset-935",
+        "provider": "provider-371",
+        "title": "Faculty Roster",
+        "url": "https://www.aamc.org/data-reports/faculty-institutions/faculty-roster"
+    },
+    {
+        "alt_title": [
             "CASPAR data"
         ],
         "description": "The WebCASPAR database provides easy access to a large body of statistical data resources for science and engineering (S&E) at U.S. academic institutions. WebCASPAR emphasizes S&E, but its data resources also provide information on non-S&E fields and higher education in general.",
@@ -9955,11 +9965,21 @@
     },
     {
         "alt_title": [
+            "NSOPF"
+        ],
+        "description": "NSOPF was conducted in response to a continuing need for data on faculty and instructors - persons who directly affect the quality of education in postsecondary institutions. Faculty are the pivotal resource around which the process and outcomes of postsecondary education revolve. They often determine curriculum content, student performance standards, and the quality of students' preparation for careers.",
+        "id": "dataset-941",
+        "provider": "provider-155",
+        "title": "National Study of Postsecondary Faculty",
+        "url": "https://nces.ed.gov/surveys/nsopf/"
+    },
+    {
+        "alt_title": [
             "COACHE",
             "Faculty",
             "Tenure track faculty survey"
         ],
-        "description": "Based on scholarly literature, interviews with faculty, and focus groups with senior academic administrators, our Faculty Job Satisfaction Survey was crafted by and for academic affairs leaders. ",
+        "description": "Based on scholarly literature, interviews with faculty, and focus groups with senior academic administrators, our Faculty Job Satisfaction Survey was crafted by and for academic affairs leaders.",
         "id": "dataset-944",
         "provider": "provider-377",
         "title": "Faculty Job Satisfaction Survey",
@@ -9992,5 +10012,12 @@
         "provider": "provider-162",
         "title": "Survey of Graduate Students and Postdoctorates in Science and Engineering",
         "url": "https://www.nsf.gov/statistics/srvygradpostdoc/"
+    },
+    {
+        "description": "The Report of the Visa Office is an annual report providing statistical information on immigrant and non-immigrant visa issuances by consular offices, as well as information on the use of visa numbers in numerically limited categories.",
+        "id": "dataset-952",
+        "provider": "provider-381",
+        "title": "Nonimmigrant Visa Statistics",
+        "url": "https://travel.state.gov/content/travel/en/legal/visa-law0/visa-statistics/nonimmigrant-visa-statistics.html"
     }
 ]
