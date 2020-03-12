@@ -5642,7 +5642,8 @@
     },
     {
         "alt_title": [
-            "IPEDS"
+            "IPEDS",
+            "Integrated Postsecondary Education Data System Completions"
         ],
         "description": "Integrated Postsecondary Education Data System (IPEDS) is an integrated system of surveys conducted by the National Center for Education Statistics. The Completions Survey is the survey within this system designed to collect information on the number and types of degrees awarded by U.S. postsecondary institutions and to collect information on the characteristics of degree recipients.",
         "id": "dataset-493",
@@ -9865,5 +9866,25 @@
         "provider": "provider-370",
         "title": "Ecoinvent",
         "url": "https://www.ecoinvent.org/database/database.html"
+    },
+    {
+        "alt_title": [
+            "ProQuest Dissertations & Theses Global"
+        ],
+        "description": "ProQuest Dissertation & Theses Global is the world's most comprehensive curated collection of dissertations and theses from around the world, offering 5 million citations and 2.5 million full-text works from thousands of universities all over the world.",
+        "id": "dataset-936",
+        "provider": "provider-372",
+        "title": "ProQuest Dissertation",
+        "url": "https://www.proquest.com/products-services/pqdtglobal.html"
+    },
+    {
+        "alt_title": [
+            "NSF-NIH Survey of Graduate Students & Postdoctorates in Science and Engineering"
+        ],
+        "description": "The Graduate Students and Postdoctorates in Science and Engineering survey is an annual census of all U.S. academic institutions granting research-based master's degrees or doctorates in science, engineering, and selected health fields as of fall of the survey year. The survey collects the total number of master's and doctoral students, postdoctoral appointees, and doctorate-level nonfaculty researchers by demographic and other characteristic such as source of financial support.",
+        "id": "dataset-943",
+        "provider": "provider-162",
+        "title": "Survey of Graduate Students and Postdoctorates in Science and Engineering",
+        "url": "https://www.nsf.gov/statistics/srvygradpostdoc/"
     }
 ]
