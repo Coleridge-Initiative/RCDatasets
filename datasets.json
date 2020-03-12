@@ -9686,6 +9686,28 @@
     },
     {
         "alt_title": [
+            "NRC Research Doctoral Programs",
+            "National research council assessment doctoral programs"
+        ],
+        "description": "A Data-Based Assessment of Research-Doctorate Programs in the United States provides an unparalleled dataset that can be used to assess the quality and effectiveness of doctoral programs based on measures important to faculty, students, administrators, funders, and other stakeholders.",
+        "id": "dataset-908",
+        "provider": "provider-373",
+        "title": "Assessment of Research Doctoral Programs",
+        "url": "https://www.nap.edu/catalog/12994/a-data-based-assessment-of-research-doctorate-programs-in-the-united-states-with-cd"
+    },
+    {
+        "alt_title": [
+            "Institute for Scientific Information Current Contents",
+            "ISI Current Contents Database"
+        ],
+        "description": "Current Contents Connect is a current awareness database that helps busy researchers keep up to date by providing easy online access to complete tables of contents, abstracts, and bibliographic information, from the most recently published issues of leading scholarly journals.",
+        "id": "dataset-909",
+        "provider": "provider-374",
+        "title": "Current Contents Connect​",
+        "url": "https://www.nap.edu/catalog/12994/a-data-based-assessment-of-research-doctorate-programs-in-the-united-states-with-cd"
+    },
+    {
+        "alt_title": [
             "NEI"
         ],
         "description": "The National Emissions Inventory (NEI) is a comprehensive and detailed estimate of air emissions of criteria pollutants, criteria precursors, and hazardous air pollutants from air emissions sources. The NEI is released every three years based primarily upon data provided by State, Local, and Tribal air agencies for sources in their jurisdictions and supplemented by data developed by the US EPA. The NEI is built using the Emissions Inventory System (EIS) first to collect the data from State, Local, and Tribal air agencies and then to blend that data with other data sources.",
@@ -9898,5 +9920,49 @@
         "provider": "provider-055",
         "title": "FRED 10 year treasury constant maturity rate data",
         "url": "https://fred.stlouisfed.org/series/DGS10"
+    },
+    {
+        "alt_title": [
+            "CASPAR data"
+        ],
+        "description": "The WebCASPAR database provides easy access to a large body of statistical data resources for science and engineering (S&E) at U.S. academic institutions. WebCASPAR emphasizes S&E, but its data resources also provide information on non-S&E fields and higher education in general.",
+        "id": "dataset-937",
+        "provider": "provider-162",
+        "title": "WebCASPAR Database",
+        "url": "https://catalog.data.gov/dataset/webcaspar"
+    },
+    {
+        "alt_title": [
+            "BITNET data"
+        ],
+        "description": "A range of the historical maps of ARPANET, the Internet, Usenet, and other computer networks, tracing how these pioneering networks grew and developed.",
+        "id": "dataset-938",
+        "provider": "provider-375",
+        "title": "Atlas of Cyberspaces",
+        "url": "https://personalpages.manchester.ac.uk/staff/m.dodge/cybergeography/atlas/historical.html"
+    },
+    {
+        "alt_title": [
+            "ICANN domain name",
+            "WHOIS lookup",
+            "RDAP queries"
+        ],
+        "description": "The Domain Name Registration Data Lookup conducts Registration Data Access Protocol (RDAP) queries. ​RDAP enables users to access current registration data and was created as an eventual replacement for the WHOIS protocol.",
+        "id": "dataset-940",
+        "provider": "provider-376",
+        "title": "Domain Name Registration Data Lookup",
+        "url": "https://lookup.icann.org/"
+    },
+    {
+        "alt_title": [
+            "COACHE",
+            "Faculty",
+            "Tenure track faculty survey"
+        ],
+        "description": "Based on scholarly literature, interviews with faculty, and focus groups with senior academic administrators, our Faculty Job Satisfaction Survey was crafted by and for academic affairs leaders. ",
+        "id": "dataset-940",
+        "provider": "provider-377",
+        "title": "Faculty Job Satisfaction Survey",
+        "url": "https://coache.gse.harvard.edu/faculty-job-satisfaction-survey"
     }
 ]
