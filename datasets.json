@@ -9906,5 +9906,15 @@
         "provider": "provider-162",
         "title": "Scientists and Engineers Statistical Data System",
         "url": "https://www.nsf.gov/statistics/sestat/"
+    },
+    {
+        "alt_title": [
+            "GSSTP"
+        ],
+        "description": "The General Survey of Science and Technology Personnel in China is funded by Chinese Association of Science and Technology (CAST) and conducted by Chinese Academy of Science and Technology for Development (CASTED). In the survey, the science and technology personnel is defined as those who have systematic knowledge of nature science, and whose work is related to the research, popularization, communication, application and management of science and technology. The main aim of this survey is provide a general description of the living condition, working condition, performance, training, cooperation and communication, and attitude of science and technology personnel in China.",
+        "id": "dataset-954",
+        "provider": "provider-382",
+        "title": "General Social Survey on Science and Technology Personnel in China",
+        "url": "http://2015.casted.org.cn/en/web.php?NewsID=4338"
     }
 ]

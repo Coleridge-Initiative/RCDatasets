@@ -1547,5 +1547,10 @@
         "id": "provider-372",
         "ror": "039swsa61",
         "title": "ProQuest"
+    },
+    {
+        "id": "provider-382",
+        "ror": "04qqd9793",
+        "title": "Chinese Academy of Science and Technology for Development"
     }
 ]
