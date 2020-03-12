@@ -9923,6 +9923,16 @@
     },
     {
         "alt_title": [
+            "FAMOUS"
+        ],
+        "description": "AAMC initiated the Faculty Roster in 1966 to support national policy studies by collecting comprehensive information on the characteristics of faculty members at accredited U.S. MD-granting medical schools.",
+        "id": "dataset-935",
+        "provider": "provider-371",
+        "title": "Faculty Roster",
+        "url": "https://www.aamc.org/data-reports/faculty-institutions/faculty-roster"
+    },
+    {
+        "alt_title": [
             "CASPAR data"
         ],
         "description": "The WebCASPAR database provides easy access to a large body of statistical data resources for science and engineering (S&E) at U.S. academic institutions. WebCASPAR emphasizes S&E, but its data resources also provide information on non-S&E fields and higher education in general.",
