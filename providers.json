@@ -1573,5 +1573,10 @@
         "id": "provider-378",
         "ror": "00agrkd75",
         "title": "Computing Research Association (CRA)"
+    },
+    {
+        "id": "provider-381",
+        "ror": "https://ror.org/03vvynj75",
+        "title": "US Department of State"
     }
 ]
