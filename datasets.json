@@ -10028,13 +10028,6 @@
         "url": "https://faeis.cals.vt.edu/index.php/data-center/"
     },
     {
-        "description": "The Graduate Students and Postdoctorates in Science and Engineering survey is an annual census of all U.S. academic institutions granting research-based master's degrees or doctorates in science, engineering, and selected health fields as of fall of the survey year. The survey, sponsored by the National Center for Science and Engineering Statistics within the National Science Foundation and by the National Institutes of Health, collects the total number of master's and doctoral students, postdoctoral appointees, and doctorate-level nonfaculty researchers by demographic and other characteristic such as source of financial support. Results are used to assess shifts in graduate enrollment and postdoc appointments and trends in financial support.",
-        "id": "dataset-947",
-        "provider": "provider-162",
-        "title": "Survey of Graduate Students and Postdoctorates in Science and Engineering",
-        "url": "https://www.nsf.gov/statistics/srvygradpostdoc/"
-    },
-    {
         "alt_title": [
             "Survey of Federal Funds for Research and Development"
         ],
