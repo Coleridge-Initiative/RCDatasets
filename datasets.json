@@ -4329,7 +4329,7 @@
     {
         "alt_title": [
             "SED",
-            "SESTAT"
+            "Doctorate Records File (DRF)"
         ],
         "description": "The Survey of Earned Doctorates (SED) gathers information annually from approximately 50,000 new research doctorate graduates from U.S. universities about their educational histories, funding sources, and post-doctoral plans.",
         "id": "dataset-370",
@@ -4371,7 +4371,8 @@
     },
     {
         "alt_title": [
-            "SDR"
+            "SDR",
+            "SESTAT"
         ],
         "description": "The Survey of Doctorate Recipients (SDR) provides demographic, education, and career history information from individuals with a U.S. research doctoral degree in a science, engineering, or health (SEH) field.",
         "id": "dataset-371",
