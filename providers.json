@@ -1542,5 +1542,31 @@
     {
         "id": "provider-370",
         "title": "Ecoinvent"
+    },
+    {
+        "id": "provider-373",
+        "title": "National Research Council"
+    },
+    {
+        "id": "provider-374",
+        "title": "Web of Science Group"
+    },
+    {
+        "id": "provider-375",
+        "ror": "027m9bs27",
+        "title": "University of Manchester"
+    },
+    {
+        "id": "provider-376",
+        "title": "Internet Corporation for Assigned Names and Numbers (ICANN)"
+    },
+    {
+        "id": "provider-377",
+        "title": "Collaborative on Academic Careers in Higher Education (COACHE)"
+    },
+    {
+        "id": "provider-378",
+        "ror": "00agrkd75",
+        "title": "Computing Research Association (CRA)"
     }
 ]
