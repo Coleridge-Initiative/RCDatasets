@@ -9960,9 +9960,37 @@
             "Tenure track faculty survey"
         ],
         "description": "Based on scholarly literature, interviews with faculty, and focus groups with senior academic administrators, our Faculty Job Satisfaction Survey was crafted by and for academic affairs leaders. ",
-        "id": "dataset-940",
+        "id": "dataset-944",
         "provider": "provider-377",
         "title": "Faculty Job Satisfaction Survey",
         "url": "https://coache.gse.harvard.edu/faculty-job-satisfaction-survey"
+    },
+    {
+        "alt_title": [
+            "CRA Taulbee survey",
+            "Computing research Taulbee"
+        ],
+        "description": "Conducted each fall since 1974, the survey in general covers the preceding academic year. Faculty salary data, however, are for the current year. The survey has always had an excellent response rate–a fact which we believe lends great credibility to the result.",
+        "id": "dataset-945",
+        "provider": "provider-378",
+        "title": "Taulbee Survey",
+        "url": "https://cra.org/resources/taulbee-survey/"
+    },
+    {
+        "alt_title": [
+            "FAEIS"
+        ],
+        "description": "FAEIS, the Food and Agricultural Education Information System, is a federally mandated survey that compiles nationwide higher education data for the life, food, veterinary, human, natural resource, and agricultural sciences. These data include student enrollment, degrees awarded, transfer, and placement at all degree levels by gender and race/ethnicity. FAEIS also collects faculty counts and salaries by gender, race/ethnicity, and rank. Institutions with degree programs that fall within the FAEIS purview are required to submit their student and faculty data annually.",
+        "id": "dataset-946",
+        "provider": "provider-226",
+        "title": "Food and Agricultural Education Information System",
+        "url": "https://faeis.cals.vt.edu/index.php/data-center/"
+    },
+    {
+        "description": "The Graduate Students and Postdoctorates in Science and Engineering survey is an annual census of all U.S. academic institutions granting research-based master's degrees or doctorates in science, engineering, and selected health fields as of fall of the survey year. The survey, sponsored by the National Center for Science and Engineering Statistics within the National Science Foundation and by the National Institutes of Health, collects the total number of master's and doctoral students, postdoctoral appointees, and doctorate-level nonfaculty researchers by demographic and other characteristic such as source of financial support. Results are used to assess shifts in graduate enrollment and postdoc appointments and trends in financial support.",
+        "id": "dataset-947",
+        "provider": "provider-162",
+        "title": "Survey of Graduate Students and Postdoctorates in Science and Engineering",
+        "url": "https://www.nsf.gov/statistics/srvygradpostdoc/"
     }
 ]
