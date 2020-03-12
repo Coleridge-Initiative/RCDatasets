@@ -1553,6 +1553,7 @@
     },
     {
         "id": "provider-375",
+        "ror": "027m9bs27",
         "title": "University of Manchester"
     },
     {
@@ -1565,7 +1566,7 @@
     },
     {
         "id": "provider-378",
-        "title": "Computing Research Association (CRA)",
-        "ror": "00agrkd75"
+        "ror": "00agrkd75",
+        "title": "Computing Research Association (CRA)"
     }
 ]
