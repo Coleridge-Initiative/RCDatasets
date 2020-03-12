@@ -1549,6 +1549,11 @@
         "title": "Association of American Medical Colleges"
     },
     {
+        "id": "provider-372",
+        "ror": "039swsa61",
+        "title": "ProQuest"
+    },
+    {
         "id": "provider-373",
         "title": "National Research Council"
     },
@@ -1578,5 +1583,10 @@
         "id": "provider-381",
         "ror": "https://ror.org/03vvynj75",
         "title": "US Department of State"
+    },
+    {
+        "id": "provider-382",
+        "ror": "04qqd9793",
+        "title": "Chinese Academy of Science and Technology for Development"
     }
 ]
