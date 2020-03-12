@@ -4371,8 +4371,7 @@
     },
     {
         "alt_title": [
-            "SDR",
-            "SESTAT"
+            "SDR"
         ],
         "description": "The Survey of Doctorate Recipients (SDR) provides demographic, education, and career history information from individuals with a U.S. research doctoral degree in a science, engineering, or health (SEH) field.",
         "id": "dataset-371",
@@ -9858,7 +9857,7 @@
         "url": "https://www.nass.usda.gov/Surveys/Guide_to_NASS_Surveys/Agricultural_Economics_and_Land_Ownership/"
     },
     {
-        "alt_title": [ 
+        "alt_title": [
             "Ecoinvent v2",
             "Ecoinvent 3"
         ],
@@ -9887,5 +9886,25 @@
         "provider": "provider-162",
         "title": "Survey of Graduate Students and Postdoctorates in Science and Engineering",
         "url": "https://www.nsf.gov/statistics/srvygradpostdoc/"
+    },
+    {
+        "alt_title": [
+            "Survey of Federal Funds for Research and Development"
+        ],
+        "description": "The Survey of Federal Funds for Research and Development is the primary source of information about federal funding for R&D in the United States. The survey is an annual census completed by the federal agencies that conduct R&D programs. Actual data are collected for the fiscal year just completed; estimates are obtained for the current fiscal year.",
+        "id": "dataset-950",
+        "provider": "provider-162",
+        "title": "Survey of Federal Funds for R&D",
+        "url": "https://www.nsf.gov/statistics/srvyfedfunds/"
+    },
+    {
+        "alt_title": [
+            "SESTAT"
+        ],
+        "description": "SESTAT is the Scientists and Engineers Statistical Data System. This integrated data system is a unique source of longitudinal information on the education and employment of the college-educated U.S. science and engineering workforce. These data are collected through biennial surveys: The National Survey of College Graduates (NSCG), The National Survey of Recent College Graduates (NSRCG) (discontinued after 2010), and The Survey of Doctorate Recipients (SDR)",
+        "id": "dataset-951",
+        "provider": "provider-162",
+        "title": "Scientists and Engineers Statistical Data System",
+        "url": "https://www.nsf.gov/statistics/sestat/"
     }
 ]
