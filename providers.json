@@ -1544,9 +1544,45 @@
         "title": "Ecoinvent"
     },
     {
+        "id": "provider-371",
+        "ror": "04q6cg820",
+        "title": "Association of American Medical Colleges"
+    },
+    {
         "id": "provider-372",
         "ror": "039swsa61",
         "title": "ProQuest"
+    },
+    {
+        "id": "provider-373",
+        "title": "National Research Council"
+    },
+    {
+        "id": "provider-374",
+        "title": "Web of Science Group"
+    },
+    {
+        "id": "provider-375",
+        "ror": "027m9bs27",
+        "title": "University of Manchester"
+    },
+    {
+        "id": "provider-376",
+        "title": "Internet Corporation for Assigned Names and Numbers (ICANN)"
+    },
+    {
+        "id": "provider-377",
+        "title": "Collaborative on Academic Careers in Higher Education (COACHE)"
+    },
+    {
+        "id": "provider-378",
+        "ror": "00agrkd75",
+        "title": "Computing Research Association (CRA)"
+    },
+    {
+        "id": "provider-381",
+        "ror": "https://ror.org/03vvynj75",
+        "title": "US Department of State"
     },
     {
         "id": "provider-382",
