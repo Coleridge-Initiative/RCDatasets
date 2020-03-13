@@ -10029,6 +10029,26 @@
     },
     {
         "alt_title": [
+            "SEI"
+        ],
+        "description": "This biennial report to Congress provides a broad base of quantitative information about U.S. science, engineering, and technology.",
+        "id": "dataset-947",
+        "provider": "provider-162",
+        "title": "Science and Engineering Indicators",
+        "url": "https://nsf.gov/statistics/seind/"
+    },
+    {
+        "alt_title": [
+            "AAS annual report"
+        ],
+        "description": "As directed by the Publications Board, the AAS annual report focuses on summarizing the activities of the Society instead of presenting a comprehensive reporting of them all.",
+        "id": "dataset-948",
+        "provider": "provider-384",
+        "title": "American Astrological Society Annual Reports",
+        "url": "https://nsf.gov/statistics/seind/"
+    },
+    {
+        "alt_title": [
             "Survey of Federal Funds for Research and Development"
         ],
         "description": "The Survey of Federal Funds for Research and Development is the primary source of information about federal funding for R&D in the United States. The survey is an annual census completed by the federal agencies that conduct R&D programs. Actual data are collected for the fiscal year just completed; estimates are obtained for the current fiscal year.",
