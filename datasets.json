@@ -10063,5 +10063,22 @@
         "provider": "provider-382",
         "title": "General Social Survey on Science and Technology Personnel in China",
         "url": "http://2015.casted.org.cn/en/web.php?NewsID=4338"
+    },
+    {
+        "description": "The National Science Foundation (NSF) Survey of Research and Development Expenditures at Universities and Colleges (academic R&D expenditures survey) is the primary source of information on separately budgeted research and development (R&D) expenditures by academic institutions in the United States and outlying areas.",
+        "id": "dataset-955",
+        "provider": "provider-162",
+        "title": "Survey of Research and Development Expenditures at Universities and Colleges",
+        "url": "https://www.nsf.gov/statistics/srvyrdexpenditures/"
+    },
+    {
+        "alt_title": [
+            "BGN"
+        ],
+        "description": "The U.S. Board on Geographic Names (BGN) is a Federal body created in 1890 and established in its present form by Public Law in 1947 to maintain uniform geographic name usage throughout the Federal Government.",
+        "id": "dataset-956",
+        "provider": "provider-236",
+        "title": "U.S. Board on Geographic Names",
+        "url": "https://www.usgs.gov/core-science-systems/ngp/board-on-geographic-names/resources"
     }
 ]
