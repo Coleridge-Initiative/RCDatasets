@@ -10063,5 +10063,34 @@
         "provider": "provider-382",
         "title": "General Social Survey on Science and Technology Personnel in China",
         "url": "http://2015.casted.org.cn/en/web.php?NewsID=4338"
+    },
+    {
+        "alt_title": [
+            "SCI data",
+            "SCI"
+        ],
+        "description": "The Science Citation Index is a multidisciplinary index and fully indexes over 8,500 major journals across 150 disciplines – 1988 to present.",
+        "id": "dataset-942",
+        "provider": "provider-379",
+        "title": "Science Citation Index",
+        "url": "https://library.maastrichtuniversity.nl/collections/databases/sci/"
+    },
+    {
+        "alt_title": [
+            "SEVIS data",
+            "SEVIS"
+        ],
+        "description": "The Student and Exchange Visitor Program (SEVP) is part of U.S. Immigration and Customs Enforcement’s (ICE) Homeland Security Investigations within the U.S. Department of Homeland Security (DHS). SEVP manages the Student and Exchange Visitor Information System (SEVIS), the web-based system DHS uses to maintain and manage information on the nonimmigrants whose primary purpose for coming to the United States is to study.",
+        "id": "dataset-967",
+        "provider": "provider-230",
+        "title": "Student and Exchange Visitor Information System data",
+        "url": "https://studyinthestates.dhs.gov/sevis-data-mapping-tool"
+    },
+    {
+        "description": "This report covers trends in and the relative global position of the U.S. S&E enterprise, including education, workforce, R&D, industry output, and innovation. Data show mixed trends. The United States continues to perform the most R&D, award the most S&E doctoral degrees, and account for significant numbers of S&E research articles and citations worldwide. However, growth of S&E capabilities in other nations, particularly China, has outpaced that of the United States along several dimensions. The United States has seen its relative share of global S&T activity flatten or decline, even as its absolute activity levels kept rising.",
+        "id": "dataset-953",
+        "provider": "provider-230",
+        "title": "Science and Engineering Indicators",
+        "url": "https://studyinthestates.dhs.gov/sevis-data-mapping-tool"
     }
 ]
