@@ -10063,5 +10063,25 @@
         "provider": "provider-382",
         "title": "General Social Survey on Science and Technology Personnel in China",
         "url": "http://2015.casted.org.cn/en/web.php?NewsID=4338"
+    },
+    {
+        "alt_title": [
+            "DB1B"
+        ],
+        "description": "The Airline Origin and Destination Survey (DB1B) is a 10% sample of airline tickets from reporting carriers collected by the Office of Airline Information of the Bureau of Transportation Statistics. Data includes origin, destination and other itinerary details of passengers transported. This database is used to determine air traffic patterns, air carrier market shares and passenger flows.",
+        "id": "dataset-958",
+        "provider": "provider-383",
+        "title": "Airline Origin and Destination Survey",
+        "url": "https://www.transtats.bts.gov/DatabaseInfo.asp?DB_ID=125"
+    },
+    {
+        "alt_title": [
+            "ACS directory of graduate research"
+        ],
+        "description": "It contains the titles of nearly 20,000 recent publications of more than 2000 instructional staff members of the 151 U. S. colleges and universities which offer the Ph.D. in chemistry or chemical engineering.",
+        "id": "dataset-964",
+        "provider": "provider-385",
+        "title": "American Chemical Society directory of graduate research",
+        "url": "https://pubs.acs.org/doi/pdf/10.1021/cen-v034n014.p1624"
     }
 ]

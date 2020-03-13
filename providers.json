@@ -1588,5 +1588,15 @@
         "id": "provider-382",
         "ror": "04qqd9793",
         "title": "Chinese Academy of Science and Technology for Development"
+    },
+    {
+        "id": "provider-383",
+        "ror": "02xfw2e90",
+        "title": "United States Department of Transportation"
+    },
+    {
+        "id": "provider-385",
+        "ror": "059dqb057",
+        "title": "American Chemical Society"
     }
 ]
