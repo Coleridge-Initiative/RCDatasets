@@ -4378,7 +4378,8 @@
     },
     {
         "alt_title": [
-            "SDR"
+            "SDR",
+            "Survey of Doctoral Recipients"
         ],
         "description": "The Survey of Doctorate Recipients (SDR) provides demographic, education, and career history information from individuals with a U.S. research doctoral degree in a science, engineering, or health (SEH) field.",
         "id": "dataset-371",
@@ -5650,7 +5651,8 @@
     {
         "alt_title": [
             "IPEDS",
-            "Integrated Postsecondary Education Data System Completions"
+            "Integrated Postsecondary Education Data System Completions",
+            "Integrated Postsecondary Education Data System"
         ],
         "description": "Integrated Postsecondary Education Data System (IPEDS) is an integrated system of surveys conducted by the National Center for Education Statistics. The Completions Survey is the survey within this system designed to collect information on the number and types of degrees awarded by U.S. postsecondary institutions and to collect information on the characteristics of degree recipients.",
         "id": "dataset-493",
@@ -10063,5 +10065,54 @@
         "provider": "provider-382",
         "title": "General Social Survey on Science and Technology Personnel in China",
         "url": "http://2015.casted.org.cn/en/web.php?NewsID=4338"
+    },
+    {
+        "alt_title": [
+            "NIH Reporter",
+            "RePORT",
+            "RePORTER"
+        ],
+        "description": "In addition to carrying out its scientific mission, the NIH exemplifies and promotes the highest level of public accountability. To that end, the Research Portfolio Online Reporting Tools provides access to reports, data, and analyses of NIH research activities, including information on NIH expenditures and the results of NIH supported research.",
+        "id": "dataset-957",
+        "provider": "provider-229",
+        "title": "Research Portfolio Online Reporting Tools",
+        "url": "https://report.nih.gov/index.aspx"
+    },
+    {
+        "alt_title": [
+            "National Science Foundation Surveys of Federal Support to Colleges and Universities"
+        ],
+        "description": "The Survey of Federal Science and Engineering Support to Universities, Colleges, and Nonprofit Institutions is a congressionally mandated survey that is the only source of comprehensive data on federal science and engineering (S&E) funding to individual academic and nonprofit institutions. The target population is federal agencies that obligated money in the survey year for direct support of academic and nonprofit institutions’ research and development.",
+        "id": "dataset-960",
+        "provider": "provider-162",
+        "title": "Survey of Federal Science and Engineering Support to Universities, Colleges, and Nonprofit Institutions",
+        "url": "https://www.nsf.gov/statistics/srvyfedsupport/"
+    },
+    {
+        "alt_title": [
+            "IMPAC"
+        ],
+        "description": "Much of IMPAC data is compiled from the approximately 50,000 competing and noncompeting applications for PHS extramural support processed through the system annually; data are updated continuously during the review and award process and with feedback from recipients of IMPAC output. Each week, administrative data from IMPAC are transferred to CRISP (a related system dealing with scientific aspects of extramural and intramural research supported by PHS)",
+        "id": "dataset-963",
+        "provider": "provider-162",
+        "title": "Information for Management Planning Analysis and Coordination",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK218522/"
+    },
+    {
+        "alt_title": [
+            "ICRP"
+        ],
+        "description": "ICRP organizations submit their latest available research projects or research funding to the ICRP database as soon as possible. The ICRP public database includes information about each project’s:Principal investigatorInternational collaborators (if available)Institution in which the research is conductedCityCountryProject titleProject abstract (technical, lay, or both)Project datesClassification by CSO (Research type) and Cancer type.",
+        "id": "dataset-965",
+        "provider": "provider-386",
+        "title": "International Cancer Research Partnership",
+        "url": "https://www.icrpartnership.org/db_search"
+    },
+    {
+        "description": "ClinicalTrials.gov is a database of privately and publicly funded clinical studies conducted around the world.",
+        "id": "dataset-966",
+        "provider": "provider-162",
+        "title": "ClinicalTrials.gov",
+        "url": "https://clinicaltrials.gov/"
     }
 ]
