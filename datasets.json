@@ -10100,5 +10100,24 @@
         "provider": "provider-236",
         "title": "US Board on Geographic Names",
         "url": "https://www.usgs.gov/core-science-systems/ngp/board-on-geographic-names/resources"
-    }
+    },
+          "alt_title": [
+            "Educational attainment"
+        ],
+        "description": "This dataset shows labour force status and educational attainment level, by educational attainment, age and gender",
+        "id": "dataset-961",
+        "provider": "provider-188",
+        "title": "Educational attainment and labour-force status",
+        "url": "https://www.oecd-ilibrary.org/education/data/education-at-a-glance/educational-attainment-and-labour-force-status_889e8641-en"
+    },
+    {
+        "alt_title": [
+            "SEIND"
+        ],
+        "description": "This biennial report to Congress provides a broad base of quantitative information about U.S. science, engineering, and technology.",
+        "id": "dataset-962",
+        "provider": "provider-162",
+        "title": "Science and Engineering Indicators",
+        "url": "https://nsf.gov/statistics/seind/"
+    },
 ]
