@@ -1593,5 +1593,24 @@
         "id": "provider-382",
         "ror": "04qqd9793",
         "title": "Chinese Academy of Science and Technology for Development"
+    },
+    {
+        "id": "provider-383",
+        "ror": "02xfw2e90",
+        "title": "US Department of Transportation"
+    },
+    {
+        "id": "provider-384",
+        "ror": "00b93bs30",
+        "title": "American Astronomical Society"
+    },
+    {
+        "id": "provider-385",
+        "ror": "059dqb057",
+        "title": "American Chemical Society"
+    },
+    {
+        "id": "provider-386",
+        "title": "International Cancer Research Partnership"
     }
 ]
