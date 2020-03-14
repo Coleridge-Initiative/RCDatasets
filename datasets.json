@@ -7172,7 +7172,7 @@
             "documentation_url": "https://journals.ametsoc.org/doi/abs/10.1175/1520-0477%281996%29077%3C0293%3AAHPOUC%3E2.0.CO%3B2"
         },
         "provider": "provider-150",
-        "title": "U.S. Climate Divisions",
+        "title": "US Climate Divisions",
         "url": "https://www.ncdc.noaa.gov/monitoring-references/maps/us-climate-divisions.php"
     },
     {
@@ -9287,7 +9287,7 @@
         "description": "This database provides individual gate-to-gate, cradle-to-gate and cradle-to-grave accounting of the energy and material flows into and out of the environment that are associated with producing a material, component, or assembly in the U.S.",
         "id": "dataset-871",
         "provider": "provider-294",
-        "title": "U.S. Life Cycle Inventory Database",
+        "title": "US Life Cycle Inventory Database",
         "url": "https://www.nrel.gov/lci/"
     },
     {
@@ -10029,6 +10029,26 @@
     },
     {
         "alt_title": [
+            "SEI"
+        ],
+        "description": "This biennial report to Congress provides a broad base of quantitative information about U.S. science, engineering, and technology.",
+        "id": "dataset-947",
+        "provider": "provider-162",
+        "title": "Science and Engineering Indicators",
+        "url": "https://nsf.gov/statistics/seind/"
+    },
+    {
+        "alt_title": [
+            "AAS annual report"
+        ],
+        "description": "As directed by the Publications Board, the AAS annual report focuses on summarizing the activities of the Society instead of presenting a comprehensive reporting of them all.",
+        "id": "dataset-948",
+        "provider": "provider-384",
+        "title": "American Astrological Society Annual Reports",
+        "url": "https://nsf.gov/statistics/seind/"
+    },
+    {
+        "alt_title": [
             "Survey of Federal Funds for Research and Development"
         ],
         "description": "The Survey of Federal Funds for Research and Development is the primary source of information about federal funding for R&D in the United States. The survey is an annual census completed by the federal agencies that conduct R&D programs. Actual data are collected for the fiscal year just completed; estimates are obtained for the current fiscal year.",
@@ -10065,7 +10085,23 @@
         "url": "http://2015.casted.org.cn/en/web.php?NewsID=4338"
     },
     {
+        "description": "The National Science Foundation (NSF) Survey of Research and Development Expenditures at Universities and Colleges (academic R&D expenditures survey) is the primary source of information on separately budgeted research and development (R&D) expenditures by academic institutions in the United States and outlying areas.",
+        "id": "dataset-955",
+        "provider": "provider-162",
+        "title": "Survey of Research and Development Expenditures at Universities and Colleges",
+        "url": "https://www.nsf.gov/statistics/srvyrdexpenditures/"
+    },
+    {
         "alt_title": [
+            "BGN"
+        ],
+        "description": "The U.S. Board on Geographic Names (BGN) is a Federal body created in 1890 and established in its present form by Public Law in 1947 to maintain uniform geographic name usage throughout the Federal Government.",
+        "id": "dataset-956",
+        "provider": "provider-236",
+        "title": "US Board on Geographic Names",
+        "url": "https://www.usgs.gov/core-science-systems/ngp/board-on-geographic-names/resources"
+    },
+          "alt_title": [
             "Educational attainment"
         ],
         "description": "This dataset shows labour force status and educational attainment level, by educational attainment, age and gender",
@@ -10083,5 +10119,5 @@
         "provider": "provider-162",
         "title": "Science and Engineering Indicators",
         "url": "https://nsf.gov/statistics/seind/"
-    }
+    },
 ]
