@@ -1580,6 +1580,11 @@
         "title": "Computing Research Association (CRA)"
     },
     {
+        "id": "provider-379",
+        "ror": "01xpmbc27",
+        "title": "Thomson Reuters"
+    },
+    {
         "id": "provider-381",
         "ror": "https://ror.org/03vvynj75",
         "title": "US Department of State"
@@ -1588,10 +1593,5 @@
         "id": "provider-382",
         "ror": "04qqd9793",
         "title": "Chinese Academy of Science and Technology for Development"
-    },
-    {
-        "id": "provider-379",
-        "ror": "01xpmbc27",
-        "title": "Thomson Reuters"
     }
 ]
