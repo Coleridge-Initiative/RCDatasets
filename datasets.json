@@ -7172,7 +7172,7 @@
             "documentation_url": "https://journals.ametsoc.org/doi/abs/10.1175/1520-0477%281996%29077%3C0293%3AAHPOUC%3E2.0.CO%3B2"
         },
         "provider": "provider-150",
-        "title": "U.S. Climate Divisions",
+        "title": "US Climate Divisions",
         "url": "https://www.ncdc.noaa.gov/monitoring-references/maps/us-climate-divisions.php"
     },
     {
@@ -9287,7 +9287,7 @@
         "description": "This database provides individual gate-to-gate, cradle-to-gate and cradle-to-grave accounting of the energy and material flows into and out of the environment that are associated with producing a material, component, or assembly in the U.S.",
         "id": "dataset-871",
         "provider": "provider-294",
-        "title": "U.S. Life Cycle Inventory Database",
+        "title": "US Life Cycle Inventory Database",
         "url": "https://www.nrel.gov/lci/"
     },
     {
@@ -10078,7 +10078,7 @@
         "description": "The U.S. Board on Geographic Names (BGN) is a Federal body created in 1890 and established in its present form by Public Law in 1947 to maintain uniform geographic name usage throughout the Federal Government.",
         "id": "dataset-956",
         "provider": "provider-236",
-        "title": "U.S. Board on Geographic Names",
+        "title": "US Board on Geographic Names",
         "url": "https://www.usgs.gov/core-science-systems/ngp/board-on-geographic-names/resources"
     }
 ]
