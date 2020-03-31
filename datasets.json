@@ -4372,7 +4372,7 @@
                 "post-graduation plan"
             ]
         },
-        "provider": "provider-162",
+        "provider": "provider-388",
         "title": "Survey of Earned Doctorates",
         "url": "https://sedsurvey.org/DataUsers/DataProducts"
     },
@@ -4413,7 +4413,7 @@
                 "demographics"
             ]
         },
-        "provider": "provider-162",
+        "provider": "provider-388",
         "title": "Survey of Doctorate Recipients",
         "url": "https://www.nsf.gov/statistics/srvydoctoratework/"
     },
@@ -4987,7 +4987,7 @@
             "temporal_coverage_end": "2017",
             "temporal_coverage_start": "2010"
         },
-        "provider": "provider-162",
+        "provider": "provider-388",
         "title": "Higher Education Research and Development Survey",
         "url": "https://www.nsf.gov/statistics/srvyherd/"
     },
@@ -5197,9 +5197,9 @@
         ],
         "description": "Repeated cross-sectional biennial survey that provides data on the nation's college graduates, with a focus on those in the science and engineering workforce.",
         "id": "dataset-448",
-        "provider": "provider-162",
+        "provider": "provider-388",
         "title": "National Survey of College Graduates",
-        "url": "https://www.nsf.gov/statistics/srvygrads/?#tabs-2&micro"
+        "url": "https://www.nsf.gov/statistics/srvygrads/"
     },
     {
         "alt_title": [
@@ -5656,7 +5656,7 @@
         ],
         "description": "Integrated Postsecondary Education Data System (IPEDS) is an integrated system of surveys conducted by the National Center for Education Statistics. The Completions Survey is the survey within this system designed to collect information on the number and types of degrees awarded by U.S. postsecondary institutions and to collect information on the characteristics of degree recipients.",
         "id": "dataset-493",
-        "provider": "provider-162",
+        "provider": "provider-388",
         "title": "Integrated Postsecondary Education Data System Survey",
         "url": "https://ncsesdata.nsf.gov/ids/ipeds_c"
     },
@@ -5666,7 +5666,7 @@
         ],
         "description": "Survey of Science and Engineering Research Facilities is a congressionally mandated, biennial survey that collects data on the amount, construction, repair, renovation, and funding of research facilities, as well as the computing and networking capacities at U.S. colleges and universities. ",
         "id": "dataset-494",
-        "provider": "provider-162",
+        "provider": "provider-388",
         "title": "Science and Engineering Research Facilities Survey",
         "url": "https://ncsesdata.nsf.gov/ids/fac"
     },
@@ -9950,7 +9950,7 @@
         ],
         "description": "The WebCASPAR database provides easy access to a large body of statistical data resources for science and engineering (S&E) at U.S. academic institutions. WebCASPAR emphasizes S&E, but its data resources also provide information on non-S&E fields and higher education in general.",
         "id": "dataset-937",
-        "provider": "provider-162",
+        "provider": "provider-388",
         "title": "WebCASPAR Database",
         "url": "https://catalog.data.gov/dataset/webcaspar"
     },
@@ -10003,7 +10003,7 @@
         ],
         "description": "The Graduate Students and Postdoctorates in Science and Engineering survey is an annual census of all U.S. academic institutions granting research-based master's degrees or doctorates in science, engineering, and selected health fields as of fall of the survey year. The survey collects the total number of master's and doctoral students, postdoctoral appointees, and doctorate-level nonfaculty researchers by demographic and other characteristic such as source of financial support.",
         "id": "dataset-943",
-        "provider": "provider-162",
+        "provider": "provider-388",
         "title": "Survey of Graduate Students and Postdoctorates in Science and Engineering",
         "url": "https://www.nsf.gov/statistics/srvygradpostdoc/"
     },
@@ -10047,7 +10047,7 @@
         ],
         "description": "This biennial report to Congress provides a broad base of quantitative information about U.S. science, engineering, and technology.",
         "id": "dataset-947",
-        "provider": "provider-162",
+        "provider": "provider-388",
         "title": "Science and Engineering Indicators",
         "url": "https://nsf.gov/statistics/seind/"
     },
@@ -10067,7 +10067,7 @@
         ],
         "description": "The Survey of Federal Funds for Research and Development is the primary source of information about federal funding for R&D in the United States. The survey is an annual census completed by the federal agencies that conduct R&D programs. Actual data are collected for the fiscal year just completed; estimates are obtained for the current fiscal year.",
         "id": "dataset-950",
-        "provider": "provider-162",
+        "provider": "provider-388",
         "title": "Survey of Federal Funds for R&D",
         "url": "https://www.nsf.gov/statistics/srvyfedfunds/"
     },
@@ -10077,7 +10077,7 @@
         ],
         "description": "SESTAT is the Scientists and Engineers Statistical Data System. This integrated data system is a unique source of longitudinal information on the education and employment of the college-educated U.S. science and engineering workforce. These data are collected through biennial surveys: The National Survey of College Graduates (NSCG), The National Survey of Recent College Graduates (NSRCG) (discontinued after 2010), and The Survey of Doctorate Recipients (SDR)",
         "id": "dataset-951",
-        "provider": "provider-162",
+        "provider": "provider-388",
         "title": "Scientists and Engineers Statistical Data System",
         "url": "https://www.nsf.gov/statistics/sestat/"
     },
@@ -10101,7 +10101,7 @@
     {
         "description": "The National Science Foundation (NSF) Survey of Research and Development Expenditures at Universities and Colleges (academic R&D expenditures survey) is the primary source of information on separately budgeted research and development (R&D) expenditures by academic institutions in the United States and outlying areas.",
         "id": "dataset-955",
-        "provider": "provider-162",
+        "provider": "provider-388",
         "title": "Survey of Research and Development Expenditures at Universities and Colleges",
         "url": "https://www.nsf.gov/statistics/srvyrdexpenditures/"
     },
@@ -10143,7 +10143,7 @@
         ],
         "description": "The Survey of Federal Science and Engineering Support to Universities, Colleges, and Nonprofit Institutions is a congressionally mandated survey that is the only source of comprehensive data on federal science and engineering (S&E) funding to individual academic and nonprofit institutions. The target population is federal agencies that obligated money in the survey year for direct support of academic and nonprofit institutions’ research and development.",
         "id": "dataset-960",
-        "provider": "provider-162",
+        "provider": "provider-388",
         "title": "Survey of Federal Science and Engineering Support to Universities, Colleges, and Nonprofit Institutions",
         "url": "https://www.nsf.gov/statistics/srvyfedsupport/"
     },
@@ -10163,7 +10163,7 @@
         ],
         "description": "Much of IMPAC data is compiled from the approximately 50,000 competing and noncompeting applications for PHS extramural support processed through the system annually; data are updated continuously during the review and award process and with feedback from recipients of IMPAC output. Each week, administrative data from IMPAC are transferred to CRISP (a related system dealing with scientific aspects of extramural and intramural research supported by PHS)",
         "id": "dataset-963",
-        "provider": "provider-162",
+        "provider": "provider-160",
         "title": "Information for Management Planning Analysis and Coordination",
         "url": "https://www.ncbi.nlm.nih.gov/books/NBK218522/"
     },
@@ -10171,7 +10171,7 @@
         "alt_title": [
             "ACS directory of graduate research"
         ],
-        "description": "It contains the titles of nearly 20,000 recent publications of more than 2000 instructional staff members of the 151 U. S. colleges and universities which offer the Ph.D. in chemistry or chemical engineering.",
+        "description": "It contains the titles of nearly 20,000 recent publications of more than 2000 instructional staff members of the 151 U.S. colleges and universities which offer the Ph.D. in chemistry or chemical engineering.",
         "id": "dataset-964",
         "provider": "provider-385",
         "title": "American Chemical Society directory of graduate research",
@@ -10181,7 +10181,7 @@
         "alt_title": [
             "ICRP"
         ],
-        "description": "ICRP organizations submit their latest available research projects or research funding to the ICRP database as soon as possible. The ICRP public database includes information about each project’s:Principal investigatorInternational collaborators (if available)Institution in which the research is conductedCityCountryProject titleProject abstract (technical, lay, or both)Project datesClassification by CSO (Research type) and Cancer type.",
+        "description": "The International Cancer Research Partnership (ICRP) is a unique alliance of cancer research organizations from Australia, Canada, France, Japan, the Netherlands, United Kingdom, and the United States. The Partners share funding information to enhance global collaboration and strategic coordination of research between individual researchers and organizations.",
         "id": "dataset-965",
         "provider": "provider-386",
         "title": "International Cancer Research Partnership",
@@ -10190,7 +10190,7 @@
     {
         "description": "ClinicalTrials.gov is a database of privately and publicly funded clinical studies conducted around the world.",
         "id": "dataset-966",
-        "provider": "provider-162",
+        "provider": "provider-160",
         "title": "ClinicalTrials.gov",
         "url": "https://clinicaltrials.gov/"
     },

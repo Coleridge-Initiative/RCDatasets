@@ -26,7 +26,8 @@ class TestVerifyDatasets (unittest.TestCase):
             "id",
             "title",
             "ror",
-            "url"
+            "url",
+            "parent"
             ])
 
     DATASETS_ALLOWED_FIELDS = set([
