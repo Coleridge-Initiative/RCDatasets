@@ -27,7 +27,8 @@ class TestVerifyDatasets (unittest.TestCase):
             "title",
             "ror",
             "url",
-            "parent"
+            "parent",
+            "comments"
             ])
 
     DATASETS_ALLOWED_FIELDS = set([
@@ -40,7 +41,8 @@ class TestVerifyDatasets (unittest.TestCase):
             "provider",
             "title",
             "url",
-            "original"
+            "original",
+            "comments"
             ])
 
     PAT_DATASET_ID_FORMAT = re.compile(r"^dataset\-(\d+)$")
