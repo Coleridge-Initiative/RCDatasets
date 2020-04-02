@@ -4291,10 +4291,11 @@
             "US HUD",
             "US HUD Program Microdata: Individuals"
         ],
+        "comments": "We decided this dataset will have a national scope and not have State by State instance",
         "description": "Detailed transactional data consisting of tenant-level data for individuals in the US Department of Housing and Urban Development's (HUD) largest rental assistance programs: the Housing Choice Voucher Program, Public Housing, Project-based Section 8, and the Section 202/811 Programs. The dataset includes information on individuals aggregated at the Census block level, including rent, years in program, and income; and individual race and gender. Data originate from two sources within HUD: The Public and Indian Housing (PIH) Information Center and Tenant Rental Assistance Certification System (TRACS).",
         "id": "dataset-366",
         "provider": "provider-231",
-        "title": "US Department of Housing and Urban Development Program Microdata - Individuals: Illinois",
+        "title": "US Department of Housing and Urban Development Program Microdata - Individuals",
         "url": "https://www.huduser.gov/portal/pdrdatas_landing.html#dataset-title"
     },
     {
@@ -4302,10 +4303,11 @@
             "US HUD",
             "US HUD Program Microdata: Households"
         ],
+        "comments": "We decided this dataset will have a national scope and not have State by State instance",
         "description": "Detailed transactional data consisting of tenant-level data for households in the US Department of Housing and Urban Development's (HUD) largest rental assistance programs: the Housing Choice Voucher Program, Public Housing, Project-based Section 8, and the Section 202/811 Programs. The dataset includes information on households aggregated at the Census block level, including household family type, rent, years in program, and income. Data originate from two sources within HUD: The Public and Indian Housing (PIH) Information Center and Tenant Rental Assistance Certification System (TRACS).",
         "id": "dataset-367",
         "provider": "provider-231",
-        "title": "US Department of Housing and Urban Development Program Microdata - Households: Illinois",
+        "title": "US Department of Housing and Urban Development Program Microdata - Households",
         "url": "https://www.huduser.gov/portal/pdrdatas_landing.html#dataset-title"
     },
     {
