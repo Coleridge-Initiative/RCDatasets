@@ -1397,13 +1397,16 @@
             "census",
             "decennial census",
             "U.S. 2000 Census",
-            "2000 Census"
+            "2000 Census",
+            "1990 Census of Population",
+            "Decennial Census of Population and Housing"
         ],
+        "comments": "We decided to have one instance of the Decennial Census instead of multiple instances (one by decade). Dataset-141 was merged into this one.",
         "description": "Determined the resident population of the United States.",
         "id": "dataset-118",
         "provider": "provider-225",
         "title": "US Census",
-        "url": "https://www.census.gov/census2000/states/us.html"
+        "url": "https://www.census.gov/programs-surveys/decennial-census.html"
     },
     {
         "alt_title": [
@@ -1640,12 +1643,6 @@
         "provider": "provider-028",
         "title": "Colorado Benefits Management System",
         "url": "http://www.oit.state.co.us/cbms"
-    },
-    {
-        "id": "dataset-141",
-        "provider": "provider-225",
-        "title": "1990 Census of Population General Population Characteristics Massachusetts",
-        "url": "https://www2.census.gov/library/publications/decennial/1990/cp-1/cp-1-23.pdf"
     },
     {
         "alt_title": [
@@ -4294,10 +4291,11 @@
             "US HUD",
             "US HUD Program Microdata: Individuals"
         ],
+        "comments": "We decided this dataset will have a national scope and not have State by State instance",
         "description": "Detailed transactional data consisting of tenant-level data for individuals in the US Department of Housing and Urban Development's (HUD) largest rental assistance programs: the Housing Choice Voucher Program, Public Housing, Project-based Section 8, and the Section 202/811 Programs. The dataset includes information on individuals aggregated at the Census block level, including rent, years in program, and income; and individual race and gender. Data originate from two sources within HUD: The Public and Indian Housing (PIH) Information Center and Tenant Rental Assistance Certification System (TRACS).",
         "id": "dataset-366",
         "provider": "provider-231",
-        "title": "US Department of Housing and Urban Development Program Microdata - Individuals: Illinois",
+        "title": "US Department of Housing and Urban Development Program Microdata - Individuals",
         "url": "https://www.huduser.gov/portal/pdrdatas_landing.html#dataset-title"
     },
     {
@@ -4305,10 +4303,11 @@
             "US HUD",
             "US HUD Program Microdata: Households"
         ],
+        "comments": "We decided this dataset will have a national scope and not have State by State instance",
         "description": "Detailed transactional data consisting of tenant-level data for households in the US Department of Housing and Urban Development's (HUD) largest rental assistance programs: the Housing Choice Voucher Program, Public Housing, Project-based Section 8, and the Section 202/811 Programs. The dataset includes information on households aggregated at the Census block level, including household family type, rent, years in program, and income. Data originate from two sources within HUD: The Public and Indian Housing (PIH) Information Center and Tenant Rental Assistance Certification System (TRACS).",
         "id": "dataset-367",
         "provider": "provider-231",
-        "title": "US Department of Housing and Urban Development Program Microdata - Households: Illinois",
+        "title": "US Department of Housing and Urban Development Program Microdata - Households",
         "url": "https://www.huduser.gov/portal/pdrdatas_landing.html#dataset-title"
     },
     {
