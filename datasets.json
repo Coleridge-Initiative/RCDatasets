@@ -1397,13 +1397,16 @@
             "census",
             "decennial census",
             "U.S. 2000 Census",
-            "2000 Census"
+            "2000 Census",
+            "1990 Census of Population",
+            "Decennial Census of Population and Housing"
         ],
+        "comments": "We decided to have one instance of the Decennial Census instead of multiple instances (one by decade). Dataset-141 was merged into this one.",
         "description": "Determined the resident population of the United States.",
         "id": "dataset-118",
         "provider": "provider-225",
         "title": "US Census",
-        "url": "https://www.census.gov/census2000/states/us.html"
+        "url": "https://www.census.gov/programs-surveys/decennial-census.html"
     },
     {
         "alt_title": [
@@ -1640,12 +1643,6 @@
         "provider": "provider-028",
         "title": "Colorado Benefits Management System",
         "url": "http://www.oit.state.co.us/cbms"
-    },
-    {
-        "id": "dataset-141",
-        "provider": "provider-225",
-        "title": "1990 Census of Population General Population Characteristics Massachusetts",
-        "url": "https://www2.census.gov/library/publications/decennial/1990/cp-1/cp-1-23.pdf"
     },
     {
         "alt_title": [

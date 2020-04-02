@@ -1620,8 +1620,8 @@
     },
     {
         "id": "provider-388",
+        "parent": "provider-162",
         "ror": "0445wmv88",
-        "title": "National Center for Science and Engineering Statistics",
-        "parent": "provider-162"
+        "title": "National Center for Science and Engineering Statistics"
     }
 ]
