@@ -2289,6 +2289,7 @@
             "MDOC Data"
         ],
         "description": "Does search on active offenders, including probationers and parolees, not previously excluded as referenced below. Does search on First Name and Last Name including aliases.",
+        "comments": "Publicly available MO corrections data.",
         "id": "dataset-197",
         "provider": "provider-142",
         "title": "Missouri Department of Corrections Data",
@@ -8421,6 +8422,7 @@
     },
     {
         "description": "Record level data of Missouri Department of Corrections inmates participation in training programs and classes while incarcerated. Information on inmate class participation includes program name and type, when it started and when it ended, type and reason for exit from the class or program and a unique ID to link to the individual.",
+        "comments": "Corrections release data is not publicly available data. URL is for general MO corrections data.",
         "id": "dataset-775",
         "original": {
             "related_to": [
