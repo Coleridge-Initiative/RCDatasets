@@ -1623,5 +1623,10 @@
         "parent": "provider-162",
         "ror": "0445wmv88",
         "title": "National Center for Science and Engineering Statistics"
+    },
+    {
+        "id": "provider-389",
+        "ror": "00eg2e012",
+        "title": "American Economic Association"
     }
 ]
