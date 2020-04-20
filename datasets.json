@@ -5651,7 +5651,8 @@
         "alt_title": [
             "IPEDS",
             "Integrated Postsecondary Education Data System Completions",
-            "Integrated Postsecondary Education Data System"
+            "Integrated Postsecondary Education Data System",
+            "Institutional Postsecondary Data System"
         ],
         "description": "Integrated Postsecondary Education Data System (IPEDS) is an integrated system of surveys conducted by the National Center for Education Statistics. The Completions Survey is the survey within this system designed to collect information on the number and types of degrees awarded by U.S. postsecondary institutions and to collect information on the characteristics of degree recipients.",
         "id": "dataset-493",
@@ -6654,7 +6655,8 @@
     },
     {
         "alt_title": [
-            "CCD"
+            "CCD",
+            "Common Core of Data"
         ],
         "description": "The Common Core of Data (CCD) is the Department of Education's primary database on public elementary and secondary education in the United States. CCD is a comprehensive, annual, national database of all public elementary and secondary schools and school districts.",
         "id": "dataset-592",
@@ -9689,7 +9691,8 @@
     {
         "alt_title": [
             "NRC Research Doctoral Programs",
-            "National research council assessment doctoral programs"
+            "National research council assessment doctoral programs",
+            "Assessment of Research-Doctorate Programs in the United States"
         ],
         "description": "A Data-Based Assessment of Research-Doctorate Programs in the United States provides an unparalleled dataset that can be used to assess the quality and effectiveness of doctoral programs based on measures important to faculty, students, administrators, funders, and other stakeholders.",
         "id": "dataset-908",
