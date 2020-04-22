@@ -2288,8 +2288,8 @@
             "MDOC",
             "MDOC Data"
         ],
-        "description": "Does search on active offenders, including probationers and parolees, not previously excluded as referenced below. Does search on First Name and Last Name including aliases.",
         "comments": "Publicly available MO corrections data.",
+        "description": "Does search on active offenders, including probationers and parolees, not previously excluded as referenced below. Does search on First Name and Last Name including aliases.",
         "id": "dataset-197",
         "provider": "provider-142",
         "title": "Missouri Department of Corrections Data",
@@ -8423,8 +8423,8 @@
         "url": "https://www.ers.usda.gov/data-products/rural-urban-continuum-codes.aspx"
     },
     {
-        "description": "Record level data of Missouri Department of Corrections inmates participation in training programs and classes while incarcerated. Information on inmate class participation includes program name and type, when it started and when it ended, type and reason for exit from the class or program and a unique ID to link to the individual.",
         "comments": "Corrections release data is not publicly available data. URL is for general MO corrections data.",
+        "description": "Record level data of Missouri Department of Corrections inmates participation in training programs and classes while incarcerated. Information on inmate class participation includes program name and type, when it started and when it ended, type and reason for exit from the class or program and a unique ID to link to the individual.",
         "id": "dataset-775",
         "original": {
             "related_to": [
@@ -10210,11 +10210,6 @@
         "url": "https://studyinthestates.dhs.gov/sevis-data-mapping-tool"
     },
     {
-        "description": "This site provides results of and information about our diversity surveys, which determined demographics of tenured / tenure track faculty at pertinent departments of \"top\" universities, ranked by NSF (National Science Foundation) according to research expenditures in that discipline.",
-        "id": "dataset-970",
-        "provider": "provider-391",
-        "title": "Nelson Diversity Surveys",
-        "url": "http://drdonnajnelson.oucreate.com/diversity/top50.html"
         "alt_title": [
             "CSWEP Annual Survey"
         ],
