@@ -10205,5 +10205,15 @@
         "provider": "provider-230",
         "title": "Student and Exchange Visitor Information System data",
         "url": "https://studyinthestates.dhs.gov/sevis-data-mapping-tool"
+    },
+    {
+        "alt_title": [
+            "CSWEP Annual Survey"
+        ],
+        "description": "Since 1972 CSWEP has undertaken the collection of data on the gender composition of faculty and students in both Ph.D. granting and non-Ph.D. granting U.S. economics departments. This 40+ years of data is unique in the social sciences and beyond and is presented in the CSWEP Annual Report.",
+        "id": "dataset-968",
+        "provider": "provider-389",
+        "title": "Committee on the Status of Women in the Economics Profession Annual Survey",
+        "url": "https://www.aeaweb.org/about-aea/committees/cswep/survey/annual-survey"
     }
 ]
