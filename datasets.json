@@ -10210,6 +10210,11 @@
         "url": "https://studyinthestates.dhs.gov/sevis-data-mapping-tool"
     },
     {
+        "description": "This site provides results of and information about our diversity surveys, which determined demographics of tenured / tenure track faculty at pertinent departments of \"top\" universities, ranked by NSF (National Science Foundation) according to research expenditures in that discipline.",
+        "id": "dataset-970",
+        "provider": "provider-391",
+        "title": "Nelson Diversity Surveys",
+        "url": "http://drdonnajnelson.oucreate.com/diversity/top50.html"
         "alt_title": [
             "CSWEP Annual Survey"
         ],
@@ -10218,5 +10223,17 @@
         "provider": "provider-389",
         "title": "Committee on the Status of Women in the Economics Profession Annual Survey",
         "url": "https://www.aeaweb.org/about-aea/committees/cswep/survey/annual-survey"
+    },
+    {
+        "alt_title": [
+            "CSWE",
+            "CSWE Data",
+            "CSWE Annual Statistics on Social Work Education in the United States"
+        ],
+        "description": "The report includes the most comprehensive and current information on the state of social work education and is used to inform policy decisions, identify issues and trends, and assist in social work education research.",
+        "id": "dataset-969",
+        "provider": "provider-390",
+        "title": "Annual Statistics on Social Work Education in the United States",
+        "url": "https://www.cswe.org/Research-Statistics"
     }
 ]

@@ -1627,6 +1627,15 @@
     {
         "id": "provider-389",
         "ror": "00eg2e012",
-        "title": "American Economic Association"
+        "title": "American Economic Association"  
+    },
+    {
+        "id": "provider-390",
+        "ror": "00kvx4h58",
+        "title": "Council on Social Work Education"
+    },
+    {
+        "id": "provider-391",
+        "title": "Diversity in Science Association"
     }
 ]
