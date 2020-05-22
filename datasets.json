@@ -720,7 +720,7 @@
         ],
         "description": "The dataset includes adult prison statistics, community supervision statistics, data on youthful offenders, staff assault and injury reports, and recidivism and reincarceration rates.",
         "id": "dataset-066",
-        "provider": "provider-266",
+        "provider": "provider-264",
         "title": "Wisconsin Department of Corrections",
         "url": "https://doc.wi.gov/Pages/DataResearch/DataAndReports.aspx"
     },
@@ -3650,7 +3650,7 @@
         "description": "The sections below contain data and reports that address the questions most frequently asked of DOC. This includes adult prison statistics, community supervision statistics, data on youthful offenders, staff assault and injury reports, and recidivism and reincarceration rates.",
         "id": "dataset-309",
         "provider": "provider-264",
-        "title": "Winconsin Department of Corrections Administrative Data",
+        "title": "Wisconsin Department of Corrections Administrative Data",
         "url": "https://doc.wi.gov/Pages/DataResearch/DataAndReports.aspx"
     },
     {
